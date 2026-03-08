@@ -22,29 +22,16 @@ def format_news_message(categories):
     now = datetime.now()
     date_str = now.strftime("%Y年%m月%d日")
     
-    # 构建消息卡片
-    message = {
-        "msg_type": "interactive",
-        "card": {
-            "header": {
-                "title": {
-                    "tag": "plain_text",
-                    "content": "🤖 AI科技日报"
-                },
-                "template": "blue"
-            },
-            "elements": [
-                {
-                    "tag": "div",
-                    "text": {
-                        "tag": "lark_md",
-                        "content": f"**📅 {date_str}**\n今日AI科技新闻已更新"
-                    }
-                },
-                {"tag": "divider"}
-            ]
+    # 构建消息卡片（简化版，不使用divider）
+    elements = [
+        {
+            "tag": "div",
+            "text": {
+                "tag": "lark_md",
+                "content": f"**🤖 AI科技日报**\n📅 {date_str}\n今日AI科技新闻已更新"
+            }
         }
-    }
+    ]
     
     # 添加各分类新闻摘要
     category_emoji = {
@@ -73,7 +60,7 @@ def format_news_message(categories):
                     title = title[:50] + "..."
                 news_text += f"• {title}\n"
             
-            message["card"]["elements"].append({
+            elements.append({
                 "tag": "div",
                 "text": {
                     "tag": "lark_md",
@@ -82,8 +69,7 @@ def format_news_message(categories):
             })
     
     # 添加查看链接
-    message["card"]["elements"].extend([
-        {"tag": "divider"},
+    elements.extend([
         {
             "tag": "action",
             "actions": [
@@ -108,6 +94,20 @@ def format_news_message(categories):
             ]
         }
     ])
+    
+    message = {
+        "msg_type": "interactive",
+        "card": {
+            "header": {
+                "title": {
+                    "tag": "plain_text",
+                    "content": "AI科技日报"
+                },
+                "template": "blue"
+            },
+            "elements": elements
+        }
+    }
     
     return message
 
