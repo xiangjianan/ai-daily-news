@@ -1,67 +1,133 @@
 {
   "headline": [
     {
-      "title": "OpenAI发布GPT-5：多模态能力大幅提升，推理速度提高3倍",
-      "link": "https://openai.com/blog/gpt-5",
-      "source": "OpenAI",
-      "pub_date": "2026-03-08 20:30",
-      "summary": "OpenAI今日发布GPT-5，在多模态理解和推理能力上取得重大突破"
+      "title": "OpenAI Codex-Spark 在 Cerebras 硬件上实现超快编码速度",
+      "link": "https://www.infoq.cn/article/q2gYpu0ys425KtKuGCm5?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-08 11:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/q2gYpu0ys425KtKuGCm5?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "字节跳动豆包大模型3.0上线：性能对标GPT-4，免费开放",
-      "link": "https://www.bytedance.com",
-      "source": "36氪",
-      "pub_date": "2026-03-08 19:45",
-      "summary": "字节跳动发布最新大模型，中文能力领先"
+      "title": "OpenAI hardware exec Caitlin Kalinowski quits in response to Pentagon deal",
+      "link": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-03-07 20:44",
+      "summary": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics t"
     },
     {
-      "title": "Anthropic推出Claude 4：上下文窗口扩展至200K tokens",
-      "link": "https://anthropic.com",
-      "source": "机器之心",
-      "pub_date": "2026-03-08 18:20",
-      "summary": "Claude 4在长文本处理能力上实现突破"
+      "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
+      "link": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-03-07 17:28",
+      "summary": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December."
     },
     {
-      "title": "Google Gemini 2.0正式开放API，多模态生成能力升级",
-      "link": "https://google.com",
-      "source": "InfoQ",
-      "pub_date": "2026-03-08 16:30",
-      "summary": "Google最新多模态模型全面开放"
+      "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+      "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-03-06 19:50",
+      "summary": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products."
     },
     {
-      "title": "智谱AI获5亿美元融资，加速国产大模型研发",
-      "link": "https://zhipuai.cn",
-      "source": "36氪",
-      "pub_date": "2026-03-08 15:00",
-      "summary": "智谱AI完成新一轮融资"
+      "title": "Introducing GPT-5.4",
+      "link": "https://openai.com/index/introducing-gpt-5-4",
+      "source": "openai_blog",
+      "pub_date": "2026-03-05 10:00",
+      "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context."
     }
   ],
   "product": [
     {
-      "title": "阿里通义千问2.5发布：中文理解能力全球领先",
-      "link": "https://aliyun.com",
-      "source": "机器之心",
-      "pub_date": "2026-03-08 13:00",
-      "summary": "阿里发布最新大模型，多项评测超越GPT-4"
+      "title": "Vercel发布React最佳实践技能包，内含40余条面向AI代理的性能规则",
+      "link": "https://www.infoq.cn/article/eJaITDi1aTzpAR6wmZzz?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-07 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/eJaITDi1aTzpAR6wmZzz?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "网易有道 LobsterAI 推出技能商店并支持 MCP 协议，打造更开放的智能体生态",
+      "link": "https://www.infoq.cn/article/TJ4K86cg0ilwKlZHuvxD?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-06 17:14",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/TJ4K86cg0ilwKlZHuvxD?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "海尔智家发布制造行业首份AI+细分岗位能力模型，引领领域人才标准演进",
+      "link": "https://www.infoq.cn/article/qOpuZutTvaO9O1NcwFRc?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-06 16:18",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qOpuZutTvaO9O1NcwFRc?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [
     {
-      "title": "月之暗面完成10亿美元B轮融资，估值突破150亿美元",
-      "link": "https://moonshot.cn",
-      "source": "量子位",
-      "pub_date": "2026-03-08 17:00",
-      "summary": "国内AI大模型公司融资创新高"
-    },
-    {
-      "title": "AI编程助手Cursor完成2亿美元融资，估值达10亿美元",
-      "link": "https://cursor.sh",
-      "source": "InfoQ",
-      "pub_date": "2026-03-08 11:30",
-      "summary": "AI编程工具公司跻身独角兽"
+      "title": "20岁大学生花10天VibeCoding一个开源项目，获盛大3000万投资",
+      "link": "https://www.qbitai.com/2026/03/384728.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-08 07:15",
+      "summary": ""
     }
   ],
-  "research": [],
-  "industry": [],
-  "other": []
+  "research": [
+    {
+      "title": "黑马图像模型被Nano Banana技术负责人点赞！15人华人小队，DDIM之父&CVPR最佳论文作者带队",
+      "link": "https://www.qbitai.com/2026/03/384578.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-06 14:39",
+      "summary": "多项能力看齐行业标杆"
+    }
+  ],
+  "industry": [
+    {
+      "title": "2026政府工作报告释放新信号，“人工智能+”规模化落地面临哪些工程挑战？",
+      "link": "https://www.infoq.cn/article/TtksmXyaNvO1LhACOzmp?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-06 18:40",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/TtksmXyaNvO1LhACOzmp?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "OpenClaw 热潮下，团队级 AI Coding 怎么落地？",
+      "link": "https://www.infoq.cn/video/21qReTQmsHdckEC9ZuPZ?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-05 18:09",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/video/21qReTQmsHdckEC9ZuPZ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
+  "other": [
+    {
+      "title": "高中生AI创业，现在只招龙虾员工：每月成本2800",
+      "link": "https://www.qbitai.com/2026/03/384797.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-08 10:07",
+      "summary": "全龙虾公司，还设了好几个部门"
+    },
+    {
+      "title": "OpenClaw最强外挂出现：小龙虾抓不到数据有救了！",
+      "link": "https://www.qbitai.com/2026/03/384786.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-08 09:53",
+      "summary": "Skill版本作者已经亲自安排上了"
+    },
+    {
+      "title": "清华公布毕业生去向：出国比例仅8.5%，华为字节是最大赢家",
+      "link": "https://www.qbitai.com/2026/03/384705.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-08 06:50",
+      "summary": ""
+    },
+    {
+      "title": "劝视频博主别拿龙虾起号，7×24小时全自动，碳基生物真卷不过",
+      "link": "https://www.qbitai.com/2026/03/384646.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-08 06:45",
+      "summary": ""
+    },
+    {
+      "title": "央视点赞千问APP，“AI办事”让人工智能走进日常生活",
+      "link": "https://www.qbitai.com/2026/03/384637.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-07 08:40",
+      "summary": ""
+    }
+  ]
 }
