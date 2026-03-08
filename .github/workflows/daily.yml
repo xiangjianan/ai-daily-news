@@ -1,0 +1,71 @@
+name: AI Daily News - 每日更新
+
+on:
+  schedule:
+    # 每晚9点执行 (北京时间 21:00 = UTC 13:00)
+    - cron: '0 13 * * *'
+  workflow_dispatch:  # 支持手动触发
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/daily.yml'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # 获取完整历史，用于归档
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        cd scripts
+        pip install -r requirements.txt
+    
+    - name: Fetch news
+      run: |
+        cd scripts
+        python fetch_news.py
+      env:
+        TZ: Asia/Shanghai
+    
+    - name: Generate HTML
+      run: |
+        cd scripts
+        python generate.py
+      env:
+        TZ: Asia/Shanghai
+    
+    - name: Send to Feishu
+      run: |
+        cd scripts
+        python send_feishu.py
+      env:
+        FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+        TZ: Asia/Shanghai
+    
+    - name: Commit and push
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add -A
+        git diff --quiet && git diff --staged --quiet || git commit -m "docs: 更新日报 $(date '+%Y-%m-%d')"
+        git push
+    
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: daily-news
+        path: |
+          index.html
+          archive/
+          data/

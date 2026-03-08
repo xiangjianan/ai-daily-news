@@ -1,0 +1,67 @@
+{
+  "headline": [
+    {
+      "title": "OpenAI发布GPT-5：多模态能力大幅提升，推理速度提高3倍",
+      "link": "https://openai.com/blog/gpt-5",
+      "source": "OpenAI",
+      "pub_date": "2026-03-08 20:30",
+      "summary": "OpenAI今日发布GPT-5，在多模态理解和推理能力上取得重大突破"
+    },
+    {
+      "title": "字节跳动豆包大模型3.0上线：性能对标GPT-4，免费开放",
+      "link": "https://www.bytedance.com",
+      "source": "36氪",
+      "pub_date": "2026-03-08 19:45",
+      "summary": "字节跳动发布最新大模型，中文能力领先"
+    },
+    {
+      "title": "Anthropic推出Claude 4：上下文窗口扩展至200K tokens",
+      "link": "https://anthropic.com",
+      "source": "机器之心",
+      "pub_date": "2026-03-08 18:20",
+      "summary": "Claude 4在长文本处理能力上实现突破"
+    },
+    {
+      "title": "Google Gemini 2.0正式开放API，多模态生成能力升级",
+      "link": "https://google.com",
+      "source": "InfoQ",
+      "pub_date": "2026-03-08 16:30",
+      "summary": "Google最新多模态模型全面开放"
+    },
+    {
+      "title": "智谱AI获5亿美元融资，加速国产大模型研发",
+      "link": "https://zhipuai.cn",
+      "source": "36氪",
+      "pub_date": "2026-03-08 15:00",
+      "summary": "智谱AI完成新一轮融资"
+    }
+  ],
+  "product": [
+    {
+      "title": "阿里通义千问2.5发布：中文理解能力全球领先",
+      "link": "https://aliyun.com",
+      "source": "机器之心",
+      "pub_date": "2026-03-08 13:00",
+      "summary": "阿里发布最新大模型，多项评测超越GPT-4"
+    }
+  ],
+  "funding": [
+    {
+      "title": "月之暗面完成10亿美元B轮融资，估值突破150亿美元",
+      "link": "https://moonshot.cn",
+      "source": "量子位",
+      "pub_date": "2026-03-08 17:00",
+      "summary": "国内AI大模型公司融资创新高"
+    },
+    {
+      "title": "AI编程助手Cursor完成2亿美元融资，估值达10亿美元",
+      "link": "https://cursor.sh",
+      "source": "InfoQ",
+      "pub_date": "2026-03-08 11:30",
+      "summary": "AI编程工具公司跻身独角兽"
+    }
+  ],
+  "research": [],
+  "industry": [],
+  "other": []
+}
