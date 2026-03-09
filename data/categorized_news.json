@@ -1,133 +1,67 @@
 {
   "headline": [
     {
-      "title": "OpenAI Codex-Spark 在 Cerebras 硬件上实现超快编码速度",
-      "link": "https://www.infoq.cn/article/q2gYpu0ys425KtKuGCm5?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-08 11:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/q2gYpu0ys425KtKuGCm5?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "OpenAI hardware exec Caitlin Kalinowski quits in response to Pentagon deal",
-      "link": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-03-07 20:44",
-      "summary": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics t"
-    },
-    {
-      "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
-      "link": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-03-07 17:28",
-      "summary": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December."
-    },
-    {
-      "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
-      "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-03-06 19:50",
-      "summary": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products."
-    },
-    {
-      "title": "Introducing GPT-5.4",
-      "link": "https://openai.com/index/introducing-gpt-5-4",
-      "source": "openai_blog",
-      "pub_date": "2026-03-05 10:00",
-      "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context."
+      "title": "Qwen3.5系列模型在OpenClaw场景下的性能分析",
+      "link": "https://news.daheiai.com/realtime.php?file=quick_2026-03-09_1201",
+      "source": "大黑AI速报",
+      "pub_date": "Mon, 09 Mar 2026 12:01:22 +0800",
+      "summary": "根据归一化分数汇总，Qwen3.5-27B模型在视觉Agent和长上下文能力上表现出色，达到旗舰模型94%的性能。对于OpenClaw通用任务，推荐性价比更高的35B-A3BMoE模型。",
+      "category": "模型动态"
     }
   ],
   "product": [
     {
-      "title": "Vercel发布React最佳实践技能包，内含40余条面向AI代理的性能规则",
-      "link": "https://www.infoq.cn/article/eJaITDi1aTzpAR6wmZzz?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-07 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/eJaITDi1aTzpAR6wmZzz?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "开发者分享Mac本地部署OpenClaw模型的最佳实践",
+      "link": "https://news.daheiai.com/realtime.php?file=quick_2026-03-09_1201",
+      "source": "大黑AI速报",
+      "pub_date": "Mon, 09 Mar 2026 12:01:22 +0800",
+      "summary": "作者为AI写了一篇教程，让Claude Code自动完成OpenClaw本地模型的部署。详细对比了GLM-4.7-flash、kimi-linear、Qwen3.5系列等模型的优缺点，并给出量化建议。教程地址：https://t.co/AX11PVyKlA",
+      "category": "技巧教程"
     },
     {
-      "title": "网易有道 LobsterAI 推出技能商店并支持 MCP 协议，打造更开放的智能体生态",
-      "link": "https://www.infoq.cn/article/TJ4K86cg0ilwKlZHuvxD?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-06 17:14",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/TJ4K86cg0ilwKlZHuvxD?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "OpenClaw AI Agent能力排行榜发布",
+      "link": "https://news.daheiai.com/realtime.php?file=quick_2026-03-09_1201",
+      "source": "大黑AI速报",
+      "pub_date": "Mon, 09 Mar 2026 12:01:22 +0800",
+      "summary": "一份针对OpenClaw框架下模型执行编码任务成功率的排行榜显示，Gemini 3 Flash Preview、MiniMax M2.1和Kimi K2.5位列前三。Claude家族模型成功率均在90%以上。",
+      "category": "产品工具"
     },
     {
-      "title": "海尔智家发布制造行业首份AI+细分岗位能力模型，引领领域人才标准演进",
-      "link": "https://www.infoq.cn/article/qOpuZutTvaO9O1NcwFRc?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-06 16:18",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qOpuZutTvaO9O1NcwFRc?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
-  "funding": [
+      "title": "阿里集团开源AI代码评审基准测试",
+      "link": "https://news.daheiai.com/realtime.php?file=quick_2026-03-09_1201",
+      "source": "大黑AI速报",
+      "pub_date": "Mon, 09 Mar 2026 12:01:22 +0800",
+      "summary": "阿里开源了业界首个多语言、具备存储库上下文感知的CodeReview Benchmark，基于真实场景打磨，旨在为AI代码评审提供更精准的质量评估标准。文章链接：https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247558718&idx=1&sn=cdc0820c4421c05351328a5a5e145619",
+      "category": "产品工具"
+    },
     {
-      "title": "20岁大学生花10天VibeCoding一个开源项目，获盛大3000万投资",
-      "link": "https://www.qbitai.com/2026/03/384728.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-08 07:15",
-      "summary": ""
-    }
-  ],
-  "research": [
+      "title": "用户分享Claude Code定时任务/loop命令的想象力",
+      "link": "https://news.daheiai.com/realtime.php?file=quick_2026-03-09_1201",
+      "source": "大黑AI速报",
+      "pub_date": "Mon, 09 Mar 2026 12:01:22 +0800",
+      "summary": "用户盛赞Claude Code新增的/loop命令，认为其想象力巨大。可以设置定时任务，例如每五分钟执行一次，结合飞书或Telegram Skills实现信息推送，实现复杂自动化工作流。",
+      "category": "技巧教程"
+    },
     {
-      "title": "黑马图像模型被Nano Banana技术负责人点赞！15人华人小队，DDIM之父&CVPR最佳论文作者带队",
-      "link": "https://www.qbitai.com/2026/03/384578.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-06 14:39",
-      "summary": "多项能力看齐行业标杆"
+      "title": "用户推荐笔记Skill，支持多平台内容转写",
+      "link": "https://news.daheiai.com/realtime.php?file=quick_2026-03-09_1201",
+      "source": "大黑AI速报",
+      "pub_date": "Mon, 09 Mar 2026 12:01:22 +0800",
+      "summary": "用户推荐一款get笔记Skill，支持小宇宙、B站、抖音等内容转写全文，认为其很大程度上可以替代Podwise和Notebooklm的相关功能，并称赞团队执行力强。",
+      "category": "产品工具"
     }
   ],
+  "funding": [],
+  "research": [],
   "industry": [
     {
-      "title": "2026政府工作报告释放新信号，“人工智能+”规模化落地面临哪些工程挑战？",
-      "link": "https://www.infoq.cn/article/TtksmXyaNvO1LhACOzmp?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-06 18:40",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/TtksmXyaNvO1LhACOzmp?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "OpenClaw 热潮下，团队级 AI Coding 怎么落地？",
-      "link": "https://www.infoq.cn/video/21qReTQmsHdckEC9ZuPZ?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-05 18:09",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/video/21qReTQmsHdckEC9ZuPZ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "Human Archive发布大规模手动劳动多模态数据集",
+      "link": "https://news.daheiai.com/realtime.php?file=quick_2026-03-09_1201",
+      "source": "大黑AI速报",
+      "pub_date": "Mon, 09 Mar 2026 12:01:22 +0800",
+      "summary": "Human Archive发布了HA-Multi数据集，这是目前最大的手动劳动任务数据集，包含第一视角RGB、深度、触觉等多模态数据，旨在为机器人和世界模型建模感觉运动智能。",
+      "category": "行业资讯"
     }
   ],
-  "other": [
-    {
-      "title": "高中生AI创业，现在只招龙虾员工：每月成本2800",
-      "link": "https://www.qbitai.com/2026/03/384797.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-08 10:07",
-      "summary": "全龙虾公司，还设了好几个部门"
-    },
-    {
-      "title": "OpenClaw最强外挂出现：小龙虾抓不到数据有救了！",
-      "link": "https://www.qbitai.com/2026/03/384786.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-08 09:53",
-      "summary": "Skill版本作者已经亲自安排上了"
-    },
-    {
-      "title": "清华公布毕业生去向：出国比例仅8.5%，华为字节是最大赢家",
-      "link": "https://www.qbitai.com/2026/03/384705.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-08 06:50",
-      "summary": ""
-    },
-    {
-      "title": "劝视频博主别拿龙虾起号，7×24小时全自动，碳基生物真卷不过",
-      "link": "https://www.qbitai.com/2026/03/384646.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-08 06:45",
-      "summary": ""
-    },
-    {
-      "title": "央视点赞千问APP，“AI办事”让人工智能走进日常生活",
-      "link": "https://www.qbitai.com/2026/03/384637.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-07 08:40",
-      "summary": ""
-    }
-  ]
+  "other": []
 }
