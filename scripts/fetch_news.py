@@ -15,44 +15,83 @@ import os
 
 # 新闻源配置
 NEWS_SOURCES = {
-    # 国内源 - RSS
-    "qbitai": {
-        "type": "rss",
-        "url": "https://www.qbitai.com/feed",
-        "keywords": []
-    },
-    "jiqizhixin": {
-        "type": "rss", 
-        "url": "https://jiqizhixin.com/rss",
-        "keywords": []
-    },
-    "infoq": {
-        "type": "rss",
-        "url": "https://www.infoq.cn/feed",
-        "keywords": ["AI", "人工智能", "大模型", "GPT"]
-    },
-    # 国外源 - RSS
-    "techcrunch_ai": {
-        "type": "rss",
-        "url": "https://techcrunch.com/feed/",
-        "keywords": ["AI", "artificial intelligence", "GPT", "OpenAI", "machine learning"]
-    },
-    "openai_blog": {
-        "type": "rss",
-        "url": "https://openai.com/blog/rss.xml",
-        "keywords": []
-    },
-    "deepmind_blog": {
-        "type": "rss",
-        "url": "https://deepmind.google/atom.xml",
-        "keywords": []
-    },
-    "hackernews": {
-        "type": "rss",
-        "url": "https://hnrss.org/newest?q=AI+OR+artificial+intelligence+OR+GPT+OR+LLM",
-        "keywords": []
+    "daheiai": {
+        "type": "daheiai",
+        "url": "https://news.daheiai.com/rss.php",
     }
 }
+
+def fetch_daheiai(source_name, config):
+    """从大黑AI速报抓取新闻"""
+    news_items = []
+    try:
+        # 使用 requests 获取 RSS 内容
+        response = requests.get(config["url"], timeout=10)
+        response.raise_for_status()
+        
+        # 用 feedparser 解析
+        feed = feedparser.parse(response.content)
+        
+        # 只获取最新一期
+        if feed.entries:
+            entry = feed.entries[0]
+            
+            # 获取完整内容
+            content = ""
+            if 'content' in entry and entry.content:
+                content = entry.content[0].value
+            elif 'summary' in entry:
+                content = entry.summary
+            
+            # 解析HTML内容，提取新闻列表
+            soup = BeautifulSoup(content, 'html.parser')
+            
+            # 查找所有列表项
+            items = soup.find_all('li')
+            
+            for item in items[:15]:  # 取前15条
+                # 提取标题（在<strong>标签中）
+                strong = item.find('strong')
+                if strong:
+                    title = strong.get_text(strip=True)
+                    
+                    # 提取分类（在方括号中）
+                    category = ""
+                    if title.startswith('['):
+                        end_bracket = title.find(']')
+                        if end_bracket > 0:
+                            category = title[1:end_bracket]
+                            title = title[end_bracket+1:].strip()
+                    
+                    # 提取链接
+                    link_tag = item.find('a')
+                    link = link_tag.get('href', '') if link_tag else entry.get('link', '')
+                    
+                    # 提取摘要（<br/>后的文本）
+                    summary = ""
+                    br = item.find('br')
+                    if br and br.next_sibling:
+                        summary_text = br.next_sibling
+                        if hasattr(summary_text, 'get_text'):
+                            summary = summary_text.get_text(strip=True)
+                        else:
+                            summary = str(summary_text).strip()
+                    
+                    news_items.append({
+                        "title": title,
+                        "link": link,
+                        "source": "大黑AI速报",
+                        "pub_date": entry.get("published", ""),
+                        "summary": summary[:200],
+                        "category": category
+                    })
+        
+        print(f"✓ {source_name}: 抓取 {len(news_items)} 条新闻")
+        
+    except Exception as e:
+        print(f"✗ {source_name}: 抓取失败 - {e}")
+    
+    return news_items
 
 def fetch_rss(source_name, config):
     """从RSS源抓取新闻"""
@@ -97,7 +136,10 @@ def fetch_all_news():
     all_news = []
     
     for source_name, config in NEWS_SOURCES.items():
-        if config["type"] == "rss":
+        if config["type"] == "daheiai":
+            news = fetch_daheiai(source_name, config)
+            all_news.extend(news)
+        elif config["type"] == "rss":
             news = fetch_rss(source_name, config)
             all_news.extend(news)
         
@@ -117,27 +159,42 @@ def categorize_news(news_items):
         "other": []          # 其他
     }
     
-    # 分类关键词
-    category_keywords = {
-        "headline": ["GPT", "Claude", "Gemini", "大模型", "OpenAI", "Anthropic", "Google AI"],
-        "product": ["发布", "推出", "上线", "更新", "新版", "功能"],
-        "funding": ["融资", "投资", "估值", "上市", "融资轮"],
-        "research": ["论文", "研究", "突破", "SOTA", "性能"],
-        "industry": ["应用", "落地", "商业化", "合作", "签约"]
+    # 分类映射（大黑AI速报的分类 -> 我们的分类）
+    category_map = {
+        "模型动态": "headline",
+        "产品工具": "product",
+        "技巧教程": "product",
+        "硬件动态": "product",
+        "行业资讯": "industry",
     }
     
     for item in news_items:
-        title = item["title"]
-        categorized = False
-        
-        for category, keywords in category_keywords.items():
-            if any(kw in title for kw in keywords):
-                categories[category].append(item)
-                categorized = True
-                break
-        
-        if not categorized:
-            categories["other"].append(item)
+        # 如果新闻自带分类，使用映射
+        if "category" in item and item["category"]:
+            source_cat = item["category"]
+            target_cat = category_map.get(source_cat, "other")
+            categories[target_cat].append(item)
+        else:
+            # 否则使用关键词分类
+            title = item["title"]
+            categorized = False
+            
+            category_keywords = {
+                "headline": ["GPT", "Claude", "Gemini", "大模型", "OpenAI", "Anthropic", "Google AI"],
+                "product": ["发布", "推出", "上线", "更新", "新版", "功能"],
+                "funding": ["融资", "投资", "估值", "上市", "融资轮"],
+                "research": ["论文", "研究", "突破", "SOTA", "性能"],
+                "industry": ["应用", "落地", "商业化", "合作", "签约"]
+            }
+            
+            for category, keywords in category_keywords.items():
+                if any(kw in title for kw in keywords):
+                    categories[category].append(item)
+                    categorized = True
+                    break
+            
+            if not categorized:
+                categories["other"].append(item)
     
     # 每个分类只保留前5条
     for cat in categories:
