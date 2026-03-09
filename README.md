@@ -36,9 +36,14 @@ ai-daily-news/
 
 ## 新闻来源
 
-- **大黑AI速报** (news.daheiai.com) - 每4小时更新的AI行业快讯，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯
-
-数据源RSS: https://news.daheiai.com/rss.php
+- 36氪 (36kr.com)
+- 机器之心 (jiqizhixin.com)
+- 量子位 (qbitai.com)
+- InfoQ (infoq.cn)
+- TechCrunch
+- AI News
+- VentureBeat
+- The Verge
 
 ## 使用
 
