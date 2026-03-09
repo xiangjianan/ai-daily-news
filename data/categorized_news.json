@@ -1,39 +1,39 @@
 {
   "headline": [
     {
-      "title": "从上下文到长期记忆：大模型记忆工程的架构设计与实践",
-      "link": "https://www.infoq.cn/article/AIVoC9eKfZhW199IQkwB?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-09 12:05",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/AIVoC9eKfZhW199IQkwB?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "打败GPT-5.2，嵌入真实工业生产，这个大模型什么来头？",
+      "link": "https://www.qbitai.com/2026/03/385010.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-09 08:14",
+      "summary": ""
     },
     {
-      "title": "Claude Code之父自曝刘慈欣铁粉！不写PRD、不设职称，揭秘Anthropic 如何连续推出两个AI 爆款？",
-      "link": "https://www.infoq.cn/article/58MqJzPWvi2Mtdu147Qv?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-09 09:53",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/58MqJzPWvi2Mtdu147Qv?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "龙虾最大痛点被官方插件升级！对话永不忘记，GPT和Gemini最强模型都可接入",
+      "link": "https://www.qbitai.com/2026/03/384907.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-09 05:02",
+      "summary": ""
     },
     {
-      "title": "雷军：不推荐普通用户在主力设备升级“龙虾”；鹅厂门口排队装OpenClaw，”龙虾之父“点赞；OpenAI 开源计划：开发者免费享半年 ChatGPT Pro 订阅 | AI周报",
-      "link": "https://www.infoq.cn/article/oRLbiZDv9maVQDk0swaR?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-09 09:46",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/oRLbiZDv9maVQDk0swaR?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "88岁图灵奖得主，用Claude一小时破解30年数学悬案",
+      "link": "https://www.qbitai.com/2026/03/384890.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-09 04:49",
+      "summary": ""
     },
     {
-      "title": "OpenAI Codex-Spark 在 Cerebras 硬件上实现超快编码速度",
-      "link": "https://www.infoq.cn/article/q2gYpu0ys425KtKuGCm5?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-08 11:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/q2gYpu0ys425KtKuGCm5?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "arXiv创始人亲测：水论文这一块，Grok最强，Claude最不配合",
+      "link": "https://www.qbitai.com/2026/03/384860.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-09 04:29",
+      "summary": ""
     },
     {
-      "title": "OpenAI hardware exec Caitlin Kalinowski quits in response to Pentagon deal",
-      "link": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-03-07 20:44",
-      "summary": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics t"
+      "title": "OpenAI工程师不写代码了：AI写得太快，人类检查跟不上，Agent直接包办开发",
+      "link": "https://www.infoq.cn/article/XiMNJ9e87lH8Xu9CpUHG?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-09 19:02",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/XiMNJ9e87lH8Xu9CpUHG?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "product": [
@@ -43,38 +43,31 @@
       "source": "infoq",
       "pub_date": "2026-03-07 10:00",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/eJaITDi1aTzpAR6wmZzz?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "网易有道 LobsterAI 推出技能商店并支持 MCP 协议，打造更开放的智能体生态",
-      "link": "https://www.infoq.cn/article/TJ4K86cg0ilwKlZHuvxD?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-06 17:14",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/TJ4K86cg0ilwKlZHuvxD?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "海尔智家发布制造行业首份AI+细分岗位能力模型，引领领域人才标准演进",
-      "link": "https://www.infoq.cn/article/qOpuZutTvaO9O1NcwFRc?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-06 16:18",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qOpuZutTvaO9O1NcwFRc?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [
     {
-      "title": "20岁大学生花10天VibeCoding一个开源项目，获盛大3000万投资",
-      "link": "https://www.qbitai.com/2026/03/384728.html",
+      "title": "“最美PM”宋紫薇获红杉蚂蚁投资，创业方向略有调整，转向AI护肤",
+      "link": "https://www.qbitai.com/2026/03/384926.html",
       "source": "qbitai",
-      "pub_date": "2026-03-08 07:15",
-      "summary": ""
+      "pub_date": "2026-03-09 06:21",
+      "summary": "暂避大厂锋芒"
+    },
+    {
+      "title": "暴雪皮克斯老兵的AI社交实验：用声音匹配，MAU破260万，估值1.5亿美金",
+      "link": "https://www.qbitai.com/2026/03/384833.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-09 04:26",
+      "summary": "春节冲进iOS社交榜前20"
     }
   ],
   "research": [
     {
-      "title": "黑马图像模型被Nano Banana技术负责人点赞！15人华人小队，DDIM之父&CVPR最佳论文作者带队",
-      "link": "https://www.qbitai.com/2026/03/384578.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-06 14:39",
-      "summary": "多项能力看齐行业标杆"
+      "title": "ODCC联合NVIDIA、焱融等首发KVCache评测结果｜焱融AI存储实现推理提速降本双突破",
+      "link": "https://www.infoq.cn/article/zVRRjI7EfCiEoYTS2QqH?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-09 17:15",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/zVRRjI7EfCiEoYTS2QqH?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "Leapwork研究显示，测试中的AI仍然依赖于可靠性，而不仅仅是创新",
@@ -86,55 +79,55 @@
   ],
   "industry": [
     {
+      "title": "文远知行与吉利远程深化战略合作，2026年交付2000台前装量产Robotaxi GXR",
+      "link": "https://www.qbitai.com/2026/03/384835.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-09 05:31",
+      "summary": ""
+    },
+    {
       "title": "从 Demo 到规模落地：AIOps Agent 在复杂云原生场景下的研发范式与数据飞轮实践｜QCon北京",
       "link": "https://www.infoq.cn/article/5ydQqEFM2Kkskgyl0u3X?utm_source=rss&utm_medium=article",
       "source": "infoq",
       "pub_date": "2026-03-09 10:10",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/5ydQqEFM2Kkskgyl0u3X?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "2026政府工作报告释放新信号，“人工智能+”规模化落地面临哪些工程挑战？",
-      "link": "https://www.infoq.cn/article/TtksmXyaNvO1LhACOzmp?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-06 18:40",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/TtksmXyaNvO1LhACOzmp?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
     {
-      "title": "高中生AI创业，现在只招龙虾员工：每月成本2800",
-      "link": "https://www.qbitai.com/2026/03/384797.html",
+      "title": "首个物理AI数据基座平台“无垠”落户浙江，专治机器人数据荒，家庭工业商业场景全覆盖",
+      "link": "https://www.qbitai.com/2026/03/385066.html",
       "source": "qbitai",
-      "pub_date": "2026-03-08 10:07",
-      "summary": "全龙虾公司，还设了好几个部门"
+      "pub_date": "2026-03-09 10:46",
+      "summary": "打通训练到商业化落地"
     },
     {
-      "title": "OpenClaw最强外挂出现：小龙虾抓不到数据有救了！",
-      "link": "https://www.qbitai.com/2026/03/384786.html",
+      "title": "卡帕西开源Agent自进化训练框架，5分钟一轮实验，48h内揽星9.5k",
+      "link": "https://www.qbitai.com/2026/03/384953.html",
       "source": "qbitai",
-      "pub_date": "2026-03-08 09:53",
-      "summary": "Skill版本作者已经亲自安排上了"
+      "pub_date": "2026-03-09 07:46",
+      "summary": "下一步要模拟整个博士社群"
     },
     {
-      "title": "清华公布毕业生去向：出国比例仅8.5%，华为字节是最大赢家",
-      "link": "https://www.qbitai.com/2026/03/384705.html",
+      "title": "企业微信支持接入OpenClaw，仅需3步即可快速上手",
+      "link": "https://www.qbitai.com/2026/03/384944.html",
       "source": "qbitai",
-      "pub_date": "2026-03-08 06:50",
+      "pub_date": "2026-03-09 07:12",
       "summary": ""
     },
     {
-      "title": "劝视频博主别拿龙虾起号，7×24小时全自动，碳基生物真卷不过",
-      "link": "https://www.qbitai.com/2026/03/384646.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-08 06:45",
-      "summary": ""
+      "title": "AI教父Hinton最新警告：AI会撒谎、可能操纵人类，这比大规模失业更可怕",
+      "link": "https://www.infoq.cn/article/TZ9h5JFJ5GZ92PL76yaD?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-07 17:48",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/TZ9h5JFJ5GZ92PL76yaD?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "央视点赞千问APP，“AI办事”让人工智能走进日常生活",
-      "link": "https://www.qbitai.com/2026/03/384637.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-07 08:40",
-      "summary": ""
+      "title": "汽车之家 AI 助手多 Agent 设计与多阶段优化策略｜QCon北京",
+      "link": "https://www.infoq.cn/article/ITsw8J6aX1q6XPsoDMsx?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-07 10:17",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ITsw8J6aX1q6XPsoDMsx?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
