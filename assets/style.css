@@ -16,6 +16,28 @@ body {
   min-height: 100vh;
 }
 
+/* 链接样式 */
+a {
+  color: #1a1a1a;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #8b5a2b;
+}
+
+/* 新闻标题链接特殊样式 */
+.news-title a,
+.headline-title a {
+  color: inherit;
+}
+
+.news-title a:hover,
+.headline-title a:hover {
+  color: #8b5a2b;
+}
+
 /* 主容器 - 报纸纸张效果 */
 .container {
   max-width: 800px;

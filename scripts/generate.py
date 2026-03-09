@@ -36,7 +36,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     <!-- 头条区域 -->
     <article class="main-headline">
       <div class="headline-tag">◆ 头条 HEADLINE ◆</div>
-      <h2 class="headline-title">{{ categories.headline[0].title }}</h2>
+      <h2 class="headline-title"><a href="{{ categories.headline[0].link }}" target="_blank">{{ categories.headline[0].title }}</a></h2>
       <div class="headline-meta">
         <span class="headline-source">{{ categories.headline[0].source }}</span>
         <span>{{ categories.headline[0].pub_date.split(' ')[1] }}</span>
@@ -48,7 +48,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     <div class="sub-headlines">
       {% for item in categories.headline[1:3] %}
       <div class="sub-headline-item">
-        <div class="news-title">{{ item.title }}</div>
+        <div class="news-title"><a href="{{ item.link }}" target="_blank">{{ item.title }}</a></div>
         <div class="news-meta"><span class="news-source">{{ item.source }}</span> | {{ item.pub_date.split(' ')[1] }}</div>
       </div>
       {% endfor %}
@@ -65,7 +65,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       <div class="news-grid">
         {% for item in categories.product %}
         <div class="news-item">
-          <div class="news-title">{{ item.title }}</div>
+          <div class="news-title"><a href="{{ item.link }}" target="_blank">{{ item.title }}</a></div>
           <div class="news-meta"><span class="news-source">{{ item.source }}</span> | {{ item.pub_date.split(' ')[1] }}</div>
         </div>
         {% endfor %}
@@ -80,7 +80,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       <div class="news-grid">
         {% for item in categories.funding %}
         <div class="news-item">
-          <div class="news-title">{{ item.title }}</div>
+          <div class="news-title"><a href="{{ item.link }}" target="_blank">{{ item.title }}</a></div>
           <div class="news-meta"><span class="news-source">{{ item.source }}</span> | {{ item.pub_date.split(' ')[1] }}</div>
         </div>
         {% endfor %}
@@ -95,7 +95,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       <div class="news-grid">
         {% for item in categories.research %}
         <div class="news-item">
-          <div class="news-title">{{ item.title }}</div>
+          <div class="news-title"><a href="{{ item.link }}" target="_blank">{{ item.title }}</a></div>
           <div class="news-meta"><span class="news-source">{{ item.source }}</span> | {{ item.pub_date.split(' ')[1] }}</div>
         </div>
         {% endfor %}
@@ -110,7 +110,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       <div class="news-grid">
         {% for item in categories.industry %}
         <div class="news-item">
-          <div class="news-title">{{ item.title }}</div>
+          <div class="news-title"><a href="{{ item.link }}" target="_blank">{{ item.title }}</a></div>
           <div class="news-meta"><span class="news-source">{{ item.source }}</span> | {{ item.pub_date.split(' ')[1] }}</div>
         </div>
         {% endfor %}
