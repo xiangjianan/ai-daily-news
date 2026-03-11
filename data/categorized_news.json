@@ -1,18 +1,18 @@
 {
   "headline": [
     {
-      "title": "OpenAI为龙虾紧急收购了一家23人公司",
-      "link": "https://www.qbitai.com/2026/03/385637.html",
+      "title": "ChatGPT和Claude争了个寂寞！用户重叠仅11%，中国应用霸榜移动端",
+      "link": "https://www.qbitai.com/2026/03/386114.html",
       "source": "qbitai",
-      "pub_date": "2026-03-10 08:13",
-      "summary": "23人团队两年干出8600万估值"
+      "pub_date": "2026-03-11 07:45",
+      "summary": "a16z发布Top100 GenAI应用榜"
     },
     {
-      "title": "打败GPT-5.2，嵌入真实工业生产，这个大模型什么来头？",
-      "link": "https://www.qbitai.com/2026/03/385010.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-09 08:14",
-      "summary": ""
+      "title": "OpenAI完成1100亿美元融资，亚马逊成为Frontier独家第三方云分销商",
+      "link": "https://www.infoq.cn/article/y688Ya2AFzphbj3b3CfR?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-11 11:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/y688Ya2AFzphbj3b3CfR?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "GPT-5.4 发布：OpenAI 新模型会自己用电脑了，正面撞上 OpenClaw",
@@ -38,6 +38,13 @@
   ],
   "product": [
     {
+      "title": "跨代领先全满贯折叠旗舰正式发布，荣耀Magic V6售价8999元起",
+      "link": "https://www.qbitai.com/2026/03/385840.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-11 05:20",
+      "summary": ""
+    },
+    {
       "title": "腾讯「鹅虾」紧急上线！一手实测：养虾门槛归零，QQ飞书钉钉全能接",
       "link": "https://www.qbitai.com/2026/03/385664.html",
       "source": "qbitai",
@@ -50,22 +57,15 @@
       "source": "infoq",
       "pub_date": "2026-03-10 18:15",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/m4lQlXIAK0st0siiQzgk?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "GitHub 发布年度开源趋势报告：2026 年开源生态将更趋全球化，AI 带来新挑战",
-      "link": "https://www.infoq.cn/article/v1pK4PZN44ORoUZr8Fgu?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-10 10:10",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/v1pK4PZN44ORoUZr8Fgu?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [
     {
-      "title": "机器人全程自主收拾客厅！390亿美元估值机器人端到端新技能，英伟达持续加注",
-      "link": "https://www.qbitai.com/2026/03/385126.html",
+      "title": "20亿砸向00后创业机器人公司！估值一年暴涨7倍，国家级资本重仓",
+      "link": "https://www.qbitai.com/2026/03/385824.html",
       "source": "qbitai",
-      "pub_date": "2026-03-10 05:50",
-      "summary": "团队自研具身大脑Helix 02作支撑"
+      "pub_date": "2026-03-11 04:11",
+      "summary": "数采成本仅为传统方案的10%"
     }
   ],
   "research": [],
@@ -80,39 +80,39 @@
   ],
   "other": [
     {
-      "title": "蔚来，盈利了！！！",
-      "link": "https://www.qbitai.com/2026/03/385797.html",
+      "title": "让龙虾看懂屏幕！谷歌多模态新成果，文本图像视频音频进同一空间",
+      "link": "https://www.qbitai.com/2026/03/386485.html",
       "source": "qbitai",
-      "pub_date": "2026-03-10 10:58",
-      "summary": "历史最佳财报"
+      "pub_date": "2026-03-11 09:30",
+      "summary": "谷歌首个原生多模态（Multimodal）嵌入模型"
     },
     {
-      "title": "给龙虾定MBTI、发工牌，还让龙虾偷技能…打工人得适应新环境了",
-      "link": "https://www.qbitai.com/2026/03/385771.html",
+      "title": "LeCun三顾茅庐，谢赛宁终于入伙！新公司获投10亿美元",
+      "link": "https://www.qbitai.com/2026/03/386308.html",
       "source": "qbitai",
-      "pub_date": "2026-03-10 08:26",
-      "summary": "协作空间正在被重塑"
+      "pub_date": "2026-03-11 09:26",
+      "summary": "成立两个月半，估值35亿！"
     },
     {
-      "title": "Jeff Dean最新访谈：未来开发者人均50个智能体，写需求成核心技能",
-      "link": "https://www.qbitai.com/2026/03/385569.html",
+      "title": "对话「哈萨比斯传」作者：“他不喜欢奥特曼”",
+      "link": "https://www.qbitai.com/2026/03/386285.html",
       "source": "qbitai",
-      "pub_date": "2026-03-10 07:27",
-      "summary": "还揭秘蒸馏是谷歌Flash模型突破的关键"
+      "pub_date": "2026-03-11 09:22",
+      "summary": "如何成为哈萨比斯？"
     },
     {
-      "title": "Meta亚历山大王走人？小扎回应了",
-      "link": "https://www.qbitai.com/2026/03/385127.html",
+      "title": "499上门装龙虾的人，开始赚299卸载龙虾的钱了",
+      "link": "https://www.qbitai.com/2026/03/386235.html",
       "source": "qbitai",
-      "pub_date": "2026-03-10 05:23",
-      "summary": "刚满29岁的Meta AI一号位"
+      "pub_date": "2026-03-11 08:44",
+      "summary": "「卸虾」业务太火爆"
     },
     {
-      "title": "只要1分钟！电脑装满血龙虾，现在跟下载APP似的",
-      "link": "https://www.qbitai.com/2026/03/385097.html",
+      "title": "养虾人狂吃国产模型！4.19万亿Token调用量激增34.9%超越美国",
+      "link": "https://www.qbitai.com/2026/03/386183.html",
       "source": "qbitai",
-      "pub_date": "2026-03-10 02:29",
-      "summary": "史诗级降低门槛，还专门出了个新模型"
+      "pub_date": "2026-03-11 08:41",
+      "summary": "国产模型包揽龙虾应用前三"
     }
   ]
 }
