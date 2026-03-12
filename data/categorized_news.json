@@ -1,11 +1,11 @@
 {
   "headline": [
     {
-      "title": "ChatGPT和Claude争了个寂寞！用户重叠仅11%，中国应用霸榜移动端",
-      "link": "https://www.qbitai.com/2026/03/386114.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-11 07:45",
-      "summary": "a16z发布Top100 GenAI应用榜"
+      "title": "大模型驱动下的生成式搜推：淘宝闪购全链路重构实践｜QCon北京",
+      "link": "https://www.infoq.cn/article/ZyIWzVDqUEDctGFyYWaO?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-12 10:13",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ZyIWzVDqUEDctGFyYWaO?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "OpenAI完成1100亿美元融资，亚马逊成为Frontier独家第三方云分销商",
@@ -15,104 +15,97 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/y688Ya2AFzphbj3b3CfR?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "GPT-5.4 发布：OpenAI 新模型会自己用电脑了，正面撞上 OpenClaw",
-      "link": "https://www.infoq.cn/article/orOZQwP7FExoPfwwDlJP?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-10 17:35",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/orOZQwP7FExoPfwwDlJP?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "link": "https://openai.com/index/wayfair",
+      "source": "openai_blog",
+      "pub_date": "2026-03-11 11:00",
+      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale."
     },
     {
-      "title": "OpenClaw 大更新：最值得关注的不是 GPT-5.4，而是 memory",
-      "link": "https://www.infoq.cn/article/3Edwvdt46RR8Sd1ewSkQ?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-10 16:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/3Edwvdt46RR8Sd1ewSkQ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "New ways to learn math and science in ChatGPT",
+      "link": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+      "source": "openai_blog",
+      "pub_date": "2026-03-10 10:00",
+      "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time."
     },
     {
-      "title": "OpenAI 也要 IPO 了，但这次只能争“全球第三”",
-      "link": "https://www.infoq.cn/article/WDSbYFmuBNTG1652FzXB?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-10 15:45",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/WDSbYFmuBNTG1652FzXB?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "OpenAI to acquire Promptfoo",
+      "link": "https://openai.com/index/openai-to-acquire-promptfoo",
+      "source": "openai_blog",
+      "pub_date": "2026-03-09 10:00",
+      "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development."
     }
   ],
   "product": [
     {
-      "title": "跨代领先全满贯折叠旗舰正式发布，荣耀Magic V6售价8999元起",
-      "link": "https://www.qbitai.com/2026/03/385840.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-11 05:20",
-      "summary": ""
-    },
-    {
-      "title": "腾讯「鹅虾」紧急上线！一手实测：养虾门槛归零，QQ飞书钉钉全能接",
-      "link": "https://www.qbitai.com/2026/03/385664.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-10 09:03",
-      "summary": "左手养qq虾，右手养微信虾"
-    },
-    {
-      "title": "无需代理也能零信任：Akamai 联合英伟达推出 DPU 安全方案",
-      "link": "https://www.infoq.cn/article/m4lQlXIAK0st0siiQzgk?utm_source=rss&utm_medium=article",
+      "title": "Rspress 2.0 发布：AI 原生文档、更快启动速度与全新设计主题",
+      "link": "https://www.infoq.cn/article/Kf7qHzF2jGKLovi675il?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-10 18:15",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/m4lQlXIAK0st0siiQzgk?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-03-12 09:56",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Kf7qHzF2jGKLovi675il?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [
     {
-      "title": "20亿砸向00后创业机器人公司！估值一年暴涨7倍，国家级资本重仓",
-      "link": "https://www.qbitai.com/2026/03/385824.html",
+      "title": "爱诗科技完成3亿美元C轮融资，鼎晖领投，开启“实时交互”视频生成新纪元",
+      "link": "https://www.qbitai.com/2026/03/386664.html",
       "source": "qbitai",
-      "pub_date": "2026-03-11 04:11",
-      "summary": "数采成本仅为传统方案的10%"
+      "pub_date": "2026-03-12 07:18",
+      "summary": ""
     }
   ],
   "research": [],
   "industry": [
     {
-      "title": "模力工场 034 周 AI 应用榜：OpenClaw 爆火，永不掉线的 AI 打工人时代来了",
-      "link": "https://www.infoq.cn/article/5q7ysFgsdBqjLuqGxGyz?utm_source=rss&utm_medium=article",
+      "title": "国内唯一入选的 AI 浏览器！QQ浏览器登上 a16z 全球 AI 应用榜单",
+      "link": "https://www.qbitai.com/2026/03/387068.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-12 13:13",
+      "summary": ""
+    },
+    {
+      "title": "国内首个国产AI推理千卡集群落地梁文锋家乡，采用云天励飞全自研AI推理芯片",
+      "link": "https://www.infoq.cn/article/IPr0osV9pNO48ThJL2ds?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-10 20:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/5q7ysFgsdBqjLuqGxGyz?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-03-12 11:55",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/IPr0osV9pNO48ThJL2ds?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
     {
-      "title": "让龙虾看懂屏幕！谷歌多模态新成果，文本图像视频音频进同一空间",
-      "link": "https://www.qbitai.com/2026/03/386485.html",
+      "title": "对话VAST曹炎培：2秒才是3D生成本该有的速度",
+      "link": "https://www.qbitai.com/2026/03/386717.html",
       "source": "qbitai",
-      "pub_date": "2026-03-11 09:30",
-      "summary": "谷歌首个原生多模态（Multimodal）嵌入模型"
+      "pub_date": "2026-03-12 12:09",
+      "summary": "AI 3D的2.0范式来了"
     },
     {
-      "title": "LeCun三顾茅庐，谢赛宁终于入伙！新公司获投10亿美元",
-      "link": "https://www.qbitai.com/2026/03/386308.html",
+      "title": "荣耀机器人亮相MWC，瑞声科技深度参与关键结构件支持",
+      "link": "https://www.qbitai.com/2026/03/386713.html",
       "source": "qbitai",
-      "pub_date": "2026-03-11 09:26",
-      "summary": "成立两个月半，估值35亿！"
+      "pub_date": "2026-03-12 11:32",
+      "summary": ""
     },
     {
-      "title": "对话「哈萨比斯传」作者：“他不喜欢奥特曼”",
-      "link": "https://www.qbitai.com/2026/03/386285.html",
+      "title": "全网首份「龙虾」安全部署指南来了！360出品",
+      "link": "https://www.qbitai.com/2026/03/386707.html",
       "source": "qbitai",
-      "pub_date": "2026-03-11 09:22",
-      "summary": "如何成为哈萨比斯？"
+      "pub_date": "2026-03-12 09:54",
+      "summary": "养龙虾，需谨慎"
     },
     {
-      "title": "499上门装龙虾的人，开始赚299卸载龙虾的钱了",
-      "link": "https://www.qbitai.com/2026/03/386235.html",
+      "title": "养虾人Token自由！千亿Token+百万奖金等你来拿，0门槛冲就完了",
+      "link": "https://www.qbitai.com/2026/03/386669.html",
       "source": "qbitai",
-      "pub_date": "2026-03-11 08:44",
-      "summary": "「卸虾」业务太火爆"
+      "pub_date": "2026-03-12 09:35",
+      "summary": "龙虾大舞台，想来你就来"
     },
     {
-      "title": "养虾人狂吃国产模型！4.19万亿Token调用量激增34.9%超越美国",
-      "link": "https://www.qbitai.com/2026/03/386183.html",
+      "title": "卡帕西：编程从写文件变成管龙虾！IDE不会凉但得换个用法",
+      "link": "https://www.qbitai.com/2026/03/386668.html",
       "source": "qbitai",
-      "pub_date": "2026-03-11 08:41",
-      "summary": "国产模型包揽龙虾应用前三"
+      "pub_date": "2026-03-12 09:33",
+      "summary": "新一代IDE是Agent管理中心"
     }
   ]
 }
