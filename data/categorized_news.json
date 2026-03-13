@@ -1,18 +1,18 @@
 {
   "headline": [
     {
-      "title": "大模型驱动下的生成式搜推：淘宝闪购全链路重构实践｜QCon北京",
-      "link": "https://www.infoq.cn/article/ZyIWzVDqUEDctGFyYWaO?utm_source=rss&utm_medium=article",
+      "title": "刘铁岩对话《哈萨比斯：谷歌AI之脑》作者：一位极度好胜的天才，如何带着DeepMind挑战OpenAI",
+      "link": "https://www.infoq.cn/article/tGoB4wqMeOHE0Zb3tYSf?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-12 10:13",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ZyIWzVDqUEDctGFyYWaO?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-03-13 14:53",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/tGoB4wqMeOHE0Zb3tYSf?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI完成1100亿美元融资，亚马逊成为Frontier独家第三方云分销商",
-      "link": "https://www.infoq.cn/article/y688Ya2AFzphbj3b3CfR?utm_source=rss&utm_medium=article",
+      "title": "从“暴力烧Token”到“系统工程”：OpenAI与华为的两条 AI 编程路径",
+      "link": "https://www.infoq.cn/article/f6pSw1rxN9DdrEsGrcq1?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-11 11:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/y688Ya2AFzphbj3b3CfR?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-03-13 11:14",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/f6pSw1rxN9DdrEsGrcq1?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
@@ -38,23 +38,45 @@
   ],
   "product": [
     {
-      "title": "Rspress 2.0 发布：AI 原生文档、更快启动速度与全新设计主题",
-      "link": "https://www.infoq.cn/article/Kf7qHzF2jGKLovi675il?utm_source=rss&utm_medium=article",
+      "title": "阿里云发布手机“一键养虾”产品JVS Claw：3分钟实现养虾自由",
+      "link": "https://www.qbitai.com/2026/03/387750.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-13 11:30",
+      "summary": ""
+    },
+    {
+      "title": "刚刚，腾讯电脑“龙虾管家”重磅上线",
+      "link": "https://www.qbitai.com/2026/03/387739.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-13 11:08",
+      "summary": ""
+    },
+    {
+      "title": "Cloudflare 推出面向 AI 代理的 Markdown 页面与 Content Signals，用于引导 AI 爬虫",
+      "link": "https://www.infoq.cn/article/Szkb4Zld4RplFWYUpfq6?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-12 09:56",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Kf7qHzF2jGKLovi675il?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-03-13 10:10",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Szkb4Zld4RplFWYUpfq6?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [
     {
-      "title": "爱诗科技完成3亿美元C轮融资，鼎晖领投，开启“实时交互”视频生成新纪元",
-      "link": "https://www.qbitai.com/2026/03/386664.html",
+      "title": "多家资本参投，杨立昆AMI获超10亿美元种子融资",
+      "link": "https://www.qbitai.com/2026/03/387734.html",
       "source": "qbitai",
-      "pub_date": "2026-03-12 07:18",
+      "pub_date": "2026-03-13 09:05",
       "summary": ""
     }
   ],
-  "research": [],
+  "research": [
+    {
+      "title": "新研究重新评估AGENTS.md文件在AI编码中的价值",
+      "link": "https://www.infoq.cn/article/IoNg3mSbIMVYNSxLjjYD?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-13 10:20",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/IoNg3mSbIMVYNSxLjjYD?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "industry": [
     {
       "title": "国内唯一入选的 AI 浏览器！QQ浏览器登上 a16z 全球 AI 应用榜单",
@@ -62,50 +84,43 @@
       "source": "qbitai",
       "pub_date": "2026-03-12 13:13",
       "summary": ""
-    },
-    {
-      "title": "国内首个国产AI推理千卡集群落地梁文锋家乡，采用云天励飞全自研AI推理芯片",
-      "link": "https://www.infoq.cn/article/IPr0osV9pNO48ThJL2ds?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-12 11:55",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/IPr0osV9pNO48ThJL2ds?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
     {
-      "title": "对话VAST曹炎培：2秒才是3D生成本该有的速度",
-      "link": "https://www.qbitai.com/2026/03/386717.html",
+      "title": "滴滴Q4再创新高 日订单峰值超6500万单",
+      "link": "https://www.qbitai.com/2026/03/387736.html",
       "source": "qbitai",
-      "pub_date": "2026-03-12 12:09",
-      "summary": "AI 3D的2.0范式来了"
-    },
-    {
-      "title": "荣耀机器人亮相MWC，瑞声科技深度参与关键结构件支持",
-      "link": "https://www.qbitai.com/2026/03/386713.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-12 11:32",
+      "pub_date": "2026-03-13 09:18",
       "summary": ""
     },
     {
-      "title": "全网首份「龙虾」安全部署指南来了！360出品",
-      "link": "https://www.qbitai.com/2026/03/386707.html",
+      "title": "吃够了全自动的龙虾，我决定把AI的方向盘抢回来",
+      "link": "https://www.qbitai.com/2026/03/387405.html",
       "source": "qbitai",
-      "pub_date": "2026-03-12 09:54",
-      "summary": "养龙虾，需谨慎"
+      "pub_date": "2026-03-13 08:59",
+      "summary": "全球首个可操控AI平台清华哈佛造"
     },
     {
-      "title": "养虾人Token自由！千亿Token+百万奖金等你来拿，0门槛冲就完了",
-      "link": "https://www.qbitai.com/2026/03/386669.html",
+      "title": "马斯克从Cursor挖走两位天才少年",
+      "link": "https://www.qbitai.com/2026/03/387242.html",
       "source": "qbitai",
-      "pub_date": "2026-03-12 09:35",
-      "summary": "龙虾大舞台，想来你就来"
+      "pub_date": "2026-03-13 07:51",
+      "summary": "xAI好像一座围城"
     },
     {
-      "title": "卡帕西：编程从写文件变成管龙虾！IDE不会凉但得换个用法",
-      "link": "https://www.qbitai.com/2026/03/386668.html",
+      "title": "我用10块钱的「熟虾」，搞了个AI编辑部！",
+      "link": "https://www.qbitai.com/2026/03/387116.html",
       "source": "qbitai",
-      "pub_date": "2026-03-12 09:33",
-      "summary": "新一代IDE是Agent管理中心"
+      "pub_date": "2026-03-13 06:54",
+      "summary": "在网页上就能直接用"
+    },
+    {
+      "title": "统计学最高荣誉回归华人！苏炜杰：AI需要一门新的数学语言",
+      "link": "https://www.qbitai.com/2026/03/387102.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-13 06:02",
+      "summary": "像「剥洋葱」一样优化AI黑盒"
     }
   ]
 }
