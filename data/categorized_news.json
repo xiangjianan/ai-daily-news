@@ -1,6 +1,27 @@
 {
   "headline": [
     {
+      "title": "Gemini重塑谷歌地图！一句话搞定出行攻略，网友：垂直应用全完蛋",
+      "link": "https://www.qbitai.com/2026/03/387867.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-14 10:48",
+      "summary": "以后出门有个谷歌地图就够了"
+    },
+    {
+      "title": "不仿真不VLA不遥操：它石智航重磅发布“能干活的通用具身大模型 ”AWE3.0",
+      "link": "https://www.qbitai.com/2026/03/387860.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-14 10:32",
+      "summary": ""
+    },
+    {
+      "title": "拜拜了SWE-Bench！Cursor刚发了个AI Coding评测基准，难哭Claude",
+      "link": "https://www.qbitai.com/2026/03/387756.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-14 06:25",
+      "summary": "专门评价Cursor中不同模型谁更“智能体”"
+    },
+    {
       "title": "刘铁岩对话《哈萨比斯：谷歌AI之脑》作者：一位极度好胜的天才，如何带着DeepMind挑战OpenAI",
       "link": "https://www.infoq.cn/article/tGoB4wqMeOHE0Zb3tYSf?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -13,27 +34,6 @@
       "source": "infoq",
       "pub_date": "2026-03-13 11:14",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/f6pSw1rxN9DdrEsGrcq1?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-      "link": "https://openai.com/index/wayfair",
-      "source": "openai_blog",
-      "pub_date": "2026-03-11 11:00",
-      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale."
-    },
-    {
-      "title": "New ways to learn math and science in ChatGPT",
-      "link": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
-      "source": "openai_blog",
-      "pub_date": "2026-03-10 10:00",
-      "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time."
-    },
-    {
-      "title": "OpenAI to acquire Promptfoo",
-      "link": "https://openai.com/index/openai-to-acquire-promptfoo",
-      "source": "openai_blog",
-      "pub_date": "2026-03-09 10:00",
-      "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development."
     }
   ],
   "product": [
@@ -77,16 +77,29 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/IoNg3mSbIMVYNSxLjjYD?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "industry": [
-    {
-      "title": "国内唯一入选的 AI 浏览器！QQ浏览器登上 a16z 全球 AI 应用榜单",
-      "link": "https://www.qbitai.com/2026/03/387068.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-12 13:13",
-      "summary": ""
-    }
-  ],
+  "industry": [],
   "other": [
+    {
+      "title": "AI能代替人干活吗？B站联合6位UP主用OpenClaw直播做了次社会实验",
+      "link": "https://www.qbitai.com/2026/03/387843.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-14 08:56",
+      "summary": "当程序员开发App、商业带货、打游戏"
+    },
+    {
+      "title": "量子位专访陶哲轩：我为什么现在创办一个AI x Science组织",
+      "link": "https://www.qbitai.com/2026/03/387832.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-14 06:34",
+      "summary": "未来可能会有10000个陶哲轩"
+    },
+    {
+      "title": "龙虾版支付宝来了！睡觉都在帮你抢红包",
+      "link": "https://www.qbitai.com/2026/03/387768.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-14 05:30",
+      "summary": "前蚂蚁团队打造"
+    },
     {
       "title": "滴滴Q4再创新高 日订单峰值超6500万单",
       "link": "https://www.qbitai.com/2026/03/387736.html",
@@ -95,32 +108,11 @@
       "summary": ""
     },
     {
-      "title": "吃够了全自动的龙虾，我决定把AI的方向盘抢回来",
-      "link": "https://www.qbitai.com/2026/03/387405.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-13 08:59",
-      "summary": "全球首个可操控AI平台清华哈佛造"
-    },
-    {
-      "title": "马斯克从Cursor挖走两位天才少年",
-      "link": "https://www.qbitai.com/2026/03/387242.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-13 07:51",
-      "summary": "xAI好像一座围城"
-    },
-    {
-      "title": "我用10块钱的「熟虾」，搞了个AI编辑部！",
-      "link": "https://www.qbitai.com/2026/03/387116.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-13 06:54",
-      "summary": "在网页上就能直接用"
-    },
-    {
-      "title": "统计学最高荣誉回归华人！苏炜杰：AI需要一门新的数学语言",
-      "link": "https://www.qbitai.com/2026/03/387102.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-13 06:02",
-      "summary": "像「剥洋葱」一样优化AI黑盒"
+      "title": "狂裁1600人，换掉CTO、晋升“下一代AI人才”！SaaS巨头的转型焦虑",
+      "link": "https://www.infoq.cn/article/4NJUKjq6VphyYuG4CaZQ?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-13 18:14",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/4NJUKjq6VphyYuG4CaZQ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
