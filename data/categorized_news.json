@@ -1,6 +1,13 @@
 {
   "headline": [
     {
+      "title": "科技CEO用ChatGPT+基因数据定制癌症疫苗！肿瘤缩小50%",
+      "link": "https://www.qbitai.com/2026/03/387935.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-15 06:06",
+      "summary": "AI救了我的狗！从奄奄一息到满公园追兔子"
+    },
+    {
       "title": "Gemini重塑谷歌地图！一句话搞定出行攻略，网友：垂直应用全完蛋",
       "link": "https://www.qbitai.com/2026/03/387867.html",
       "source": "qbitai",
@@ -22,21 +29,21 @@
       "summary": "专门评价Cursor中不同模型谁更“智能体”"
     },
     {
-      "title": "刘铁岩对话《哈萨比斯：谷歌AI之脑》作者：一位极度好胜的天才，如何带着DeepMind挑战OpenAI",
-      "link": "https://www.infoq.cn/article/tGoB4wqMeOHE0Zb3tYSf?utm_source=rss&utm_medium=article",
+      "title": "10分钟装好一只“龙虾”，周鸿祎亲自动手！360推出国内首个“安全龙虾”，内置百款大模型",
+      "link": "https://www.infoq.cn/article/XgX3qjd9RZ0aOaFjqbZQ?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-13 14:53",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/tGoB4wqMeOHE0Zb3tYSf?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "从“暴力烧Token”到“系统工程”：OpenAI与华为的两条 AI 编程路径",
-      "link": "https://www.infoq.cn/article/f6pSw1rxN9DdrEsGrcq1?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-13 11:14",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/f6pSw1rxN9DdrEsGrcq1?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-03-15 12:47",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/XgX3qjd9RZ0aOaFjqbZQ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "product": [
+    {
+      "title": "360发布安全龙虾系列产品：以模治模构建智能体安全体系",
+      "link": "https://www.qbitai.com/2026/03/387921.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-14 13:32",
+      "summary": ""
+    },
     {
       "title": "阿里云发布手机“一键养虾”产品JVS Claw：3分钟实现养虾自由",
       "link": "https://www.qbitai.com/2026/03/387750.html",
@@ -45,11 +52,11 @@
       "summary": ""
     },
     {
-      "title": "刚刚，腾讯电脑“龙虾管家”重磅上线",
-      "link": "https://www.qbitai.com/2026/03/387739.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-13 11:08",
-      "summary": ""
+      "title": "Cloudflare发布AI辅助开发的实验性Next.js替代方案",
+      "link": "https://www.infoq.cn/article/9bFq7FJUQSXANWqtf8fQ?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-15 11:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/9bFq7FJUQSXANWqtf8fQ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "Cloudflare 推出面向 AI 代理的 Markdown 页面与 Content Signals，用于引导 AI 爬虫",
@@ -59,15 +66,7 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Szkb4Zld4RplFWYUpfq6?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [
-    {
-      "title": "多家资本参投，杨立昆AMI获超10亿美元种子融资",
-      "link": "https://www.qbitai.com/2026/03/387734.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-13 09:05",
-      "summary": ""
-    }
-  ],
+  "funding": [],
   "research": [
     {
       "title": "新研究重新评估AGENTS.md文件在AI编码中的价值",
@@ -79,6 +78,13 @@
   ],
   "industry": [],
   "other": [
+    {
+      "title": "AI 数学推理新纪元：SAIR Foundation 正式启动“数学蒸馏挑战赛”",
+      "link": "https://www.qbitai.com/2026/03/387915.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-14 12:45",
+      "summary": ""
+    },
     {
       "title": "AI能代替人干活吗？B站联合6位UP主用OpenClaw直播做了次社会实验",
       "link": "https://www.qbitai.com/2026/03/387843.html",
@@ -101,18 +107,11 @@
       "summary": "前蚂蚁团队打造"
     },
     {
-      "title": "滴滴Q4再创新高 日订单峰值超6500万单",
-      "link": "https://www.qbitai.com/2026/03/387736.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-13 09:18",
-      "summary": ""
-    },
-    {
-      "title": "狂裁1600人，换掉CTO、晋升“下一代AI人才”！SaaS巨头的转型焦虑",
-      "link": "https://www.infoq.cn/article/4NJUKjq6VphyYuG4CaZQ?utm_source=rss&utm_medium=article",
+      "title": "GitLab：AI 能发现漏洞，但风险治理才是关键",
+      "link": "https://www.infoq.cn/article/SkoHHJPpp6bpctKdbFws?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-13 18:14",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/4NJUKjq6VphyYuG4CaZQ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-03-15 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/SkoHHJPpp6bpctKdbFws?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
