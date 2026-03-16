@@ -1,6 +1,13 @@
 {
   "headline": [
     {
+      "title": "315曝光的“AI投毒”原理：GEO这样操控大模型推荐",
+      "link": "https://www.qbitai.com/2026/03/388387.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-16 11:48",
+      "summary": "一个虚构的产品，竟然也会出现在AI推荐里？"
+    },
+    {
       "title": "科技CEO用ChatGPT+基因数据定制癌症疫苗！肿瘤缩小50%",
       "link": "https://www.qbitai.com/2026/03/387935.html",
       "source": "qbitai",
@@ -8,35 +15,35 @@
       "summary": "AI救了我的狗！从奄奄一息到满公园追兔子"
     },
     {
-      "title": "Gemini重塑谷歌地图！一句话搞定出行攻略，网友：垂直应用全完蛋",
-      "link": "https://www.qbitai.com/2026/03/387867.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-14 10:48",
-      "summary": "以后出门有个谷歌地图就够了"
-    },
-    {
-      "title": "不仿真不VLA不遥操：它石智航重磅发布“能干活的通用具身大模型 ”AWE3.0",
-      "link": "https://www.qbitai.com/2026/03/387860.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-14 10:32",
-      "summary": ""
-    },
-    {
-      "title": "拜拜了SWE-Bench！Cursor刚发了个AI Coding评测基准，难哭Claude",
-      "link": "https://www.qbitai.com/2026/03/387756.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-14 06:25",
-      "summary": "专门评价Cursor中不同模型谁更“智能体”"
-    },
-    {
-      "title": "10分钟装好一只“龙虾”，周鸿祎亲自动手！360推出国内首个“安全龙虾”，内置百款大模型",
-      "link": "https://www.infoq.cn/article/XgX3qjd9RZ0aOaFjqbZQ?utm_source=rss&utm_medium=article",
+      "title": "AI 2.0 时代的大模型推理：从模型到硬件的协同优化",
+      "link": "https://www.infoq.cn/article/7ivxUvwB4G48DQHllaml?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-15 12:47",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/XgX3qjd9RZ0aOaFjqbZQ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-03-16 17:26",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/7ivxUvwB4G48DQHllaml?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Grok编程掉队，马斯克怒了：xAI裁员、清洗联创，放话3个月追上OpenAI、Anthropic",
+      "link": "https://www.infoq.cn/article/CUFmTdZvl9ju5YLeeImJ?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-16 16:27",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/CUFmTdZvl9ju5YLeeImJ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "字节暂停Seedance2.0全球发布，回应武汉全员被裁；曝梁文锋将携DeepSeek V4撞上姚顺雨；央视315曝给AI大模型投毒已成产业链 | AI周报",
+      "link": "https://www.infoq.cn/article/5ZXUYlk07YF3WGSEG5uC?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-16 16:23",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/5ZXUYlk07YF3WGSEG5uC?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "product": [
+    {
+      "title": "天下苦「调参」久矣！MIT师生推出全新RandOpt算法",
+      "link": "https://www.qbitai.com/2026/03/388054.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-16 07:12",
+      "summary": "预训练模型周围早就藏好了大量专家"
+    },
     {
       "title": "360发布安全龙虾系列产品：以模治模构建智能体安全体系",
       "link": "https://www.qbitai.com/2026/03/387921.html",
@@ -45,73 +52,59 @@
       "summary": ""
     },
     {
-      "title": "阿里云发布手机“一键养虾”产品JVS Claw：3分钟实现养虾自由",
-      "link": "https://www.qbitai.com/2026/03/387750.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-13 11:30",
-      "summary": ""
-    },
-    {
-      "title": "Cloudflare发布AI辅助开发的实验性Next.js替代方案",
-      "link": "https://www.infoq.cn/article/9bFq7FJUQSXANWqtf8fQ?utm_source=rss&utm_medium=article",
+      "title": "Uno Platform 6.5 发布：支持 AI 智能体、Unicode 文本，Studio 工具进行了全面升级",
+      "link": "https://www.infoq.cn/article/aRIzpes04v3QqyrYbzBB?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-15 11:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/9bFq7FJUQSXANWqtf8fQ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Cloudflare 推出面向 AI 代理的 Markdown 页面与 Content Signals，用于引导 AI 爬虫",
-      "link": "https://www.infoq.cn/article/Szkb4Zld4RplFWYUpfq6?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-13 10:10",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Szkb4Zld4RplFWYUpfq6?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-03-16 11:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/aRIzpes04v3QqyrYbzBB?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
   "research": [
     {
-      "title": "新研究重新评估AGENTS.md文件在AI编码中的价值",
-      "link": "https://www.infoq.cn/article/IoNg3mSbIMVYNSxLjjYD?utm_source=rss&utm_medium=article",
+      "title": "AI x 大前端性能稳定性：快手亿级 DAU 下的智能诊断实践",
+      "link": "https://www.infoq.cn/article/idzEW0gbCfaAusraiXbu?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-13 10:20",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/IoNg3mSbIMVYNSxLjjYD?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-03-16 17:38",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/idzEW0gbCfaAusraiXbu?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "industry": [],
   "other": [
     {
-      "title": "AI 数学推理新纪元：SAIR Foundation 正式启动“数学蒸馏挑战赛”",
-      "link": "https://www.qbitai.com/2026/03/387915.html",
+      "title": "零跑，首次全年盈利！",
+      "link": "https://www.qbitai.com/2026/03/388411.html",
       "source": "qbitai",
-      "pub_date": "2026-03-14 12:45",
-      "summary": ""
+      "pub_date": "2026-03-16 11:56",
+      "summary": "半价理想学理想盈利了"
     },
     {
-      "title": "AI能代替人干活吗？B站联合6位UP主用OpenClaw直播做了次社会实验",
-      "link": "https://www.qbitai.com/2026/03/387843.html",
+      "title": "机器人爆款收割机狂揽1.2亿美金",
+      "link": "https://www.qbitai.com/2026/03/388381.html",
       "source": "qbitai",
-      "pub_date": "2026-03-14 08:56",
-      "summary": "当程序员开发App、商业带货、打游戏"
+      "pub_date": "2026-03-16 11:22",
+      "summary": "加速打造具身智能原生技术底座"
     },
     {
-      "title": "量子位专访陶哲轩：我为什么现在创办一个AI x Science组织",
-      "link": "https://www.qbitai.com/2026/03/387832.html",
+      "title": "一手实测首个龙虾模型：长路径任务不失误，一人包揽全栈开发",
+      "link": "https://www.qbitai.com/2026/03/388352.html",
       "source": "qbitai",
-      "pub_date": "2026-03-14 06:34",
-      "summary": "未来可能会有10000个陶哲轩"
+      "pub_date": "2026-03-16 07:39",
+      "summary": "还有龙虾专属套餐"
     },
     {
-      "title": "龙虾版支付宝来了！睡觉都在帮你抢红包",
-      "link": "https://www.qbitai.com/2026/03/387768.html",
+      "title": "养虾时代终结？免部署、7×24小时在线、自进化的“赛博骡子”来了！",
+      "link": "https://www.qbitai.com/2026/03/388071.html",
       "source": "qbitai",
-      "pub_date": "2026-03-14 05:30",
-      "summary": "前蚂蚁团队打造"
+      "pub_date": "2026-03-16 07:13",
+      "summary": "养虾真不如养骡子了"
     },
     {
-      "title": "GitLab：AI 能发现漏洞，但风险治理才是关键",
-      "link": "https://www.infoq.cn/article/SkoHHJPpp6bpctKdbFws?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-15 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/SkoHHJPpp6bpctKdbFws?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "不卷速度卷验证，陈天桥MiroMind精准预测15天后黄金价格",
+      "link": "https://www.qbitai.com/2026/03/387990.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-16 06:50",
+      "summary": "慢交互超车Gemini-3.1-Pro、GPT-5.4-Thinking"
     }
   ]
 }
