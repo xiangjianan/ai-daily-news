@@ -1,18 +1,18 @@
 {
   "headline": [
     {
+      "title": "GPT-5.4一周狂赚10亿美元ARR！一句嗨烧掉80刀，效率却飙升32倍",
+      "link": "https://www.qbitai.com/2026/03/388443.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-17 06:07",
+      "summary": "GPT-5.4破纪录了！"
+    },
+    {
       "title": "315曝光的“AI投毒”原理：GEO这样操控大模型推荐",
       "link": "https://www.qbitai.com/2026/03/388387.html",
       "source": "qbitai",
       "pub_date": "2026-03-16 11:48",
       "summary": "一个虚构的产品，竟然也会出现在AI推荐里？"
-    },
-    {
-      "title": "科技CEO用ChatGPT+基因数据定制癌症疫苗！肿瘤缩小50%",
-      "link": "https://www.qbitai.com/2026/03/387935.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-15 06:06",
-      "summary": "AI救了我的狗！从奄奄一息到满公园追兔子"
     },
     {
       "title": "AI 2.0 时代的大模型推理：从模型到硬件的协同优化",
@@ -22,18 +22,18 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/7ivxUvwB4G48DQHllaml?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Grok编程掉队，马斯克怒了：xAI裁员、清洗联创，放话3个月追上OpenAI、Anthropic",
-      "link": "https://www.infoq.cn/article/CUFmTdZvl9ju5YLeeImJ?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-16 16:27",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/CUFmTdZvl9ju5YLeeImJ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "The dictionary sues OpenAI",
+      "link": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-03-16 17:38",
+      "summary": "Encyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training."
     },
     {
-      "title": "字节暂停Seedance2.0全球发布，回应武汉全员被裁；曝梁文锋将携DeepSeek V4撞上姚顺雨；央视315曝给AI大模型投毒已成产业链 | AI周报",
-      "link": "https://www.infoq.cn/article/5ZXUYlk07YF3WGSEG5uC?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-16 16:23",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/5ZXUYlk07YF3WGSEG5uC?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "link": "https://openai.com/index/wayfair",
+      "source": "openai_blog",
+      "pub_date": "2026-03-11 11:00",
+      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale."
     }
   ],
   "product": [
@@ -45,22 +45,22 @@
       "summary": "预训练模型周围早就藏好了大量专家"
     },
     {
-      "title": "360发布安全龙虾系列产品：以模治模构建智能体安全体系",
-      "link": "https://www.qbitai.com/2026/03/387921.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-14 13:32",
-      "summary": ""
-    },
-    {
-      "title": "Uno Platform 6.5 发布：支持 AI 智能体、Unicode 文本，Studio 工具进行了全面升级",
-      "link": "https://www.infoq.cn/article/aRIzpes04v3QqyrYbzBB?utm_source=rss&utm_medium=article",
+      "title": "AWS 推出 Strands Labs，用于开展实验性 AI Agent 项目",
+      "link": "https://www.infoq.cn/article/PTO1iMALQIiYBHBFQCNT?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-16 11:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/aRIzpes04v3QqyrYbzBB?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-03-17 14:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/PTO1iMALQIiYBHBFQCNT?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
   "research": [
+    {
+      "title": "两天推翻Karpathy 20年工作习惯！百行代码开源项目“封神”，AI替你通宵肝研究、战绩可查",
+      "link": "https://www.infoq.cn/article/hioSraQHDw53VwP9glyq?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-17 10:01",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/hioSraQHDw53VwP9glyq?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
     {
       "title": "AI x 大前端性能稳定性：快手亿级 DAU 下的智能诊断实践",
       "link": "https://www.infoq.cn/article/idzEW0gbCfaAusraiXbu?utm_source=rss&utm_medium=article",
@@ -71,6 +71,20 @@
   ],
   "industry": [],
   "other": [
+    {
+      "title": "企业级靠谱龙虾升级，拒绝失控",
+      "link": "https://www.qbitai.com/2026/03/388519.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-17 07:07",
+      "summary": ""
+    },
+    {
+      "title": "Kimi新架构让马斯克叹服！17岁高中生作者一战成名",
+      "link": "https://www.qbitai.com/2026/03/388493.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-17 06:51",
+      "summary": "把注意力机制“旋转90度”"
+    },
     {
       "title": "零跑，首次全年盈利！",
       "link": "https://www.qbitai.com/2026/03/388411.html",
@@ -91,20 +105,6 @@
       "source": "qbitai",
       "pub_date": "2026-03-16 07:39",
       "summary": "还有龙虾专属套餐"
-    },
-    {
-      "title": "养虾时代终结？免部署、7×24小时在线、自进化的“赛博骡子”来了！",
-      "link": "https://www.qbitai.com/2026/03/388071.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-16 07:13",
-      "summary": "养虾真不如养骡子了"
-    },
-    {
-      "title": "不卷速度卷验证，陈天桥MiroMind精准预测15天后黄金价格",
-      "link": "https://www.qbitai.com/2026/03/387990.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-16 06:50",
-      "summary": "慢交互超车Gemini-3.1-Pro、GPT-5.4-Thinking"
     }
   ]
 }
