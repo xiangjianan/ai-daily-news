@@ -2,8 +2,8 @@ name: AI Daily News - 每日更新
 
 on:
   schedule:
-    # 每晚9点执行 (北京时间 21:00 = UTC 13:00)
-    - cron: '0 13 * * *'
+    # 早上7点执行 (北京时间 07:00 = UTC 23:00)
+    - cron: '0 23 * * *'
   workflow_dispatch:  # 支持手动触发
   push:
     branches: [main]
