@@ -8,25 +8,25 @@
       "summary": "GPT-5.4破纪录了！"
     },
     {
-      "title": "315曝光的“AI投毒”原理：GEO这样操控大模型推荐",
-      "link": "https://www.qbitai.com/2026/03/388387.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-16 11:48",
-      "summary": "一个虚构的产品，竟然也会出现在AI推荐里？"
-    },
-    {
-      "title": "AI 2.0 时代的大模型推理：从模型到硬件的协同优化",
-      "link": "https://www.infoq.cn/article/7ivxUvwB4G48DQHllaml?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-16 17:26",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/7ivxUvwB4G48DQHllaml?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "The dictionary sues OpenAI",
-      "link": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
+      "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+      "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-03-16 17:38",
-      "summary": "Encyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training."
+      "pub_date": "2026-03-17 21:00",
+      "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches."
+    },
+    {
+      "title": "OpenAI expands government footprint with AWS deal, report says",
+      "link": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-03-17 15:37",
+      "summary": "OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month."
+    },
+    {
+      "title": "Introducing GPT-5.4 mini and nano",
+      "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "source": "openai_blog",
+      "pub_date": "2026-03-17 10:00",
+      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads."
     },
     {
       "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
@@ -37,13 +37,6 @@
     }
   ],
   "product": [
-    {
-      "title": "天下苦「调参」久矣！MIT师生推出全新RandOpt算法",
-      "link": "https://www.qbitai.com/2026/03/388054.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-16 07:12",
-      "summary": "预训练模型周围早就藏好了大量专家"
-    },
     {
       "title": "AWS 推出 Strands Labs，用于开展实验性 AI Agent 项目",
       "link": "https://www.infoq.cn/article/PTO1iMALQIiYBHBFQCNT?utm_source=rss&utm_medium=article",
@@ -60,51 +53,52 @@
       "source": "infoq",
       "pub_date": "2026-03-17 10:01",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/hioSraQHDw53VwP9glyq?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "AI x 大前端性能稳定性：快手亿级 DAU 下的智能诊断实践",
-      "link": "https://www.infoq.cn/article/idzEW0gbCfaAusraiXbu?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-16 17:38",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/idzEW0gbCfaAusraiXbu?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "industry": [],
+  "industry": [
+    {
+      "title": "模力工场 035 周 AI 应用周榜：AI 正在走出通用叙事，进入细分人群与真实场景",
+      "link": "https://www.infoq.cn/article/v3PTF08TY39pJxmhbTz9?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-17 20:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/v3PTF08TY39pJxmhbTz9?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "other": [
     {
-      "title": "企业级靠谱龙虾升级，拒绝失控",
-      "link": "https://www.qbitai.com/2026/03/388519.html",
+      "title": "北京养虾er！明晚19点，为你带来9+场养虾干货Talk，来创业大街见",
+      "link": "https://www.qbitai.com/2026/03/388807.html",
       "source": "qbitai",
-      "pub_date": "2026-03-17 07:07",
-      "summary": ""
+      "pub_date": "2026-03-17 13:56",
+      "summary": "从用法到应用场景，全流程干货分享"
     },
     {
-      "title": "Kimi新架构让马斯克叹服！17岁高中生作者一战成名",
-      "link": "https://www.qbitai.com/2026/03/388493.html",
+      "title": "黄仁勋：龙虾就是新操作系统！英伟达7种芯片拼出算力怪兽，放话2027营收万亿美元",
+      "link": "https://www.qbitai.com/2026/03/388720.html",
       "source": "qbitai",
-      "pub_date": "2026-03-17 06:51",
-      "summary": "把注意力机制“旋转90度”"
+      "pub_date": "2026-03-17 13:08",
+      "summary": "所有人都在等老黄掏出新芯片，但他没有掏，先用一小时教全世界CEO看一张图"
     },
     {
-      "title": "零跑，首次全年盈利！",
-      "link": "https://www.qbitai.com/2026/03/388411.html",
+      "title": "从“养虾热”到实体交互：元萝卜推动OpenClaw走向真实世界",
+      "link": "https://www.qbitai.com/2026/03/388701.html",
       "source": "qbitai",
-      "pub_date": "2026-03-16 11:56",
-      "summary": "半价理想学理想盈利了"
+      "pub_date": "2026-03-17 12:12",
+      "summary": "元萝卜让“桌面智能体”有了现实参照"
     },
     {
-      "title": "机器人爆款收割机狂揽1.2亿美金",
-      "link": "https://www.qbitai.com/2026/03/388381.html",
+      "title": "百度龙虾全家桶火速上桌！出手就是全球最大搜索skill",
+      "link": "https://www.qbitai.com/2026/03/388672.html",
       "source": "qbitai",
-      "pub_date": "2026-03-16 11:22",
-      "summary": "加速打造具身智能原生技术底座"
+      "pub_date": "2026-03-17 12:00",
+      "summary": "百度把一整桌龙虾全家桶端上来了"
     },
     {
-      "title": "一手实测首个龙虾模型：长路径任务不失误，一人包揽全栈开发",
-      "link": "https://www.qbitai.com/2026/03/388352.html",
+      "title": "达卯科技与云南电力技术，助力云南“绿电+智算”融合发展",
+      "link": "https://www.qbitai.com/2026/03/388668.html",
       "source": "qbitai",
-      "pub_date": "2026-03-16 07:39",
-      "summary": "还有龙虾专属套餐"
+      "pub_date": "2026-03-17 11:55",
+      "summary": "赋能云南绿电智算发展"
     }
   ]
 }
