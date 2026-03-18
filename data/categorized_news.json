@@ -1,11 +1,11 @@
 {
   "headline": [
     {
-      "title": "GPT-5.4一周狂赚10亿美元ARR！一句嗨烧掉80刀，效率却飙升32倍",
-      "link": "https://www.qbitai.com/2026/03/388443.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-17 06:07",
-      "summary": "GPT-5.4破纪录了！"
+      "title": "“Claude Code 这条路线错了”！元老级 AI 大师 Jeremy Howard 开炮：马斯克和 Dario 根本不懂现代软件工程",
+      "link": "https://www.infoq.cn/article/f692INME7iXBtfzWMwq6?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-18 15:24",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/f692INME7iXBtfzWMwq6?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
@@ -15,11 +15,11 @@
       "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches."
     },
     {
-      "title": "OpenAI expands government footprint with AWS deal, report says",
-      "link": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-03-17 15:37",
-      "summary": "OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month."
+      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "link": "https://openai.com/index/japan-teen-safety-blueprint",
+      "source": "openai_blog",
+      "pub_date": "2026-03-17 10:00",
+      "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI."
     },
     {
       "title": "Introducing GPT-5.4 mini and nano",
@@ -38,67 +38,66 @@
   ],
   "product": [
     {
-      "title": "AWS 推出 Strands Labs，用于开展实验性 AI Agent 项目",
-      "link": "https://www.infoq.cn/article/PTO1iMALQIiYBHBFQCNT?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-17 14:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/PTO1iMALQIiYBHBFQCNT?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "小牛电动举办2026科技新品发布会，开启“造AI好车”新十年",
+      "link": "https://www.qbitai.com/2026/03/388959.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-18 02:45",
+      "summary": ""
+    },
+    {
+      "title": "阿里“悟空”上线！钉钉给企业送来龙虾大军",
+      "link": "https://www.qbitai.com/2026/03/388845.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-18 01:53",
+      "summary": "内置“开箱即用”的行业级解决方案"
     }
   ],
   "funding": [],
-  "research": [
-    {
-      "title": "两天推翻Karpathy 20年工作习惯！百行代码开源项目“封神”，AI替你通宵肝研究、战绩可查",
-      "link": "https://www.infoq.cn/article/hioSraQHDw53VwP9glyq?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-17 10:01",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/hioSraQHDw53VwP9glyq?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "research": [],
   "industry": [
     {
-      "title": "模力工场 035 周 AI 应用周榜：AI 正在走出通用叙事，进入细分人群与真实场景",
-      "link": "https://www.infoq.cn/article/v3PTF08TY39pJxmhbTz9?utm_source=rss&utm_medium=article",
+      "title": "Apache Doris在易车AI +实时湖仓技术架构的落地实践",
+      "link": "https://www.infoq.cn/article/W7M9oc5rzG1mqROPB6yY?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-17 20:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/v3PTF08TY39pJxmhbTz9?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-03-18 14:44",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/W7M9oc5rzG1mqROPB6yY?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
     {
-      "title": "北京养虾er！明晚19点，为你带来9+场养虾干货Talk，来创业大街见",
-      "link": "https://www.qbitai.com/2026/03/388807.html",
+      "title": "全行业都在忙着“吃虾”，MiniMax M2.7已经让虾自己拿起筷子了",
+      "link": "https://www.qbitai.com/2026/03/389024.html",
       "source": "qbitai",
-      "pub_date": "2026-03-17 13:56",
-      "summary": "从用法到应用场景，全流程干货分享"
+      "pub_date": "2026-03-18 13:25",
+      "summary": "大模型自我进化时代来了"
     },
     {
-      "title": "黄仁勋：龙虾就是新操作系统！英伟达7种芯片拼出算力怪兽，放话2027营收万亿美元",
-      "link": "https://www.qbitai.com/2026/03/388720.html",
+      "title": "担心被曝“于谦门”，57岁的于谦到底用龙虾做了什么？",
+      "link": "https://www.qbitai.com/2026/03/389004.html",
       "source": "qbitai",
-      "pub_date": "2026-03-17 13:08",
-      "summary": "所有人都在等老黄掏出新芯片，但他没有掏，先用一小时教全世界CEO看一张图"
+      "pub_date": "2026-03-18 11:35",
+      "summary": "一开口就把程序员们整不会了"
     },
     {
-      "title": "从“养虾热”到实体交互：元萝卜推动OpenClaw走向真实世界",
-      "link": "https://www.qbitai.com/2026/03/388701.html",
+      "title": "求码10天，我终于过上了在微信上使唤🦞的日子",
+      "link": "https://www.qbitai.com/2026/03/388980.html",
       "source": "qbitai",
-      "pub_date": "2026-03-17 12:12",
-      "summary": "元萝卜让“桌面智能体”有了现实参照"
+      "pub_date": "2026-03-18 09:39",
+      "summary": "微信也能养上龙虾了"
     },
     {
-      "title": "百度龙虾全家桶火速上桌！出手就是全球最大搜索skill",
-      "link": "https://www.qbitai.com/2026/03/388672.html",
+      "title": "淘天开启2027届实习生招聘：岗位全面拥抱AI，新增3类AI岗位",
+      "link": "https://www.qbitai.com/2026/03/388972.html",
       "source": "qbitai",
-      "pub_date": "2026-03-17 12:00",
-      "summary": "百度把一整桌龙虾全家桶端上来了"
+      "pub_date": "2026-03-18 08:55",
+      "summary": "延续淘天集团全面拥抱AI的态势。"
     },
     {
-      "title": "达卯科技与云南电力技术，助力云南“绿电+智算”融合发展",
-      "link": "https://www.qbitai.com/2026/03/388668.html",
+      "title": "英伟达最强B200算力浪费60%！普林斯顿团队出手，利用率升至71%",
+      "link": "https://www.qbitai.com/2026/03/388815.html",
       "source": "qbitai",
-      "pub_date": "2026-03-17 11:55",
-      "summary": "赋能云南绿电智算发展"
+      "pub_date": "2026-03-18 00:31",
+      "summary": "老黄自己也抄作业了"
     }
   ]
 }
