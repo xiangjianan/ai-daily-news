@@ -8,11 +8,11 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/f692INME7iXBtfzWMwq6?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
-      "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-03-17 21:00",
-      "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches."
+      "title": "OpenAI to acquire Astral",
+      "link": "https://openai.com/index/openai-to-acquire-astral",
+      "source": "openai_blog",
+      "pub_date": "2026-03-19 00:00",
+      "summary": "Accelerates Codex growth to power the next generation of Python developer tools"
     },
     {
       "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
@@ -38,66 +38,87 @@
   ],
   "product": [
     {
-      "title": "小牛电动举办2026科技新品发布会，开启“造AI好车”新十年",
-      "link": "https://www.qbitai.com/2026/03/388959.html",
+      "title": "太初元碁推出企业级“养虾”方案，发布太初龙虾一体机（TecoClaw）",
+      "link": "https://www.qbitai.com/2026/03/389562.html",
       "source": "qbitai",
-      "pub_date": "2026-03-18 02:45",
+      "pub_date": "2026-03-19 12:35",
       "summary": ""
     },
     {
-      "title": "阿里“悟空”上线！钉钉给企业送来龙虾大军",
-      "link": "https://www.qbitai.com/2026/03/388845.html",
+      "title": "老黄怒怼玩家根本不懂AI！英伟达新AI功能遭全网抵制，游戏圈炸锅了",
+      "link": "https://www.qbitai.com/2026/03/389447.html",
       "source": "qbitai",
-      "pub_date": "2026-03-18 01:53",
-      "summary": "内置“开箱即用”的行业级解决方案"
+      "pub_date": "2026-03-19 11:35",
+      "summary": "游戏角色集体“整容”了"
+    },
+    {
+      "title": "同事群里催催催，龙虾自动回回回！刚发布的「飞书龙虾」把我解脱了",
+      "link": "https://www.qbitai.com/2026/03/389322.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-19 10:45",
+      "summary": "无需部署，人人可用"
+    },
+    {
+      "title": "飞书发布多款企业级 Agent 覆盖个人智能伙伴与业务系统",
+      "link": "https://www.qbitai.com/2026/03/389311.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-19 08:46",
+      "summary": "持续升级官方 OpenClaw 插件"
+    },
+    {
+      "title": "蚂蚁数科发布“龙虾卫士”，护航OpenClaw智能体安全落地",
+      "link": "https://www.qbitai.com/2026/03/389305.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-19 08:38",
+      "summary": "拥有可解释、可控制、可追溯的安全基石"
     }
   ],
   "funding": [],
-  "research": [],
-  "industry": [
+  "research": [
     {
-      "title": "Apache Doris在易车AI +实时湖仓技术架构的落地实践",
-      "link": "https://www.infoq.cn/article/W7M9oc5rzG1mqROPB6yY?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-18 14:44",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/W7M9oc5rzG1mqROPB6yY?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "阿里宣布AI战略商业目标：未来五年，云和AI商业化收入突破1000亿美元",
+      "link": "https://www.qbitai.com/2026/03/389559.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-19 12:07",
+      "summary": "正式突破1000亿元人民币"
     }
   ],
+  "industry": [],
   "other": [
     {
-      "title": "全行业都在忙着“吃虾”，MiniMax M2.7已经让虾自己拿起筷子了",
-      "link": "https://www.qbitai.com/2026/03/389024.html",
+      "title": "阿里财报电话会：平头哥GPU芯片已累计规模化交付47万片",
+      "link": "https://www.qbitai.com/2026/03/389556.html",
       "source": "qbitai",
-      "pub_date": "2026-03-18 13:25",
-      "summary": "大模型自我进化时代来了"
+      "pub_date": "2026-03-19 12:05",
+      "summary": "涵盖包括互联网、金融服务、自动驾驶等多个行业。"
     },
     {
-      "title": "担心被曝“于谦门”，57岁的于谦到底用龙虾做了什么？",
-      "link": "https://www.qbitai.com/2026/03/389004.html",
+      "title": "于骞出席德国慕尼黑汽车论坛：世界模型+强化学习是通向物理AI的必经之路",
+      "link": "https://www.qbitai.com/2026/03/389442.html",
       "source": "qbitai",
-      "pub_date": "2026-03-18 11:35",
-      "summary": "一开口就把程序员们整不会了"
+      "pub_date": "2026-03-19 11:02",
+      "summary": "世界模型+强化学习"
     },
     {
-      "title": "求码10天，我终于过上了在微信上使唤🦞的日子",
-      "link": "https://www.qbitai.com/2026/03/388980.html",
+      "title": "斯洛伐克首次迎来无人驾驶，文远知行全球版图扩至十二国",
+      "link": "https://www.qbitai.com/2026/03/389315.html",
       "source": "qbitai",
-      "pub_date": "2026-03-18 09:39",
-      "summary": "微信也能养上龙虾了"
+      "pub_date": "2026-03-19 10:20",
+      "summary": "文远知行将进一步深化在欧洲市场的商业化布局。"
     },
     {
-      "title": "淘天开启2027届实习生招聘：岗位全面拥抱AI，新增3类AI岗位",
-      "link": "https://www.qbitai.com/2026/03/388972.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-18 08:55",
-      "summary": "延续淘天集团全面拥抱AI的态势。"
+      "title": "从AI编程到Agent开发 九章云极智算云助力生态普惠升级",
+      "link": "https://www.infoq.cn/article/d0fGGHB46WOiqtAUbgAF?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-19 15:04",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/d0fGGHB46WOiqtAUbgAF?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "英伟达最强B200算力浪费60%！普林斯顿团队出手，利用率升至71%",
-      "link": "https://www.qbitai.com/2026/03/388815.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-18 00:31",
-      "summary": "老黄自己也抄作业了"
+      "title": "极客部落“OPC 创业者招募计划”正式启动 —— 携手朝阳区赋能 AI 时代独角兽，助推人才高质量发展",
+      "link": "https://www.infoq.cn/article/LbxEy5EyhN3e4CW05IIw?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-19 14:39",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/LbxEy5EyhN3e4CW05IIw?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
