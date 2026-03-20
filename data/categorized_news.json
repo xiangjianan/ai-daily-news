@@ -1,11 +1,11 @@
 {
   "headline": [
     {
-      "title": "“Claude Code 这条路线错了”！元老级 AI 大师 Jeremy Howard 开炮：马斯克和 Dario 根本不懂现代软件工程",
-      "link": "https://www.infoq.cn/article/f692INME7iXBtfzWMwq6?utm_source=rss&utm_medium=article",
+      "title": "OpenAI推出“超级应用”，开抢Anthropic的企业客户",
+      "link": "https://www.infoq.cn/article/l7LKI978i4PjYLAhabiZ?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-18 15:24",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/f692INME7iXBtfzWMwq6?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-03-20 18:11",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/l7LKI978i4PjYLAhabiZ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "OpenAI to acquire Astral",
@@ -38,87 +38,59 @@
   ],
   "product": [
     {
-      "title": "太初元碁推出企业级“养虾”方案，发布太初龙虾一体机（TecoClaw）",
-      "link": "https://www.qbitai.com/2026/03/389562.html",
+      "title": "OpenClaw、Agent 企业级落地……2026 奇点智能技术大会硬核议题发布",
+      "link": "https://www.qbitai.com/2026/03/389666.html",
       "source": "qbitai",
-      "pub_date": "2026-03-19 12:35",
-      "summary": ""
-    },
-    {
-      "title": "老黄怒怼玩家根本不懂AI！英伟达新AI功能遭全网抵制，游戏圈炸锅了",
-      "link": "https://www.qbitai.com/2026/03/389447.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-19 11:35",
-      "summary": "游戏角色集体“整容”了"
-    },
-    {
-      "title": "同事群里催催催，龙虾自动回回回！刚发布的「飞书龙虾」把我解脱了",
-      "link": "https://www.qbitai.com/2026/03/389322.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-19 10:45",
-      "summary": "无需部署，人人可用"
-    },
-    {
-      "title": "飞书发布多款企业级 Agent 覆盖个人智能伙伴与业务系统",
-      "link": "https://www.qbitai.com/2026/03/389311.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-19 08:46",
-      "summary": "持续升级官方 OpenClaw 插件"
-    },
-    {
-      "title": "蚂蚁数科发布“龙虾卫士”，护航OpenClaw智能体安全落地",
-      "link": "https://www.qbitai.com/2026/03/389305.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-19 08:38",
-      "summary": "拥有可解释、可控制、可追溯的安全基石"
+      "pub_date": "2026-03-20 03:01",
+      "summary": "在上海·环球港凯悦酒店正式召开"
     }
   ],
   "funding": [],
-  "research": [
+  "research": [],
+  "industry": [
     {
-      "title": "阿里宣布AI战略商业目标：未来五年，云和AI商业化收入突破1000亿美元",
-      "link": "https://www.qbitai.com/2026/03/389559.html",
+      "title": "AI屠刀下一站“Vibe设计”！谷歌一个产品把合作伙伴Figma干崩了",
+      "link": "https://www.qbitai.com/2026/03/390235.html",
       "source": "qbitai",
-      "pub_date": "2026-03-19 12:07",
-      "summary": "正式突破1000亿元人民币"
+      "pub_date": "2026-03-20 07:40",
+      "summary": "软件行业又遭一记重创"
     }
   ],
-  "industry": [],
   "other": [
     {
-      "title": "阿里财报电话会：平头哥GPU芯片已累计规模化交付47万片",
-      "link": "https://www.qbitai.com/2026/03/389556.html",
+      "title": "龙虾也能当导演了！LibTV解锁全自动拍片，一句话从剧本干到成片",
+      "link": "https://www.qbitai.com/2026/03/390320.html",
       "source": "qbitai",
-      "pub_date": "2026-03-19 12:05",
-      "summary": "涵盖包括互联网、金融服务、自动驾驶等多个行业。"
+      "pub_date": "2026-03-20 09:49",
+      "summary": "一块无限画布，两类用户：我和🦞"
     },
     {
-      "title": "于骞出席德国慕尼黑汽车论坛：世界模型+强化学习是通向物理AI的必经之路",
-      "link": "https://www.qbitai.com/2026/03/389442.html",
+      "title": "前荣耀AI实验室主任带队：用“超级大脑”接管农场，24小时不打烊",
+      "link": "https://www.qbitai.com/2026/03/389609.html",
       "source": "qbitai",
-      "pub_date": "2026-03-19 11:02",
-      "summary": "世界模型+强化学习"
+      "pub_date": "2026-03-20 05:37",
+      "summary": "成本直降60%"
     },
     {
-      "title": "斯洛伐克首次迎来无人驾驶，文远知行全球版图扩至十二国",
-      "link": "https://www.qbitai.com/2026/03/389315.html",
+      "title": "Cursor自研模型反超Opus 4.6！价格脚踝斩，氛围编程沸腾了",
+      "link": "https://www.qbitai.com/2026/03/389673.html",
       "source": "qbitai",
-      "pub_date": "2026-03-19 10:20",
-      "summary": "文远知行将进一步深化在欧洲市场的商业化布局。"
+      "pub_date": "2026-03-20 04:09",
+      "summary": "背后引入了一种新的强化学习方法"
     },
     {
-      "title": "从AI编程到Agent开发 九章云极智算云助力生态普惠升级",
-      "link": "https://www.infoq.cn/article/d0fGGHB46WOiqtAUbgAF?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-19 15:04",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/d0fGGHB46WOiqtAUbgAF?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "全网都在扒的小米MiMo团队，几乎被“北大学子”承包了",
+      "link": "https://www.qbitai.com/2026/03/389624.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-20 02:43",
+      "summary": "核心成员高度同源"
     },
     {
-      "title": "极客部落“OPC 创业者招募计划”正式启动 —— 携手朝阳区赋能 AI 时代独角兽，助推人才高质量发展",
-      "link": "https://www.infoq.cn/article/LbxEy5EyhN3e4CW05IIw?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-19 14:39",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/LbxEy5EyhN3e4CW05IIw?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "Qwen3.5-Max预览版首度亮相，阿里千问登顶中国最强模型",
+      "link": "https://www.qbitai.com/2026/03/389610.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-20 02:11",
+      "summary": "阿里千问位列全球前五"
     }
   ]
 }
