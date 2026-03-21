@@ -15,18 +15,18 @@
       "summary": "Accelerates Codex growth to power the next generation of Python developer tools"
     },
     {
-      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-      "link": "https://openai.com/index/japan-teen-safety-blueprint",
-      "source": "openai_blog",
-      "pub_date": "2026-03-17 10:00",
-      "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI."
-    },
-    {
       "title": "Introducing GPT-5.4 mini and nano",
       "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
       "source": "openai_blog",
       "pub_date": "2026-03-17 10:00",
       "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads."
+    },
+    {
+      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "link": "https://openai.com/index/japan-teen-safety-blueprint",
+      "source": "openai_blog",
+      "pub_date": "2026-03-17 10:00",
+      "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI."
     },
     {
       "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
@@ -54,43 +54,50 @@
       "source": "qbitai",
       "pub_date": "2026-03-20 07:40",
       "summary": "软件行业又遭一记重创"
+    },
+    {
+      "title": "AI Agent 的记忆中间件：火山 Mem0 架构拆解及落地实践｜QCon北京",
+      "link": "https://www.infoq.cn/article/VGTtEPwPCd101Iwm9wQi?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-21 09:54",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/VGTtEPwPCd101Iwm9wQi?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
     {
-      "title": "龙虾也能当导演了！LibTV解锁全自动拍片，一句话从剧本干到成片",
-      "link": "https://www.qbitai.com/2026/03/390320.html",
+      "title": "精准识别「界门纲目科属种」！北大彭宇新团队用细粒度树先验提升泛化，破解生物类别分层识别难题",
+      "link": "https://www.qbitai.com/2026/03/390945.html",
       "source": "qbitai",
-      "pub_date": "2026-03-20 09:49",
-      "summary": "一块无限画布，两类用户：我和🦞"
+      "pub_date": "2026-03-21 09:48",
+      "summary": "让生成式模型具备完整类别树认知，迈向通用视觉理解"
     },
     {
-      "title": "前荣耀AI实验室主任带队：用“超级大脑”接管农场，24小时不打烊",
-      "link": "https://www.qbitai.com/2026/03/389609.html",
+      "title": "英伟达GTC现场的隐形AI巨头：老黄机器人demo背后都是它",
+      "link": "https://www.qbitai.com/2026/03/390924.html",
       "source": "qbitai",
-      "pub_date": "2026-03-20 05:37",
-      "summary": "成本直降60%"
+      "pub_date": "2026-03-21 09:39",
+      "summary": "光轮智能，正在定义Physical AI的基础设施"
     },
     {
-      "title": "Cursor自研模型反超Opus 4.6！价格脚踝斩，氛围编程沸腾了",
-      "link": "https://www.qbitai.com/2026/03/389673.html",
+      "title": "北航团队为龙虾安全紧急开刀！开源OpenClaw风险防御工具，梳理9大高危风险缓解措施",
+      "link": "https://www.qbitai.com/2026/03/390918.html",
       "source": "qbitai",
-      "pub_date": "2026-03-20 04:09",
-      "summary": "背后引入了一种新的强化学习方法"
+      "pub_date": "2026-03-21 05:36",
+      "summary": "安全防御工具ClawGuard Auditor"
     },
     {
-      "title": "全网都在扒的小米MiMo团队，几乎被“北大学子”承包了",
-      "link": "https://www.qbitai.com/2026/03/389624.html",
+      "title": "Cursor套壳Kimi败露，最强「自研」模型被锤！创始人：忘记署名了",
+      "link": "https://www.qbitai.com/2026/03/390619.html",
       "source": "qbitai",
-      "pub_date": "2026-03-20 02:43",
-      "summary": "核心成员高度同源"
+      "pub_date": "2026-03-21 05:27",
+      "summary": "Kimi直接开喷了"
     },
     {
-      "title": "Qwen3.5-Max预览版首度亮相，阿里千问登顶中国最强模型",
-      "link": "https://www.qbitai.com/2026/03/389610.html",
+      "title": "对话越疆刘培超：春晚隐藏具身选手，却是百亿市值大玩家",
+      "link": "https://www.qbitai.com/2026/03/390531.html",
       "source": "qbitai",
-      "pub_date": "2026-03-20 02:11",
-      "summary": "阿里千问位列全球前五"
+      "pub_date": "2026-03-21 02:42",
+      "summary": "具身收入已到千万，已经过了追求当明星公司的阶段"
     }
   ]
 }
