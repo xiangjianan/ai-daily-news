@@ -1,6 +1,20 @@
 {
   "headline": [
     {
+      "title": "Bosch 集团首席 AI 科学家阎栋博士已确认出席QCon北京站，探讨AI大模型是否会吞噬软件世界",
+      "link": "https://www.infoq.cn/article/g29j1RVFBqGg1t4BQExV?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-23 18:15",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/g29j1RVFBqGg1t4BQExV?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "DoorDash 构建大模型对话模拟与评估闭环，实现客服机器人规模化测试",
+      "link": "https://www.infoq.cn/article/ZaJmZWklKB37egQrQzBk?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-23 15:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ZaJmZWklKB37egQrQzBk?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
       "title": "OpenAI推出“超级应用”，开抢Anthropic的企业客户",
       "link": "https://www.infoq.cn/article/l7LKI978i4PjYLAhabiZ?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -8,11 +22,11 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/l7LKI978i4PjYLAhabiZ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
-      "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+      "title": "Sam Altman-backed fusion startup Helion in talks to sell power to OpenAI",
+      "link": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-03-22 12:00",
-      "summary": "Shortly after Amazon  announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal."
+      "pub_date": "2026-03-23 15:03",
+      "summary": "OpenAI CEO Sam Altman is stepping down as board chair of Helion. His departure comes as reports that the two companies are negotiating a deal that would see Helion sell 12.5% of its power output to Op"
     },
     {
       "title": "OpenAI to acquire Astral",
@@ -20,23 +34,24 @@
       "source": "openai_blog",
       "pub_date": "2026-03-19 00:00",
       "summary": "Accelerates Codex growth to power the next generation of Python developer tools"
-    },
-    {
-      "title": "Introducing GPT-5.4 mini and nano",
-      "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "source": "openai_blog",
-      "pub_date": "2026-03-17 10:00",
-      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads."
-    },
-    {
-      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-      "link": "https://openai.com/index/japan-teen-safety-blueprint",
-      "source": "openai_blog",
-      "pub_date": "2026-03-17 10:00",
-      "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI."
     }
   ],
-  "product": [],
+  "product": [
+    {
+      "title": "千问上线AI打车，一句话搞定选车、选地点、选时间",
+      "link": "https://www.qbitai.com/2026/03/391308.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-23 04:01",
+      "summary": "有1.3亿用户在千问首次体验AI购物"
+    },
+    {
+      "title": "极客部落“OPC 创业者招募计划”正式发布，赋能 AI 时代“一人独角兽”",
+      "link": "https://www.infoq.cn/article/71MQtQpYKbCLSbXo6v8u?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-23 21:41",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/71MQtQpYKbCLSbXo6v8u?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "funding": [],
   "research": [],
   "industry": [
@@ -50,39 +65,39 @@
   ],
   "other": [
     {
-      "title": "浙大团队破解多模态模型「盲目自信」：先校准置信度，再分配算力丨CVPR’26",
-      "link": "https://www.qbitai.com/2026/03/391014.html",
+      "title": "陶哲轩：我差点江郎才尽，只因在普林斯顿待了一年",
+      "link": "https://www.qbitai.com/2026/03/391515.html",
       "source": "qbitai",
-      "pub_date": "2026-03-22 07:17",
-      "summary": "图都糊成一团了，模型还说“我很确定”？"
+      "pub_date": "2026-03-23 10:22",
+      "summary": "“故事”是科学里永远属于人类的一面"
     },
     {
-      "title": "阶跃星辰率先适配微信生态，StepClaw“龙虾”即插即养即用",
-      "link": "https://www.qbitai.com/2026/03/391010.html",
+      "title": "岚图泰山Ultra启动交付，全新一代896线激光雷达上车",
+      "link": "https://www.qbitai.com/2026/03/391489.html",
       "source": "qbitai",
-      "pub_date": "2026-03-22 07:09",
-      "summary": "个人聊天场景全面激活"
+      "pub_date": "2026-03-23 09:58",
+      "summary": "售价45.99万元"
     },
     {
-      "title": "大厂抢郭达雅进行时！DeepSeek核心成员还是个“综艺巨佬”",
-      "link": "https://www.qbitai.com/2026/03/390990.html",
+      "title": "Momenta不选VLA选世界模型，大众首发！曹旭东：传感器重要性最后",
+      "link": "https://www.qbitai.com/2026/03/391474.html",
       "source": "qbitai",
-      "pub_date": "2026-03-22 07:03",
-      "summary": "郭达雅将花落谁家？"
+      "pub_date": "2026-03-23 08:47",
+      "summary": "\"VLA好钢没用在刀刃上\""
     },
     {
-      "title": "上海凭什么敢自封“开发者之城”？看完这场大会议程我悟了",
-      "link": "https://www.qbitai.com/2026/03/390977.html",
+      "title": "字节版龙虾架构火爆GitHub！开源获35k+ Star，内置Skill全家桶，原生适配飞书",
+      "link": "https://www.qbitai.com/2026/03/391361.html",
       "source": "qbitai",
-      "pub_date": "2026-03-22 05:26",
-      "summary": "3月27日开幕，提前锁定WAIC“直通卡”"
+      "pub_date": "2026-03-23 08:04",
+      "summary": "各类Skill按需扩展"
     },
     {
-      "title": "精准识别「界门纲目科属种」！北大彭宇新团队用细粒度树先验提升泛化，破解生物类别分层识别难题",
-      "link": "https://www.qbitai.com/2026/03/390945.html",
+      "title": "寻找最强具身大脑！全球机器人顶会ICRA开启报名，智元全程陪跑带你拿奖",
+      "link": "https://www.qbitai.com/2026/03/391359.html",
       "source": "qbitai",
-      "pub_date": "2026-03-21 09:48",
-      "summary": "让生成式模型具备完整类别树认知，迈向通用视觉理解"
+      "pub_date": "2026-03-23 08:02",
+      "summary": "硬件+平台+数据统统给你"
     }
   ]
 }
