@@ -1,48 +1,62 @@
 {
   "headline": [
     {
-      "title": "Bosch 集团首席 AI 科学家阎栋博士已确认出席QCon北京站，探讨AI大模型是否会吞噬软件世界",
-      "link": "https://www.infoq.cn/article/g29j1RVFBqGg1t4BQExV?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-23 18:15",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/g29j1RVFBqGg1t4BQExV?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "OpenClaw逼出Claude最强反击！GUI操控电脑和真人无差别，网友：这得花多少token？",
+      "link": "https://www.qbitai.com/2026/03/391567.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-24 02:20",
+      "summary": "和人类用电脑没有区别了"
     },
     {
-      "title": "DoorDash 构建大模型对话模拟与评估闭环，实现客服机器人规模化测试",
-      "link": "https://www.infoq.cn/article/ZaJmZWklKB37egQrQzBk?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-23 15:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ZaJmZWklKB37egQrQzBk?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "OpenAI推出“超级应用”，开抢Anthropic的企业客户",
-      "link": "https://www.infoq.cn/article/l7LKI978i4PjYLAhabiZ?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-20 18:11",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/l7LKI978i4PjYLAhabiZ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Sam Altman-backed fusion startup Helion in talks to sell power to OpenAI",
-      "link": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/",
+      "title": "OpenAI’s plans to make ChatGPT more like Amazon aren’t going so well",
+      "link": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-03-23 15:03",
-      "summary": "OpenAI CEO Sam Altman is stepping down as board chair of Helion. His departure comes as reports that the two companies are negotiating a deal that would see Helion sell 12.5% of its power output to Op"
+      "pub_date": "2026-03-24 19:27",
+      "summary": "OpenAI says it's moving away from Instant Checkout, which allowed users to buy items directly through the ChatGPT interface."
     },
     {
-      "title": "OpenAI to acquire Astral",
-      "link": "https://openai.com/index/openai-to-acquire-astral",
+      "title": "OpenAI adds open source tools to help developers build for teen safety",
+      "link": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-03-24 18:41",
+      "summary": "Rather than working from scratch to figure out how to make AI safer for teens, developers can use these policies to fortify what they build."
+    },
+    {
+      "title": "Update on the OpenAI Foundation",
+      "link": "https://openai.com/index/update-on-the-openai-foundation",
       "source": "openai_blog",
-      "pub_date": "2026-03-19 00:00",
-      "summary": "Accelerates Codex growth to power the next generation of Python developer tools"
+      "pub_date": "2026-03-24 09:00",
+      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs."
+    },
+    {
+      "title": "Powering product discovery in ChatGPT",
+      "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "source": "openai_blog",
+      "pub_date": "2026-03-24 09:00",
+      "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration."
     }
   ],
   "product": [
     {
-      "title": "千问上线AI打车，一句话搞定选车、选地点、选时间",
-      "link": "https://www.qbitai.com/2026/03/391308.html",
+      "title": "你的模型真的会”举一反三”吗？RoboChallenge Table30 V2 正式发布，泛化时代开幕",
+      "link": "https://www.qbitai.com/2026/03/391744.html",
       "source": "qbitai",
-      "pub_date": "2026-03-23 04:01",
-      "summary": "有1.3亿用户在千问首次体验AI购物"
+      "pub_date": "2026-03-24 08:33",
+      "summary": "Table30 V2将为全球具身智能研究者打造了一个精准的“泛化标尺”与公平、开放的真机竞技场"
+    },
+    {
+      "title": "漏洞管理进入智能时代！OC社区率先发布AI Agent增强的漏洞动态分级标准",
+      "link": "https://xie.infoq.cn/article/f1352043312ee4f4928bcb966?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-24 19:10",
+      "summary": "突破静态评估局限，构建动态漏洞治理体系<div align=\"right\"><a href=\"https://xie.infoq.cn/article/f1352043312ee4f4928bcb966?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "HubSpot推出多模型AI代码审查工具Sidekick，反馈速度提升90%，工程师认可率达80%",
+      "link": "https://www.infoq.cn/article/0yPYTaTgSzlDbwXiZeuK?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-24 15:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/0yPYTaTgSzlDbwXiZeuK?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "极客部落“OPC 创业者招募计划”正式发布，赋能 AI 时代“一人独角兽”",
@@ -54,50 +68,42 @@
   ],
   "funding": [],
   "research": [],
-  "industry": [
-    {
-      "title": "AI Agent 的记忆中间件：火山 Mem0 架构拆解及落地实践｜QCon北京",
-      "link": "https://www.infoq.cn/article/VGTtEPwPCd101Iwm9wQi?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-21 09:54",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/VGTtEPwPCd101Iwm9wQi?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "industry": [],
   "other": [
     {
-      "title": "陶哲轩：我差点江郎才尽，只因在普林斯顿待了一年",
-      "link": "https://www.qbitai.com/2026/03/391515.html",
+      "title": "AI全链路加持！一加15T打造全能小屏，售价4299元起",
+      "link": "https://www.qbitai.com/2026/03/391775.html",
       "source": "qbitai",
-      "pub_date": "2026-03-23 10:22",
-      "summary": "“故事”是科学里永远属于人类的一面"
+      "pub_date": "2026-03-24 14:35",
+      "summary": "2025 年实现44%的销量增长"
     },
     {
-      "title": "岚图泰山Ultra启动交付，全新一代896线激光雷达上车",
-      "link": "https://www.qbitai.com/2026/03/391489.html",
+      "title": "龙虾爆火之后，AI初创的全球化机会来了吗？｜线下沙龙报名",
+      "link": "https://www.qbitai.com/2026/03/391760.html",
       "source": "qbitai",
-      "pub_date": "2026-03-23 09:58",
-      "summary": "售价45.99万元"
+      "pub_date": "2026-03-24 13:09",
+      "summary": "周四14:00，欢迎来现场交流！"
     },
     {
-      "title": "Momenta不选VLA选世界模型，大众首发！曹旭东：传感器重要性最后",
-      "link": "https://www.qbitai.com/2026/03/391474.html",
+      "title": "黄仁勋暴论核弹：AGI已经实现，Ilya错了，程序员有10亿",
+      "link": "https://www.qbitai.com/2026/03/391750.html",
       "source": "qbitai",
-      "pub_date": "2026-03-23 08:47",
-      "summary": "\"VLA好钢没用在刀刃上\""
+      "pub_date": "2026-03-24 08:54",
+      "summary": "老黄再次展示了感性的一面"
     },
     {
-      "title": "字节版龙虾架构火爆GitHub！开源获35k+ Star，内置Skill全家桶，原生适配飞书",
-      "link": "https://www.qbitai.com/2026/03/391361.html",
+      "title": "LeCun的世界模型单GPU就能跑了",
+      "link": "https://www.qbitai.com/2026/03/391698.html",
       "source": "qbitai",
-      "pub_date": "2026-03-23 08:04",
-      "summary": "各类Skill按需扩展"
+      "pub_date": "2026-03-24 07:00",
+      "summary": "速度快到离谱，完整规划仅需1秒"
     },
     {
-      "title": "寻找最强具身大脑！全球机器人顶会ICRA开启报名，智元全程陪跑带你拿奖",
-      "link": "https://www.qbitai.com/2026/03/391359.html",
+      "title": "又一华为天才少年入局具身创业！用视频生成数据训家用机器人，首个模型登顶具身基模榜单",
+      "link": "https://www.qbitai.com/2026/03/391668.html",
       "source": "qbitai",
-      "pub_date": "2026-03-23 08:02",
-      "summary": "硬件+平台+数据统统给你"
+      "pub_date": "2026-03-24 06:05",
+      "summary": "最新模型在Embodied Arena登顶"
     }
   ]
 }
