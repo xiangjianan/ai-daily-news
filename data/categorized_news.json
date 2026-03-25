@@ -1,25 +1,25 @@
 {
   "headline": [
     {
-      "title": "OpenClaw逼出Claude最强反击！GUI操控电脑和真人无差别，网友：这得花多少token？",
-      "link": "https://www.qbitai.com/2026/03/391567.html",
+      "title": "OpenAI关停Sora！25个月从封神到退场",
+      "link": "https://www.qbitai.com/2026/03/391799.html",
       "source": "qbitai",
-      "pub_date": "2026-03-24 02:20",
-      "summary": "和人类用电脑没有区别了"
+      "pub_date": "2026-03-25 00:13",
+      "summary": "AI视频正在进入“中国时间”"
     },
     {
-      "title": "OpenAI’s plans to make ChatGPT more like Amazon aren’t going so well",
-      "link": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-03-24 19:27",
-      "summary": "OpenAI says it's moving away from Instant Checkout, which allowed users to buy items directly through the ChatGPT interface."
+      "title": "Sora关停背后：为啥它没跑成“视频版ChatGPT”？",
+      "link": "https://www.infoq.cn/article/55ia8EuUuAxA6MlqVD5D?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-25 15:53",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/55ia8EuUuAxA6MlqVD5D?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI adds open source tools to help developers build for teen safety",
-      "link": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-03-24 18:41",
-      "summary": "Rather than working from scratch to figure out how to make AI safer for teens, developers can use these policies to fortify what they build."
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "link": "https://openai.com/index/safety-bug-bounty",
+      "source": "openai_blog",
+      "pub_date": "2026-03-25 00:00",
+      "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration."
     },
     {
       "title": "Update on the OpenAI Foundation",
@@ -38,72 +38,95 @@
   ],
   "product": [
     {
-      "title": "你的模型真的会”举一反三”吗？RoboChallenge Table30 V2 正式发布，泛化时代开幕",
-      "link": "https://www.qbitai.com/2026/03/391744.html",
+      "title": "从“被动感知”到“理解接触”，它石智航联合六大机构发布OmniVTA视触觉世界模型",
+      "link": "https://www.qbitai.com/2026/03/392105.html",
       "source": "qbitai",
-      "pub_date": "2026-03-24 08:33",
-      "summary": "Table30 V2将为全球具身智能研究者打造了一个精准的“泛化标尺”与公平、开放的真机竞技场"
+      "pub_date": "2026-03-25 08:43",
+      "summary": ""
     },
     {
-      "title": "漏洞管理进入智能时代！OC社区率先发布AI Agent增强的漏洞动态分级标准",
-      "link": "https://xie.infoq.cn/article/f1352043312ee4f4928bcb966?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-24 19:10",
-      "summary": "突破静态评估局限，构建动态漏洞治理体系<div align=\"right\"><a href=\"https://xie.infoq.cn/article/f1352043312ee4f4928bcb966?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "首个全品类旅行skill来了！飞猪“flyai”上线ClawHub、GitHub",
+      "link": "https://www.qbitai.com/2026/03/391890.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-25 06:20",
+      "summary": "“flyai”还正陆续接入华为、小米、OPPO、荣耀等手机厂商"
     },
     {
-      "title": "HubSpot推出多模型AI代码审查工具Sidekick，反馈速度提升90%，工程师认可率达80%",
-      "link": "https://www.infoq.cn/article/0yPYTaTgSzlDbwXiZeuK?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-24 15:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/0yPYTaTgSzlDbwXiZeuK?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "阿里云JVS Claw 全面开放 新增语音输入、skill开关等实用功能",
+      "link": "https://www.qbitai.com/2026/03/391830.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-25 03:36",
+      "summary": "JVS Claw也荣登App Store“智能体”和“Claw”搜索榜首位"
     },
     {
-      "title": "极客部落“OPC 创业者招募计划”正式发布，赋能 AI 时代“一人独角兽”",
-      "link": "https://www.infoq.cn/article/71MQtQpYKbCLSbXo6v8u?utm_source=rss&utm_medium=article",
+      "title": "Sonatype 推出 Guide，强化 AI 辅助代码生成的安全性",
+      "link": "https://www.infoq.cn/article/OTLD9IW3zMZdXMHsWD99?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-23 21:41",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/71MQtQpYKbCLSbXo6v8u?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-03-25 15:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/OTLD9IW3zMZdXMHsWD99?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Spring近期资讯：Boot、Security、Integration、AI和AMQP的第三个里程碑版本发布",
+      "link": "https://www.infoq.cn/article/JE6EFe8RxQAbGMkf2CFq?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-25 12:12",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/JE6EFe8RxQAbGMkf2CFq?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [],
+  "funding": [
+    {
+      "title": "上市2年狂招大批应届生、不用坐班！Reddit CEO：“AI 原生一代”太有价值了，竞争异常激烈",
+      "link": "https://www.infoq.cn/article/bkgl1j8Uu1wrQaj9UukJ?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-25 11:01",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/bkgl1j8Uu1wrQaj9UukJ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "research": [],
-  "industry": [],
+  "industry": [
+    {
+      "title": "2026中国企业AI应用场景报告",
+      "link": "https://www.infoq.cn/minibook/4c1lsTMm8kO4XAJuYpfz?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-25 14:32",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/minibook/4c1lsTMm8kO4XAJuYpfz?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "other": [
     {
-      "title": "AI全链路加持！一加15T打造全能小屏，售价4299元起",
-      "link": "https://www.qbitai.com/2026/03/391775.html",
+      "title": "第一批“首席龙虾官”，月薪6万",
+      "link": "https://www.qbitai.com/2026/03/392128.html",
       "source": "qbitai",
-      "pub_date": "2026-03-24 14:35",
-      "summary": "2025 年实现44%的销量增长"
+      "pub_date": "2026-03-25 11:53",
+      "summary": "猎头开始捕捉养虾达人"
     },
     {
-      "title": "龙虾爆火之后，AI初创的全球化机会来了吗？｜线下沙龙报名",
-      "link": "https://www.qbitai.com/2026/03/391760.html",
+      "title": "睿尔曼“茶艺机器人”亮相2026中关村论坛",
+      "link": "https://www.qbitai.com/2026/03/392121.html",
       "source": "qbitai",
-      "pub_date": "2026-03-24 13:09",
-      "summary": "周四14:00，欢迎来现场交流！"
+      "pub_date": "2026-03-25 11:31",
+      "summary": "让“能干活的机器人”走进现实"
     },
     {
-      "title": "黄仁勋暴论核弹：AGI已经实现，Ilya错了，程序员有10亿",
-      "link": "https://www.qbitai.com/2026/03/391750.html",
+      "title": "DeepSeek急招Agent方向！一口气放17个岗位，重度Vibe Coding优先",
+      "link": "https://www.qbitai.com/2026/03/392024.html",
       "source": "qbitai",
-      "pub_date": "2026-03-24 08:54",
-      "summary": "老黄再次展示了感性的一面"
+      "pub_date": "2026-03-25 06:39",
+      "summary": "明显从”基础模型研究”向”Agent产品化”倾斜"
     },
     {
-      "title": "LeCun的世界模型单GPU就能跑了",
-      "link": "https://www.qbitai.com/2026/03/391698.html",
+      "title": "中国AI音乐，悄悄把全球第一拿走了",
+      "link": "https://www.qbitai.com/2026/03/391839.html",
       "source": "qbitai",
-      "pub_date": "2026-03-24 07:00",
-      "summary": "速度快到离谱，完整规划仅需1秒"
+      "pub_date": "2026-03-25 06:36",
+      "summary": "还是人声、器乐双料第一"
     },
     {
-      "title": "又一华为天才少年入局具身创业！用视频生成数据训家用机器人，首个模型登顶具身基模榜单",
-      "link": "https://www.qbitai.com/2026/03/391668.html",
+      "title": "WorkBuddy杀疯了？一群AI专家帮我打工，我在微信里当赛博虾工头！",
+      "link": "https://www.qbitai.com/2026/03/391894.html",
       "source": "qbitai",
-      "pub_date": "2026-03-24 06:05",
-      "summary": "最新模型在Embodied Arena登顶"
+      "pub_date": "2026-03-25 06:25",
+      "summary": "N个龙虾专家组团给我做自媒体了！"
     }
   ]
 }
