@@ -1,18 +1,25 @@
 {
   "headline": [
     {
-      "title": "OpenAI关停Sora！25个月从封神到退场",
-      "link": "https://www.qbitai.com/2026/03/391799.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-25 00:13",
-      "summary": "AI视频正在进入“中国时间”"
+      "title": "京东公布最新AI进展：推出“龙虾天团”，首次开源大模型JoyAI-LLM Flash",
+      "link": "https://www.infoq.cn/article/RNszIZY7Ns5tdBAlhyGE?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-26 10:20",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/RNszIZY7Ns5tdBAlhyGE?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Sora关停背后：为啥它没跑成“视频版ChatGPT”？",
-      "link": "https://www.infoq.cn/article/55ia8EuUuAxA6MlqVD5D?utm_source=rss&utm_medium=article",
+      "title": "让推理引擎可被“看见”：大模型推理端到端 Token 级可观测工程实践｜QCon北京",
+      "link": "https://www.infoq.cn/article/UsmUkC9hH5FDdmkofO1b?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-25 15:53",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/55ia8EuUuAxA6MlqVD5D?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-03-26 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/UsmUkC9hH5FDdmkofO1b?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+      "link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-03-26 18:34",
+      "summary": "It's only the latest of several side projects that the AI startup has ditched over the past week."
     },
     {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
@@ -20,13 +27,6 @@
       "source": "openai_blog",
       "pub_date": "2026-03-25 00:00",
       "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration."
-    },
-    {
-      "title": "Update on the OpenAI Foundation",
-      "link": "https://openai.com/index/update-on-the-openai-foundation",
-      "source": "openai_blog",
-      "pub_date": "2026-03-24 09:00",
-      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs."
     },
     {
       "title": "Powering product discovery in ChatGPT",
@@ -42,91 +42,85 @@
       "link": "https://www.qbitai.com/2026/03/392105.html",
       "source": "qbitai",
       "pub_date": "2026-03-25 08:43",
-      "summary": ""
-    },
-    {
-      "title": "首个全品类旅行skill来了！飞猪“flyai”上线ClawHub、GitHub",
-      "link": "https://www.qbitai.com/2026/03/391890.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-25 06:20",
-      "summary": "“flyai”还正陆续接入华为、小米、OPPO、荣耀等手机厂商"
-    },
-    {
-      "title": "阿里云JVS Claw 全面开放 新增语音输入、skill开关等实用功能",
-      "link": "https://www.qbitai.com/2026/03/391830.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-25 03:36",
-      "summary": "JVS Claw也荣登App Store“智能体”和“Claw”搜索榜首位"
-    },
-    {
-      "title": "Sonatype 推出 Guide，强化 AI 辅助代码生成的安全性",
-      "link": "https://www.infoq.cn/article/OTLD9IW3zMZdXMHsWD99?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-25 15:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/OTLD9IW3zMZdXMHsWD99?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Spring近期资讯：Boot、Security、Integration、AI和AMQP的第三个里程碑版本发布",
-      "link": "https://www.infoq.cn/article/JE6EFe8RxQAbGMkf2CFq?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-25 12:12",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/JE6EFe8RxQAbGMkf2CFq?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "summary": "迈出灵巧操作的关键一步"
     }
   ],
   "funding": [
     {
-      "title": "上市2年狂招大批应届生、不用坐班！Reddit CEO：“AI 原生一代”太有价值了，竞争异常激烈",
-      "link": "https://www.infoq.cn/article/bkgl1j8Uu1wrQaj9UukJ?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-25 11:01",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/bkgl1j8Uu1wrQaj9UukJ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "金融Agent再获近2亿加码！启明红杉高瓴集体押注，5个月内连获两轮融资",
+      "link": "https://www.qbitai.com/2026/03/392684.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-26 10:04",
+      "summary": "金融AI无人区里的稀缺选手"
     }
   ],
-  "research": [],
+  "research": [
+    {
+      "title": "谷歌新论文把内存股价干崩了！KV cache压缩6倍，网友：硅谷成真了 profile-avatar",
+      "link": "https://www.qbitai.com/2026/03/392215.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-26 03:03",
+      "summary": "内存啥时候降价"
+    },
+    {
+      "title": "月之暗面创始人重磅判断：今年起 AI 研发模式将剧变，海量Token成研究员标配资源",
+      "link": "https://www.infoq.cn/article/WwJZI3vSu5qKagvDvhwK?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-26 18:20",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/WwJZI3vSu5qKagvDvhwK?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "industry": [
     {
-      "title": "2026中国企业AI应用场景报告",
-      "link": "https://www.infoq.cn/minibook/4c1lsTMm8kO4XAJuYpfz?utm_source=rss&utm_medium=article",
+      "title": "如何在 Snowflake 中利用 RelationalAI 原生应用实现图分析与社区检测 ｜ 技术实践",
+      "link": "https://www.infoq.cn/article/qBiJSCPWbKlXfLaUKqNW?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-25 14:32",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/minibook/4c1lsTMm8kO4XAJuYpfz?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-03-26 17:48",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qBiJSCPWbKlXfLaUKqNW?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "AI 是一次范式转移，选准生态位，投入自然清晰 | 飞猪 CTO 陈烨谈战略定力、组织进化与工程落地",
+      "link": "https://www.infoq.cn/article/lwk5AQiWPSRPAxRPpM3W?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-26 17:41",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/lwk5AQiWPSRPAxRPpM3W?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
+    {
+      "title": "在线等：如何优雅地分走鹅厂这600+万？",
+      "link": "https://www.qbitai.com/2026/03/392641.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-26 08:27",
+      "summary": "KDD Cup首个中国算法赛道开启，学术赛道+社会赛道双开"
+    },
+    {
+      "title": "1段话喊来13个“程序员”，阿里Qoder新模式让我躺着当CTO",
+      "link": "https://www.qbitai.com/2026/03/392281.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-26 07:48",
+      "summary": "多智能体协同编程，前后端同步开发"
+    },
+    {
+      "title": "马斯克xAI联创11跑10！仅剩特斯拉嫡系独苗留守",
+      "link": "https://www.qbitai.com/2026/03/392245.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-26 05:44",
+      "summary": "普通员工也大批流失"
+    },
+    {
+      "title": "它石智航用“吉尼斯纪录”交卷真干活的具身大脑，丁文超：从来没有Plan B",
+      "link": "https://www.qbitai.com/2026/03/392137.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-26 02:53",
+      "summary": "利刃出鞘，一鸣惊人"
+    },
     {
       "title": "第一批“首席龙虾官”，月薪6万",
       "link": "https://www.qbitai.com/2026/03/392128.html",
       "source": "qbitai",
       "pub_date": "2026-03-25 11:53",
       "summary": "猎头开始捕捉养虾达人"
-    },
-    {
-      "title": "睿尔曼“茶艺机器人”亮相2026中关村论坛",
-      "link": "https://www.qbitai.com/2026/03/392121.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-25 11:31",
-      "summary": "让“能干活的机器人”走进现实"
-    },
-    {
-      "title": "DeepSeek急招Agent方向！一口气放17个岗位，重度Vibe Coding优先",
-      "link": "https://www.qbitai.com/2026/03/392024.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-25 06:39",
-      "summary": "明显从”基础模型研究”向”Agent产品化”倾斜"
-    },
-    {
-      "title": "中国AI音乐，悄悄把全球第一拿走了",
-      "link": "https://www.qbitai.com/2026/03/391839.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-25 06:36",
-      "summary": "还是人声、器乐双料第一"
-    },
-    {
-      "title": "WorkBuddy杀疯了？一群AI专家帮我打工，我在微信里当赛博虾工头！",
-      "link": "https://www.qbitai.com/2026/03/391894.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-25 06:25",
-      "summary": "N个龙虾专家组团给我做自媒体了！"
     }
   ]
 }
