@@ -1,126 +1,110 @@
 {
   "headline": [
     {
-      "title": "京东公布最新AI进展：推出“龙虾天团”，首次开源大模型JoyAI-LLM Flash",
-      "link": "https://www.infoq.cn/article/RNszIZY7Ns5tdBAlhyGE?utm_source=rss&utm_medium=article",
+      "title": "杨植麟当主持人的大模型圆桌：张鹏罗福莉夏立雪都放开说了",
+      "link": "https://www.qbitai.com/2026/03/392878.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-27 14:28",
+      "summary": "中国大模型顶流都来了！"
+    },
+    {
+      "title": "钉钉CLI开源！首批开放10项核心产品能力，原生支持ClaudeCode等",
+      "link": "https://www.qbitai.com/2026/03/392828.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-27 11:50",
+      "summary": "国内首个CLI开源的国民级应用"
+    },
+    {
+      "title": "大模型收入暴涨1076%，港股AGI第一股首份年报：一年狂揽12亿，属实把商业化玩明白了",
+      "link": "https://www.qbitai.com/2026/03/392789.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-27 08:48",
+      "summary": "2025年下半年已接近盈亏平衡"
+    },
+    {
+      "title": "1.9 万行 Claude 写的代码进入 Node.js 核心库！社区当场吵翻天，反对者呼吁封杀AI代码",
+      "link": "https://www.infoq.cn/article/WryxXgBQWKB29rkoxuLo?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-26 10:20",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/RNszIZY7Ns5tdBAlhyGE?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-03-27 18:30",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/WryxXgBQWKB29rkoxuLo?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "让推理引擎可被“看见”：大模型推理端到端 Token 级可观测工程实践｜QCon北京",
-      "link": "https://www.infoq.cn/article/UsmUkC9hH5FDdmkofO1b?utm_source=rss&utm_medium=article",
+      "title": "AI 已能写 80% 代码，但 Agent 也有致命短板！OpenAI Codex 技术总监：问错了，比不会写更麻烦",
+      "link": "https://www.infoq.cn/article/bycqtv38Ng71KoUjC0bH?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-26 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/UsmUkC9hH5FDdmkofO1b?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
-      "link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-03-26 18:34",
-      "summary": "It's only the latest of several side projects that the AI startup has ditched over the past week."
-    },
-    {
-      "title": "Introducing the OpenAI Safety Bug Bounty program",
-      "link": "https://openai.com/index/safety-bug-bounty",
-      "source": "openai_blog",
-      "pub_date": "2026-03-25 00:00",
-      "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration."
-    },
-    {
-      "title": "Powering product discovery in ChatGPT",
-      "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-      "source": "openai_blog",
-      "pub_date": "2026-03-24 09:00",
-      "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration."
+      "pub_date": "2026-03-27 16:37",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/bycqtv38Ng71KoUjC0bH?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "product": [
     {
-      "title": "从“被动感知”到“理解接触”，它石智航联合六大机构发布OmniVTA视触觉世界模型",
-      "link": "https://www.qbitai.com/2026/03/392105.html",
+      "title": "趋境科技发布ATaaS：全球领先的高效能AI Token生产服务平台",
+      "link": "https://www.qbitai.com/2026/03/392896.html",
       "source": "qbitai",
-      "pub_date": "2026-03-25 08:43",
-      "summary": "迈出灵巧操作的关键一步"
-    }
-  ],
-  "funding": [
-    {
-      "title": "金融Agent再获近2亿加码！启明红杉高瓴集体押注，5个月内连获两轮融资",
-      "link": "https://www.qbitai.com/2026/03/392684.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-26 10:04",
-      "summary": "金融AI无人区里的稀缺选手"
-    }
-  ],
-  "research": [
-    {
-      "title": "谷歌新论文把内存股价干崩了！KV cache压缩6倍，网友：硅谷成真了 profile-avatar",
-      "link": "https://www.qbitai.com/2026/03/392215.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-26 03:03",
-      "summary": "内存啥时候降价"
+      "pub_date": "2026-03-27 19:14",
+      "summary": "揭秘硬件高投入≠高效 Token 产出"
     },
     {
-      "title": "月之暗面创始人重磅判断：今年起 AI 研发模式将剧变，海量Token成研究员标配资源",
-      "link": "https://www.infoq.cn/article/WwJZI3vSu5qKagvDvhwK?utm_source=rss&utm_medium=article",
+      "title": "非营利组织上线首个“AI 失业补助”：每月发 1000 美元，持续 1 年",
+      "link": "https://www.infoq.cn/article/cuHaMeYSqw3dOYHW1P8A?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-26 18:20",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/WwJZI3vSu5qKagvDvhwK?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-03-27 18:52",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/cuHaMeYSqw3dOYHW1P8A?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "aiXcoder全新推出代码变更应用模型aiX-apply-4B，效果比肩DeepSeek-V3.2，推理效率提升15倍",
+      "link": "https://www.infoq.cn/article/aFl3mHPMjIGb6mZX5Dv1?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-27 10:51",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/aFl3mHPMjIGb6mZX5Dv1?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
+  "funding": [],
+  "research": [],
   "industry": [
     {
-      "title": "如何在 Snowflake 中利用 RelationalAI 原生应用实现图分析与社区检测 ｜ 技术实践",
-      "link": "https://www.infoq.cn/article/qBiJSCPWbKlXfLaUKqNW?utm_source=rss&utm_medium=article",
+      "title": "阿里云CIO与40家企业对话数月，打捞出鲜少公开的AI落地真相",
+      "link": "https://www.infoq.cn/article/jUUq67MUlQYq0146lADD?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-26 17:48",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qBiJSCPWbKlXfLaUKqNW?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "AI 是一次范式转移，选准生态位，投入自然清晰 | 飞猪 CTO 陈烨谈战略定力、组织进化与工程落地",
-      "link": "https://www.infoq.cn/article/lwk5AQiWPSRPAxRPpM3W?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-26 17:41",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/lwk5AQiWPSRPAxRPpM3W?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-03-27 10:20",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/jUUq67MUlQYq0146lADD?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
     {
-      "title": "在线等：如何优雅地分走鹅厂这600+万？",
-      "link": "https://www.qbitai.com/2026/03/392641.html",
+      "title": "国产玩家亮剑世界模型！把全模态卷到顶后，天工AI不藏了",
+      "link": "https://www.qbitai.com/2026/03/392835.html",
       "source": "qbitai",
-      "pub_date": "2026-03-26 08:27",
-      "summary": "KDD Cup首个中国算法赛道开启，学术赛道+社会赛道双开"
+      "pub_date": "2026-03-27 14:08",
+      "summary": "“已迈入AI原生的平台经济时代”"
     },
     {
-      "title": "1段话喊来13个“程序员”，阿里Qoder新模式让我躺着当CTO",
-      "link": "https://www.qbitai.com/2026/03/392281.html",
+      "title": "开会也能“装龙虾”？阶跃StepClaw承包GDPS 2026全场人气",
+      "link": "https://www.qbitai.com/2026/03/392819.html",
       "source": "qbitai",
-      "pub_date": "2026-03-26 07:48",
-      "summary": "多智能体协同编程，前后端同步开发"
+      "pub_date": "2026-03-27 11:21",
+      "summary": ""
     },
     {
-      "title": "马斯克xAI联创11跑10！仅剩特斯拉嫡系独苗留守",
-      "link": "https://www.qbitai.com/2026/03/392245.html",
+      "title": "NeurIPS滑跪认错！一切都是误会，已纠正",
+      "link": "https://www.qbitai.com/2026/03/392814.html",
       "source": "qbitai",
-      "pub_date": "2026-03-26 05:44",
-      "summary": "普通员工也大批流失"
+      "pub_date": "2026-03-27 09:49",
+      "summary": "在中国科协强势反制之后"
     },
     {
-      "title": "它石智航用“吉尼斯纪录”交卷真干活的具身大脑，丁文超：从来没有Plan B",
-      "link": "https://www.qbitai.com/2026/03/392137.html",
+      "title": "高通公司展望个人AI发展：多终端体验将以AI和用户为中心",
+      "link": "https://www.qbitai.com/2026/03/392790.html",
       "source": "qbitai",
-      "pub_date": "2026-03-26 02:53",
-      "summary": "利刃出鞘，一鸣惊人"
+      "pub_date": "2026-03-27 08:49",
+      "summary": "“个人AI将始于端侧，我们正在迈向以AI和用户为中心的多终端体验”"
     },
     {
-      "title": "第一批“首席龙虾官”，月薪6万",
-      "link": "https://www.qbitai.com/2026/03/392128.html",
+      "title": "企业软件底层逻辑脱胎换骨：从席位订阅到决策订阅，下一个万亿公司属于这类玩家",
+      "link": "https://www.qbitai.com/2026/03/392779.html",
       "source": "qbitai",
-      "pub_date": "2026-03-25 11:53",
-      "summary": "猎头开始捕捉养虾达人"
+      "pub_date": "2026-03-27 07:23",
+      "summary": "让企业判断力规模化复制"
     }
   ]
 }
