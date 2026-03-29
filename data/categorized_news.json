@@ -1,25 +1,25 @@
 {
   "headline": [
     {
-      "title": "华为盘古大模型负责人王云鹤离职，被曝Agent创业",
-      "link": "https://www.qbitai.com/2026/03/392903.html",
+      "title": "Claude 90分钟挖穿20年漏洞！5w星“安全”系统跌下神坛",
+      "link": "https://www.qbitai.com/2026/03/393186.html",
       "source": "qbitai",
-      "pub_date": "2026-03-28 06:01",
-      "summary": "曾获华为“十大发明”奖"
+      "pub_date": "2026-03-29 16:17",
+      "summary": "相关能力已远超人们预期，且正在指数级增长"
     },
     {
-      "title": "杨植麟当主持人的大模型圆桌：张鹏罗福莉夏立雪都放开说了",
-      "link": "https://www.qbitai.com/2026/03/392878.html",
+      "title": "打破代码大模型训练瓶颈：MicroCoder将算法数据框架训练经验升级",
+      "link": "https://www.qbitai.com/2026/03/393164.html",
       "source": "qbitai",
-      "pub_date": "2026-03-27 14:28",
-      "summary": "中国大模型顶流都来了！"
+      "pub_date": "2026-03-29 16:11",
+      "summary": "用34条经验破解现代代码模型训练瓶颈"
     },
     {
-      "title": "钉钉CLI开源！首批开放10项核心产品能力，原生支持ClaudeCode等",
-      "link": "https://www.qbitai.com/2026/03/392828.html",
+      "title": "Claude手搓3D建筑编辑器火爆GitHub！数万年费的专业软件瑟瑟发抖",
+      "link": "https://www.qbitai.com/2026/03/393125.html",
       "source": "qbitai",
-      "pub_date": "2026-03-27 11:50",
-      "summary": "国内首个CLI开源的国民级应用"
+      "pub_date": "2026-03-29 16:08",
+      "summary": "还能2D、3D无缝联动"
     },
     {
       "title": "1.9 万行 Claude 写的代码进入 Node.js 核心库！社区当场吵翻天，反对者呼吁封杀AI代码",
@@ -38,25 +38,18 @@
   ],
   "product": [
     {
+      "title": "小沓AI・智能营销产品 2026GDPS重磅发布",
+      "link": "https://www.qbitai.com/2026/03/393064.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-29 02:49",
+      "summary": "数据・解析・营销三位一体"
+    },
+    {
       "title": "趋境ATaaS平台发布，打造日均万亿产能的“Token工厂”",
       "link": "https://www.qbitai.com/2026/03/392988.html",
       "source": "qbitai",
       "pub_date": "2026-03-28 13:58",
       "summary": "郑纬民院士领衔解读Token服务新趋势"
-    },
-    {
-      "title": "GLM-5.1上线，编程表现贴Opus 4.6开大，Coding plan瞬间断货",
-      "link": "https://www.qbitai.com/2026/03/392914.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-28 06:06",
-      "summary": "在编程能力上相比上一代GLM-5直接飙升近10分"
-    },
-    {
-      "title": "趋境科技发布ATaaS：全球领先的高效能AI Token生产服务平台",
-      "link": "https://www.qbitai.com/2026/03/392896.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-27 19:14",
-      "summary": "揭秘硬件高投入≠高效 Token 产出"
     },
     {
       "title": "非营利组织上线首个“AI 失业补助”：每月发 1000 美元，持续 1 年",
@@ -68,42 +61,50 @@
   ],
   "funding": [],
   "research": [],
-  "industry": [],
+  "industry": [
+    {
+      "title": "面向生产的 AgentOps：小红书 AI Agent 应用工程化实践｜QCon北京",
+      "link": "https://www.infoq.cn/article/dl0kKEXKi8PSDB6xP53B?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-29 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/dl0kKEXKi8PSDB6xP53B?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "other": [
+    {
+      "title": "何同学会玩：让龙虾自己3D打印自己",
+      "link": "https://www.qbitai.com/2026/03/393085.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-29 15:21",
+      "summary": "属于全民Agent的时代，才算真正拉开了序幕"
+    },
+    {
+      "title": "论芯率先跑进AI for EDA产线：读芯片协议文档速度25倍，揪出respin级bug",
+      "link": "https://www.qbitai.com/2026/03/393045.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-29 01:27",
+      "summary": "自动输出可用验证代码"
+    },
+    {
+      "title": "海淀AI，集体开弓：少年极客、中年创客与ICU归来者",
+      "link": "https://www.qbitai.com/2026/03/392996.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-29 01:09",
+      "summary": "最强大脑，海淀集结"
+    },
+    {
+      "title": "风云G会圆满落幕 共绘GEO行业可信协同发展新蓝图",
+      "link": "https://www.qbitai.com/2026/03/393079.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-29 01:07",
+      "summary": "为数字经济繁荣与AI时代信息文明建设贡献更大力量。"
+    },
     {
       "title": "中关村论坛“AI2026：向人立心，向实立命”特邀闭门会顺利举办",
       "link": "https://www.qbitai.com/2026/03/392981.html",
       "source": "qbitai",
       "pub_date": "2026-03-28 10:51",
       "summary": "中关村论坛“AI2026：向人立心，向实立命”特邀闭门会在中关村国际创新中心举行"
-    },
-    {
-      "title": "8.68万新车普及车位到车位，世界模型不吃高算力！零跑夯爆了",
-      "link": "https://www.qbitai.com/2026/03/392948.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-28 06:16",
-      "summary": "零跑开始尝试在智能化上问鼎了"
-    },
-    {
-      "title": "25.98万元起！智己LS8震撼开启预售，30万内享百万级跨代际体验",
-      "link": "https://www.qbitai.com/2026/03/392900.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-28 02:09",
-      "summary": ""
-    },
-    {
-      "title": "国产玩家亮剑世界模型！把全模态卷到顶后，天工AI不藏了",
-      "link": "https://www.qbitai.com/2026/03/392835.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-27 14:08",
-      "summary": "“已迈入AI原生的平台经济时代”"
-    },
-    {
-      "title": "绿色 IT ：如何减轻 AI 对环境的影响",
-      "link": "https://www.infoq.cn/article/T0iH5X6AzL5jSe12ktdk?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-28 15:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/T0iH5X6AzL5jSe12ktdk?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
