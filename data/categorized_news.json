@@ -1,66 +1,67 @@
 {
   "headline": [
     {
-      "title": "Claude 90分钟挖穿20年漏洞！5w星“安全”系统跌下神坛",
-      "link": "https://www.qbitai.com/2026/03/393186.html",
+      "title": "阿里发布Qwen3.5-Omni，多模态能力超越Gemini-3.1 Pro",
+      "link": "https://www.qbitai.com/2026/03/393460.html",
       "source": "qbitai",
-      "pub_date": "2026-03-29 16:17",
-      "summary": "相关能力已远超人们预期，且正在指数级增长"
+      "pub_date": "2026-03-30 14:21",
+      "summary": "每百万Tokens输入不到0.8元，比Gemini-3.1 Pro的1/10还低。"
     },
     {
-      "title": "打破代码大模型训练瓶颈：MicroCoder将算法数据框架训练经验升级",
-      "link": "https://www.qbitai.com/2026/03/393164.html",
+      "title": "预测这件事，人类越犹豫，这个大模型越有优势",
+      "link": "https://www.qbitai.com/2026/03/393353.html",
       "source": "qbitai",
-      "pub_date": "2026-03-29 16:11",
-      "summary": "用34条经验破解现代代码模型训练瓶颈"
+      "pub_date": "2026-03-30 08:34",
+      "summary": "Elo 1034.2分霸榜，领先Gemini-3.1-Pro、Claude-Opus-4.6"
     },
     {
-      "title": "Claude手搓3D建筑编辑器火爆GitHub！数万年费的专业软件瑟瑟发抖",
-      "link": "https://www.qbitai.com/2026/03/393125.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-29 16:08",
-      "summary": "还能2D、3D无缝联动"
-    },
-    {
-      "title": "1.9 万行 Claude 写的代码进入 Node.js 核心库！社区当场吵翻天，反对者呼吁封杀AI代码",
-      "link": "https://www.infoq.cn/article/WryxXgBQWKB29rkoxuLo?utm_source=rss&utm_medium=article",
+      "title": "OpenAI扩展Responses API，为自主智能体提供基础设施",
+      "link": "https://www.infoq.cn/article/lrjJhCF8qHoQ1VbsacNz?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-27 18:30",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/WryxXgBQWKB29rkoxuLo?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-03-30 15:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/lrjJhCF8qHoQ1VbsacNz?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "AI 已能写 80% 代码，但 Agent 也有致命短板！OpenAI Codex 技术总监：问错了，比不会写更麻烦",
-      "link": "https://www.infoq.cn/article/bycqtv38Ng71KoUjC0bH?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-27 16:37",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/bycqtv38Ng71KoUjC0bH?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "Why OpenAI really shut down Sora",
+      "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-03-30 03:09",
+      "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public, raised immediate suspicions. The app had invited users to upload their ow"
+    },
+    {
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "link": "https://openai.com/index/safety-bug-bounty",
+      "source": "openai_blog",
+      "pub_date": "2026-03-25 00:00",
+      "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration."
     }
   ],
   "product": [
     {
-      "title": "小沓AI・智能营销产品 2026GDPS重磅发布",
-      "link": "https://www.qbitai.com/2026/03/393064.html",
+      "title": "上海AI实验室发布“AGI4S珠穆朗玛计划”，构建中国科学智能创新中枢",
+      "link": "https://www.qbitai.com/2026/03/393344.html",
       "source": "qbitai",
-      "pub_date": "2026-03-29 02:49",
-      "summary": "数据・解析・营销三位一体"
+      "pub_date": "2026-03-30 07:24",
+      "summary": "邀全球科研力量共同定义未来"
     },
     {
-      "title": "趋境ATaaS平台发布，打造日均万亿产能的“Token工厂”",
-      "link": "https://www.qbitai.com/2026/03/392988.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-28 13:58",
-      "summary": "郑纬民院士领衔解读Token服务新趋势"
-    },
-    {
-      "title": "非营利组织上线首个“AI 失业补助”：每月发 1000 美元，持续 1 年",
-      "link": "https://www.infoq.cn/article/cuHaMeYSqw3dOYHW1P8A?utm_source=rss&utm_medium=article",
+      "title": "Revenium发布工具注册中心，揭示AI智能体的真实成本",
+      "link": "https://www.infoq.cn/article/PwHSMp0gMz4DVVwA1bC8?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-27 18:52",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/cuHaMeYSqw3dOYHW1P8A?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-03-30 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/PwHSMp0gMz4DVVwA1bC8?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
-  "research": [],
+  "research": [
+    {
+      "title": "利用 Snowflake Cortex AI 能力，打造高效 IPO 研究智能体 ｜ 技术实践",
+      "link": "https://www.infoq.cn/article/MesTUMq8XAB0Ip3ZTlSw?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-30 19:30",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/MesTUMq8XAB0Ip3ZTlSw?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "industry": [
     {
       "title": "面向生产的 AgentOps：小红书 AI Agent 应用工程化实践｜QCon北京",
@@ -72,39 +73,39 @@
   ],
   "other": [
     {
-      "title": "何同学会玩：让龙虾自己3D打印自己",
-      "link": "https://www.qbitai.com/2026/03/393085.html",
+      "title": "全球OCR新王来自中国开源！GitHub狂揽73300+Star",
+      "link": "https://www.qbitai.com/2026/03/393433.html",
       "source": "qbitai",
-      "pub_date": "2026-03-29 15:21",
-      "summary": "属于全民Agent的时代，才算真正拉开了序幕"
+      "pub_date": "2026-03-30 14:15",
+      "summary": "谷歌持续霸榜多年的PaddleOCR被赶超"
     },
     {
-      "title": "论芯率先跑进AI for EDA产线：读芯片协议文档速度25倍，揪出respin级bug",
-      "link": "https://www.qbitai.com/2026/03/393045.html",
+      "title": "“杭州六小龙”第一股来了！浙大校友创业，年入8亿冲刺IPO",
+      "link": "https://www.qbitai.com/2026/03/393419.html",
       "source": "qbitai",
-      "pub_date": "2026-03-29 01:27",
-      "summary": "自动输出可用验证代码"
+      "pub_date": "2026-03-30 08:56",
+      "summary": "群核科技已通过港交所上市聆讯"
     },
     {
-      "title": "海淀AI，集体开弓：少年极客、中年创客与ICU归来者",
-      "link": "https://www.qbitai.com/2026/03/392996.html",
+      "title": "美国开源AI最后的旗帜，也倒了",
+      "link": "https://www.qbitai.com/2026/03/393395.html",
       "source": "qbitai",
-      "pub_date": "2026-03-29 01:09",
-      "summary": "最强大脑，海淀集结"
+      "pub_date": "2026-03-30 08:47",
+      "summary": "Ai2削减开源模型资金，研发人员集体出走"
     },
     {
-      "title": "风云G会圆满落幕 共绘GEO行业可信协同发展新蓝图",
-      "link": "https://www.qbitai.com/2026/03/393079.html",
+      "title": "整个公司一起吃虾！这个开源项目，让OpenClaw实现企业级部署",
+      "link": "https://www.qbitai.com/2026/03/393382.html",
       "source": "qbitai",
-      "pub_date": "2026-03-29 01:07",
-      "summary": "为数字经济繁荣与AI时代信息文明建设贡献更大力量。"
+      "pub_date": "2026-03-30 08:45",
+      "summary": "一个系统，管好一池龙虾"
     },
     {
-      "title": "中关村论坛“AI2026：向人立心，向实立命”特邀闭门会顺利举办",
-      "link": "https://www.qbitai.com/2026/03/392981.html",
+      "title": "Nature Index特刊聚焦天立国际：系统呈现中国教育AGI实践探索",
+      "link": "https://www.qbitai.com/2026/03/393336.html",
       "source": "qbitai",
-      "pub_date": "2026-03-28 10:51",
-      "summary": "中关村论坛“AI2026：向人立心，向实立命”特邀闭门会在中关村国际创新中心举行"
+      "pub_date": "2026-03-30 04:08",
+      "summary": "以认知建模为核心的教育AGI探索"
     }
   ]
 }
