@@ -1,32 +1,25 @@
 {
   "headline": [
     {
-      "title": "阿里发布Qwen3.5-Omni，多模态能力超越Gemini-3.1 Pro",
-      "link": "https://www.qbitai.com/2026/03/393460.html",
+      "title": "智谱上市后首份财报：超7.24亿元！国内收入最高大模型公司，MaaS发力了",
+      "link": "https://www.qbitai.com/2026/03/394135.html",
       "source": "qbitai",
-      "pub_date": "2026-03-30 14:21",
-      "summary": "每百万Tokens输入不到0.8元，比Gemini-3.1 Pro的1/10还低。"
+      "pub_date": "2026-03-31 12:08",
+      "summary": "提出新概念：Token架构力"
     },
     {
-      "title": "预测这件事，人类越犹豫，这个大模型越有优势",
-      "link": "https://www.qbitai.com/2026/03/393353.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-30 08:34",
-      "summary": "Elo 1034.2分霸榜，领先Gemini-3.1-Pro、Claude-Opus-4.6"
-    },
-    {
-      "title": "OpenAI扩展Responses API，为自主智能体提供基础设施",
-      "link": "https://www.infoq.cn/article/lrjJhCF8qHoQ1VbsacNz?utm_source=rss&utm_medium=article",
+      "title": "昨夜，Claude 接管电脑狂飙代码！OpenAI 发布最“阴险”插件截胡",
+      "link": "https://www.infoq.cn/article/5PyUjNXpqHs9Zd3kB67m?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-30 15:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/lrjJhCF8qHoQ1VbsacNz?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-03-31 17:14",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/5PyUjNXpqHs9Zd3kB67m?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Why OpenAI really shut down Sora",
-      "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+      "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+      "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-03-30 03:09",
-      "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public, raised immediate suspicions. The app had invited users to upload their ow"
+      "pub_date": "2026-03-31 21:25",
+      "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO."
     },
     {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
@@ -34,26 +27,76 @@
       "source": "openai_blog",
       "pub_date": "2026-03-25 00:00",
       "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration."
+    },
+    {
+      "title": "Update on the OpenAI Foundation",
+      "link": "https://openai.com/index/update-on-the-openai-foundation",
+      "source": "openai_blog",
+      "pub_date": "2026-03-24 09:00",
+      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs."
     }
   ],
   "product": [
     {
-      "title": "上海AI实验室发布“AGI4S珠穆朗玛计划”，构建中国科学智能创新中枢",
-      "link": "https://www.qbitai.com/2026/03/393344.html",
+      "title": "刚刚，TRAE SOLO上线独立端：已经不满足写代码，还要跨界干活！",
+      "link": "https://www.qbitai.com/2026/03/394014.html",
       "source": "qbitai",
-      "pub_date": "2026-03-30 07:24",
-      "summary": "邀全球科研力量共同定义未来"
+      "pub_date": "2026-03-31 10:18",
+      "summary": "PC和Web两端齐发"
     },
     {
-      "title": "Revenium发布工具注册中心，揭示AI智能体的真实成本",
-      "link": "https://www.infoq.cn/article/PwHSMp0gMz4DVVwA1bC8?utm_source=rss&utm_medium=article",
+      "title": "ClawTip来了！ 京东科技首发推出AI智能体的“专属自主零钱包”",
+      "link": "https://www.qbitai.com/2026/03/394011.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-31 09:12",
+      "summary": "AI智能体之间真正自主支付的钱包，来了！"
+    },
+    {
+      "title": "ClawTip来了！京东科技首发推出AI智能体的“专属自主零钱包”",
+      "link": "https://www.infoq.cn/article/0LYV5gNFxcNMV4vUeISx?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-03-30 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/PwHSMp0gMz4DVVwA1bC8?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-03-31 21:53",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/0LYV5gNFxcNMV4vUeISx?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "等了两年，苹果国行iPhone AI凌晨突袭“上线”？数小时后光速撤回，乌龙原因曝光",
+      "link": "https://www.infoq.cn/article/oBwDcReTgYrw0qNiTeO9?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-31 17:35",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/oBwDcReTgYrw0qNiTeO9?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [],
+  "funding": [
+    {
+      "title": "公司注册10天，估值逾10亿美元！理想智驾大牛刷出具身创投新热度",
+      "link": "https://www.qbitai.com/2026/03/394149.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-31 15:25",
+      "summary": "理想前智驾一号位和阿里前副总裁携手创业"
+    },
+    {
+      "title": "玻色量子完成10亿元B轮融资，“十五五”规划专用量子计算机赛道唯一代表！",
+      "link": "https://www.qbitai.com/2026/03/393856.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-31 05:05",
+      "summary": "中国唯一“通用+专用”量子计算并行"
+    }
+  ],
   "research": [
+    {
+      "title": "实测拿215项SOTA的Qwen3.5-Omni：摄像头一开，AI给我现场讲论文、撸代码",
+      "link": "https://www.qbitai.com/2026/03/393941.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-31 08:22",
+      "summary": "能看能听能唠嗑，还能现场vibe coding"
+    },
+    {
+      "title": "2700GB高质量数据，训出空间智能SOTA，背后秘诀全栈开源",
+      "link": "https://www.qbitai.com/2026/03/393864.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-31 05:53",
+      "summary": "300万对RGB-D数据，专治机器人看不清"
+    },
     {
       "title": "利用 Snowflake Cortex AI 能力，打造高效 IPO 研究智能体 ｜ 技术实践",
       "link": "https://www.infoq.cn/article/MesTUMq8XAB0Ip3ZTlSw?utm_source=rss&utm_medium=article",
@@ -64,48 +107,48 @@
   ],
   "industry": [
     {
-      "title": "面向生产的 AgentOps：小红书 AI Agent 应用工程化实践｜QCon北京",
-      "link": "https://www.infoq.cn/article/dl0kKEXKi8PSDB6xP53B?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-29 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/dl0kKEXKi8PSDB6xP53B?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "瑞声科技公开人形机器人感知解决方案，释放机器人业务加速落地信号",
+      "link": "https://www.qbitai.com/2026/03/393883.html",
+      "source": "qbitai",
+      "pub_date": "2026-03-31 06:06",
+      "summary": "机器人产业链的竞争，正在从单点技术能力转向系统能力、工程能力和交付能力的综合比拼"
     }
   ],
   "other": [
     {
-      "title": "全球OCR新王来自中国开源！GitHub狂揽73300+Star",
-      "link": "https://www.qbitai.com/2026/03/393433.html",
+      "title": "智能体收入暴增68%！这家港股AI公司靠「关系」驯服企业龙虾",
+      "link": "https://www.qbitai.com/2026/03/393984.html",
       "source": "qbitai",
-      "pub_date": "2026-03-30 14:15",
-      "summary": "谷歌持续霸榜多年的PaddleOCR被赶超"
+      "pub_date": "2026-03-31 08:33",
+      "summary": "ToB AI最贵重的门票"
     },
     {
-      "title": "“杭州六小龙”第一股来了！浙大校友创业，年入8亿冲刺IPO",
-      "link": "https://www.qbitai.com/2026/03/393419.html",
+      "title": "机器人线下真机对线打PK！这届黑客松可太会玩了",
+      "link": "https://www.qbitai.com/2026/03/393887.html",
       "source": "qbitai",
-      "pub_date": "2026-03-30 08:56",
-      "summary": "群核科技已通过港交所上市聆讯"
+      "pub_date": "2026-03-31 06:41",
+      "summary": "以赛促研、以研促产"
     },
     {
-      "title": "美国开源AI最后的旗帜，也倒了",
-      "link": "https://www.qbitai.com/2026/03/393395.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-30 08:47",
-      "summary": "Ai2削减开源模型资金，研发人员集体出走"
+      "title": "Apache Doris + SelectDB：定义 AI 时代，实时分析的三大范式",
+      "link": "https://www.infoq.cn/article/upjalB3iBabw6pQaQRTX?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-31 16:41",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/upjalB3iBabw6pQaQRTX?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "整个公司一起吃虾！这个开源项目，让OpenClaw实现企业级部署",
-      "link": "https://www.qbitai.com/2026/03/393382.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-30 08:45",
-      "summary": "一个系统，管好一池龙虾"
+      "title": "Airbnb在发现问题并非源于企业文化后，重新构建了告警开发流程",
+      "link": "https://www.infoq.cn/article/gdFZcSBtQMf8HHWZ6k3j?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-31 16:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/gdFZcSBtQMf8HHWZ6k3j?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Nature Index特刊聚焦天立国际：系统呈现中国教育AGI实践探索",
-      "link": "https://www.qbitai.com/2026/03/393336.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-30 04:08",
-      "summary": "以认知建模为核心的教育AGI探索"
+      "title": "阶跃星辰安全研发专家李昌昊确认出席QCon北京站，分享构建 AI Agent 从推理到执行的全链路无侵入可观测体系",
+      "link": "https://www.infoq.cn/article/aY5ud3jSqH1U8cvCCW13?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-03-31 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/aY5ud3jSqH1U8cvCCW13?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
