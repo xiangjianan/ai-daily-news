@@ -1,110 +1,88 @@
 {
   "headline": [
     {
-      "title": "Anthropic被逼急了！亲生龙虾意外曝光，Karpathy：这就是Claude Claw",
-      "link": "https://www.qbitai.com/2026/04/394516.html",
+      "title": "上市首日大涨111%！智谱MiniMax之后，德适交出大模型商业化最硬核答卷",
+      "link": "https://www.qbitai.com/2026/04/395162.html",
       "source": "qbitai",
-      "pub_date": "2026-04-01 08:41",
-      "summary": "要不……干脆就叫Clawdbot？"
+      "pub_date": "2026-04-02 10:02",
+      "summary": "毛利率96.5%，谁说AI医疗不赚钱？"
     },
     {
-      "title": "Claude终于承认乱扣费！最高多收你20倍，一句「你好」干掉13%额度",
-      "link": "https://www.qbitai.com/2026/04/394177.html",
+      "title": "开盒Claude Code的原来是中国00后！曾怒怼Anthropic窃取用户代码",
+      "link": "https://www.qbitai.com/2026/04/395091.html",
       "source": "qbitai",
-      "pub_date": "2026-04-01 05:10",
-      "summary": "这两天的Claude Code，已经接近“不可用”的状态。"
+      "pub_date": "2026-04-02 07:22",
+      "summary": "凭一己之力推动全球AI社区向前走了一大步"
     },
     {
-      "title": "1220亿美元！OpenAI创下史上最大单笔融资纪录",
-      "link": "https://www.qbitai.com/2026/04/394169.html",
+      "title": "中国最强编程模型来了！ 阿里Qwen3.6-Plus性能直逼Claude，国产大模型杀入决赛圈",
+      "link": "https://www.qbitai.com/2026/04/394704.html",
       "source": "qbitai",
-      "pub_date": "2026-04-01 00:56",
-      "summary": "OpenAI创下史上最大单笔融资纪录"
+      "pub_date": "2026-04-02 07:08",
+      "summary": "中国最强编程模型来了"
     },
     {
-      "title": "智谱上市后首份财报：超7.24亿元！国内收入最高大模型公司，MaaS发力了",
-      "link": "https://www.qbitai.com/2026/03/394135.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-31 12:08",
-      "summary": "提出新概念：Token架构力"
-    },
-    {
-      "title": "1220亿美金！OpenAI 完成史上最大规模融资，微软“退居二线”，首次提及“超级应用”",
-      "link": "https://www.infoq.cn/article/0gETwo2o5fFsUQxotf1J?utm_source=rss&utm_medium=article",
+      "title": "AI 资本大转向：OpenAI 凉、Anthropic 火、马斯克赢",
+      "link": "https://www.infoq.cn/article/jTBOKdUUCdR86YYD1cBF?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-04-01 18:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/0gETwo2o5fFsUQxotf1J?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-04-02 17:53",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/jTBOKdUUCdR86YYD1cBF?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "“奥特曼拉来多少万亿都没用”！UML之父判断：大模型不会真正思考，从架构上就是死胡同",
+      "link": "https://www.infoq.cn/article/lOu1d22q6Qom0qp5ifxP?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-02 12:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/lOu1d22q6Qom0qp5ifxP?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "product": [
     {
-      "title": "刚刚，TRAE SOLO上线独立端：已经不满足写代码，还要跨界干活！",
-      "link": "https://www.qbitai.com/2026/03/394014.html",
+      "title": "开卷视觉编程！GLM-5V-Turbo上线，一张草图搞定前端",
+      "link": "https://www.qbitai.com/2026/04/394641.html",
       "source": "qbitai",
-      "pub_date": "2026-03-31 10:18",
-      "summary": "PC和Web两端齐发"
-    },
-    {
-      "title": "ClawTip来了！京东科技首发推出AI智能体的“专属自主零钱包”",
-      "link": "https://www.infoq.cn/article/0LYV5gNFxcNMV4vUeISx?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-31 21:53",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/0LYV5gNFxcNMV4vUeISx?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "等了两年，苹果国行iPhone AI凌晨突袭“上线”？数小时后光速撤回，乌龙原因曝光",
-      "link": "https://www.infoq.cn/article/oBwDcReTgYrw0qNiTeO9?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-03-31 17:35",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/oBwDcReTgYrw0qNiTeO9?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-04-02 06:28",
+      "summary": "以后改用Vision Coding"
     }
   ],
-  "funding": [
-    {
-      "title": "公司注册10天，估值逾10亿美元！理想智驾大牛刷出具身创投新热度",
-      "link": "https://www.qbitai.com/2026/03/394149.html",
-      "source": "qbitai",
-      "pub_date": "2026-03-31 15:25",
-      "summary": "理想前智驾一号位和阿里前副总裁携手创业"
-    }
-  ],
+  "funding": [],
   "research": [],
   "industry": [],
   "other": [
     {
-      "title": "为啥武汉无人车也“呆”了一次",
-      "link": "https://www.qbitai.com/2026/04/394554.html",
+      "title": "我的天！豆包每天烧120万亿Tokens啊！",
+      "link": "https://www.qbitai.com/2026/04/395202.html",
       "source": "qbitai",
-      "pub_date": "2026-04-01 12:06",
-      "summary": "被误解的“安全感”"
+      "pub_date": "2026-04-02 12:30",
+      "summary": "Seedance 2.0也可以公测了"
     },
     {
-      "title": "跟美图RoboNeo说句话，AI帮你复刻爆款",
-      "link": "https://www.qbitai.com/2026/04/394547.html",
+      "title": "《自然通讯》重磅：分子之心AI技术解锁蛋白质设计新范式",
+      "link": "https://www.qbitai.com/2026/04/395198.html",
       "source": "qbitai",
-      "pub_date": "2026-04-01 09:47",
-      "summary": "美图旗下RoboNeo成跨境创作新利器"
+      "pub_date": "2026-04-02 10:27",
+      "summary": "赋能药物研发等万亿产业"
     },
     {
-      "title": "国内最强生图模型Wan2.7-Image来了",
-      "link": "https://www.qbitai.com/2026/04/394530.html",
+      "title": "AI原生时代来临，商汤大装置如何重塑算力集群架构",
+      "link": "https://www.qbitai.com/2026/04/395194.html",
       "source": "qbitai",
-      "pub_date": "2026-04-01 09:34",
-      "summary": "具备文生图、图生组图、图像指令编辑和交互式编辑等全链路能力"
+      "pub_date": "2026-04-02 10:21",
+      "summary": "商汤大装置分享AI原生云实践"
     },
     {
-      "title": "Sora走了，PixVerse V6来了！AI视频空间时间处理能力大增，延时拍摄、慢动作都能搞",
-      "link": "https://www.qbitai.com/2026/04/394373.html",
+      "title": "悟空率先接入国产最强编程模型Qwen3.6-Plus",
+      "link": "https://www.qbitai.com/2026/04/395155.html",
       "source": "qbitai",
-      "pub_date": "2026-04-01 06:42",
-      "summary": "解锁AI视频沉浸式观感"
+      "pub_date": "2026-04-02 08:28",
+      "summary": "阿里AI模型与场景结合的关键实践"
     },
     {
-      "title": "深化 AI 与开源协同，构建开放共赢生态 —— 太湖共识",
-      "link": "https://www.infoq.cn/article/rBHMv1NbHASpMK2akGr8?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-01 20:14",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/rBHMv1NbHASpMK2akGr8?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "全尺寸具身人形销量全球第一之后，优必选再迎资本投票：花旗上调目标价至190港元",
+      "link": "https://www.qbitai.com/2026/04/395151.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-02 08:23",
+      "summary": ""
     }
   ]
 }
