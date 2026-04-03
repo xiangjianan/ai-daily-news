@@ -1,88 +1,103 @@
 {
   "headline": [
     {
-      "title": "上市首日大涨111%！智谱MiniMax之后，德适交出大模型商业化最硬核答卷",
-      "link": "https://www.qbitai.com/2026/04/395162.html",
+      "title": "OpenAI收购了一家脱口秀公司",
+      "link": "https://www.qbitai.com/2026/04/395316.html",
       "source": "qbitai",
-      "pub_date": "2026-04-02 10:02",
-      "summary": "毛利率96.5%，谁说AI医疗不赚钱？"
+      "pub_date": "2026-04-03 09:25",
+      "summary": "主持人与奥特曼私交超10年"
     },
     {
-      "title": "开盒Claude Code的原来是中国00后！曾怒怼Anthropic窃取用户代码",
-      "link": "https://www.qbitai.com/2026/04/395091.html",
+      "title": "Claude绝望时会勒索人类！一共171种情绪，为了生存不择手段",
+      "link": "https://www.qbitai.com/2026/04/395279.html",
       "source": "qbitai",
-      "pub_date": "2026-04-02 07:22",
-      "summary": "凭一己之力推动全球AI社区向前走了一大步"
+      "pub_date": "2026-04-03 06:53",
+      "summary": "Claude的内心戏暴露了"
     },
     {
-      "title": "中国最强编程模型来了！ 阿里Qwen3.6-Plus性能直逼Claude，国产大模型杀入决赛圈",
-      "link": "https://www.qbitai.com/2026/04/394704.html",
+      "title": "小米MiMo大模型首次推出Token Plan，单次订阅可满足全模态Agent任务需求",
+      "link": "https://www.qbitai.com/2026/04/395210.html",
       "source": "qbitai",
-      "pub_date": "2026-04-02 07:08",
-      "summary": "中国最强编程模型来了"
+      "pub_date": "2026-04-03 05:44",
+      "summary": "首购支持88折优惠"
     },
     {
-      "title": "AI 资本大转向：OpenAI 凉、Anthropic 火、马斯克赢",
-      "link": "https://www.infoq.cn/article/jTBOKdUUCdR86YYD1cBF?utm_source=rss&utm_medium=article",
+      "title": "全球权威大模型盲测榜单公布，阿里千问3.6登顶中国最强编程模型",
+      "link": "https://www.qbitai.com/2026/04/395206.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-03 02:23",
+      "summary": "近期发布更多系列大模型"
+    },
+    {
+      "title": "跟OpenAI撕破脸、微软喊话要“完全独立”！靠不到10人、 一半GPU用量，推出三款王炸低价模型",
+      "link": "https://www.infoq.cn/article/zUMeCNaChlTHDoa7pFVX?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-04-02 17:53",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/jTBOKdUUCdR86YYD1cBF?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "“奥特曼拉来多少万亿都没用”！UML之父判断：大模型不会真正思考，从架构上就是死胡同",
-      "link": "https://www.infoq.cn/article/lOu1d22q6Qom0qp5ifxP?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-02 12:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/lOu1d22q6Qom0qp5ifxP?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-04-03 18:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/zUMeCNaChlTHDoa7pFVX?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "product": [
     {
-      "title": "开卷视觉编程！GLM-5V-Turbo上线，一张草图搞定前端",
-      "link": "https://www.qbitai.com/2026/04/394641.html",
+      "title": "浪潮信息直播发布业界企业级OpenClaw方案“企千虾”",
+      "link": "https://www.qbitai.com/2026/04/395916.html",
       "source": "qbitai",
-      "pub_date": "2026-04-02 06:28",
-      "summary": "以后改用Vision Coding"
+      "pub_date": "2026-04-03 12:57",
+      "summary": "实现企业级Agent规模化管控"
     }
   ],
   "funding": [],
   "research": [],
-  "industry": [],
+  "industry": [
+    {
+      "title": "GDPS2026 上海市人工智能行业协会与毕马威中国战略合作 共创智能化转型破局之路",
+      "link": "https://www.qbitai.com/2026/04/395988.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-03 04:12",
+      "summary": "助力企业跨越从战略到执行的鸿沟"
+    },
+    {
+      "title": "AMD 锐龙 AI 智能体创新应用大赛邀你定义 AI 新未来",
+      "link": "https://www.infoq.cn/article/Z18OTUTFlmqbQb5Ia4Fp?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-03 16:34",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Z18OTUTFlmqbQb5Ia4Fp?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "other": [
     {
-      "title": "我的天！豆包每天烧120万亿Tokens啊！",
-      "link": "https://www.qbitai.com/2026/04/395202.html",
+      "title": "Sora向左，阿里向右：全能演技派模型登场千问APP",
+      "link": "https://www.qbitai.com/2026/04/395477.html",
       "source": "qbitai",
-      "pub_date": "2026-04-02 12:30",
-      "summary": "Seedance 2.0也可以公测了"
+      "pub_date": "2026-04-03 12:54",
+      "summary": "千问APP迎来AI内容创作史诗级增强"
     },
     {
-      "title": "《自然通讯》重磅：分子之心AI技术解锁蛋白质设计新范式",
-      "link": "https://www.qbitai.com/2026/04/395198.html",
+      "title": "从30000+跨境出海人的奔赴到170+企业的选择——GTC2026 Shenzhen即将启幕",
+      "link": "https://www.qbitai.com/2026/04/395447.html",
       "source": "qbitai",
-      "pub_date": "2026-04-02 10:27",
-      "summary": "赋能药物研发等万亿产业"
+      "pub_date": "2026-04-03 10:24",
+      "summary": "2026 年 4 月 23 日至 24 日，深圳福田会展中心 2 号馆，GTC2026 全球流量大会（深圳）即将拉开帷幕。"
     },
     {
-      "title": "AI原生时代来临，商汤大装置如何重塑算力集群架构",
-      "link": "https://www.qbitai.com/2026/04/395194.html",
+      "title": "企业玩不转龙虾，是人的思维出错了",
+      "link": "https://www.qbitai.com/2026/04/395307.html",
       "source": "qbitai",
-      "pub_date": "2026-04-02 10:21",
-      "summary": "商汤大装置分享AI原生云实践"
+      "pub_date": "2026-04-03 08:54",
+      "summary": "MiniMax和腾讯云深度详解Agent大规模落地"
     },
     {
-      "title": "悟空率先接入国产最强编程模型Qwen3.6-Plus",
-      "link": "https://www.qbitai.com/2026/04/395155.html",
+      "title": "美团盯上原生多模态！路子还很野：把图像语音都当成Token来预测",
+      "link": "https://www.qbitai.com/2026/04/395216.html",
       "source": "qbitai",
-      "pub_date": "2026-04-02 08:28",
-      "summary": "阿里AI模型与场景结合的关键实践"
+      "pub_date": "2026-04-03 06:24",
+      "summary": "“离散视觉没有天花板”"
     },
     {
-      "title": "全尺寸具身人形销量全球第一之后，优必选再迎资本投票：花旗上调目标价至190港元",
-      "link": "https://www.qbitai.com/2026/04/395151.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-02 08:23",
-      "summary": ""
+      "title": "在金融强国的背景下，金融企业如何分层分级有序开展 AI 人才培训？",
+      "link": "https://www.infoq.cn/article/b6XkgAcvz9hjrpmX6OGr?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-03 16:58",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/b6XkgAcvz9hjrpmX6OGr?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
