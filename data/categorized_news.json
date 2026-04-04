@@ -1,60 +1,45 @@
 {
   "headline": [
     {
-      "title": "OpenAI收购了一家脱口秀公司",
-      "link": "https://www.qbitai.com/2026/04/395316.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-03 09:25",
-      "summary": "主持人与奥特曼私交超10年"
-    },
-    {
-      "title": "Claude绝望时会勒索人类！一共171种情绪，为了生存不择手段",
-      "link": "https://www.qbitai.com/2026/04/395279.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-03 06:53",
-      "summary": "Claude的内心戏暴露了"
-    },
-    {
-      "title": "小米MiMo大模型首次推出Token Plan，单次订阅可满足全模态Agent任务需求",
-      "link": "https://www.qbitai.com/2026/04/395210.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-03 05:44",
-      "summary": "首购支持88折优惠"
-    },
-    {
-      "title": "全球权威大模型盲测榜单公布，阿里千问3.6登顶中国最强编程模型",
-      "link": "https://www.qbitai.com/2026/04/395206.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-03 02:23",
-      "summary": "近期发布更多系列大模型"
-    },
-    {
       "title": "跟OpenAI撕破脸、微软喊话要“完全独立”！靠不到10人、 一半GPU用量，推出三款王炸低价模型",
       "link": "https://www.infoq.cn/article/zUMeCNaChlTHDoa7pFVX?utm_source=rss&utm_medium=article",
       "source": "infoq",
       "pub_date": "2026-04-03 18:00",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/zUMeCNaChlTHDoa7pFVX?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
-  "product": [
+    },
     {
-      "title": "浪潮信息直播发布业界企业级OpenClaw方案“企千虾”",
-      "link": "https://www.qbitai.com/2026/04/395916.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-03 12:57",
-      "summary": "实现企业级Agent规模化管控"
+      "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+      "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-04-03 20:35",
+      "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows."
+    },
+    {
+      "title": "OpenAI acquires TBPN",
+      "link": "https://openai.com/index/openai-acquires-tbpn",
+      "source": "openai_blog",
+      "pub_date": "2026-04-02 10:30",
+      "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community."
+    },
+    {
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "link": "https://openai.com/index/safety-bug-bounty",
+      "source": "openai_blog",
+      "pub_date": "2026-03-25 00:00",
+      "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration."
+    },
+    {
+      "title": "Update on the OpenAI Foundation",
+      "link": "https://openai.com/index/update-on-the-openai-foundation",
+      "source": "openai_blog",
+      "pub_date": "2026-03-24 09:00",
+      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs."
     }
   ],
+  "product": [],
   "funding": [],
   "research": [],
   "industry": [
-    {
-      "title": "GDPS2026 上海市人工智能行业协会与毕马威中国战略合作 共创智能化转型破局之路",
-      "link": "https://www.qbitai.com/2026/04/395988.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-03 04:12",
-      "summary": "助力企业跨越从战略到执行的鸿沟"
-    },
     {
       "title": "AMD 锐龙 AI 智能体创新应用大赛邀你定义 AI 新未来",
       "link": "https://www.infoq.cn/article/Z18OTUTFlmqbQb5Ia4Fp?utm_source=rss&utm_medium=article",
@@ -65,32 +50,11 @@
   ],
   "other": [
     {
-      "title": "Sora向左，阿里向右：全能演技派模型登场千问APP",
-      "link": "https://www.qbitai.com/2026/04/395477.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-03 12:54",
-      "summary": "千问APP迎来AI内容创作史诗级增强"
-    },
-    {
-      "title": "从30000+跨境出海人的奔赴到170+企业的选择——GTC2026 Shenzhen即将启幕",
-      "link": "https://www.qbitai.com/2026/04/395447.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-03 10:24",
-      "summary": "2026 年 4 月 23 日至 24 日，深圳福田会展中心 2 号馆，GTC2026 全球流量大会（深圳）即将拉开帷幕。"
-    },
-    {
-      "title": "企业玩不转龙虾，是人的思维出错了",
-      "link": "https://www.qbitai.com/2026/04/395307.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-03 08:54",
-      "summary": "MiniMax和腾讯云深度详解Agent大规模落地"
-    },
-    {
-      "title": "美团盯上原生多模态！路子还很野：把图像语音都当成Token来预测",
-      "link": "https://www.qbitai.com/2026/04/395216.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-03 06:24",
-      "summary": "“离散视觉没有天花板”"
+      "title": "智能体 AI 模式强化软件工程规范性",
+      "link": "https://www.infoq.cn/article/UdLhY0p8iDDIbtLtfV35?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-04 14:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/UdLhY0p8iDDIbtLtfV35?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "在金融强国的背景下，金融企业如何分层分级有序开展 AI 人才培训？",
@@ -98,6 +62,27 @@
       "source": "infoq",
       "pub_date": "2026-04-03 16:58",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/b6XkgAcvz9hjrpmX6OGr?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "警惕 AI 写作：别让思考与信任在指尖溜走",
+      "link": "https://xie.infoq.cn/article/017dcadf6aa893c09c7028d4c?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-03 09:43",
+      "summary": "在技术与创作的交织领域，当我们着手撰写一份技术方案或设计文档时，实则开启了一场提问与解答的思维旅程。就像<div align=\"right\"><a href=\"https://xie.infoq.cn/article/017dcadf6aa893c09c7028d4c?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "一个周末 + 1100 美元，干完 5 人 6 个月的活：Cloudflare 用 AI“复刻”Next.js，已跑进生产环境",
+      "link": "https://www.infoq.cn/article/XNfsebiwgEd1hbcissWd?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-02 19:07",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/XNfsebiwgEd1hbcissWd?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "AI 原生时代，如何提供可用、易用、高效的算力服务？",
+      "link": "https://www.infoq.cn/article/vh9j9d6ceChVul80VLG4?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-02 18:43",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/vh9j9d6ceChVul80VLG4?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
