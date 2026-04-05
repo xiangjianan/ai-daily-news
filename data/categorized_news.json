@@ -1,6 +1,20 @@
 {
   "headline": [
     {
+      "title": "OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
+      "link": "https://www.qbitai.com/2026/04/396535.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-05 09:06",
+      "summary": "正面回应了和Anthropic的竞争"
+    },
+    {
+      "title": "GPT-6，曝光了",
+      "link": "https://www.qbitai.com/2026/04/396366.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-05 04:49",
+      "summary": "彻底奔着AGI去的模型"
+    },
+    {
       "title": "跟OpenAI撕破脸、微软喊话要“完全独立”！靠不到10人、 一半GPU用量，推出三款王炸低价模型",
       "link": "https://www.infoq.cn/article/zUMeCNaChlTHDoa7pFVX?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -20,20 +34,6 @@
       "source": "openai_blog",
       "pub_date": "2026-04-02 10:30",
       "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community."
-    },
-    {
-      "title": "Introducing the OpenAI Safety Bug Bounty program",
-      "link": "https://openai.com/index/safety-bug-bounty",
-      "source": "openai_blog",
-      "pub_date": "2026-03-25 00:00",
-      "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration."
-    },
-    {
-      "title": "Update on the OpenAI Foundation",
-      "link": "https://openai.com/index/update-on-the-openai-foundation",
-      "source": "openai_blog",
-      "pub_date": "2026-03-24 09:00",
-      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs."
     }
   ],
   "product": [],
@@ -50,39 +50,39 @@
   ],
   "other": [
     {
-      "title": "智能体 AI 模式强化软件工程规范性",
-      "link": "https://www.infoq.cn/article/UdLhY0p8iDDIbtLtfV35?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-04 14:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/UdLhY0p8iDDIbtLtfV35?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院",
+      "link": "https://www.qbitai.com/2026/04/396533.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-05 08:53",
+      "summary": ""
     },
     {
-      "title": "在金融强国的背景下，金融企业如何分层分级有序开展 AI 人才培训？",
-      "link": "https://www.infoq.cn/article/b6XkgAcvz9hjrpmX6OGr?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-03 16:58",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/b6XkgAcvz9hjrpmX6OGr?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "具身龙虾，上车理想",
+      "link": "https://www.qbitai.com/2026/04/396517.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-05 04:52",
+      "summary": "在你取车的时候，主动跟你打招呼"
     },
     {
-      "title": "警惕 AI 写作：别让思考与信任在指尖溜走",
-      "link": "https://xie.infoq.cn/article/017dcadf6aa893c09c7028d4c?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-03 09:43",
-      "summary": "在技术与创作的交织领域，当我们着手撰写一份技术方案或设计文档时，实则开启了一场提问与解答的思维旅程。就像<div align=\"right\"><a href=\"https://xie.infoq.cn/article/017dcadf6aa893c09c7028d4c?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "Linux内核维护者崩溃了！AI每天狂塞10份漏洞报告，想摸会鱼都难",
+      "link": "https://www.qbitai.com/2026/04/396358.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-05 02:24",
+      "summary": "开源开发者的赛博马鞭"
     },
     {
-      "title": "一个周末 + 1100 美元，干完 5 人 6 个月的活：Cloudflare 用 AI“复刻”Next.js，已跑进生产环境",
-      "link": "https://www.infoq.cn/article/XNfsebiwgEd1hbcissWd?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-02 19:07",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/XNfsebiwgEd1hbcissWd?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "为了不跟龙虾抢电脑用，有人开始造Agent专属的“三无”硬件，比Mac Mini+存储便宜",
+      "link": "https://www.qbitai.com/2026/04/396351.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-05 02:14",
+      "summary": "1000万视频秒搜"
     },
     {
-      "title": "AI 原生时代，如何提供可用、易用、高效的算力服务？",
-      "link": "https://www.infoq.cn/article/vh9j9d6ceChVul80VLG4?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-02 18:43",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/vh9j9d6ceChVul80VLG4?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "日调用量超万亿破纪录！阿里千问3.6Plus登顶全球模型调用量榜首",
+      "link": "https://www.qbitai.com/2026/04/396346.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-04 13:38",
+      "summary": "日调用量突破1.4万亿Token"
     }
   ]
 }
