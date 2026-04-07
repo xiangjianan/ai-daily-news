@@ -1,88 +1,80 @@
 {
   "headline": [
     {
-      "title": "让大模型多模态检索全面超越SOTA！ReCALL框架化解生成式与判别式的范式冲突｜CVPR’26",
-      "link": "https://www.qbitai.com/2026/04/396863.html",
+      "title": "Claude爆火研究漏引华人团队成果，已挨打立正道歉",
+      "link": "https://www.qbitai.com/2026/04/397576.html",
       "source": "qbitai",
-      "pub_date": "2026-04-06 15:30",
-      "summary": "独创“诊断-生成-校准”闭环体系"
+      "pub_date": "2026-04-07 09:09",
+      "summary": "首个系统性AI情绪回路研究"
     },
     {
-      "title": "OpenAI又曝出内讧了！IPO前夜高层大换血",
-      "link": "https://www.qbitai.com/2026/04/396704.html",
+      "title": "“Claude Code更新废了”！热议Issue：思考深度下降67%，已无法胜任复杂的工程任务",
+      "link": "https://www.qbitai.com/2026/04/396958.html",
       "source": "qbitai",
-      "pub_date": "2026-04-06 05:23",
-      "summary": "网友：感觉他们今年不可能上市了"
+      "pub_date": "2026-04-07 06:13",
+      "summary": "“处刑报告”还是Claude自己写的"
     },
     {
-      "title": "OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
-      "link": "https://www.qbitai.com/2026/04/396535.html",
+      "title": "持续霸榜！阿里千问3.6Plus问鼎全球大模型调用周榜冠军",
+      "link": "https://www.qbitai.com/2026/04/396950.html",
       "source": "qbitai",
-      "pub_date": "2026-04-05 09:06",
-      "summary": "正面回应了和Anthropic的竞争"
+      "pub_date": "2026-04-07 04:00",
+      "summary": "性能更强的旗舰模型Qwen3.6-Max也将发布"
     },
     {
-      "title": "GPT-6，曝光了",
-      "link": "https://www.qbitai.com/2026/04/396366.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-05 04:49",
-      "summary": "彻底奔着AGI去的模型"
+      "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
+      "link": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-04-07 18:00",
+      "summary": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work."
     },
     {
-      "title": "跟OpenAI撕破脸、微软喊话要“完全独立”！靠不到10人、 一半GPU用量，推出三款王炸低价模型",
-      "link": "https://www.infoq.cn/article/zUMeCNaChlTHDoa7pFVX?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-03 18:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/zUMeCNaChlTHDoa7pFVX?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "Announcing the OpenAI Safety Fellowship",
+      "link": "https://openai.com/index/introducing-openai-safety-fellowship",
+      "source": "openai_blog",
+      "pub_date": "2026-04-06 10:00",
+      "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent"
     }
   ],
   "product": [],
   "funding": [],
   "research": [],
-  "industry": [
-    {
-      "title": "AMD 锐龙 AI 智能体创新应用大赛邀你定义 AI 新未来",
-      "link": "https://www.infoq.cn/article/Z18OTUTFlmqbQb5Ia4Fp?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-03 16:34",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Z18OTUTFlmqbQb5Ia4Fp?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "industry": [],
   "other": [
     {
-      "title": "北大团队改造DeepSeek注意力，速度快四倍还不丢精度",
-      "link": "https://www.qbitai.com/2026/04/396841.html",
+      "title": "Meta员工空转AI只为浪费token！烧的多挣的多，日均消耗2万亿",
+      "link": "https://www.qbitai.com/2026/04/397610.html",
       "source": "qbitai",
-      "pub_date": "2026-04-06 15:25",
-      "summary": "即插即用无需重新训练"
+      "pub_date": "2026-04-07 09:13",
+      "summary": "榜一大哥平均每天用掉93.6亿Token"
     },
     {
-      "title": "让离线强化学习从「局部描摹」变「全局布局」丨ICLR’26",
-      "link": "https://www.qbitai.com/2026/04/396738.html",
+      "title": "哈萨比斯传记里讲了好多八卦啊",
+      "link": "https://www.qbitai.com/2026/04/397553.html",
       "source": "qbitai",
-      "pub_date": "2026-04-06 05:35",
-      "summary": "核心思路：从画大纲到扣细节"
+      "pub_date": "2026-04-07 08:45",
+      "summary": "没想到，你是这样的哈萨比斯！"
     },
     {
-      "title": "具身Scaling Law押对了！独角兽新品1小时学会新任务，重复1800次成功率99%",
-      "link": "https://www.qbitai.com/2026/04/396694.html",
+      "title": "印奇带队千里首个完整年：营收近百亿，智驾毛利率达30.8%",
+      "link": "https://www.qbitai.com/2026/04/397523.html",
       "source": "qbitai",
-      "pub_date": "2026-04-06 05:17",
-      "summary": "机器人模型卷出新高度"
+      "pub_date": "2026-04-07 08:22",
+      "summary": "首次披露智能驾驶收入"
     },
     {
-      "title": "AI创业，已经没有“出海”这个词了丨量子位沙龙",
-      "link": "https://www.qbitai.com/2026/04/396675.html",
+      "title": "像素蛋糕9.0：一场关于AI与修图的颠覆革命",
+      "link": "https://www.qbitai.com/2026/04/397517.html",
       "source": "qbitai",
-      "pub_date": "2026-04-06 05:04",
-      "summary": "你的AI产品，从Day0起就应具备“全球原生基因”"
+      "pub_date": "2026-04-07 07:34",
+      "summary": "修图师正在从“操作者”变成“管理者”，从“技术执行者”变成“创意决策者”。"
     },
     {
-      "title": "太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院",
-      "link": "https://www.qbitai.com/2026/04/396533.html",
+      "title": "卡帕西没做完的，开源社区48小时搞定了！完全体知识库，token省70倍",
+      "link": "https://www.qbitai.com/2026/04/396983.html",
       "source": "qbitai",
-      "pub_date": "2026-04-05 08:53",
-      "summary": ""
+      "pub_date": "2026-04-07 05:50",
+      "summary": "零配置开箱即用，一个命令生成完整知识图谱"
     }
   ]
 }
