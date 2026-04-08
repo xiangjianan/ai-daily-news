@@ -1,32 +1,32 @@
 {
   "headline": [
     {
-      "title": "Claude爆火研究漏引华人团队成果，已挨打立正道歉",
-      "link": "https://www.qbitai.com/2026/04/397576.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-07 09:09",
-      "summary": "首个系统性AI情绪回路研究"
+      "title": "Claude Code史诗级负优化！大厂AI主管批思考深度暴跌，官方回应被开发者怼爆：菜成AI“玩具”",
+      "link": "https://www.infoq.cn/article/mqW0bszWH0fC8oBDcsax?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-08 16:13",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/mqW0bszWH0fC8oBDcsax?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "“Claude Code更新废了”！热议Issue：思考深度下降67%，已无法胜任复杂的工程任务",
-      "link": "https://www.qbitai.com/2026/04/396958.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-07 06:13",
-      "summary": "“处刑报告”还是Claude自己写的"
-    },
-    {
-      "title": "持续霸榜！阿里千问3.6Plus问鼎全球大模型调用周榜冠军",
-      "link": "https://www.qbitai.com/2026/04/396950.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-07 04:00",
-      "summary": "性能更强的旗舰模型Qwen3.6-Max也将发布"
-    },
-    {
-      "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
-      "link": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+      "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-04-07 18:00",
-      "summary": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work."
+      "pub_date": "2026-04-08 20:09",
+      "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners."
+    },
+    {
+      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+      "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-04-08 18:23",
+      "summary": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers."
+    },
+    {
+      "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
+      "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-04-08 15:23",
+      "summary": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI."
     },
     {
       "title": "Announcing the OpenAI Safety Fellowship",
@@ -36,45 +36,68 @@
       "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent"
     }
   ],
-  "product": [],
-  "funding": [],
+  "product": [
+    {
+      "title": "智谱GLM-5.1“Day0”上线华为云，可通过多款产品体验",
+      "link": "https://www.qbitai.com/2026/04/397942.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-08 10:17",
+      "summary": ""
+    }
+  ],
+  "funding": [
+    {
+      "title": "理想破例投资具身创业公司，L9功臣创办，阿里CEO也跟了",
+      "link": "https://www.qbitai.com/2026/04/397930.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-08 09:49",
+      "summary": "理想首款人形机器人也要来了"
+    },
+    {
+      "title": "地瓜机器人再获1.5亿美元投资！B轮累计融资2.7亿美元",
+      "link": "https://www.qbitai.com/2026/04/397912.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-08 06:39",
+      "summary": "全面加速全球化业务布局"
+    }
+  ],
   "research": [],
   "industry": [],
   "other": [
     {
-      "title": "Meta员工空转AI只为浪费token！烧的多挣的多，日均消耗2万亿",
-      "link": "https://www.qbitai.com/2026/04/397610.html",
+      "title": "武大文科教授硬核跨界AI：半年项目量猛涨4000%，重构AI图表生产力",
+      "link": "https://www.qbitai.com/2026/04/398001.html",
       "source": "qbitai",
-      "pub_date": "2026-04-07 09:13",
-      "summary": "榜一大哥平均每天用掉93.6亿Token"
+      "pub_date": "2026-04-08 14:26",
+      "summary": "最新发布AI图表智能体，可深度编辑"
     },
     {
-      "title": "哈萨比斯传记里讲了好多八卦啊",
-      "link": "https://www.qbitai.com/2026/04/397553.html",
+      "title": "Generalist最新长文定调：具身原生才是正道，原力灵机已交卷",
+      "link": "https://www.qbitai.com/2026/04/397951.html",
       "source": "qbitai",
-      "pub_date": "2026-04-07 08:45",
-      "summary": "没想到，你是这样的哈萨比斯！"
+      "pub_date": "2026-04-08 10:50",
+      "summary": "2026年，是具身原生元年"
     },
     {
-      "title": "印奇带队千里首个完整年：营收近百亿，智驾毛利率达30.8%",
-      "link": "https://www.qbitai.com/2026/04/397523.html",
+      "title": "SentiPulse携手人大高瓴：开源交互式3D数字人框架SentiAvatar，领跑行业主流模型",
+      "link": "https://www.qbitai.com/2026/04/397922.html",
       "source": "qbitai",
-      "pub_date": "2026-04-07 08:22",
-      "summary": "首次披露智能驾驶收入"
+      "pub_date": "2026-04-08 08:30",
+      "summary": ""
     },
     {
-      "title": "像素蛋糕9.0：一场关于AI与修图的颠覆革命",
-      "link": "https://www.qbitai.com/2026/04/397517.html",
+      "title": "Nature Index特刊以复杂系统为理论基础的“天立学科大脑”",
+      "link": "https://www.qbitai.com/2026/04/397915.html",
       "source": "qbitai",
-      "pub_date": "2026-04-07 07:34",
-      "summary": "修图师正在从“操作者”变成“管理者”，从“技术执行者”变成“创意决策者”。"
+      "pub_date": "2026-04-08 06:51",
+      "summary": "“经验教学”到“数据治学”"
     },
     {
-      "title": "卡帕西没做完的，开源社区48小时搞定了！完全体知识库，token省70倍",
-      "link": "https://www.qbitai.com/2026/04/396983.html",
+      "title": "开源模型首超Opus4.6！智谱GLM-5.1登场，14小时后CUDA专家被冲了",
+      "link": "https://www.qbitai.com/2026/04/397898.html",
       "source": "qbitai",
-      "pub_date": "2026-04-07 05:50",
-      "summary": "零配置开箱即用，一个命令生成完整知识图谱"
+      "pub_date": "2026-04-08 06:29",
+      "summary": "八小时造了个Linux系统"
     }
   ]
 }
