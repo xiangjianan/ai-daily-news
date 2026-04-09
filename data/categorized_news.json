@@ -1,42 +1,49 @@
 {
   "headline": [
     {
+      "title": "Anthropic发布Managed Agents，才发现这支硅谷华人团队早就押对了赌注",
+      "link": "https://www.qbitai.com/2026/04/398140.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-09 07:08",
+      "summary": "全球首个消费级AI Agent Harness冲上热搜"
+    },
+    {
+      "title": "Claude封杀龙虾后推自家Agent服务，又被开源平替了",
+      "link": "https://www.qbitai.com/2026/04/398121.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-09 06:59",
+      "summary": "开源平替GitHub迅速揽获2.6k Star"
+    },
+    {
+      "title": "马斯克死磕奥特曼：赔款我不要，但他必须离开OpenAI董事会",
+      "link": "https://www.qbitai.com/2026/04/398071.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-09 03:41",
+      "summary": "Greg Brockman也被要求交出所有股权收益"
+    },
+    {
+      "title": "Meta亿元天团首个大模型交卷！余家辉宋飏Jason Wei耗时九个月，一雪Llama前耻",
+      "link": "https://www.qbitai.com/2026/04/398020.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-09 01:49",
+      "summary": "主打原生多模态"
+    },
+    {
       "title": "Claude Code史诗级负优化！大厂AI主管批思考深度暴跌，官方回应被开发者怼爆：菜成AI“玩具”",
       "link": "https://www.infoq.cn/article/mqW0bszWH0fC8oBDcsax?utm_source=rss&utm_medium=article",
       "source": "infoq",
       "pub_date": "2026-04-08 16:13",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/mqW0bszWH0fC8oBDcsax?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
-      "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-04-08 20:09",
-      "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners."
-    },
-    {
-      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
-      "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-04-08 18:23",
-      "summary": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers."
-    },
-    {
-      "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
-      "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-04-08 15:23",
-      "summary": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI."
-    },
-    {
-      "title": "Announcing the OpenAI Safety Fellowship",
-      "link": "https://openai.com/index/introducing-openai-safety-fellowship",
-      "source": "openai_blog",
-      "pub_date": "2026-04-06 10:00",
-      "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent"
     }
   ],
   "product": [
+    {
+      "title": "阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户",
+      "link": "https://www.qbitai.com/2026/04/398117.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-09 06:23",
+      "summary": "可通过OpenClaw等Agent产品一键安装"
+    },
     {
       "title": "智谱GLM-5.1“Day0”上线华为云，可通过多款产品体验",
       "link": "https://www.qbitai.com/2026/04/397942.html",
@@ -45,25 +52,39 @@
       "summary": ""
     }
   ],
-  "funding": [
+  "funding": [],
+  "research": [
     {
-      "title": "理想破例投资具身创业公司，L9功臣创办，阿里CEO也跟了",
-      "link": "https://www.qbitai.com/2026/04/397930.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-08 09:49",
-      "summary": "理想首款人形机器人也要来了"
+      "title": "高能研讨会｜Arm SME2 赋能端侧 AI：极致推理性能实践",
+      "link": "https://www.infoq.cn/video/gkS9sFcN0eMGxPyG0g41?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-09 15:59",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/video/gkS9sFcN0eMGxPyG0g41?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "地瓜机器人再获1.5亿美元投资！B轮累计融资2.7亿美元",
-      "link": "https://www.qbitai.com/2026/04/397912.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-08 06:39",
-      "summary": "全面加速全球化业务布局"
+      "title": "大前端性能优化新范式：AI 火焰图在亿级 App 中的落地｜QCon北京",
+      "link": "https://www.infoq.cn/article/xJZRwpf2uuMA3UaS2SWm?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-09 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/xJZRwpf2uuMA3UaS2SWm?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "research": [],
   "industry": [],
   "other": [
+    {
+      "title": "神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…",
+      "link": "https://www.qbitai.com/2026/04/398157.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-09 09:38",
+      "summary": "据传10号正式发布"
+    },
+    {
+      "title": "爆火GitHub！《生化危机》女主打造免费“AI记忆系统”",
+      "link": "https://www.qbitai.com/2026/04/398090.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-09 05:11",
+      "summary": "用上“记忆宫殿”，检索提升34%"
+    },
     {
       "title": "武大文科教授硬核跨界AI：半年项目量猛涨4000%，重构AI图表生产力",
       "link": "https://www.qbitai.com/2026/04/398001.html",
@@ -79,25 +100,11 @@
       "summary": "2026年，是具身原生元年"
     },
     {
-      "title": "SentiPulse携手人大高瓴：开源交互式3D数字人框架SentiAvatar，领跑行业主流模型",
-      "link": "https://www.qbitai.com/2026/04/397922.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-08 08:30",
-      "summary": ""
-    },
-    {
-      "title": "Nature Index特刊以复杂系统为理论基础的“天立学科大脑”",
-      "link": "https://www.qbitai.com/2026/04/397915.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-08 06:51",
-      "summary": "“经验教学”到“数据治学”"
-    },
-    {
-      "title": "开源模型首超Opus4.6！智谱GLM-5.1登场，14小时后CUDA专家被冲了",
-      "link": "https://www.qbitai.com/2026/04/397898.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-08 06:29",
-      "summary": "八小时造了个Linux系统"
+      "title": "聚焦AI，深耕智造丨2026 赋能开发者大会圆满举办！",
+      "link": "https://www.infoq.cn/article/UFSb4zOXu9IKc6lhXZdQ?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-09 17:31",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/UFSb4zOXu9IKc6lhXZdQ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
