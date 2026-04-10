@@ -1,58 +1,73 @@
 {
   "headline": [
     {
-      "title": "Anthropic发布Managed Agents，才发现这支硅谷华人团队早就押对了赌注",
-      "link": "https://www.qbitai.com/2026/04/398140.html",
+      "title": "阿里视频生成大模型Wan2.7登顶DesignArena榜单",
+      "link": "https://www.qbitai.com/2026/04/399370.html",
       "source": "qbitai",
-      "pub_date": "2026-04-09 07:08",
-      "summary": "全球首个消费级AI Agent Harness冲上热搜"
+      "pub_date": "2026-04-10 12:07",
+      "summary": "以1334Elo评分高居榜首"
     },
     {
-      "title": "Claude封杀龙虾后推自家Agent服务，又被开源平替了",
-      "link": "https://www.qbitai.com/2026/04/398121.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-09 06:59",
-      "summary": "开源平替GitHub迅速揽获2.6k Star"
-    },
-    {
-      "title": "马斯克死磕奥特曼：赔款我不要，但他必须离开OpenAI董事会",
-      "link": "https://www.qbitai.com/2026/04/398071.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-09 03:41",
-      "summary": "Greg Brockman也被要求交出所有股权收益"
-    },
-    {
-      "title": "Meta亿元天团首个大模型交卷！余家辉宋飏Jason Wei耗时九个月，一雪Llama前耻",
-      "link": "https://www.qbitai.com/2026/04/398020.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-09 01:49",
-      "summary": "主打原生多模态"
-    },
-    {
-      "title": "Claude Code史诗级负优化！大厂AI主管批思考深度暴跌，官方回应被开发者怼爆：菜成AI“玩具”",
-      "link": "https://www.infoq.cn/article/mqW0bszWH0fC8oBDcsax?utm_source=rss&utm_medium=article",
+      "title": "没有KPI，也能领先OpenAI？从“内部观察者”视角看顶级AI实验室如何运作",
+      "link": "https://www.infoq.cn/article/UeZ4cvw5hl06J0vFEJck?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-04-08 16:13",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/mqW0bszWH0fC8oBDcsax?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-04-10 17:37",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/UeZ4cvw5hl06J0vFEJck?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+      "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-04-10 16:41",
+      "summary": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges."
+    },
+    {
+      "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting",
+      "link": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-04-09 22:13",
+      "summary": "Florida Attorney General James Uthmeier plans to investigate OpenAI for its alleged harm to minors, potential to threaten national security, and its possible link to a shooting at Florida State Univer"
+    },
+    {
+      "title": "ChatGPT finally offers $100/month Pro plan",
+      "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-04-09 21:29",
+      "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month."
     }
   ],
   "product": [
     {
-      "title": "阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户",
-      "link": "https://www.qbitai.com/2026/04/398117.html",
+      "title": "紫荆智康发布“紫荆AI医院”线上虚拟诊室",
+      "link": "https://www.qbitai.com/2026/04/399366.html",
       "source": "qbitai",
-      "pub_date": "2026-04-09 06:23",
-      "summary": "可通过OpenClaw等Agent产品一键安装"
+      "pub_date": "2026-04-10 11:42",
+      "summary": "面向医生和医学生开放使用"
     },
     {
-      "title": "智谱GLM-5.1“Day0”上线华为云，可通过多款产品体验",
-      "link": "https://www.qbitai.com/2026/04/397942.html",
+      "title": "开源信仰崩塌？Meta发布闭源巨兽，143亿美金重注AI赛道的野心",
+      "link": "https://www.infoq.cn/article/I71O7o2pufO4WFbpyTFT?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-10 15:21",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/I71O7o2pufO4WFbpyTFT?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Istio引入多集群、环境模式及推理功能，应对AI时代的不断发展",
+      "link": "https://www.infoq.cn/article/2leh1h8aC1mfSJ5qDrBh?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-10 14:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/2leh1h8aC1mfSJ5qDrBh?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
+  "funding": [
+    {
+      "title": "生数科技完成近20 亿元 B 轮融资，以通用世界模型定义下一代数字与物理世界生产力底座",
+      "link": "https://www.qbitai.com/2026/04/398772.html",
       "source": "qbitai",
-      "pub_date": "2026-04-08 10:17",
+      "pub_date": "2026-04-10 07:37",
       "summary": ""
     }
   ],
-  "funding": [],
   "research": [
     {
       "title": "高能研讨会｜Arm SME2 赋能端侧 AI：极致推理性能实践",
@@ -72,39 +87,39 @@
   "industry": [],
   "other": [
     {
-      "title": "神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…",
-      "link": "https://www.qbitai.com/2026/04/398157.html",
+      "title": "击败PI！星动纪元登顶具身奥林匹克，狂揽三项全球冠军",
+      "link": "https://www.qbitai.com/2026/04/399351.html",
       "source": "qbitai",
-      "pub_date": "2026-04-09 09:38",
-      "summary": "据传10号正式发布"
+      "pub_date": "2026-04-10 10:32",
+      "summary": "技术的终极价值，在于实用"
     },
     {
-      "title": "爆火GitHub！《生化危机》女主打造免费“AI记忆系统”",
-      "link": "https://www.qbitai.com/2026/04/398090.html",
+      "title": "实测刘翔pick的国产AI汽车，BBA老车主的豪华滤镜碎了",
+      "link": "https://www.qbitai.com/2026/04/398869.html",
       "source": "qbitai",
-      "pub_date": "2026-04-09 05:11",
-      "summary": "用上“记忆宫殿”，检索提升34%"
+      "pub_date": "2026-04-10 09:31",
+      "summary": "勇闯北京晚高峰，实测舒服又轻松"
     },
     {
-      "title": "武大文科教授硬核跨界AI：半年项目量猛涨4000%，重构AI图表生产力",
-      "link": "https://www.qbitai.com/2026/04/398001.html",
+      "title": "奔驰崩了，在华销量大跌27%",
+      "link": "https://www.qbitai.com/2026/04/398823.html",
       "source": "qbitai",
-      "pub_date": "2026-04-08 14:26",
-      "summary": "最新发布AI图表智能体，可深度编辑"
+      "pub_date": "2026-04-10 09:11",
+      "summary": "年初降价原因找到了"
     },
     {
-      "title": "Generalist最新长文定调：具身原生才是正道，原力灵机已交卷",
-      "link": "https://www.qbitai.com/2026/04/397951.html",
+      "title": "LeCun点赞：国产开源模型占领硅谷，性价比超10倍",
+      "link": "https://www.qbitai.com/2026/04/398807.html",
       "source": "qbitai",
-      "pub_date": "2026-04-08 10:50",
-      "summary": "2026年，是具身原生元年"
+      "pub_date": "2026-04-10 08:22",
+      "summary": "开源模型，已经来到了中国时间"
     },
     {
-      "title": "聚焦AI，深耕智造丨2026 赋能开发者大会圆满举办！",
-      "link": "https://www.infoq.cn/article/UFSb4zOXu9IKc6lhXZdQ?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-09 17:31",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/UFSb4zOXu9IKc6lhXZdQ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "刷屏的SBTI，底层算法有点东西…",
+      "link": "https://www.qbitai.com/2026/04/398788.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-10 08:12",
+      "summary": "测不完啊，根本测不完…"
     }
   ]
 }
