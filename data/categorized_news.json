@@ -8,6 +8,13 @@
       "summary": "以1334Elo评分高居榜首"
     },
     {
+      "title": "Anthropic 推出多代理 Harness，重构长时 AI 编程流程",
+      "link": "https://www.infoq.cn/article/qPNs964YbMjfjR0r1vP6?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-11 08:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qPNs964YbMjfjR0r1vP6?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
       "title": "没有KPI，也能领先OpenAI？从“内部观察者”视角看顶级AI实验室如何运作",
       "link": "https://www.infoq.cn/article/UeZ4cvw5hl06J0vFEJck?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -27,13 +34,6 @@
       "source": "techcrunch_ai",
       "pub_date": "2026-04-09 22:13",
       "summary": "Florida Attorney General James Uthmeier plans to investigate OpenAI for its alleged harm to minors, potential to threaten national security, and its possible link to a shooting at Florida State Univer"
-    },
-    {
-      "title": "ChatGPT finally offers $100/month Pro plan",
-      "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-04-09 21:29",
-      "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month."
     }
   ],
   "product": [
@@ -43,6 +43,13 @@
       "source": "qbitai",
       "pub_date": "2026-04-10 11:42",
       "summary": "面向医生和医学生开放使用"
+    },
+    {
+      "title": "Tailwind CSS 4.2 发布 Webpack 插件、新配色方案以及逻辑属性工具类",
+      "link": "https://www.infoq.cn/article/50T48b3TOSJZRAa4GGx9?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-11 15:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/50T48b3TOSJZRAa4GGx9?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "开源信仰崩塌？Meta发布闭源巨兽，143亿美金重注AI赛道的野心",
@@ -59,33 +66,47 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/2leh1h8aC1mfSJ5qDrBh?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [
-    {
-      "title": "生数科技完成近20 亿元 B 轮融资，以通用世界模型定义下一代数字与物理世界生产力底座",
-      "link": "https://www.qbitai.com/2026/04/398772.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-10 07:37",
-      "summary": ""
-    }
-  ],
+  "funding": [],
   "research": [
+    {
+      "title": "刘壮陈丹琦新作：开源通用视觉推理RL框架，0思考数据刷新SOTA",
+      "link": "https://www.qbitai.com/2026/04/399393.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-11 01:23",
+      "summary": "广泛的数据是视觉推理强化学习Scaling的主要驱动力"
+    },
     {
       "title": "高能研讨会｜Arm SME2 赋能端侧 AI：极致推理性能实践",
       "link": "https://www.infoq.cn/video/gkS9sFcN0eMGxPyG0g41?utm_source=rss&utm_medium=article",
       "source": "infoq",
       "pub_date": "2026-04-09 15:59",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/video/gkS9sFcN0eMGxPyG0g41?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "大前端性能优化新范式：AI 火焰图在亿级 App 中的落地｜QCon北京",
-      "link": "https://www.infoq.cn/article/xJZRwpf2uuMA3UaS2SWm?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-09 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/xJZRwpf2uuMA3UaS2SWm?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "industry": [],
+  "industry": [
+    {
+      "title": "滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地",
+      "link": "https://www.qbitai.com/2026/04/399675.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-11 10:46",
+      "summary": "滴滴自动驾驶与广汽埃安联手打造的新一代Robotaxi车型R2"
+    }
+  ],
   "other": [
+    {
+      "title": "奥特曼遭遇死亡威胁：凌晨家中被投燃烧瓶",
+      "link": "https://www.qbitai.com/2026/04/399473.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-11 02:19",
+      "summary": "所幸无人受伤"
+    },
+    {
+      "title": "中国具身模型狂揽全球第一！机器人的人类数据时代来了",
+      "link": "https://www.qbitai.com/2026/04/399417.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-11 02:07",
+      "summary": "10万小时数据集，00后创业灵初智能一战成名"
+    },
     {
       "title": "击败PI！星动纪元登顶具身奥林匹克，狂揽三项全球冠军",
       "link": "https://www.qbitai.com/2026/04/399351.html",
@@ -106,20 +127,6 @@
       "source": "qbitai",
       "pub_date": "2026-04-10 09:11",
       "summary": "年初降价原因找到了"
-    },
-    {
-      "title": "LeCun点赞：国产开源模型占领硅谷，性价比超10倍",
-      "link": "https://www.qbitai.com/2026/04/398807.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-10 08:22",
-      "summary": "开源模型，已经来到了中国时间"
-    },
-    {
-      "title": "刷屏的SBTI，底层算法有点东西…",
-      "link": "https://www.qbitai.com/2026/04/398788.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-10 08:12",
-      "summary": "测不完啊，根本测不完…"
     }
   ]
 }
