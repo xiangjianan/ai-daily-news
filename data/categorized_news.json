@@ -1,11 +1,18 @@
 {
   "headline": [
     {
-      "title": "阿里视频生成大模型Wan2.7登顶DesignArena榜单",
-      "link": "https://www.qbitai.com/2026/04/399370.html",
+      "title": "「Claude Code之父」其实是野路子来的……",
+      "link": "https://www.qbitai.com/2026/04/400306.html",
       "source": "qbitai",
-      "pub_date": "2026-04-10 12:07",
-      "summary": "以1334Elo评分高居榜首"
+      "pub_date": "2026-04-12 14:11",
+      "summary": "一生都在试图逃离原生公司（bushi）"
+    },
+    {
+      "title": "Claude复活30年前传奇游戏，仅用一个周末",
+      "link": "https://www.qbitai.com/2026/04/399903.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-12 07:00",
+      "summary": "破解了作者的自定义语言"
     },
     {
       "title": "Anthropic 推出多代理 Harness，重构长时 AI 编程流程",
@@ -27,23 +34,9 @@
       "source": "techcrunch_ai",
       "pub_date": "2026-04-10 16:41",
       "summary": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges."
-    },
-    {
-      "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting",
-      "link": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-04-09 22:13",
-      "summary": "Florida Attorney General James Uthmeier plans to investigate OpenAI for its alleged harm to minors, potential to threaten national security, and its possible link to a shooting at Florida State Univer"
     }
   ],
   "product": [
-    {
-      "title": "紫荆智康发布“紫荆AI医院”线上虚拟诊室",
-      "link": "https://www.qbitai.com/2026/04/399366.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-10 11:42",
-      "summary": "面向医生和医学生开放使用"
-    },
     {
       "title": "Tailwind CSS 4.2 发布 Webpack 插件、新配色方案以及逻辑属性工具类",
       "link": "https://www.infoq.cn/article/50T48b3TOSJZRAa4GGx9?utm_source=rss&utm_medium=article",
@@ -74,13 +67,6 @@
       "source": "qbitai",
       "pub_date": "2026-04-11 01:23",
       "summary": "广泛的数据是视觉推理强化学习Scaling的主要驱动力"
-    },
-    {
-      "title": "高能研讨会｜Arm SME2 赋能端侧 AI：极致推理性能实践",
-      "link": "https://www.infoq.cn/video/gkS9sFcN0eMGxPyG0g41?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-09 15:59",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/video/gkS9sFcN0eMGxPyG0g41?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "industry": [
@@ -94,39 +80,39 @@
   ],
   "other": [
     {
+      "title": "养虾人看哭了！字节扣子2.5出生即满级，手机对话就能Vibe Coding",
+      "link": "https://www.qbitai.com/2026/04/400197.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-12 14:06",
+      "summary": "有自己的网盘和邮箱，产出还能自动归档"
+    },
+    {
+      "title": "HTML-in-Canvas引爆前端！AI时代互联网视觉效果完全不一样了",
+      "link": "https://www.qbitai.com/2026/04/399996.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-12 14:02",
+      "summary": "HTML也能跑Doom游戏了？？"
+    },
+    {
+      "title": "36.4万超声图文对！中国团队构建首个大规模超声专属数据集，让AI真正读懂临床诊断语义丨CVPR’26",
+      "link": "https://www.qbitai.com/2026/04/399975.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-12 07:21",
+      "summary": "超声AI迈入大模型时代"
+    },
+    {
+      "title": "超越人手！中国第一家脑机接口独角兽，要把仿生手带给机器人",
+      "link": "https://www.qbitai.com/2026/04/399681.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-12 06:06",
+      "summary": "可能是最有想象力的灵巧手公司之一"
+    },
+    {
       "title": "奥特曼遭遇死亡威胁：凌晨家中被投燃烧瓶",
       "link": "https://www.qbitai.com/2026/04/399473.html",
       "source": "qbitai",
       "pub_date": "2026-04-11 02:19",
       "summary": "所幸无人受伤"
-    },
-    {
-      "title": "中国具身模型狂揽全球第一！机器人的人类数据时代来了",
-      "link": "https://www.qbitai.com/2026/04/399417.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-11 02:07",
-      "summary": "10万小时数据集，00后创业灵初智能一战成名"
-    },
-    {
-      "title": "击败PI！星动纪元登顶具身奥林匹克，狂揽三项全球冠军",
-      "link": "https://www.qbitai.com/2026/04/399351.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-10 10:32",
-      "summary": "技术的终极价值，在于实用"
-    },
-    {
-      "title": "实测刘翔pick的国产AI汽车，BBA老车主的豪华滤镜碎了",
-      "link": "https://www.qbitai.com/2026/04/398869.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-10 09:31",
-      "summary": "勇闯北京晚高峰，实测舒服又轻松"
-    },
-    {
-      "title": "奔驰崩了，在华销量大跌27%",
-      "link": "https://www.qbitai.com/2026/04/398823.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-10 09:11",
-      "summary": "年初降价原因找到了"
     }
   ]
 }
