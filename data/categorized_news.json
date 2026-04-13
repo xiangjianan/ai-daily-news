@@ -1,6 +1,13 @@
 {
   "headline": [
     {
+      "title": "Claude强到不敢发的Mythos，被质疑用了字节Seed技术",
+      "link": "https://www.qbitai.com/2026/04/400500.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-13 05:41",
+      "summary": "概念来自字节Seed团队与多个高校合作的一篇论文，Yoshua Bengio也参与其中"
+    },
+    {
       "title": "「Claude Code之父」其实是野路子来的……",
       "link": "https://www.qbitai.com/2026/04/400306.html",
       "source": "qbitai",
@@ -8,111 +15,95 @@
       "summary": "一生都在试图逃离原生公司（bushi）"
     },
     {
-      "title": "Claude复活30年前传奇游戏，仅用一个周末",
-      "link": "https://www.qbitai.com/2026/04/399903.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-12 07:00",
-      "summary": "破解了作者的自定义语言"
-    },
-    {
-      "title": "Anthropic 推出多代理 Harness，重构长时 AI 编程流程",
-      "link": "https://www.infoq.cn/article/qPNs964YbMjfjR0r1vP6?utm_source=rss&utm_medium=article",
+      "title": "不会写代码也能用 AI 干活了：OpenAI 正在做一个“替你用电脑”的 Super App，新模型Spud 几周内登场",
+      "link": "https://www.infoq.cn/article/lAmhJxwuoPLvsKAF8WCV?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-04-11 08:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qPNs964YbMjfjR0r1vP6?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-04-13 18:48",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/lAmhJxwuoPLvsKAF8WCV?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "没有KPI，也能领先OpenAI？从“内部观察者”视角看顶级AI实验室如何运作",
-      "link": "https://www.infoq.cn/article/UeZ4cvw5hl06J0vFEJck?utm_source=rss&utm_medium=article",
+      "title": "OpenAI 不想写 spec 了：Codex 只留 10 条要点，把执行交给 skills",
+      "link": "https://www.infoq.cn/article/C2fWkH2EgBlDPNUNlcZX?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-04-10 17:37",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/UeZ4cvw5hl06J0vFEJck?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-04-13 15:43",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/C2fWkH2EgBlDPNUNlcZX?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
-      "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-04-10 16:41",
-      "summary": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges."
+      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "source": "openai_blog",
+      "pub_date": "2026-04-13 06:00",
+      "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security."
     }
   ],
   "product": [
+    {
+      "title": "Cloudflare发布Dynamic Workers公开测试版：基于Isolates的沙箱环境执行AI智能体代码",
+      "link": "https://www.infoq.cn/article/71XfFmTWWDmIhtqjoZED?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-13 15:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/71XfFmTWWDmIhtqjoZED?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "谷歌推出AppFunctions连接AI智能体和Android应用",
+      "link": "https://www.infoq.cn/article/y8lHXFCpi7jOcK5mspSd?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-13 14:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/y8lHXFCpi7jOcK5mspSd?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "曝京东全面拦截员工使用外部 AI；红帽裁撤中国区研发团队迁至印度，最高赔偿 N+6；传梁文峰内部发声：DeepSeek V4 本月下旬发布 | AI周报",
+      "link": "https://www.infoq.cn/article/pp8VUCpuJENbkWr169ec?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-13 10:25",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/pp8VUCpuJENbkWr169ec?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
     {
       "title": "Tailwind CSS 4.2 发布 Webpack 插件、新配色方案以及逻辑属性工具类",
       "link": "https://www.infoq.cn/article/50T48b3TOSJZRAa4GGx9?utm_source=rss&utm_medium=article",
       "source": "infoq",
       "pub_date": "2026-04-11 15:00",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/50T48b3TOSJZRAa4GGx9?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "开源信仰崩塌？Meta发布闭源巨兽，143亿美金重注AI赛道的野心",
-      "link": "https://www.infoq.cn/article/I71O7o2pufO4WFbpyTFT?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-10 15:21",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/I71O7o2pufO4WFbpyTFT?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Istio引入多集群、环境模式及推理功能，应对AI时代的不断发展",
-      "link": "https://www.infoq.cn/article/2leh1h8aC1mfSJ5qDrBh?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-10 14:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/2leh1h8aC1mfSJ5qDrBh?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
-  "research": [
-    {
-      "title": "刘壮陈丹琦新作：开源通用视觉推理RL框架，0思考数据刷新SOTA",
-      "link": "https://www.qbitai.com/2026/04/399393.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-11 01:23",
-      "summary": "广泛的数据是视觉推理强化学习Scaling的主要驱动力"
-    }
-  ],
-  "industry": [
-    {
-      "title": "滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地",
-      "link": "https://www.qbitai.com/2026/04/399675.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-11 10:46",
-      "summary": "滴滴自动驾驶与广汽埃安联手打造的新一代Robotaxi车型R2"
-    }
-  ],
+  "research": [],
+  "industry": [],
   "other": [
     {
-      "title": "养虾人看哭了！字节扣子2.5出生即满级，手机对话就能Vibe Coding",
-      "link": "https://www.qbitai.com/2026/04/400197.html",
+      "title": "今年最火的AI产品，不止龙虾｜榜单申报中",
+      "link": "https://www.qbitai.com/2026/04/401011.html",
       "source": "qbitai",
-      "pub_date": "2026-04-12 14:06",
-      "summary": "有自己的网盘和邮箱，产出还能自动归档"
+      "pub_date": "2026-04-13 10:35",
+      "summary": "火热申报中！截至4月27日。"
     },
     {
-      "title": "HTML-in-Canvas引爆前端！AI时代互联网视觉效果完全不一样了",
-      "link": "https://www.qbitai.com/2026/04/399996.html",
+      "title": "入职Meta的吴翼，清华叉院官网已撤其教职信息",
+      "link": "https://www.qbitai.com/2026/04/401002.html",
       "source": "qbitai",
-      "pub_date": "2026-04-12 14:02",
-      "summary": "HTML也能跑Doom游戏了？？"
+      "pub_date": "2026-04-13 09:09",
+      "summary": "“伯克利归国四子”只剩仨"
     },
     {
-      "title": "36.4万超声图文对！中国团队构建首个大规模超声专属数据集，让AI真正读懂临床诊断语义丨CVPR’26",
-      "link": "https://www.qbitai.com/2026/04/399975.html",
+      "title": "智能座舱“大脑”No.1冲刺港股，身价630亿，小米理想小鹏背后的共同供应商",
+      "link": "https://www.qbitai.com/2026/04/400567.html",
       "source": "qbitai",
-      "pub_date": "2026-04-12 07:21",
-      "summary": "超声AI迈入大模型时代"
+      "pub_date": "2026-04-13 08:44",
+      "summary": "拿下九家全球TOP 10车企"
     },
     {
-      "title": "超越人手！中国第一家脑机接口独角兽，要把仿生手带给机器人",
-      "link": "https://www.qbitai.com/2026/04/399681.html",
+      "title": "别养龙虾了，硅谷Agent新潮流是「爱马仕」",
+      "link": "https://www.qbitai.com/2026/04/400522.html",
       "source": "qbitai",
-      "pub_date": "2026-04-12 06:06",
-      "summary": "可能是最有想象力的灵巧手公司之一"
+      "pub_date": "2026-04-13 06:57",
+      "summary": "一月标星6.66万+"
     },
     {
-      "title": "奥特曼遭遇死亡威胁：凌晨家中被投燃烧瓶",
-      "link": "https://www.qbitai.com/2026/04/399473.html",
+      "title": "有人把巴菲特芒格炼化成Agent，然后开源了…",
+      "link": "https://www.qbitai.com/2026/04/400350.html",
       "source": "qbitai",
-      "pub_date": "2026-04-11 02:19",
-      "summary": "所幸无人受伤"
+      "pub_date": "2026-04-13 05:21",
+      "summary": "让小散有了「大师模型」。"
     }
   ]
 }
