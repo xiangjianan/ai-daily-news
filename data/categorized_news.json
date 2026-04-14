@@ -1,18 +1,11 @@
 {
   "headline": [
     {
-      "title": "Claude强到不敢发的Mythos，被质疑用了字节Seed技术",
-      "link": "https://www.qbitai.com/2026/04/400500.html",
+      "title": "斯坦福年度结论：中美大模型已没差距",
+      "link": "https://www.qbitai.com/2026/04/401094.html",
       "source": "qbitai",
-      "pub_date": "2026-04-13 05:41",
-      "summary": "概念来自字节Seed团队与多个高校合作的一篇论文，Yoshua Bengio也参与其中"
-    },
-    {
-      "title": "「Claude Code之父」其实是野路子来的……",
-      "link": "https://www.qbitai.com/2026/04/400306.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-12 14:11",
-      "summary": "一生都在试图逃离原生公司（bushi）"
+      "pub_date": "2026-04-14 05:58",
+      "summary": "AI普及率正在历史性加速"
     },
     {
       "title": "不会写代码也能用 AI 干活了：OpenAI 正在做一个“替你用电脑”的 Super App，新模型Spud 几周内登场",
@@ -29,6 +22,13 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/C2fWkH2EgBlDPNUNlcZX?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
+      "title": "OpenAI has bought AI personal finance startup Hiro",
+      "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-04-14 00:23",
+      "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning."
+    },
+    {
       "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
       "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
       "source": "openai_blog",
@@ -36,74 +36,69 @@
       "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security."
     }
   ],
-  "product": [
+  "product": [],
+  "funding": [
     {
-      "title": "Cloudflare发布Dynamic Workers公开测试版：基于Isolates的沙箱环境执行AI智能体代码",
-      "link": "https://www.infoq.cn/article/71XfFmTWWDmIhtqjoZED?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-13 15:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/71XfFmTWWDmIhtqjoZED?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "谷歌推出AppFunctions连接AI智能体和Android应用",
-      "link": "https://www.infoq.cn/article/y8lHXFCpi7jOcK5mspSd?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-13 14:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/y8lHXFCpi7jOcK5mspSd?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "曝京东全面拦截员工使用外部 AI；红帽裁撤中国区研发团队迁至印度，最高赔偿 N+6；传梁文峰内部发声：DeepSeek V4 本月下旬发布 | AI周报",
-      "link": "https://www.infoq.cn/article/pp8VUCpuJENbkWr169ec?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-13 10:25",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/pp8VUCpuJENbkWr169ec?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Tailwind CSS 4.2 发布 Webpack 插件、新配色方案以及逻辑属性工具类",
-      "link": "https://www.infoq.cn/article/50T48b3TOSJZRAa4GGx9?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-11 15:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/50T48b3TOSJZRAa4GGx9?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "李开复陆奇重仓同一家Harness智能体公司，李笛带队，4个月2轮融资3-5年粮草",
+      "link": "https://www.qbitai.com/2026/04/401065.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-14 05:39",
+      "summary": "团队即将发布最新成果"
     }
   ],
-  "funding": [],
-  "research": [],
-  "industry": [],
+  "research": [
+    {
+      "title": "AI 助力 Dragonwell Native 加速：10 倍性能提升机会的自动发现实践",
+      "link": "https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-14 14:58",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
+  "industry": [
+    {
+      "title": "模力工场 036 周 AI 应用周榜：AI不只做“单点能力”，而是在拼“完整工作流”",
+      "link": "https://www.infoq.cn/article/G27veSK8ZHwhmNdHilNB?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-14 20:37",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/G27veSK8ZHwhmNdHilNB?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "other": [
     {
-      "title": "今年最火的AI产品，不止龙虾｜榜单申报中",
-      "link": "https://www.qbitai.com/2026/04/401011.html",
+      "title": "荣耀PC家族大爆发！荣耀“打洲本”“养虾本”集中亮相",
+      "link": "https://www.qbitai.com/2026/04/401202.html",
       "source": "qbitai",
-      "pub_date": "2026-04-13 10:35",
-      "summary": "火热申报中！截至4月27日。"
+      "pub_date": "2026-04-14 13:12",
+      "summary": "首创“养虾本”，荣耀AI PC迈入3.0时代"
     },
     {
-      "title": "入职Meta的吴翼，清华叉院官网已撤其教职信息",
-      "link": "https://www.qbitai.com/2026/04/401002.html",
+      "title": "教育部等五部门关于印发《“人工智能+教育”行动计划》的通知",
+      "link": "https://www.qbitai.com/2026/04/401190.html",
       "source": "qbitai",
-      "pub_date": "2026-04-13 09:09",
-      "summary": "“伯克利归国四子”只剩仨"
+      "pub_date": "2026-04-14 10:19",
+      "summary": "推进人工智能人才培养和应用创新，统筹谋划基础环境和创新生态建设，系统构建智能时代的教育体系。"
     },
     {
-      "title": "智能座舱“大脑”No.1冲刺港股，身价630亿，小米理想小鹏背后的共同供应商",
-      "link": "https://www.qbitai.com/2026/04/400567.html",
+      "title": "什么Excel这函数那公式，我千问永远一步搞定",
+      "link": "https://www.qbitai.com/2026/04/401127.html",
       "source": "qbitai",
-      "pub_date": "2026-04-13 08:44",
-      "summary": "拿下九家全球TOP 10车企"
+      "pub_date": "2026-04-14 08:36",
+      "summary": "手机电脑全打通，随时随地大白话改表格"
     },
     {
-      "title": "别养龙虾了，硅谷Agent新潮流是「爱马仕」",
-      "link": "https://www.qbitai.com/2026/04/400522.html",
+      "title": "不只是卖服务器，中兴通讯想做AI时代的基础设施商",
+      "link": "https://www.qbitai.com/2026/04/401047.html",
       "source": "qbitai",
-      "pub_date": "2026-04-13 06:57",
-      "summary": "一月标星6.66万+"
+      "pub_date": "2026-04-14 04:31",
+      "summary": "把OpenClaw装进企业机房"
     },
     {
-      "title": "有人把巴菲特芒格炼化成Agent，然后开源了…",
-      "link": "https://www.qbitai.com/2026/04/400350.html",
+      "title": "AI开始直接交付Excel，千问用Agent重构做表流程",
+      "link": "https://www.qbitai.com/2026/04/401041.html",
       "source": "qbitai",
-      "pub_date": "2026-04-13 05:21",
-      "summary": "让小散有了「大师模型」。"
+      "pub_date": "2026-04-14 02:48",
+      "summary": "支持从对话直接生成、编辑Excel文件"
     }
   ]
 }
