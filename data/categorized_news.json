@@ -1,32 +1,25 @@
 {
   "headline": [
     {
-      "title": "斯坦福年度结论：中美大模型已没差距",
-      "link": "https://www.qbitai.com/2026/04/401094.html",
+      "title": "黄仁勋率先开源量子AI大模型",
+      "link": "https://www.qbitai.com/2026/04/401351.html",
       "source": "qbitai",
-      "pub_date": "2026-04-14 05:58",
-      "summary": "AI普及率正在历史性加速"
+      "pub_date": "2026-04-15 04:45",
+      "summary": "“AI会是量子计算机的操作系统”"
     },
     {
-      "title": "不会写代码也能用 AI 干活了：OpenAI 正在做一个“替你用电脑”的 Super App，新模型Spud 几周内登场",
-      "link": "https://www.infoq.cn/article/lAmhJxwuoPLvsKAF8WCV?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-13 18:48",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/lAmhJxwuoPLvsKAF8WCV?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "死敌爆料是狠！OpenAI内部信阴阳Claude营收注水80亿，然后泄露了…",
+      "link": "https://www.qbitai.com/2026/04/401333.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-15 03:22",
+      "summary": "Anthropic年化收入掺水80亿"
     },
     {
-      "title": "OpenAI 不想写 spec 了：Codex 只留 10 条要点，把执行交给 skills",
-      "link": "https://www.infoq.cn/article/C2fWkH2EgBlDPNUNlcZX?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-13 15:43",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/C2fWkH2EgBlDPNUNlcZX?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "OpenAI has bought AI personal finance startup Hiro",
-      "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+      "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-04-14 00:23",
-      "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning."
+      "pub_date": "2026-04-15 19:28",
+      "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity."
     },
     {
       "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
@@ -34,18 +27,39 @@
       "source": "openai_blog",
       "pub_date": "2026-04-13 06:00",
       "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security."
-    }
-  ],
-  "product": [],
-  "funding": [
+    },
     {
-      "title": "李开复陆奇重仓同一家Harness智能体公司，李笛带队，4个月2轮融资3-5年粮草",
-      "link": "https://www.qbitai.com/2026/04/401065.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-14 05:39",
-      "summary": "团队即将发布最新成果"
+      "title": "Using projects in ChatGPT",
+      "link": "https://openai.com/academy/projects",
+      "source": "openai_blog",
+      "pub_date": "2026-04-10 00:00",
+      "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively."
     }
   ],
+  "product": [
+    {
+      "title": "北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛",
+      "link": "https://www.qbitai.com/2026/04/401484.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-15 07:59",
+      "summary": "立足全球AI创新核心趋势，筑牢国芯AI发展根基"
+    },
+    {
+      "title": "浏览器原地变龙虾！Chrome上线Skills，技能一键复用帮你干活",
+      "link": "https://www.qbitai.com/2026/04/401389.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-15 05:46",
+      "summary": "浏览器纷纷Agent化"
+    },
+    {
+      "title": "网易智企发布企业级 AI Agent 管理平台：一人指挥一整支“龙虾军团”",
+      "link": "https://www.infoq.cn/article/wSpS6icWMeyHS7jmYGbK?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-15 16:56",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/wSpS6icWMeyHS7jmYGbK?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
+  "funding": [],
   "research": [
     {
       "title": "AI 助力 Dragonwell Native 加速：10 倍性能提升机会的自动发现实践",
@@ -66,39 +80,39 @@
   ],
   "other": [
     {
+      "title": "全球首创16cm极致外扩超级机械臂，MOVA扫地机开启清洁新纪元",
+      "link": "https://www.qbitai.com/2026/04/401512.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-15 13:28",
+      "summary": "16cm极致外扩，主动探入清洁死角"
+    },
+    {
+      "title": "百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕",
+      "link": "https://www.qbitai.com/2026/04/401507.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-15 08:56",
+      "summary": "一次性获取百度智能云的全栈技术图谱"
+    },
+    {
+      "title": "CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划",
+      "link": "https://www.qbitai.com/2026/04/401479.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-15 07:42",
+      "summary": "以智算为支撑，开启校企协同新篇章"
+    },
+    {
+      "title": "新Vidu Q3参考生，这是冲着「剧」来的！万物皆可参考：特效音效场景都备好了",
+      "link": "https://www.qbitai.com/2026/04/401367.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-15 05:06",
+      "summary": "参考生的纪录，Vidu自己超越自己"
+    },
+    {
       "title": "荣耀PC家族大爆发！荣耀“打洲本”“养虾本”集中亮相",
       "link": "https://www.qbitai.com/2026/04/401202.html",
       "source": "qbitai",
       "pub_date": "2026-04-14 13:12",
       "summary": "首创“养虾本”，荣耀AI PC迈入3.0时代"
-    },
-    {
-      "title": "教育部等五部门关于印发《“人工智能+教育”行动计划》的通知",
-      "link": "https://www.qbitai.com/2026/04/401190.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-14 10:19",
-      "summary": "推进人工智能人才培养和应用创新，统筹谋划基础环境和创新生态建设，系统构建智能时代的教育体系。"
-    },
-    {
-      "title": "什么Excel这函数那公式，我千问永远一步搞定",
-      "link": "https://www.qbitai.com/2026/04/401127.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-14 08:36",
-      "summary": "手机电脑全打通，随时随地大白话改表格"
-    },
-    {
-      "title": "不只是卖服务器，中兴通讯想做AI时代的基础设施商",
-      "link": "https://www.qbitai.com/2026/04/401047.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-14 04:31",
-      "summary": "把OpenClaw装进企业机房"
-    },
-    {
-      "title": "AI开始直接交付Excel，千问用Agent重构做表流程",
-      "link": "https://www.qbitai.com/2026/04/401041.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-14 02:48",
-      "summary": "支持从对话直接生成、编辑Excel文件"
     }
   ]
 }
