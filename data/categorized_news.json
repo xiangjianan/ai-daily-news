@@ -1,25 +1,18 @@
 {
   "headline": [
     {
-      "title": "黄仁勋率先开源量子AI大模型",
-      "link": "https://www.qbitai.com/2026/04/401351.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-15 04:45",
-      "summary": "“AI会是量子计算机的操作系统”"
-    },
-    {
-      "title": "死敌爆料是狠！OpenAI内部信阴阳Claude营收注水80亿，然后泄露了…",
-      "link": "https://www.qbitai.com/2026/04/401333.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-15 03:22",
-      "summary": "Anthropic年化收入掺水80亿"
-    },
-    {
-      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-      "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+      "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+      "link": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-04-15 19:28",
-      "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity."
+      "pub_date": "2026-04-16 19:18",
+      "summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities."
+    },
+    {
+      "title": "Introducing GPT-Rosalind for life sciences research",
+      "link": "https://openai.com/index/introducing-gpt-rosalind",
+      "source": "openai_blog",
+      "pub_date": "2026-04-16 01:00",
+      "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows."
     },
     {
       "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
@@ -29,27 +22,34 @@
       "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security."
     },
     {
-      "title": "Using projects in ChatGPT",
-      "link": "https://openai.com/academy/projects",
+      "title": "Applications of AI at OpenAI",
+      "link": "https://openai.com/academy/applications-of-ai",
       "source": "openai_blog",
       "pub_date": "2026-04-10 00:00",
-      "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively."
+      "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks."
+    },
+    {
+      "title": "ChatGPT for operations teams",
+      "link": "https://openai.com/academy/operations",
+      "source": "openai_blog",
+      "pub_date": "2026-04-10 00:00",
+      "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution."
     }
   ],
   "product": [
     {
-      "title": "北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛",
-      "link": "https://www.qbitai.com/2026/04/401484.html",
+      "title": "PPIO上线PPHermes：云端沙箱一键部署Hermes Agent",
+      "link": "https://www.qbitai.com/2026/04/402085.html",
       "source": "qbitai",
-      "pub_date": "2026-04-15 07:59",
-      "summary": "立足全球AI创新核心趋势，筑牢国芯AI发展根基"
+      "pub_date": "2026-04-16 13:36",
+      "summary": ""
     },
     {
-      "title": "浏览器原地变龙虾！Chrome上线Skills，技能一键复用帮你干活",
-      "link": "https://www.qbitai.com/2026/04/401389.html",
+      "title": "打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施",
+      "link": "https://www.qbitai.com/2026/04/402063.html",
       "source": "qbitai",
-      "pub_date": "2026-04-15 05:46",
-      "summary": "浏览器纷纷Agent化"
+      "pub_date": "2026-04-16 12:51",
+      "summary": "推动具身智能从实验室研发迈向规模化商业落地，打造“具身智能超级供应链”。"
     },
     {
       "title": "网易智企发布企业级 AI Agent 管理平台：一人指挥一整支“龙虾军团”",
@@ -59,60 +59,59 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/wSpS6icWMeyHS7jmYGbK?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [],
-  "research": [
+  "funding": [
     {
-      "title": "AI 助力 Dragonwell Native 加速：10 倍性能提升机会的自动发现实践",
-      "link": "https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-14 14:58",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "它石智航Pre-A轮融资4.55亿美金破中国具身智能纪录，高瓴红杉美团联合领投",
+      "link": "https://www.qbitai.com/2026/04/401714.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-16 07:38",
+      "summary": "创下中国具身智能有史以来最高单轮融资纪录，仅用一年时间成功领跑具身智能行业第一梯队。"
+    },
+    {
+      "title": "智象未来完成新一轮融资，全力打造下一代原生全模态世界模型",
+      "link": "https://www.qbitai.com/2026/04/401705.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-16 06:40",
+      "summary": "超5亿元新一轮融资。"
     }
   ],
-  "industry": [
-    {
-      "title": "模力工场 036 周 AI 应用周榜：AI不只做“单点能力”，而是在拼“完整工作流”",
-      "link": "https://www.infoq.cn/article/G27veSK8ZHwhmNdHilNB?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-14 20:37",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/G27veSK8ZHwhmNdHilNB?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "research": [],
+  "industry": [],
   "other": [
     {
-      "title": "全球首创16cm极致外扩超级机械臂，MOVA扫地机开启清洁新纪元",
-      "link": "https://www.qbitai.com/2026/04/401512.html",
+      "title": "72天，从0到千万小时产能，这个具身「新锐派」凭什么接管数据赛道？",
+      "link": "https://www.qbitai.com/2026/04/401741.html",
       "source": "qbitai",
-      "pub_date": "2026-04-15 13:28",
-      "summary": "16cm极致外扩，主动探入清洁死角"
+      "pub_date": "2026-04-16 13:04",
+      "summary": "发布一站式物理AI数据服务平台"
     },
     {
-      "title": "百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕",
-      "link": "https://www.qbitai.com/2026/04/401507.html",
+      "title": "世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场",
+      "link": "https://www.qbitai.com/2026/04/401994.html",
       "source": "qbitai",
-      "pub_date": "2026-04-15 08:56",
-      "summary": "一次性获取百度智能云的全栈技术图谱"
+      "pub_date": "2026-04-16 12:39",
+      "summary": ""
     },
     {
-      "title": "CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划",
-      "link": "https://www.qbitai.com/2026/04/401479.html",
+      "title": "刚刚，机器人练成了宁次的「白眼」：∞帧画面边看边3D重建我们的世界！",
+      "link": "https://www.qbitai.com/2026/04/401743.html",
       "source": "qbitai",
-      "pub_date": "2026-04-15 07:42",
-      "summary": "以智算为支撑，开启校企协同新篇章"
+      "pub_date": "2026-04-16 12:33",
+      "summary": "具身圈开源了个SOTA"
     },
     {
-      "title": "新Vidu Q3参考生，这是冲着「剧」来的！万物皆可参考：特效音效场景都备好了",
-      "link": "https://www.qbitai.com/2026/04/401367.html",
+      "title": "宁王飘了！日赚2.3亿，回应比亚迪“闪充”：跟我学的，构不成挑战",
+      "link": "https://www.qbitai.com/2026/04/401719.html",
       "source": "qbitai",
-      "pub_date": "2026-04-15 05:06",
-      "summary": "参考生的纪录，Vidu自己超越自己"
+      "pub_date": "2026-04-16 08:25",
+      "summary": "市值跻身A股前三"
     },
     {
-      "title": "荣耀PC家族大爆发！荣耀“打洲本”“养虾本”集中亮相",
-      "link": "https://www.qbitai.com/2026/04/401202.html",
+      "title": "腾讯官宣升级AI小程序成长计划，所有小程序都能申请",
+      "link": "https://www.qbitai.com/2026/04/401710.html",
       "source": "qbitai",
-      "pub_date": "2026-04-14 13:12",
-      "summary": "首创“养虾本”，荣耀AI PC迈入3.0时代"
+      "pub_date": "2026-04-16 06:57",
+      "summary": "参与门槛全面放开"
     }
   ]
 }
