@@ -1,11 +1,25 @@
 {
   "headline": [
     {
-      "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
-      "link": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+      "title": "π0.7发布，VLA押出了机器人的GPT-3时刻",
+      "link": "https://www.qbitai.com/2026/04/402189.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-17 06:57",
+      "summary": "π0.7：具有涌现能力的可控模型"
+    },
+    {
+      "title": "OpenAI 也把工程师经验“蒸馏”进 skill 了！Harness 爆文作者曝内部玩法：一个百万行代码系统，全程零人工编码和审核",
+      "link": "https://www.infoq.cn/article/xeXddcuzu78D7mC5wyBy?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-17 16:01",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/xeXddcuzu78D7mC5wyBy?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+      "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-04-16 19:18",
-      "summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities."
+      "pub_date": "2026-04-17 20:38",
+      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI."
     },
     {
       "title": "Introducing GPT-Rosalind for life sciences research",
@@ -20,23 +34,16 @@
       "source": "openai_blog",
       "pub_date": "2026-04-13 06:00",
       "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security."
-    },
-    {
-      "title": "Applications of AI at OpenAI",
-      "link": "https://openai.com/academy/applications-of-ai",
-      "source": "openai_blog",
-      "pub_date": "2026-04-10 00:00",
-      "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks."
-    },
-    {
-      "title": "ChatGPT for operations teams",
-      "link": "https://openai.com/academy/operations",
-      "source": "openai_blog",
-      "pub_date": "2026-04-10 00:00",
-      "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution."
     }
   ],
   "product": [
+    {
+      "title": "谷歌最强具身大脑发布！波士顿机器狗瞬间人模人样",
+      "link": "https://www.qbitai.com/2026/04/402329.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-17 07:08",
+      "summary": "Gemini Robotics主打空间推理的第三代模型。"
+    },
     {
       "title": "PPIO上线PPHermes：云端沙箱一键部署Hermes Agent",
       "link": "https://www.qbitai.com/2026/04/402085.html",
@@ -50,68 +57,54 @@
       "source": "qbitai",
       "pub_date": "2026-04-16 12:51",
       "summary": "推动具身智能从实验室研发迈向规模化商业落地，打造“具身智能超级供应链”。"
-    },
-    {
-      "title": "网易智企发布企业级 AI Agent 管理平台：一人指挥一整支“龙虾军团”",
-      "link": "https://www.infoq.cn/article/wSpS6icWMeyHS7jmYGbK?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-15 16:56",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/wSpS6icWMeyHS7jmYGbK?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [
     {
-      "title": "它石智航Pre-A轮融资4.55亿美金破中国具身智能纪录，高瓴红杉美团联合领投",
-      "link": "https://www.qbitai.com/2026/04/401714.html",
+      "title": "4.55亿美金！中国具身智能最大单笔融资诞生，高瓴红杉联手押注具身大脑",
+      "link": "https://www.qbitai.com/2026/04/402388.html",
       "source": "qbitai",
-      "pub_date": "2026-04-16 07:38",
-      "summary": "创下中国具身智能有史以来最高单轮融资纪录，仅用一年时间成功领跑具身智能行业第一梯队。"
-    },
-    {
-      "title": "智象未来完成新一轮融资，全力打造下一代原生全模态世界模型",
-      "link": "https://www.qbitai.com/2026/04/401705.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-16 06:40",
-      "summary": "超5亿元新一轮融资。"
+      "pub_date": "2026-04-17 07:37",
+      "summary": "全栈大脑会成为具身智能下一阶段竞赛的胜负手"
     }
   ],
   "research": [],
   "industry": [],
   "other": [
     {
+      "title": "11.58万，全系Lidar+L4同源算法，广汽文远把城区NOA打成白菜价",
+      "link": "https://www.qbitai.com/2026/04/402440.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-17 08:24",
+      "summary": "算力只需200TOPS"
+    },
+    {
+      "title": "18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场",
+      "link": "https://www.qbitai.com/2026/04/402186.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-17 05:52",
+      "summary": "RoboChallenge 正式完成第二批生态扩容，星动纪元、极佳视界、地平线、光轮智能、生数科技、中移杭研、长虹、算力自由8 家顶尖企业重磅入驻"
+    },
+    {
+      "title": "空间智能第一股，开盘暴涨171%！李飞飞押注的赛道，杭州六小龙之一跑通了",
+      "link": "https://www.qbitai.com/2026/04/402158.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-17 03:30",
+      "summary": "空间智能的时代，才刚刚开始。"
+    },
+    {
+      "title": "ImageNet作者苏昊回国任教复旦！李飞飞高徒，具身第一高引，出任通用物理AI院长",
+      "link": "https://www.qbitai.com/2026/04/402088.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-17 02:16",
+      "summary": "推动“物理智能”的最终实现"
+    },
+    {
       "title": "72天，从0到千万小时产能，这个具身「新锐派」凭什么接管数据赛道？",
       "link": "https://www.qbitai.com/2026/04/401741.html",
       "source": "qbitai",
       "pub_date": "2026-04-16 13:04",
       "summary": "发布一站式物理AI数据服务平台"
-    },
-    {
-      "title": "世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场",
-      "link": "https://www.qbitai.com/2026/04/401994.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-16 12:39",
-      "summary": ""
-    },
-    {
-      "title": "刚刚，机器人练成了宁次的「白眼」：∞帧画面边看边3D重建我们的世界！",
-      "link": "https://www.qbitai.com/2026/04/401743.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-16 12:33",
-      "summary": "具身圈开源了个SOTA"
-    },
-    {
-      "title": "宁王飘了！日赚2.3亿，回应比亚迪“闪充”：跟我学的，构不成挑战",
-      "link": "https://www.qbitai.com/2026/04/401719.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-16 08:25",
-      "summary": "市值跻身A股前三"
-    },
-    {
-      "title": "腾讯官宣升级AI小程序成长计划，所有小程序都能申请",
-      "link": "https://www.qbitai.com/2026/04/401710.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-16 06:57",
-      "summary": "参与门槛全面放开"
     }
   ]
 }
