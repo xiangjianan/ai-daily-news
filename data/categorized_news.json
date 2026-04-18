@@ -38,25 +38,18 @@
   ],
   "product": [
     {
+      "title": "魏建军发布会开炮：专属电动车平台纯粹伪命题，友商回去立马向我们学习",
+      "link": "https://www.qbitai.com/2026/04/402636.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-18 01:10",
+      "summary": "不以尺寸定义汽车平台"
+    },
+    {
       "title": "谷歌最强具身大脑发布！波士顿机器狗瞬间人模人样",
       "link": "https://www.qbitai.com/2026/04/402329.html",
       "source": "qbitai",
       "pub_date": "2026-04-17 07:08",
       "summary": "Gemini Robotics主打空间推理的第三代模型。"
-    },
-    {
-      "title": "PPIO上线PPHermes：云端沙箱一键部署Hermes Agent",
-      "link": "https://www.qbitai.com/2026/04/402085.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-16 13:36",
-      "summary": ""
-    },
-    {
-      "title": "打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施",
-      "link": "https://www.qbitai.com/2026/04/402063.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-16 12:51",
-      "summary": "推动具身智能从实验室研发迈向规模化商业落地，打造“具身智能超级供应链”。"
     }
   ],
   "funding": [
@@ -71,6 +64,20 @@
   "research": [],
   "industry": [],
   "other": [
+    {
+      "title": "AI开始接管实验室了！玻尔·跃迁实验室：试剂、设备、数据一个入口搞定，1800+设备即插即用",
+      "link": "https://www.qbitai.com/2026/04/402988.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-18 15:58",
+      "summary": "自然语言控制设备，零编程编排流程"
+    },
+    {
+      "title": "OpenClaw的风，已经吹进了奶茶圈",
+      "link": "https://www.qbitai.com/2026/04/402965.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-18 15:48",
+      "summary": "企业如何安全落地龙虾？"
+    },
     {
       "title": "11.58万，全系Lidar+L4同源算法，广汽文远把城区NOA打成白菜价",
       "link": "https://www.qbitai.com/2026/04/402440.html",
@@ -91,20 +98,6 @@
       "source": "qbitai",
       "pub_date": "2026-04-17 03:30",
       "summary": "空间智能的时代，才刚刚开始。"
-    },
-    {
-      "title": "ImageNet作者苏昊回国任教复旦！李飞飞高徒，具身第一高引，出任通用物理AI院长",
-      "link": "https://www.qbitai.com/2026/04/402088.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-17 02:16",
-      "summary": "推动“物理智能”的最终实现"
-    },
-    {
-      "title": "72天，从0到千万小时产能，这个具身「新锐派」凭什么接管数据赛道？",
-      "link": "https://www.qbitai.com/2026/04/401741.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-16 13:04",
-      "summary": "发布一站式物理AI数据服务平台"
     }
   ]
 }
