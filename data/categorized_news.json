@@ -1,11 +1,11 @@
 {
   "headline": [
     {
-      "title": "π0.7发布，VLA押出了机器人的GPT-3时刻",
-      "link": "https://www.qbitai.com/2026/04/402189.html",
+      "title": "大模型架构的下半场",
+      "link": "https://www.qbitai.com/2026/04/403515.html",
       "source": "qbitai",
-      "pub_date": "2026-04-17 06:57",
-      "summary": "π0.7：具有涌现能力的可控模型"
+      "pub_date": "2026-04-19 10:12",
+      "summary": "面向大模型深度扩展的Flash Depth Attention与混合深度注意力"
     },
     {
       "title": "OpenAI 也把工程师经验“蒸馏”进 skill 了！Harness 爆文作者曝内部玩法：一个百万行代码系统，全程零人工编码和审核",
@@ -13,6 +13,13 @@
       "source": "infoq",
       "pub_date": "2026-04-17 16:01",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/xeXddcuzu78D7mC5wyBy?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "OpenAI’s existential questions",
+      "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-04-19 21:24",
+      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company."
     },
     {
       "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
@@ -27,77 +34,70 @@
       "source": "openai_blog",
       "pub_date": "2026-04-16 01:00",
       "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows."
-    },
-    {
-      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-      "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
-      "source": "openai_blog",
-      "pub_date": "2026-04-13 06:00",
-      "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security."
     }
   ],
   "product": [
     {
-      "title": "魏建军发布会开炮：专属电动车平台纯粹伪命题，友商回去立马向我们学习",
-      "link": "https://www.qbitai.com/2026/04/402636.html",
+      "title": "高德发布全球首个面向AGI的全栈具身技术体系“ABot”：15项SOTA，构建持续进化的具身智能闭环",
+      "link": "https://www.qbitai.com/2026/04/403505.html",
       "source": "qbitai",
-      "pub_date": "2026-04-18 01:10",
-      "summary": "不以尺寸定义汽车平台"
+      "pub_date": "2026-04-19 07:50",
+      "summary": "打造出全球首个面向AGI的全栈具身技术体系。"
+    }
+  ],
+  "funding": [],
+  "research": [
+    {
+      "title": "Kimi新论文：把KVCache玩成新商业模式了",
+      "link": "https://www.qbitai.com/2026/04/403528.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-19 10:19",
+      "summary": "超长上下文福音"
     },
     {
-      "title": "谷歌最强具身大脑发布！波士顿机器狗瞬间人模人样",
-      "link": "https://www.qbitai.com/2026/04/402329.html",
+      "title": "横扫全球15项SOTA！高德首个面向AGI的全栈具身技术体系大公开",
+      "link": "https://www.qbitai.com/2026/04/403226.html",
       "source": "qbitai",
-      "pub_date": "2026-04-17 07:08",
-      "summary": "Gemini Robotics主打空间推理的第三代模型。"
+      "pub_date": "2026-04-19 10:13",
+      "summary": "当行业在底层基础设施上开始成型，局面就会迅速收敛"
     }
   ],
-  "funding": [
-    {
-      "title": "4.55亿美金！中国具身智能最大单笔融资诞生，高瓴红杉联手押注具身大脑",
-      "link": "https://www.qbitai.com/2026/04/402388.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-17 07:37",
-      "summary": "全栈大脑会成为具身智能下一阶段竞赛的胜负手"
-    }
-  ],
-  "research": [],
   "industry": [],
   "other": [
+    {
+      "title": "马斯克来抖音卖老干妈了？？",
+      "link": "https://www.qbitai.com/2026/04/403308.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-19 04:47",
+      "summary": "这将是一个虚拟与现实，彻底融合的世界"
+    },
+    {
+      "title": "教龙虾玩手机！打通GUI智能体训练-评测-部署全流程，训练、真机、评测一站解决",
+      "link": "https://www.qbitai.com/2026/04/403214.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-19 04:25",
+      "summary": "没有人工干预，没有预设脚本"
+    },
+    {
+      "title": "黄仁勋都被问毛了：顶级AI厂商在去CUDA？“你的前提就是错的”",
+      "link": "https://www.qbitai.com/2026/04/403210.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-19 04:14",
+      "summary": "万字实录在此"
+    },
+    {
+      "title": "王濛代言的方盒子19万开卖，头顶激光雷达，底盘能“预瞄”路况",
+      "link": "https://www.qbitai.com/2026/04/403126.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-19 03:24",
+      "summary": "魏建军回应“接地气”：我农民出身"
+    },
     {
       "title": "AI开始接管实验室了！玻尔·跃迁实验室：试剂、设备、数据一个入口搞定，1800+设备即插即用",
       "link": "https://www.qbitai.com/2026/04/402988.html",
       "source": "qbitai",
       "pub_date": "2026-04-18 15:58",
       "summary": "自然语言控制设备，零编程编排流程"
-    },
-    {
-      "title": "OpenClaw的风，已经吹进了奶茶圈",
-      "link": "https://www.qbitai.com/2026/04/402965.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-18 15:48",
-      "summary": "企业如何安全落地龙虾？"
-    },
-    {
-      "title": "11.58万，全系Lidar+L4同源算法，广汽文远把城区NOA打成白菜价",
-      "link": "https://www.qbitai.com/2026/04/402440.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-17 08:24",
-      "summary": "算力只需200TOPS"
-    },
-    {
-      "title": "18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场",
-      "link": "https://www.qbitai.com/2026/04/402186.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-17 05:52",
-      "summary": "RoboChallenge 正式完成第二批生态扩容，星动纪元、极佳视界、地平线、光轮智能、生数科技、中移杭研、长虹、算力自由8 家顶尖企业重磅入驻"
-    },
-    {
-      "title": "空间智能第一股，开盘暴涨171%！李飞飞押注的赛道，杭州六小龙之一跑通了",
-      "link": "https://www.qbitai.com/2026/04/402158.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-17 03:30",
-      "summary": "空间智能的时代，才刚刚开始。"
     }
   ]
 }
