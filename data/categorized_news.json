@@ -1,118 +1,125 @@
 {
   "headline": [
     {
-      "title": "Claude Code 桌面版烂爆了，Anthropic 终于把 “100% AI 编码”演砸了",
-      "link": "https://www.infoq.cn/article/E3v5OSXbSsKLoqXLBKvP?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-21 09:12",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/E3v5OSXbSsKLoqXLBKvP?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
-      "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+      "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+      "link": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-04-21 23:26",
-      "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted."
+      "pub_date": "2026-04-22 14:22",
+      "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, "
     },
     {
-      "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
-      "link": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-04-21 19:00",
-      "summary": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years."
-    },
-    {
-      "title": "OpenAI helps Hyatt advance AI among colleagues",
-      "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+      "title": "Making ChatGPT better for clinicians",
+      "link": "https://openai.com/index/making-chatgpt-better-for-clinicians",
       "source": "openai_blog",
-      "pub_date": "2026-04-20 00:00",
-      "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences."
+      "pub_date": "2026-04-22 15:00",
+      "summary": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research."
     },
     {
-      "title": "Introducing GPT-Rosalind for life sciences research",
-      "link": "https://openai.com/index/introducing-gpt-rosalind",
+      "title": "Introducing workspace agents in ChatGPT",
+      "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
       "source": "openai_blog",
-      "pub_date": "2026-04-16 01:00",
-      "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows."
+      "pub_date": "2026-04-22 10:00",
+      "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely."
+    },
+    {
+      "title": "Introducing OpenAI Privacy Filter",
+      "link": "https://openai.com/index/introducing-openai-privacy-filter",
+      "source": "openai_blog",
+      "pub_date": "2026-04-22 00:00",
+      "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy"
+    },
+    {
+      "title": "Introducing ChatGPT Images 2.0",
+      "link": "https://openai.com/index/introducing-chatgpt-images-2-0",
+      "source": "openai_blog",
+      "pub_date": "2026-04-21 12:00",
+      "summary": "ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning."
     }
   ],
   "product": [
     {
-      "title": "小米宣布上线PC版龙虾，Xiaomi miclaw正式开启PC、Mac、有屏音箱多终端封测",
-      "link": "https://www.qbitai.com/2026/04/403867.html",
+      "title": "科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆",
+      "link": "https://www.qbitai.com/2026/04/404713.html",
       "source": "qbitai",
-      "pub_date": "2026-04-21 04:57",
-      "summary": "于3月6日上线并开启小范围封测。"
+      "pub_date": "2026-04-22 13:15",
+      "summary": ""
+    },
+    {
+      "title": "RGB-Mini LED电视普及风暴，海信正式发布小墨E5S Pro",
+      "link": "https://www.qbitai.com/2026/04/404798.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-22 09:13",
+      "summary": "重塑Mini LED品质标杆"
+    },
+    {
+      "title": "全球首个世界统一模型发布，机器人家庭成员来了！",
+      "link": "https://www.qbitai.com/2026/04/404446.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-22 05:49",
+      "summary": "首个世界统一模型，来了"
     }
   ],
   "funding": [],
   "research": [
     {
-      "title": "天立启鸣AI研究院院长刘志毅，入选2025福布斯中国科创人物",
-      "link": "https://www.qbitai.com/2026/04/403825.html",
+      "title": "神秘模型「大象」：仅100B拿下SOTA，Token效率超高！",
+      "link": "https://www.qbitai.com/2026/04/404645.html",
       "source": "qbitai",
-      "pub_date": "2026-04-21 04:33",
-      "summary": "教育+AI引领智能时代新范式"
+      "pub_date": "2026-04-22 10:29",
+      "summary": ""
+    },
+    {
+      "title": "国产多模态Agent拿下医学分割SOTA！不用改模型、不加token",
+      "link": "https://www.qbitai.com/2026/04/404604.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-22 07:17",
+      "summary": "已被CVPR 2026接收"
     }
   ],
   "industry": [
-    {
-      "title": "Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官",
-      "link": "https://www.qbitai.com/2026/04/403859.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-21 04:54",
-      "summary": "当代码可以被生成，程序员还能做些什么？"
-    },
     {
       "title": "模力工场 037 周 AI 应用周榜：生态意识增强，多模态已成AI应用标配",
       "link": "https://www.infoq.cn/article/fKc0YsLc9aDjzk1V81oW?utm_source=rss&utm_medium=article",
       "source": "infoq",
       "pub_date": "2026-04-21 19:59",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/fKc0YsLc9aDjzk1V81oW?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "AI 时代的中欧产业重构与合作：建交 51 周年新起点，共探双向共赢新路径",
-      "link": "https://www.infoq.cn/article/DbItbFaOU2trizVYJam2?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-20 18:01",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/DbItbFaOU2trizVYJam2?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
     {
-      "title": "前小鹏汽车自动驾驶一号位李力耘出任众擎CTO，加速打造具身大脑",
-      "link": "https://www.qbitai.com/2026/04/404124.html",
+      "title": "“不造车的特斯拉”亮出“舱驾一体”全家桶，汽车长出“主动理解力”，奇瑞比亚迪等10+巨头力挺",
+      "link": "https://www.qbitai.com/2026/04/404721.html",
       "source": "qbitai",
-      "pub_date": "2026-04-21 14:21",
-      "summary": "通过将自动驾驶领域成熟的“工业化AI”打法、高效的数据飞轮与极强的工程部署能力引入具身赛道，众擎加速打造原生多模态驱动、大小脑与神经末梢协同的全集成架构。"
+      "pub_date": "2026-04-22 14:26",
+      "summary": "智能车时代的Wintel已出现"
     },
     {
-      "title": "5月20日，马上AI起来！中国AIGC产业峰会报名已启动｜首波嘉宾官宣",
-      "link": "https://www.qbitai.com/2026/04/404096.html",
+      "title": "香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖",
+      "link": "https://www.qbitai.com/2026/04/404631.html",
       "source": "qbitai",
-      "pub_date": "2026-04-21 12:02",
-      "summary": "欢迎报名，北京线下见！"
+      "pub_date": "2026-04-22 09:52",
+      "summary": "发表论文被引用逾90000次"
     },
     {
-      "title": "物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题",
-      "link": "https://www.qbitai.com/2026/04/404086.html",
+      "title": "这些人读个博一年能挣几十万？2026苹果学者名单公布了",
+      "link": "https://www.qbitai.com/2026/04/404481.html",
       "source": "qbitai",
-      "pub_date": "2026-04-21 08:45",
-      "summary": "高精渲染引擎，解决\"数据稀缺\""
+      "pub_date": "2026-04-22 07:10",
+      "summary": "苹果版「顶尖AI人才计划」"
     },
     {
-      "title": "ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态",
-      "link": "https://www.qbitai.com/2026/04/404082.html",
+      "title": "大厂AI抢人大战，从实习生开始",
+      "link": "https://www.qbitai.com/2026/04/404470.html",
       "source": "qbitai",
-      "pub_date": "2026-04-21 08:31",
-      "summary": "深挖人工智能与数字安全领域创新成果"
+      "pub_date": "2026-04-22 06:59",
+      "summary": ""
     },
     {
-      "title": "都让让！赛博女娲蒸馏一切，让乔布斯马斯克集体给你打工",
-      "link": "https://www.qbitai.com/2026/04/403871.html",
+      "title": "从GPU到Token：AI基础设施竞争逻辑重构",
+      "link": "https://www.qbitai.com/2026/04/404440.html",
       "source": "qbitai",
-      "pub_date": "2026-04-21 06:26",
-      "summary": "上线一周破万星"
+      "pub_date": "2026-04-22 04:48",
+      "summary": "商汤大装置已实践三年"
     }
   ]
 }
