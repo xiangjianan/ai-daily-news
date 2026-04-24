@@ -1,25 +1,25 @@
 {
   "headline": [
     {
-      "title": "刚刚，GPT-5.5发布！内测英伟达工程师：失去它像被截肢",
-      "link": "https://www.qbitai.com/2026/04/406221.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-23 20:44",
-      "summary": "与上个版本GPT5.4相比，新模型在代码、知识工作、科学研究三个领域全部拉开身位"
+      "title": "GPT-5.5 登顶时刻，Anthropic 亲口承认 Claude 变笨了！网友群嘲：太敷衍",
+      "link": "https://www.infoq.cn/article/6iDjLwYiOXIVwjl4taOP?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-24 17:17",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/6iDjLwYiOXIVwjl4taOP?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "半壁华人！GPT Image 2团队曝光：无锡才俊带队，13人4个月封神",
-      "link": "https://www.qbitai.com/2026/04/405391.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-23 08:04",
-      "summary": "底层架构已彻底重构"
+      "title": "GPT-5.5 赢了 Opus 4.7 和 Mythos？奥特曼晒黄仁勋内部信：英伟达全员用上 Codex！",
+      "link": "https://www.infoq.cn/article/IjNk79KKJgTDDvO5OMAY?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-24 11:07",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/IjNk79KKJgTDDvO5OMAY?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
-      "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-04-23 18:29",
-      "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories."
+      "title": "Introducing GPT-5.5",
+      "link": "https://openai.com/index/introducing-gpt-5-5",
+      "source": "openai_blog",
+      "pub_date": "2026-04-23 11:00",
+      "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools."
     },
     {
       "title": "GPT-5.5 System Card",
@@ -29,75 +29,96 @@
       "summary": ""
     },
     {
-      "title": "Introducing GPT-5.5",
-      "link": "https://openai.com/index/introducing-gpt-5-5",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
       "source": "openai_blog",
-      "pub_date": "2026-04-23 11:00",
-      "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools."
+      "pub_date": "2026-04-23 00:00",
+      "summary": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000."
     }
   ],
-  "product": [],
-  "funding": [
+  "product": [
     {
-      "title": "国内首家百亿估值纯推理GPU独角兽诞生！专访曦望联席CEO王湛：谁的推理成本更低谁就是赢家",
-      "link": "https://www.qbitai.com/2026/04/406020.html",
+      "title": "优必选发布Thinker cosmos：加码开发者生态，推动人形机器人走向规模化",
+      "link": "https://www.qbitai.com/2026/04/406806.html",
       "source": "qbitai",
-      "pub_date": "2026-04-23 14:28",
-      "summary": "百万Token要降到1分钱"
+      "pub_date": "2026-04-24 11:49",
+      "summary": ""
+    },
+    {
+      "title": "PPIO首批上线DeepSeek-V4预览版，1M超长上下文能力开箱即用",
+      "link": "https://www.qbitai.com/2026/04/406802.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-24 10:23",
+      "summary": ""
+    },
+    {
+      "title": "DeepSeek-V4发布，华为云首发适配",
+      "link": "https://www.qbitai.com/2026/04/406791.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-24 10:10",
+      "summary": ""
+    },
+    {
+      "title": "PPIO首批上线DeepSeek-V4预览版，1M超长上下文能力开箱即用",
+      "link": "https://www.qbitai.com/2026/04/406760.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-24 09:10",
+      "summary": "开源SOTA大模型能力一键直达"
+    },
+    {
+      "title": "Coordination Engineering关键一环，JiuwenClaw再发布Team Skills技能新范式",
+      "link": "https://www.qbitai.com/2026/04/406393.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-24 07:01",
+      "summary": "业界首个面向多Agent协作的标准化能力包规范"
     }
   ],
+  "funding": [],
   "research": [],
   "industry": [
     {
-      "title": "PixVerse 成为联合国 2026 AI for Good 全球峰会AI合作伙伴",
-      "link": "https://www.qbitai.com/2026/04/405358.html",
+      "title": "Mobileye 2026财年一季度营收增长27%，自动驾驶商业化进程持续推进",
+      "link": "https://www.qbitai.com/2026/04/406775.html",
       "source": "qbitai",
-      "pub_date": "2026-04-23 05:13",
-      "summary": "面向全球创作者的AI视频作品征集同步开启"
-    },
-    {
-      "title": "模力工场 037 周 AI 应用周榜：生态意识增强，多模态已成AI应用标配",
-      "link": "https://www.infoq.cn/article/fKc0YsLc9aDjzk1V81oW?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-21 19:59",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/fKc0YsLc9aDjzk1V81oW?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-04-24 09:45",
+      "summary": "表现超出此前市场预期。"
     }
   ],
   "other": [
     {
-      "title": "河南师傅，左手扳手，右手飞书，竟然能搞数据分析！",
-      "link": "https://www.qbitai.com/2026/04/406191.html",
+      "title": "100%主流车企的共同选择：一个AI“通用底座”正在汽车行业成型",
+      "link": "https://www.qbitai.com/2026/04/406767.html",
       "source": "qbitai",
-      "pub_date": "2026-04-23 14:42",
-      "summary": "多维表格又升级了"
+      "pub_date": "2026-04-24 09:40",
+      "summary": "从被动响应到主动服务"
     },
     {
-      "title": "印奇站上AI+车浪潮之巅：7个月，千里科技和华为「五五开」",
-      "link": "https://www.qbitai.com/2026/04/406036.html",
+      "title": "真有人做AI小猫啊？！生产力和情绪价值都拉满了",
+      "link": "https://www.qbitai.com/2026/04/406560.html",
       "source": "qbitai",
-      "pub_date": "2026-04-23 11:37",
-      "summary": "L2+上车46万辆"
+      "pub_date": "2026-04-24 09:09",
+      "summary": "做PPT、写报告、做攻略，全包圆了"
     },
     {
-      "title": "飞书项目开放平台焕新升级，全面迈向“AI Friendly”",
-      "link": "https://www.qbitai.com/2026/04/406026.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-23 09:55",
-      "summary": "能参与协作与执行的超级助手"
+      "title": "复杂的项目管理怎么做到「AI 友好」？飞书项目用「开放」给出答案",
+      "link": "https://www.infoq.cn/article/ub0bHyfIRpbO61I876k2?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-24 19:18",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ub0bHyfIRpbO61I876k2?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Nature封面：机器人乒乓球干翻人类职业选手",
-      "link": "https://www.qbitai.com/2026/04/405370.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-23 06:45",
-      "summary": "能接旋球"
+      "title": "Snowflake Cortex Code 的规范驱动开发：将 SDLC 方法论引入 AI 辅助工作流 ｜ 技术实践",
+      "link": "https://www.infoq.cn/article/o8dh3dRH6Kk8vzrzKdJd?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-24 18:51",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/o8dh3dRH6Kk8vzrzKdJd?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "特斯拉开源硬件，中国公司回应来了：直接把机器人大脑开源了",
-      "link": "https://www.qbitai.com/2026/04/405325.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-23 00:57",
-      "summary": "这次，智平方玩了个大的"
+      "title": "当互联网用AI卷效率时，这家公司先问了一连串“能不能”",
+      "link": "https://www.infoq.cn/article/RKJhuuOzLMaZmtmc4Uvf?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-24 18:39",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/RKJhuuOzLMaZmtmc4Uvf?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
