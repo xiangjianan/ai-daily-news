@@ -1,6 +1,20 @@
 {
   "headline": [
     {
+      "title": "硬刚GPT-Image-2！国产AI生图“天花板”又被捅破了？",
+      "link": "https://www.qbitai.com/2026/04/406994.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-25 06:58",
+      "summary": "一家低调的视觉大模型公司，浮出水面"
+    },
+    {
+      "title": "0博士组合拿下ICLR时间检验奖！两个GPT天才本科生+二本逆袭LeCun弟子，十年论文终封神",
+      "link": "https://www.qbitai.com/2026/04/406892.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-25 03:35",
+      "summary": "三作者如今齐聚Mira初创"
+    },
+    {
       "title": "GPT-5.5 登顶时刻，Anthropic 亲口承认 Claude 变笨了！网友群嘲：太敷衍",
       "link": "https://www.infoq.cn/article/6iDjLwYiOXIVwjl4taOP?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -15,28 +29,21 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/IjNk79KKJgTDDvO5OMAY?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Introducing GPT-5.5",
-      "link": "https://openai.com/index/introducing-gpt-5-5",
-      "source": "openai_blog",
-      "pub_date": "2026-04-23 11:00",
-      "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools."
-    },
-    {
-      "title": "GPT-5.5 System Card",
-      "link": "https://openai.com/index/gpt-5-5-system-card",
-      "source": "openai_blog",
-      "pub_date": "2026-04-23 11:00",
-      "summary": ""
-    },
-    {
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
-      "source": "openai_blog",
-      "pub_date": "2026-04-23 00:00",
-      "summary": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000."
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-04-25 17:17",
+      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting."
     }
   ],
   "product": [
+    {
+      "title": "华为发布ADS 5！强化世界模型路线，今年投入180亿",
+      "link": "https://www.qbitai.com/2026/04/407363.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-25 15:38",
+      "summary": "“为自动驾驶而来”"
+    },
     {
       "title": "优必选发布Thinker cosmos：加码开发者生态，推动人形机器人走向规模化",
       "link": "https://www.qbitai.com/2026/04/406806.html",
@@ -57,47 +64,47 @@
       "source": "qbitai",
       "pub_date": "2026-04-24 10:10",
       "summary": ""
-    },
-    {
-      "title": "PPIO首批上线DeepSeek-V4预览版，1M超长上下文能力开箱即用",
-      "link": "https://www.qbitai.com/2026/04/406760.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-24 09:10",
-      "summary": "开源SOTA大模型能力一键直达"
-    },
-    {
-      "title": "Coordination Engineering关键一环，JiuwenClaw再发布Team Skills技能新范式",
-      "link": "https://www.qbitai.com/2026/04/406393.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-24 07:01",
-      "summary": "业界首个面向多Agent协作的标准化能力包规范"
     }
   ],
   "funding": [],
   "research": [],
   "industry": [
     {
-      "title": "Mobileye 2026财年一季度营收增长27%，自动驾驶商业化进程持续推进",
-      "link": "https://www.qbitai.com/2026/04/406775.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-24 09:45",
-      "summary": "表现超出此前市场预期。"
+      "title": "北京车展直击：斑马智能甩出车载Agent短剧，比亚迪率先落地，AI让智能座舱又热起来了",
+      "link": "https://www.infoq.cn/article/WjIGlEGAJUmNw8e3JeXO?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-25 21:04",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/WjIGlEGAJUmNw8e3JeXO?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
     {
-      "title": "100%主流车企的共同选择：一个AI“通用底座”正在汽车行业成型",
-      "link": "https://www.qbitai.com/2026/04/406767.html",
+      "title": "自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI",
+      "link": "https://www.qbitai.com/2026/04/407026.html",
       "source": "qbitai",
-      "pub_date": "2026-04-24 09:40",
-      "summary": "从被动响应到主动服务"
+      "pub_date": "2026-04-25 07:22",
+      "summary": "500TOPS上车世界模型"
     },
     {
-      "title": "真有人做AI小猫啊？！生产力和情绪价值都拉满了",
-      "link": "https://www.qbitai.com/2026/04/406560.html",
+      "title": "AI自主监测宠物健康，陪狗都不用自己来了！涂鸦Hey Tuya打造全屋智能“超级入口”",
+      "link": "https://www.qbitai.com/2026/04/406973.html",
       "source": "qbitai",
-      "pub_date": "2026-04-24 09:09",
-      "summary": "做PPT、写报告、做攻略，全包圆了"
+      "pub_date": "2026-04-25 05:41",
+      "summary": "首次公开三大AI应用生态"
+    },
+    {
+      "title": "燃油SUV车主熬出头了！华为乾崑智驾加持，全新奥迪Q5L率先实现智能化",
+      "link": "https://www.qbitai.com/2026/04/406960.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-25 05:31",
+      "summary": "六年磨一剑"
+    },
+    {
+      "title": "DeepSeek V4报告太详尽了！484天换代之路全公开",
+      "link": "https://www.qbitai.com/2026/04/406809.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-25 03:27",
+      "summary": "mHC用了，Engram留给v5"
     },
     {
       "title": "复杂的项目管理怎么做到「AI 友好」？飞书项目用「开放」给出答案",
@@ -105,20 +112,6 @@
       "source": "infoq",
       "pub_date": "2026-04-24 19:18",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ub0bHyfIRpbO61I876k2?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Snowflake Cortex Code 的规范驱动开发：将 SDLC 方法论引入 AI 辅助工作流 ｜ 技术实践",
-      "link": "https://www.infoq.cn/article/o8dh3dRH6Kk8vzrzKdJd?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-24 18:51",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/o8dh3dRH6Kk8vzrzKdJd?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "当互联网用AI卷效率时，这家公司先问了一连串“能不能”",
-      "link": "https://www.infoq.cn/article/RKJhuuOzLMaZmtmc4Uvf?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-24 18:39",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/RKJhuuOzLMaZmtmc4Uvf?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
