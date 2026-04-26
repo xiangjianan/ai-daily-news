@@ -1,6 +1,20 @@
 {
   "headline": [
     {
+      "title": "Claude终于认了！降智坐实，越聊越傻，3个bug全曝光",
+      "link": "https://www.qbitai.com/2026/04/407502.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-26 09:56",
+      "summary": "模型降智属实，所有使用额度均已重置。"
+    },
+    {
+      "title": "全球首个医疗视频理解大模型开源！6k+组精标测试集与英雄榜同步上线，开发者速来！",
+      "link": "https://www.qbitai.com/2026/04/407486.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-26 05:24",
+      "summary": "开源，是最好的探针"
+    },
+    {
       "title": "硬刚GPT-Image-2！国产AI生图“天花板”又被捅破了？",
       "link": "https://www.qbitai.com/2026/04/406994.html",
       "source": "qbitai",
@@ -20,20 +34,6 @@
       "source": "infoq",
       "pub_date": "2026-04-24 17:17",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/6iDjLwYiOXIVwjl4taOP?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "GPT-5.5 赢了 Opus 4.7 和 Mythos？奥特曼晒黄仁勋内部信：英伟达全员用上 Codex！",
-      "link": "https://www.infoq.cn/article/IjNk79KKJgTDDvO5OMAY?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-24 11:07",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/IjNk79KKJgTDDvO5OMAY?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-      "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-04-25 17:17",
-      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting."
     }
   ],
   "product": [
@@ -43,27 +43,6 @@
       "source": "qbitai",
       "pub_date": "2026-04-25 15:38",
       "summary": "“为自动驾驶而来”"
-    },
-    {
-      "title": "优必选发布Thinker cosmos：加码开发者生态，推动人形机器人走向规模化",
-      "link": "https://www.qbitai.com/2026/04/406806.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-24 11:49",
-      "summary": ""
-    },
-    {
-      "title": "PPIO首批上线DeepSeek-V4预览版，1M超长上下文能力开箱即用",
-      "link": "https://www.qbitai.com/2026/04/406802.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-24 10:23",
-      "summary": ""
-    },
-    {
-      "title": "DeepSeek-V4发布，华为云首发适配",
-      "link": "https://www.qbitai.com/2026/04/406791.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-24 10:10",
-      "summary": ""
     }
   ],
   "funding": [],
@@ -78,6 +57,20 @@
     }
   ],
   "other": [
+    {
+      "title": "Momenta曹旭东：规模L4要百亿美元投入，现金流业务是物理AI门票",
+      "link": "https://www.qbitai.com/2026/04/407485.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-26 13:48",
+      "summary": "“做好自动驾驶， 海量数据的作用只占10%”"
+    },
+    {
+      "title": "DeepSeek阮翀加盟元戎首秀，详解基座VLA，研发提效10倍",
+      "link": "https://www.qbitai.com/2026/04/407465.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-26 04:16",
+      "summary": "V4作者之一"
+    },
     {
       "title": "自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI",
       "link": "https://www.qbitai.com/2026/04/407026.html",
@@ -98,20 +91,6 @@
       "source": "qbitai",
       "pub_date": "2026-04-25 05:31",
       "summary": "六年磨一剑"
-    },
-    {
-      "title": "DeepSeek V4报告太详尽了！484天换代之路全公开",
-      "link": "https://www.qbitai.com/2026/04/406809.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-25 03:27",
-      "summary": "mHC用了，Engram留给v5"
-    },
-    {
-      "title": "复杂的项目管理怎么做到「AI 友好」？飞书项目用「开放」给出答案",
-      "link": "https://www.infoq.cn/article/ub0bHyfIRpbO61I876k2?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-24 19:18",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ub0bHyfIRpbO61I876k2?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
