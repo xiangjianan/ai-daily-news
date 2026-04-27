@@ -1,53 +1,67 @@
 {
   "headline": [
     {
-      "title": "Claude终于认了！降智坐实，越聊越傻，3个bug全曝光",
-      "link": "https://www.qbitai.com/2026/04/407502.html",
+      "title": "Claude第一款AI桌宠硬件，深圳制造",
+      "link": "https://www.qbitai.com/2026/04/408409.html",
       "source": "qbitai",
-      "pub_date": "2026-04-26 09:56",
-      "summary": "模型降智属实，所有使用额度均已重置。"
+      "pub_date": "2026-04-27 10:01",
+      "summary": "深圳供应链又赢了"
     },
     {
-      "title": "全球首个医疗视频理解大模型开源！6k+组精标测试集与英雄榜同步上线，开发者速来！",
-      "link": "https://www.qbitai.com/2026/04/407486.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-26 05:24",
-      "summary": "开源，是最好的探针"
+      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+      "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-04-27 17:40",
+      "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement."
     },
     {
-      "title": "硬刚GPT-Image-2！国产AI生图“天花板”又被捅破了？",
-      "link": "https://www.qbitai.com/2026/04/406994.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-25 06:58",
-      "summary": "一家低调的视觉大模型公司，浮出水面"
+      "title": "OpenAI could be making a phone with AI agents replacing apps",
+      "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-04-27 13:08",
+      "summary": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working o"
     },
     {
-      "title": "0博士组合拿下ICLR时间检验奖！两个GPT天才本科生+二本逆袭LeCun弟子，十年论文终封神",
-      "link": "https://www.qbitai.com/2026/04/406892.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-25 03:35",
-      "summary": "三作者如今齐聚Mira初创"
+      "title": "OpenAI available at FedRAMP Moderate",
+      "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "source": "openai_blog",
+      "pub_date": "2026-04-27 14:00",
+      "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies."
     },
     {
-      "title": "GPT-5.5 登顶时刻，Anthropic 亲口承认 Claude 变笨了！网友群嘲：太敷衍",
-      "link": "https://www.infoq.cn/article/6iDjLwYiOXIVwjl4taOP?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-24 17:17",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/6iDjLwYiOXIVwjl4taOP?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "The next phase of the Microsoft OpenAI partnership",
+      "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
+      "source": "openai_blog",
+      "pub_date": "2026-04-27 06:00",
+      "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale."
     }
   ],
-  "product": [
+  "product": [],
+  "funding": [
     {
-      "title": "华为发布ADS 5！强化世界模型路线，今年投入180亿",
-      "link": "https://www.qbitai.com/2026/04/407363.html",
+      "title": "麒麟云中现，境启新人生！全新坦克700正式上市，售价42.8万起",
+      "link": "https://www.qbitai.com/2026/04/408393.html",
       "source": "qbitai",
-      "pub_date": "2026-04-25 15:38",
-      "summary": "“为自动驾驶而来”"
+      "pub_date": "2026-04-27 09:54",
+      "summary": "全域豪华SUV新旗舰"
     }
   ],
-  "funding": [],
   "research": [],
   "industry": [
+    {
+      "title": "芒果传媒与爱诗科技达成战略合作，全栈AI视频能力接入芒果内容生态",
+      "link": "https://www.qbitai.com/2026/04/408390.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-27 09:28",
+      "summary": "AI视频技术能力进入产业应用阶段"
+    },
+    {
+      "title": "数据分析师如何快速建立在 AI 时代最值钱的能力：一份可落地的行动路线图",
+      "link": "https://www.infoq.cn/article/JB3gFJKZfDASpaXWqwHE?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-27 15:50",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/JB3gFJKZfDASpaXWqwHE?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
     {
       "title": "北京车展直击：斑马智能甩出车载Agent短剧，比亚迪率先落地，AI让智能座舱又热起来了",
       "link": "https://www.infoq.cn/article/WjIGlEGAJUmNw8e3JeXO?utm_source=rss&utm_medium=article",
@@ -58,39 +72,39 @@
   ],
   "other": [
     {
-      "title": "Momenta曹旭东：规模L4要百亿美元投入，现金流业务是物理AI门票",
-      "link": "https://www.qbitai.com/2026/04/407485.html",
+      "title": "打工人五一自救指南：把活全甩给AI，准备免打扰出门",
+      "link": "https://www.qbitai.com/2026/04/408649.html",
       "source": "qbitai",
-      "pub_date": "2026-04-26 13:48",
-      "summary": "“做好自动驾驶， 海量数据的作用只占10%”"
+      "pub_date": "2026-04-27 12:19",
+      "summary": "假期不想被@工作了"
     },
     {
-      "title": "DeepSeek阮翀加盟元戎首秀，详解基座VLA，研发提效10倍",
-      "link": "https://www.qbitai.com/2026/04/407465.html",
+      "title": "量子位专访楼天城：AI是匹脱缰野马，Harness是这个时代最关键的能力",
+      "link": "https://www.qbitai.com/2026/04/408578.html",
       "source": "qbitai",
-      "pub_date": "2026-04-26 04:16",
-      "summary": "V4作者之一"
+      "pub_date": "2026-04-27 10:48",
+      "summary": "未来人该怎么和AI共存"
     },
     {
-      "title": "自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI",
-      "link": "https://www.qbitai.com/2026/04/407026.html",
+      "title": "让孩子画作活起来，用放大镜识万物，给台灯装灵魂……京东JoyInside打造AI硬件时代“超级基础设施”",
+      "link": "https://www.qbitai.com/2026/04/408394.html",
       "source": "qbitai",
-      "pub_date": "2026-04-25 07:22",
-      "summary": "500TOPS上车世界模型"
+      "pub_date": "2026-04-27 09:47",
+      "summary": "依托京东JoyInside，这些充满科幻感的AI新物种正走进现实。"
     },
     {
-      "title": "AI自主监测宠物健康，陪狗都不用自己来了！涂鸦Hey Tuya打造全屋智能“超级入口”",
-      "link": "https://www.qbitai.com/2026/04/406973.html",
+      "title": "李飞飞引爆的3D新技术，为什么这家深圳公司两年前就“玩腻”了？",
+      "link": "https://www.qbitai.com/2026/04/408030.html",
       "source": "qbitai",
-      "pub_date": "2026-04-25 05:41",
-      "summary": "首次公开三大AI应用生态"
+      "pub_date": "2026-04-27 09:13",
+      "summary": "真正的战场不在生成端"
     },
     {
-      "title": "燃油SUV车主熬出头了！华为乾崑智驾加持，全新奥迪Q5L率先实现智能化",
-      "link": "https://www.qbitai.com/2026/04/406960.html",
+      "title": "“五座新王”岚图泰山X8预售30.29万起，8系市场迎来终极“大杀器”",
+      "link": "https://www.qbitai.com/2026/04/408048.html",
       "source": "qbitai",
-      "pub_date": "2026-04-25 05:31",
-      "summary": "六年磨一剑"
+      "pub_date": "2026-04-27 08:32",
+      "summary": "定义家用SUV 3.0时代"
     }
   ]
 }
