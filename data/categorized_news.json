@@ -1,32 +1,32 @@
 {
   "headline": [
     {
-      "title": "AI真能搞钱了！这家公司把大模型玩成闭环赚钱机器",
-      "link": "https://www.qbitai.com/2026/04/410294.html",
+      "title": "火速吃瓜：Kimi K2.6设计能力超越Claude Design",
+      "link": "https://www.qbitai.com/2026/04/411133.html",
       "source": "qbitai",
-      "pub_date": "2026-04-28 07:21",
-      "summary": "跑通AI盈利正循环，还教你躺着用Agent赚钱。"
+      "pub_date": "2026-04-29 06:56",
+      "summary": "“全球最强开源”的含金量还在上升"
     },
     {
-      "title": "Amazon is already offering new OpenAI products on AWS",
-      "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-04-28 19:48",
-      "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service."
+      "title": "银河通用LDA定义全域数据利用范式，跨本体世界动作大模型开启具身GPT-2时刻",
+      "link": "https://www.qbitai.com/2026/04/410653.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-29 02:23",
+      "summary": "开启具身规模化时代"
     },
     {
-      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
-      "link": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-04-28 18:15",
-      "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department."
+      "title": "AI 写代码太烧钱了：Copilot、Claude 一起涨价，不如把程序员请回来？",
+      "link": "https://www.infoq.cn/article/XkAoNsINYJhsvJeKcZSa?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-29 16:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/XkAoNsINYJhsvJeKcZSa?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-      "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+      "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+      "link": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-04-27 17:40",
-      "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement."
+      "pub_date": "2026-04-29 23:55",
+      "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said."
     },
     {
       "title": "OpenAI models, Codex, and Managed Agents come to AWS",
@@ -38,74 +38,80 @@
   ],
   "product": [
     {
-      "title": "支付宝正式发布“支付宝AI收”，个人开发者0费率使用",
-      "link": "https://www.qbitai.com/2026/04/410450.html",
+      "title": "百度GenFlow 4.0发布，Office三件套全包了，还能养「牛马虾」",
+      "link": "https://www.qbitai.com/2026/04/410738.html",
       "source": "qbitai",
-      "pub_date": "2026-04-28 10:29",
-      "summary": "助力更多企业与个人低门槛迈入AI时代"
+      "pub_date": "2026-04-29 04:12",
+      "summary": "十分钟干完一周活"
     },
     {
-      "title": "Cloudflare Sandboxes 正式发布，为 AI 代理提供持久化隔离环境",
-      "link": "https://www.infoq.cn/article/Vtb1hXgxEAEueGtcAlUj?utm_source=rss&utm_medium=article",
+      "title": "刚刚，“云计算一哥”版龙虾发布，奥特曼打着官司也要云站台",
+      "link": "https://www.qbitai.com/2026/04/410772.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-29 04:10",
+      "summary": "GPT-5.5马上也能用了"
+    },
+    {
+      "title": "百度文库网盘发布GenFlow 4.0：月活用户超1亿，要把网盘变成全端AI工作台",
+      "link": "https://www.infoq.cn/article/8JaJx5NTIVbwKZihBaDc?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-04-28 11:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Vtb1hXgxEAEueGtcAlUj?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-04-29 18:18",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/8JaJx5NTIVbwKZihBaDc?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "英特尔发布至强600系列工作站处理器与锐炫Pro B70 GPU，全新AI工作站来了",
+      "link": "https://www.infoq.cn/article/TqU4moWkh5yXXauFyvqI?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-29 15:46",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/TqU4moWkh5yXXauFyvqI?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [
     {
-      "title": "第20届中国投资年会圆满闭幕！ “K型曲线”下，寻找穿越分化的确定性",
-      "link": "https://www.qbitai.com/2026/04/410183.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-28 07:06",
-      "summary": "为期三天的第20届中国投资年会·年度峰会圆满落幕"
+      "title": "不到10%的存储投入，可能拖垮90%的GPU投资！IBM把AI Agent塞进存储系统，算清企业最容易忽略的一笔账",
+      "link": "https://www.infoq.cn/article/oYQ5lAYRArr2VUe40Fwm?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-29 16:17",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/oYQ5lAYRArr2VUe40Fwm?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "research": [],
-  "industry": [
-    {
-      "title": "数据分析师如何快速建立在 AI 时代最值钱的能力：一份可落地的行动路线图",
-      "link": "https://www.infoq.cn/article/JB3gFJKZfDASpaXWqwHE?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-27 15:50",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/JB3gFJKZfDASpaXWqwHE?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "industry": [],
   "other": [
     {
-      "title": "消费级显卡可以快速上手跑！面壁智能MiniCPM-o 4.5发技术报告",
-      "link": "https://www.qbitai.com/2026/04/410506.html",
+      "title": "全球瞩目！斑陌易行闪耀硅谷，T6 无人车开启商用新纪元",
+      "link": "https://www.qbitai.com/2026/04/411205.html",
       "source": "qbitai",
-      "pub_date": "2026-04-28 14:50",
-      "summary": "下载量突破25万"
+      "pub_date": "2026-04-29 09:08",
+      "summary": "The Magic X 全球具身智能创新大会在美国硅谷成功举办。"
     },
     {
-      "title": "我嘞个豆！中国企业牵头，ICLR这场Workshop被挤爆了",
-      "link": "https://www.qbitai.com/2026/04/410463.html",
+      "title": "“算电联合体”在闽成立 太初元碁成为首批成员单位之一",
+      "link": "https://www.qbitai.com/2026/04/411184.html",
       "source": "qbitai",
-      "pub_date": "2026-04-28 11:15",
-      "summary": "《近似算法》作者都来了"
+      "pub_date": "2026-04-29 09:02",
+      "summary": ""
     },
     {
-      "title": "Cursor 9秒删库搞崩公司，然后…写了份检讨",
-      "link": "https://www.qbitai.com/2026/04/410317.html",
+      "title": "腾讯开源手机端离线翻译模型，仅0.4G，支持33种语言",
+      "link": "https://www.qbitai.com/2026/04/411186.html",
       "source": "qbitai",
-      "pub_date": "2026-04-28 08:54",
-      "summary": "Cursor也是流年不利了"
+      "pub_date": "2026-04-29 09:00",
+      "summary": "无需联网，下载即可直接在手机本地运行"
     },
     {
-      "title": "阿里视频模型 HappyHorse 开启灰测，悟空已率先接入",
-      "link": "https://www.qbitai.com/2026/04/410314.html",
+      "title": "不卷参数卷架构，这个开源模型把图像理解和生成统一了",
+      "link": "https://www.qbitai.com/2026/04/410937.html",
       "source": "qbitai",
-      "pub_date": "2026-04-28 08:31",
-      "summary": "面向企业用户定向启动客户共创"
+      "pub_date": "2026-04-29 04:27",
+      "summary": "全网开源，即刻可用"
     },
     {
-      "title": "GTC2026 全球流量大会（深圳）圆满收官：25000+出海人到场，11月4-5日，我们上海见！",
-      "link": "https://www.qbitai.com/2026/04/410077.html",
+      "title": "10万引普林斯顿刘壮最新访谈：架构没那么重要，数据才是王道",
+      "link": "https://www.qbitai.com/2026/04/410791.html",
       "source": "qbitai",
-      "pub_date": "2026-04-28 06:58",
-      "summary": "下一站，上海见，新加坡见！"
+      "pub_date": "2026-04-29 04:20",
+      "summary": "记忆才是AI最大瓶颈，智能体只是权宜之计"
     }
   ]
 }
