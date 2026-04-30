@@ -1,32 +1,32 @@
 {
   "headline": [
     {
-      "title": "火速吃瓜：Kimi K2.6设计能力超越Claude Design",
-      "link": "https://www.qbitai.com/2026/04/411133.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-29 06:56",
-      "summary": "“全球最强开源”的含金量还在上升"
-    },
-    {
-      "title": "银河通用LDA定义全域数据利用范式，跨本体世界动作大模型开启具身GPT-2时刻",
-      "link": "https://www.qbitai.com/2026/04/410653.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-29 02:23",
-      "summary": "开启具身规模化时代"
-    },
-    {
-      "title": "AI 写代码太烧钱了：Copilot、Claude 一起涨价，不如把程序员请回来？",
-      "link": "https://www.infoq.cn/article/XkAoNsINYJhsvJeKcZSa?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-29 16:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/XkAoNsINYJhsvJeKcZSa?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
-      "link": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+      "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-04-29 23:55",
-      "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said."
+      "pub_date": "2026-04-30 19:27",
+      "summary": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first."
+    },
+    {
+      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+      "link": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-04-30 18:20",
+      "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico."
+    },
+    {
+      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+      "link": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-04-30 18:03",
+      "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models."
+    },
+    {
+      "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+      "link": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-04-30 17:46",
+      "summary": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience."
     },
     {
       "title": "OpenAI models, Codex, and Managed Agents come to AWS",
@@ -38,18 +38,25 @@
   ],
   "product": [
     {
-      "title": "百度GenFlow 4.0发布，Office三件套全包了，还能养「牛马虾」",
-      "link": "https://www.qbitai.com/2026/04/410738.html",
+      "title": "Stripe 发布 288 项新功能，构建 AI 时代的经济基础设施",
+      "link": "https://www.qbitai.com/2026/04/412018.html",
       "source": "qbitai",
-      "pub_date": "2026-04-29 04:12",
-      "summary": "十分钟干完一周活"
+      "pub_date": "2026-04-30 09:16",
+      "summary": "Stripe推出由 Link 驱动的智能体钱包"
     },
     {
-      "title": "刚刚，“云计算一哥”版龙虾发布，奥特曼打着官司也要云站台",
-      "link": "https://www.qbitai.com/2026/04/410772.html",
+      "title": "阿里发布数字员工产品QoderWake，可承担工程师、运营、销售等岗位角色",
+      "link": "https://www.qbitai.com/2026/04/411955.html",
       "source": "qbitai",
-      "pub_date": "2026-04-29 04:10",
-      "summary": "GPT-5.5马上也能用了"
+      "pub_date": "2026-04-30 07:24",
+      "summary": "根据自身业务流程定制专属数字员工"
+    },
+    {
+      "title": "谷歌云推出 Agents CLI，简化 AI 智能体开发全流程",
+      "link": "https://www.infoq.cn/article/O9hWJ1JZYBPF9PZKkY3C?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-30 11:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/O9hWJ1JZYBPF9PZKkY3C?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "百度文库网盘发布GenFlow 4.0：月活用户超1亿，要把网盘变成全端AI工作台",
@@ -57,61 +64,70 @@
       "source": "infoq",
       "pub_date": "2026-04-29 18:18",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/8JaJx5NTIVbwKZihBaDc?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "英特尔发布至强600系列工作站处理器与锐炫Pro B70 GPU，全新AI工作站来了",
-      "link": "https://www.infoq.cn/article/TqU4moWkh5yXXauFyvqI?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-29 15:46",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/TqU4moWkh5yXXauFyvqI?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [
     {
-      "title": "不到10%的存储投入，可能拖垮90%的GPU投资！IBM把AI Agent塞进存储系统，算清企业最容易忽略的一笔账",
-      "link": "https://www.infoq.cn/article/oYQ5lAYRArr2VUe40Fwm?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-29 16:17",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/oYQ5lAYRArr2VUe40Fwm?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "10.98万元起！主流精品电混SUV首选，吉利银河M7远航家正式上市",
+      "link": "https://www.qbitai.com/2026/04/411963.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-30 08:36",
+      "summary": "三大技术尖点+五大全面引领"
     }
   ],
-  "research": [],
-  "industry": [],
+  "research": [
+    {
+      "title": "游戏性能旗舰最强之选，一加Ace 6至尊版国补到手价2999元起",
+      "link": "https://www.qbitai.com/2026/04/411604.html",
+      "source": "qbitai",
+      "pub_date": "2026-04-30 05:45",
+      "summary": "搭载当代旗舰芯天玑9500移动平台"
+    }
+  ],
+  "industry": [
+    {
+      "title": "模力工场038周AI应用周榜：工具在消失，工作流在出现",
+      "link": "https://www.infoq.cn/article/qUMVgFNMYqXMFx8CawJ1?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-04-30 09:48",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qUMVgFNMYqXMFx8CawJ1?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "other": [
     {
-      "title": "全球瞩目！斑陌易行闪耀硅谷，T6 无人车开启商用新纪元",
-      "link": "https://www.qbitai.com/2026/04/411205.html",
+      "title": "重塑中国豪华汽车全球旗舰标杆，魏牌V9X重磅登陆北京车展",
+      "link": "https://www.qbitai.com/2026/04/412041.html",
       "source": "qbitai",
-      "pub_date": "2026-04-29 09:08",
-      "summary": "The Magic X 全球具身智能创新大会在美国硅谷成功举办。"
+      "pub_date": "2026-04-30 12:04",
+      "summary": "牵引中国汽车“走出去”、“走上去”"
     },
     {
-      "title": "“算电联合体”在闽成立 太初元碁成为首批成员单位之一",
-      "link": "https://www.qbitai.com/2026/04/411184.html",
+      "title": "坦克铁汉柔情燃动北京车展，全新坦克700领衔定义全域豪华新标杆",
+      "link": "https://www.qbitai.com/2026/04/412021.html",
       "source": "qbitai",
-      "pub_date": "2026-04-29 09:02",
-      "summary": ""
+      "pub_date": "2026-04-30 11:38",
+      "summary": "42.8万元起售"
     },
     {
-      "title": "腾讯开源手机端离线翻译模型，仅0.4G，支持33种语言",
-      "link": "https://www.qbitai.com/2026/04/411186.html",
+      "title": "商汤杨帆谈AI拐点：从人用AI到人机协作，本质是生产关系重构",
+      "link": "https://www.qbitai.com/2026/04/412015.html",
       "source": "qbitai",
-      "pub_date": "2026-04-29 09:00",
-      "summary": "无需联网，下载即可直接在手机本地运行"
+      "pub_date": "2026-04-30 09:08",
+      "summary": "从算力时代到智能时代，三大结构性变化"
     },
     {
-      "title": "不卷参数卷架构，这个开源模型把图像理解和生成统一了",
-      "link": "https://www.qbitai.com/2026/04/410937.html",
+      "title": "IMO/IOI奖牌得主18000人追踪：1500倍概率成亿万富翁",
+      "link": "https://www.qbitai.com/2026/04/411964.html",
       "source": "qbitai",
-      "pub_date": "2026-04-29 04:27",
-      "summary": "全网开源，即刻可用"
+      "pub_date": "2026-04-30 08:23",
+      "summary": "MIT是奥赛天才的第一目的地"
     },
     {
-      "title": "10万引普林斯顿刘壮最新访谈：架构没那么重要，数据才是王道",
-      "link": "https://www.qbitai.com/2026/04/410791.html",
+      "title": "为智能体可信协作提供新方案 蚂蚁数科登顶以太坊全球基准评测",
+      "link": "https://www.qbitai.com/2026/04/411959.html",
       "source": "qbitai",
-      "pub_date": "2026-04-29 04:20",
-      "summary": "记忆才是AI最大瓶颈，智能体只是权宜之计"
+      "pub_date": "2026-04-30 07:27",
+      "summary": "已投入自主研发超过 10 年"
     }
   ]
 }
