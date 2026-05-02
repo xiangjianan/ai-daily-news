@@ -1,6 +1,13 @@
 {
   "headline": [
     {
+      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+      "link": "https://www.qbitai.com/2026/05/412713.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-02 03:30",
+      "summary": ""
+    },
+    {
       "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
       "link": "https://www.qbitai.com/2026/05/412447.html",
       "source": "qbitai",
@@ -15,25 +22,18 @@
       "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits."
     },
     {
-      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-      "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-04-30 19:27",
-      "summary": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first."
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "link": "https://openai.com/index/openai-on-aws",
+      "source": "openai_blog",
+      "pub_date": "2026-04-28 00:00",
+      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments."
     },
     {
-      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
-      "link": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-04-30 18:20",
-      "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico."
-    },
-    {
-      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
-      "link": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-04-30 18:03",
-      "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models."
+      "title": "OpenAI available at FedRAMP Moderate",
+      "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "source": "openai_blog",
+      "pub_date": "2026-04-27 14:00",
+      "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies."
     }
   ],
   "product": [
@@ -66,15 +66,7 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/O9hWJ1JZYBPF9PZKkY3C?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [
-    {
-      "title": "10.98万元起！主流精品电混SUV首选，吉利银河M7远航家正式上市",
-      "link": "https://www.qbitai.com/2026/04/411963.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-30 08:36",
-      "summary": "三大技术尖点+五大全面引领"
-    }
-  ],
+  "funding": [],
   "research": [
     {
       "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
