@@ -1,6 +1,13 @@
 {
   "headline": [
     {
+      "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+      "link": "https://www.qbitai.com/2026/05/412080.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-03 09:43",
+      "summary": "瓜多到吃不完"
+    },
+    {
       "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
       "link": "https://www.qbitai.com/2026/05/412713.html",
       "source": "qbitai",
@@ -27,13 +34,6 @@
       "source": "openai_blog",
       "pub_date": "2026-04-28 00:00",
       "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments."
-    },
-    {
-      "title": "OpenAI available at FedRAMP Moderate",
-      "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
-      "source": "openai_blog",
-      "pub_date": "2026-04-27 14:00",
-      "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies."
     }
   ],
   "product": [
@@ -45,11 +45,11 @@
       "summary": "基于全栈国产化软硬件生态打造"
     },
     {
-      "title": "Stripe 发布 288 项新功能，构建 AI 时代的经济基础设施",
-      "link": "https://www.qbitai.com/2026/04/412018.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-30 09:16",
-      "summary": "Stripe推出由 Link 驱动的智能体钱包"
+      "title": "Sauce Labs 推出 AI 智能体，实现测试创建自动化",
+      "link": "https://www.infoq.cn/article/8k6MQWB5duEDY8wulZYk?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-03 13:37",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/8k6MQWB5duEDY8wulZYk?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "Mistral AI 推出 Workflows，用于编排企业 AI 工作流",
@@ -57,17 +57,17 @@
       "source": "infoq",
       "pub_date": "2026-05-01 10:00",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/W1YiyHH4UXv05AqpiHag?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "谷歌云推出 Agents CLI，简化 AI 智能体开发全流程",
-      "link": "https://www.infoq.cn/article/O9hWJ1JZYBPF9PZKkY3C?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-30 11:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/O9hWJ1JZYBPF9PZKkY3C?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
   "research": [
+    {
+      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+      "link": "https://www.qbitai.com/2026/05/412870.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-03 03:56",
+      "summary": "与全球社区共同推动具身智能创新"
+    },
     {
       "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
       "link": "https://www.qbitai.com/2026/05/412577.html",
@@ -76,16 +76,22 @@
       "summary": "真机部署“零微调”"
     }
   ],
-  "industry": [
-    {
-      "title": "模力工场038周AI应用周榜：工具在消失，工作流在出现",
-      "link": "https://www.infoq.cn/article/qUMVgFNMYqXMFx8CawJ1?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-04-30 09:48",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qUMVgFNMYqXMFx8CawJ1?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "industry": [],
   "other": [
+    {
+      "title": "不好！1930年的AI都来抢程序员饭碗了",
+      "link": "https://www.qbitai.com/2026/05/412896.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-03 09:42",
+      "summary": "完全无需互联网数据"
+    },
+    {
+      "title": "DeepSeek V4最大的遗憾",
+      "link": "https://www.qbitai.com/2026/05/412737.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-03 03:43",
+      "summary": "Engram去哪了？"
+    },
     {
       "title": "他用AI办了个音乐节，主题：别读博",
       "link": "https://www.qbitai.com/2026/05/412597.html",
@@ -101,25 +107,11 @@
       "summary": "都是Prefill的锅"
     },
     {
-      "title": "重塑中国豪华汽车全球旗舰标杆，魏牌V9X重磅登陆北京车展",
-      "link": "https://www.qbitai.com/2026/04/412041.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-30 12:04",
-      "summary": "牵引中国汽车“走出去”、“走上去”"
-    },
-    {
-      "title": "坦克铁汉柔情燃动北京车展，全新坦克700领衔定义全域豪华新标杆",
-      "link": "https://www.qbitai.com/2026/04/412021.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-30 11:38",
-      "summary": "42.8万元起售"
-    },
-    {
-      "title": "商汤杨帆谈AI拐点：从人用AI到人机协作，本质是生产关系重构",
-      "link": "https://www.qbitai.com/2026/04/412015.html",
-      "source": "qbitai",
-      "pub_date": "2026-04-30 09:08",
-      "summary": "从算力时代到智能时代，三大结构性变化"
+      "title": "微软警告称，AI 正在掏空初级开发者的培养渠道",
+      "link": "https://www.infoq.cn/article/w3Oek9aKw8lfpRZ7QBo4?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-03 13:41",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/w3Oek9aKw8lfpRZ7QBo4?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
