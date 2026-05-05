@@ -1,6 +1,13 @@
 {
   "headline": [
     {
+      "title": "“DeepSeek版Claude Code”，Github 2.3k星",
+      "link": "https://www.qbitai.com/2026/05/412914.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-04 06:09",
+      "summary": "专门针对DeepSeek优化"
+    },
+    {
       "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
       "link": "https://www.qbitai.com/2026/05/412080.html",
       "source": "qbitai",
@@ -15,25 +22,18 @@
       "summary": ""
     },
     {
-      "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-      "link": "https://www.qbitai.com/2026/05/412447.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-01 06:21",
-      "summary": "瓜多到吃不完"
-    },
-    {
-      "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
-      "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+      "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+      "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-05-01 02:00",
-      "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits."
+      "pub_date": "2026-05-04 21:53",
+      "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich."
     },
     {
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "link": "https://openai.com/index/openai-on-aws",
-      "source": "openai_blog",
-      "pub_date": "2026-04-28 00:00",
-      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments."
+      "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+      "link": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-05-04 16:57",
+      "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs."
     }
   ],
   "product": [
@@ -43,6 +43,20 @@
       "source": "qbitai",
       "pub_date": "2026-05-01 13:58",
       "summary": "基于全栈国产化软硬件生态打造"
+    },
+    {
+      "title": "Cloudflare 推出 Agent Memory：面向 AI 智能体的持久记忆托管服务",
+      "link": "https://www.infoq.cn/article/TPqCEvSNCh9jzivioLs8?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-04 12:22",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/TPqCEvSNCh9jzivioLs8?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+      "link": "https://www.infoq.cn/article/KSmLVsumhdf7OiLXYaj3?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-04 09:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/KSmLVsumhdf7OiLXYaj3?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "Sauce Labs 推出 AI 智能体，实现测试创建自动化",
@@ -107,11 +121,11 @@
       "summary": "都是Prefill的锅"
     },
     {
-      "title": "微软警告称，AI 正在掏空初级开发者的培养渠道",
-      "link": "https://www.infoq.cn/article/w3Oek9aKw8lfpRZ7QBo4?utm_source=rss&utm_medium=article",
+      "title": "GitLab 新增采用固定费率的代码审查服务、Free-Tier AI 访问以及支出上限设置",
+      "link": "https://www.infoq.cn/article/6dk4tEWoShjhagRdyPsX?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-05-03 13:41",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/w3Oek9aKw8lfpRZ7QBo4?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-05-04 12:12",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/6dk4tEWoShjhagRdyPsX?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
