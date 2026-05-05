@@ -22,18 +22,18 @@
       "summary": ""
     },
     {
-      "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
-      "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+      "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-05-04 21:53",
-      "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich."
+      "pub_date": "2026-05-05 17:00",
+      "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor."
     },
     {
-      "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
-      "link": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+      "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-05-04 16:57",
-      "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs."
+      "pub_date": "2026-05-05 15:31",
+      "summary": "Etsy's new native app within ChatGPT aims to be a conversational  shopping experience for users."
     }
   ],
   "product": [
@@ -43,6 +43,13 @@
       "source": "qbitai",
       "pub_date": "2026-05-01 13:58",
       "summary": "基于全栈国产化软硬件生态打造"
+    },
+    {
+      "title": "Java 近期资讯：OpenJDK、 Oracle 关键补丁更新、 Open Liberty、Testcontainers、IntelliJ IDEA",
+      "link": "https://www.infoq.cn/article/LhzkgpOBi5mPkYHoKgE5?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-05 13:57",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/LhzkgpOBi5mPkYHoKgE5?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "Cloudflare 推出 Agent Memory：面向 AI 智能体的持久记忆托管服务",
@@ -64,13 +71,6 @@
       "source": "infoq",
       "pub_date": "2026-05-03 13:37",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/8k6MQWB5duEDY8wulZYk?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Mistral AI 推出 Workflows，用于编排企业 AI 工作流",
-      "link": "https://www.infoq.cn/article/W1YiyHH4UXv05AqpiHag?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-01 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/W1YiyHH4UXv05AqpiHag?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
@@ -121,11 +121,11 @@
       "summary": "都是Prefill的锅"
     },
     {
-      "title": "GitLab 新增采用固定费率的代码审查服务、Free-Tier AI 访问以及支出上限设置",
-      "link": "https://www.infoq.cn/article/6dk4tEWoShjhagRdyPsX?utm_source=rss&utm_medium=article",
+      "title": "Vercel 开源 Open Agents，支持后台运行 AI 编码工作流",
+      "link": "https://www.infoq.cn/article/2D4Ky0AYKQu2JGeUW6HN?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-05-04 12:12",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/6dk4tEWoShjhagRdyPsX?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-05-05 13:55",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/2D4Ky0AYKQu2JGeUW6HN?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
