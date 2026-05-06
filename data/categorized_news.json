@@ -1,48 +1,48 @@
 {
   "headline": [
     {
+      "title": "香蕉和GPT Image之外的第3条路：华人15人团队造出AI生图黑马",
+      "link": "https://www.qbitai.com/2026/05/413264.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-06 09:24",
+      "summary": "40小时干完广告公司一年的活"
+    },
+    {
+      "title": "陶哲轩在线安利Claude Code：审稿意见全给它，15分钟欧了",
+      "link": "https://www.qbitai.com/2026/05/413265.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-06 08:11",
+      "summary": "还反向挑出审稿人的毛病"
+    },
+    {
+      "title": "AI“翻译”养殖经验智慧养猪提质增效  ——讯飞和光科技用大模型为传统产业升级注入新动能",
+      "link": "https://www.qbitai.com/2026/05/413154.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-06 04:32",
+      "summary": ""
+    },
+    {
+      "title": "刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答更简洁",
+      "link": "https://www.qbitai.com/2026/05/412995.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-06 00:22",
+      "summary": "奥特曼特别强调，如果你最近都只用深度思考模型了，不妨回来看看"
+    },
+    {
       "title": "“DeepSeek版Claude Code”，Github 2.3k星",
       "link": "https://www.qbitai.com/2026/05/412914.html",
       "source": "qbitai",
       "pub_date": "2026-05-04 06:09",
       "summary": "专门针对DeepSeek优化"
-    },
-    {
-      "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-      "link": "https://www.qbitai.com/2026/05/412080.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-03 09:43",
-      "summary": "瓜多到吃不完"
-    },
-    {
-      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
-      "link": "https://www.qbitai.com/2026/05/412713.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-02 03:30",
-      "summary": ""
-    },
-    {
-      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-      "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-05-05 17:00",
-      "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor."
-    },
-    {
-      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
-      "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-05-05 15:31",
-      "summary": "Etsy's new native app within ChatGPT aims to be a conversational  shopping experience for users."
     }
   ],
   "product": [
     {
-      "title": "华为携手中科大发布灵境造物，openJiuwen首发Coordination Engineering全栈支撑",
-      "link": "https://www.qbitai.com/2026/05/412696.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-01 13:58",
-      "summary": "基于全栈国产化软硬件生态打造"
+      "title": "42%的代码是AI写的，可96%的开发者不信它：谁敢拍板说“上线”？这成了2026年最大挑战",
+      "link": "https://www.infoq.cn/article/e40mGRhF9o583Yi3akyM?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-06 11:53",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/e40mGRhF9o583Yi3akyM?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "Java 近期资讯：OpenJDK、 Oracle 关键补丁更新、 Open Liberty、Testcontainers、IntelliJ IDEA",
@@ -50,48 +50,34 @@
       "source": "infoq",
       "pub_date": "2026-05-05 13:57",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/LhzkgpOBi5mPkYHoKgE5?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Cloudflare 推出 Agent Memory：面向 AI 智能体的持久记忆托管服务",
-      "link": "https://www.infoq.cn/article/TPqCEvSNCh9jzivioLs8?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-04 12:22",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/TPqCEvSNCh9jzivioLs8?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
-      "link": "https://www.infoq.cn/article/KSmLVsumhdf7OiLXYaj3?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-04 09:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/KSmLVsumhdf7OiLXYaj3?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Sauce Labs 推出 AI 智能体，实现测试创建自动化",
-      "link": "https://www.infoq.cn/article/8k6MQWB5duEDY8wulZYk?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-03 13:37",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/8k6MQWB5duEDY8wulZYk?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
-  "research": [
+  "research": [],
+  "industry": [
     {
-      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
-      "link": "https://www.qbitai.com/2026/05/412870.html",
+      "title": "首日10w+！跨维智能赋能合作伙伴，商业服务小站“五一”多城齐开",
+      "link": "https://www.qbitai.com/2026/05/413164.html",
       "source": "qbitai",
-      "pub_date": "2026-05-03 03:56",
-      "summary": "与全球社区共同推动具身智能创新"
-    },
-    {
-      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
-      "link": "https://www.qbitai.com/2026/05/412577.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-01 06:28",
-      "summary": "真机部署“零微调”"
+      "pub_date": "2026-05-06 04:55",
+      "summary": ""
     }
   ],
-  "industry": [],
   "other": [
+    {
+      "title": "AI PPT，这次是真不用返工了",
+      "link": "https://www.qbitai.com/2026/05/413296.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-06 10:28",
+      "summary": "实测讯飞智文Vision Agent"
+    },
+    {
+      "title": "马斯克破大防了：私信求和遭拒，怒喷奥特曼Brockman「全美最恶人」",
+      "link": "https://www.qbitai.com/2026/05/413022.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-06 04:04",
+      "summary": "马斯克胜诉概率应声下降"
+    },
     {
       "title": "不好！1930年的AI都来抢程序员饭碗了",
       "link": "https://www.qbitai.com/2026/05/412896.html",
@@ -100,32 +86,18 @@
       "summary": "完全无需互联网数据"
     },
     {
-      "title": "DeepSeek V4最大的遗憾",
-      "link": "https://www.qbitai.com/2026/05/412737.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-03 03:43",
-      "summary": "Engram去哪了？"
-    },
-    {
-      "title": "他用AI办了个音乐节，主题：别读博",
-      "link": "https://www.qbitai.com/2026/05/412597.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-01 13:20",
-      "summary": "一代科研人的赛博苦中作乐"
-    },
-    {
-      "title": "智谱公布“降智”的秘密：Scaling不可避免的痛",
-      "link": "https://www.qbitai.com/2026/05/412585.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-01 11:00",
-      "summary": "都是Prefill的锅"
-    },
-    {
-      "title": "Vercel 开源 Open Agents，支持后台运行 AI 编码工作流",
-      "link": "https://www.infoq.cn/article/2D4Ky0AYKQu2JGeUW6HN?utm_source=rss&utm_medium=article",
+      "title": "OpenChoreo 1.0 将 AI 代理和 GitOps 引入 Kubernetes 开发平台",
+      "link": "https://www.infoq.cn/article/D7iLJ0aKtBPgS3RCQlQr?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-05-05 13:55",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/2D4Ky0AYKQu2JGeUW6HN?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-05-06 16:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/D7iLJ0aKtBPgS3RCQlQr?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "“如果你不用更多Token，就永远逃不出底层”：AI竞赛开始变成资源战争",
+      "link": "https://www.infoq.cn/article/fdAdSjRh8TNNy6RMrjGm?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-06 15:55",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/fdAdSjRh8TNNy6RMrjGm?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
