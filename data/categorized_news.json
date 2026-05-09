@@ -1,18 +1,25 @@
 {
   "headline": [
     {
-      "title": "云知声山海知医慧保大模型重磅发布：以高密智能深耕高价值场景，重构医疗保险数智新生态",
-      "link": "https://www.qbitai.com/2026/05/413782.html",
+      "title": "Anthropic出手！AI的内心独白，曝光了",
+      "link": "https://www.qbitai.com/2026/05/414213.html",
       "source": "qbitai",
-      "pub_date": "2026-05-07 06:35",
-      "summary": "推动医疗保障体系迈入数智化新阶段"
+      "pub_date": "2026-05-08 06:34",
+      "summary": "原来Claude早就识破了人类的套路（doge）"
     },
     {
-      "title": "马斯克22万张GPU全卖给Claude用：5小时限额翻倍，双方合作建太空算力",
-      "link": "https://www.qbitai.com/2026/05/413569.html",
+      "title": "GPT-5级推理能力塞进语音模型，OpenAI把同传翻译成本砍穿地板价",
+      "link": "https://www.qbitai.com/2026/05/414194.html",
       "source": "qbitai",
-      "pub_date": "2026-05-07 01:13",
-      "summary": "Claude用户（仅限付费用户）一觉醒来，发现限额翻倍，速度还变快了"
+      "pub_date": "2026-05-08 04:35",
+      "summary": "OpenAI上新三款实时语音模型"
+    },
+    {
+      "title": "Anthropic最新论文撬开大模型黑箱：隐藏动机发现率提升4倍以上",
+      "link": "https://www.infoq.cn/article/gAkVCqphr0A1r2PLSWDz?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-08 18:27",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/gAkVCqphr0A1r2PLSWDz?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "OpenAI launches new voice intelligence features in its API",
@@ -22,21 +29,21 @@
       "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms."
     },
     {
-      "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
-      "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-05-07 20:20",
-      "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm."
-    },
-    {
-      "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
-      "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-05-07 19:21",
-      "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial"
+      "title": "Running Codex safely at OpenAI",
+      "link": "https://openai.com/index/running-codex-safely",
+      "source": "openai_blog",
+      "pub_date": "2026-05-08 12:30",
+      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption."
     }
   ],
   "product": [
+    {
+      "title": "创新智能体 新质生产力 ｜ 博云企业级 AI 原生智能体平台 BoAgent 暨生态合作战略发布会",
+      "link": "https://www.infoq.cn/video/Ch593mOMhlZBcTOzlXoh?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-08 19:56",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/video/Ch593mOMhlZBcTOzlXoh?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
     {
       "title": "JobRunr 发布开源 Java AI 智能体 ClawRunr",
       "link": "https://www.infoq.cn/article/pk5tLlqhqQsukB3ANhFh?utm_source=rss&utm_medium=article",
@@ -61,43 +68,51 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/K1aiYMtOPSTswV999WZR?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "research": [],
+  "research": [
+    {
+      "title": "所有实验室都怕字节，所有人都在夸DeepSeek！美国研究员36小时中国AI行",
+      "link": "https://www.qbitai.com/2026/05/414141.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-08 04:15",
+      "summary": "这跟中国的开源精神，显然是一脉相承的"
+    }
+  ],
   "industry": [],
   "other": [
+    {
+      "title": "持续领跑！商汤大装置稳居中国MaaS市场第一梯队",
+      "link": "https://www.qbitai.com/2026/05/414428.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-08 11:09",
+      "summary": "位列第二"
+    },
+    {
+      "title": "Redis之父下场，给DeepSeek V4单独造了一台推理引擎",
+      "link": "https://www.qbitai.com/2026/05/414316.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-08 08:20",
+      "summary": "Mac上就能本地跑deepseek"
+    },
+    {
+      "title": "特斯拉百万年薪招数据标注员，朝九晚五，无需AI经验",
+      "link": "https://www.qbitai.com/2026/05/414156.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-08 04:25",
+      "summary": "服务FSD和Optimus"
+    },
+    {
+      "title": "第一批「AI原生」本科生，要毕业了",
+      "link": "https://www.qbitai.com/2026/05/414125.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-08 04:06",
+      "summary": "全部都是AI加持的超级个体"
+    },
     {
       "title": "原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡",
       "link": "https://www.qbitai.com/2026/05/413912.html",
       "source": "qbitai",
       "pub_date": "2026-05-07 15:54",
       "summary": "背靠国内最大ComfyUI生态"
-    },
-    {
-      "title": "离谱！一句话+百元预算，这只龙虾就给我搓出了一支百万级广告片？",
-      "link": "https://www.qbitai.com/2026/05/414006.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-07 14:01",
-      "summary": "让广告创意不再卡在预算里"
-    },
-    {
-      "title": "00后下场整顿Agent：啥都不学就能用好AI，这才是正确打开方式",
-      "link": "https://www.qbitai.com/2026/05/413612.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-07 07:14",
-      "summary": "低提示词，挑战主流模型的交互逻辑"
-    },
-    {
-      "title": "一年磨一剑，今年最炸机器人Demo来了！",
-      "link": "https://www.qbitai.com/2026/05/413830.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-07 06:43",
-      "summary": "1亿美元种子轮团队出手，单个模型解锁单手打蛋解魔方弹钢琴"
-    },
-    {
-      "title": "波士顿动力泯然众人了，高管集体出走，机器人“量产”只能造4台",
-      "link": "https://www.qbitai.com/2026/05/413613.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-07 06:29",
-      "summary": "IPO前夕，高管集体出走"
     }
   ]
 }
