@@ -8,11 +8,25 @@
       "summary": "实现过程开源可复现"
     },
     {
-      "title": "Anthropic最新论文撬开大模型黑箱：隐藏动机发现率提升4倍以上",
-      "link": "https://www.infoq.cn/article/gAkVCqphr0A1r2PLSWDz?utm_source=rss&utm_medium=article",
+      "title": "迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+      "link": "https://www.infoq.cn/article/SH3Kw4yMJQA3ODHYfPM7?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-05-08 18:27",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/gAkVCqphr0A1r2PLSWDz?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-05-10 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/SH3Kw4yMJQA3ODHYfPM7?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+      "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-05-10 20:40",
+      "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic."
+    },
+    {
+      "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+      "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-05-10 15:34",
+      "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX."
     },
     {
       "title": "Running Codex safely at OpenAI",
@@ -20,36 +34,22 @@
       "source": "openai_blog",
       "pub_date": "2026-05-08 12:30",
       "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption."
-    },
-    {
-      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-      "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-      "source": "openai_blog",
-      "pub_date": "2026-05-07 13:00",
-      "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure."
-    },
-    {
-      "title": "Testing ads in ChatGPT",
-      "link": "https://openai.com/index/testing-ads-in-chatgpt",
-      "source": "openai_blog",
-      "pub_date": "2026-05-07 00:00",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
     }
   ],
   "product": [
+    {
+      "title": "浙大推出让AI会「导演」的角色扮演框架！四通道消息沉浸式交互",
+      "link": "https://www.qbitai.com/2026/05/415048.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-10 16:26",
+      "summary": "福尔摩斯探案都能演"
+    },
     {
       "title": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
       "link": "https://www.qbitai.com/2026/05/415019.html",
       "source": "qbitai",
       "pub_date": "2026-05-09 09:53",
       "summary": "围绕电力交易、能源调度、智能预测与决策等场景探索AI应用落地"
-    },
-    {
-      "title": "百度发布文心 5.1：搜索能力登顶国内，预训练成本仅为业界 6%",
-      "link": "https://www.qbitai.com/2026/05/414496.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-09 03:11",
-      "summary": "搜索、知识、Agent 能力全面提升"
     },
     {
       "title": "创新智能体 新质生产力 ｜ 博云企业级 AI 原生智能体平台 BoAgent 暨生态合作战略发布会",
@@ -61,6 +61,13 @@
   ],
   "funding": [],
   "research": [
+    {
+      "title": "浙大校友用AI突破32年拉姆齐数下界",
+      "link": "https://www.qbitai.com/2026/05/415031.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-10 04:01",
+      "summary": "拉姆齐数R(3,17) 下界从92提升至93"
+    },
     {
       "title": "谷歌「AI联合数学家」来了！刷新最难数学AI基准SOTA，牛津教授用它解开群论悬案",
       "link": "https://www.qbitai.com/2026/05/414788.html",
