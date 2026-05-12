@@ -1,11 +1,25 @@
 {
   "headline": [
     {
-      "title": "不更新参数就能强化学习！OpenAI翁家翌提出新范式：决策只需AI手搓一个.py 文件",
-      "link": "https://www.qbitai.com/2026/05/414827.html",
+      "title": "OpenAI砸200亿美元买单，英伟达挑战者冲刺350亿美元估值IPO",
+      "link": "https://www.qbitai.com/2026/05/415714.html",
       "source": "qbitai",
-      "pub_date": "2026-05-09 08:07",
-      "summary": "实现过程开源可复现"
+      "pub_date": "2026-05-11 07:37",
+      "summary": "Cerebras预计本周公布定价"
+    },
+    {
+      "title": "数学专业，危！菲尔兹奖得主亲测ChatGPT 5.5 Pro，17分钟出论文级成果",
+      "link": "https://www.qbitai.com/2026/05/415186.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-11 05:14",
+      "summary": "陶哲轩：但「消化」属于人类"
+    },
+    {
+      "title": "具身大模型R1时刻：LIBERO终结者，99.9%背后的物理推理新范式",
+      "link": "https://www.qbitai.com/2026/05/415065.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-11 01:51",
+      "summary": "真正学会了在隐空间里进行“物理思考”"
     },
     {
       "title": "迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
@@ -20,20 +34,6 @@
       "source": "techcrunch_ai",
       "pub_date": "2026-05-10 20:40",
       "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic."
-    },
-    {
-      "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
-      "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-05-10 15:34",
-      "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX."
-    },
-    {
-      "title": "Running Codex safely at OpenAI",
-      "link": "https://openai.com/index/running-codex-safely",
-      "source": "openai_blog",
-      "pub_date": "2026-05-08 12:30",
-      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption."
     }
   ],
   "product": [
@@ -45,21 +45,22 @@
       "summary": "福尔摩斯探案都能演"
     },
     {
-      "title": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
-      "link": "https://www.qbitai.com/2026/05/415019.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-09 09:53",
-      "summary": "围绕电力交易、能源调度、智能预测与决策等场景探索AI应用落地"
-    },
-    {
-      "title": "创新智能体 新质生产力 ｜ 博云企业级 AI 原生智能体平台 BoAgent 暨生态合作战略发布会",
-      "link": "https://www.infoq.cn/video/Ch593mOMhlZBcTOzlXoh?utm_source=rss&utm_medium=article",
+      "title": "AI工具用了不少，利润为何不涨？网易智企发布CodeWave，直击 AI Coding 提效难题",
+      "link": "https://www.infoq.cn/article/qFyHzWVe3SrEwbwzGtCq?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-05-08 19:56",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/video/Ch593mOMhlZBcTOzlXoh?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-05-11 18:54",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qFyHzWVe3SrEwbwzGtCq?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [],
+  "funding": [
+    {
+      "title": "像素绽放PixelBloom 完成C轮融资：做全球AI视觉表达平台，更做能交方案的AI办公Agent",
+      "link": "https://www.qbitai.com/2026/05/415810.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-11 07:57",
+      "summary": "办公软件的终局是交方案"
+    }
+  ],
   "research": [
     {
       "title": "浙大校友用AI突破32年拉姆齐数下界",
@@ -67,31 +68,39 @@
       "source": "qbitai",
       "pub_date": "2026-05-10 04:01",
       "summary": "拉姆齐数R(3,17) 下界从92提升至93"
-    },
-    {
-      "title": "谷歌「AI联合数学家」来了！刷新最难数学AI基准SOTA，牛津教授用它解开群论悬案",
-      "link": "https://www.qbitai.com/2026/05/414788.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-09 07:12",
-      "summary": "谷歌AI for Math迈出最新一步"
-    },
-    {
-      "title": "Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
-      "link": "https://www.infoq.cn/article/OAkOq3ctjYBk1fD5WxJr?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-09 10:14",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/OAkOq3ctjYBk1fD5WxJr?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
-      "link": "https://www.infoq.cn/article/W3vmt9ADbhyIlGieJZ9Y?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-09 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/W3vmt9ADbhyIlGieJZ9Y?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "industry": [],
+  "industry": [
+    {
+      "title": "38万应用暴露、2000+应用泄密！AI编程把“内网”变公网",
+      "link": "https://www.infoq.cn/article/j8rolcojYjAakoeJ3FhS?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-11 18:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/j8rolcojYjAakoeJ3FhS?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "other": [
+    {
+      "title": "做AI漫剧的、搞Agent的、投硅谷的，5.20这些赛道顶流碰头了｜最新嘉宾阵容",
+      "link": "https://www.qbitai.com/2026/05/415263.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-11 10:18",
+      "summary": "5月20日，马上AI起来！"
+    },
+    {
+      "title": "硅谷刷屏的AI护城河新论：代码能抄，产品能抄，但有一样东西，谁都抄不走",
+      "link": "https://www.qbitai.com/2026/05/415842.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-11 08:31",
+      "summary": "AI时代最贵的东西，已经不是模型了"
+    },
+    {
+      "title": "黄仁勋喊话毕业生：AI不会取代你，但善用AI的人会",
+      "link": "https://www.qbitai.com/2026/05/415403.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-11 06:32",
+      "summary": "自曝创业至暗时刻，飞日本求世嘉CEO救命"
+    },
     {
       "title": "太初元碁携龙虾一体机亮相北京科博会",
       "link": "https://www.qbitai.com/2026/05/415027.html",
@@ -100,32 +109,11 @@
       "summary": ""
     },
     {
-      "title": "阶跃最新语音模型位列 Artificial Analysis 评测榜中国第一",
-      "link": "https://www.qbitai.com/2026/05/415023.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-09 10:29",
-      "summary": ""
-    },
-    {
-      "title": "空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛",
-      "link": "https://www.qbitai.com/2026/05/414826.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-09 09:37",
-      "summary": "以0.829的总成绩荣登榜首"
-    },
-    {
-      "title": "美图RoboNeo全新升级：首创影像创作Agent Teams",
-      "link": "https://www.qbitai.com/2026/05/415010.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-09 09:22",
-      "summary": "打造“赛博乙方天团”"
-    },
-    {
-      "title": "VLA死了，遥操也死了！英伟达机器人一号位说的",
-      "link": "https://www.qbitai.com/2026/05/414547.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-09 06:24",
-      "summary": "Jim Fan全新暴论出炉"
+      "title": "靠AI把股价干涨735%，这家公司开始成批裁掉可替代岗，全员招聘须CEO点头",
+      "link": "https://www.infoq.cn/article/aR2EFBI7VL4pDFWxatKR?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-11 15:54",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/aR2EFBI7VL4pDFWxatKR?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
