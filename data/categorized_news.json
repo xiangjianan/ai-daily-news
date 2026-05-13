@@ -1,48 +1,62 @@
 {
   "headline": [
     {
-      "title": "OpenAI砸200亿美元买单，英伟达挑战者冲刺350亿美元估值IPO",
-      "link": "https://www.qbitai.com/2026/05/415714.html",
+      "title": "原来Ilya还有70亿美元OpenAI股权",
+      "link": "https://www.qbitai.com/2026/05/416597.html",
       "source": "qbitai",
-      "pub_date": "2026-05-11 07:37",
-      "summary": "Cerebras预计本周公布定价"
+      "pub_date": "2026-05-12 13:55",
+      "summary": "世纪庭审实锤OpenAI「造富神话」"
     },
     {
-      "title": "数学专业，危！菲尔兹奖得主亲测ChatGPT 5.5 Pro，17分钟出论文级成果",
-      "link": "https://www.qbitai.com/2026/05/415186.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-11 05:14",
-      "summary": "陶哲轩：但「消化」属于人类"
-    },
-    {
-      "title": "具身大模型R1时刻：LIBERO终结者，99.9%背后的物理推理新范式",
-      "link": "https://www.qbitai.com/2026/05/415065.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-11 01:51",
-      "summary": "真正学会了在隐空间里进行“物理思考”"
-    },
-    {
-      "title": "迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
-      "link": "https://www.infoq.cn/article/SH3Kw4yMJQA3ODHYfPM7?utm_source=rss&utm_medium=article",
+      "title": "企业每月烧掉数百万元Token却算不清账，谁来解决大模型的“最后一公里”工程难题？",
+      "link": "https://www.infoq.cn/article/FzzzoO8hcq9QUEqxEuw6?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-05-10 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/SH3Kw4yMJQA3ODHYfPM7?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-05-12 11:40",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/FzzzoO8hcq9QUEqxEuw6?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-      "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+      "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-05-10 20:40",
-      "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic."
+      "pub_date": "2026-05-12 18:05",
+      "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experie"
+    },
+    {
+      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+      "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-05-12 17:36",
+      "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads."
+    },
+    {
+      "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
+      "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-05-12 17:00",
+      "summary": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other re"
     }
   ],
   "product": [
     {
-      "title": "浙大推出让AI会「导演」的角色扮演框架！四通道消息沉浸式交互",
-      "link": "https://www.qbitai.com/2026/05/415048.html",
+      "title": "360发布OpenClaw生态安全报告：AI智能体风险进入自动化审计阶段",
+      "link": "https://www.qbitai.com/2026/05/416582.html",
       "source": "qbitai",
-      "pub_date": "2026-05-10 16:26",
-      "summary": "福尔摩斯探案都能演"
+      "pub_date": "2026-05-12 09:35",
+      "summary": "累计发现23个独立安全漏洞"
+    },
+    {
+      "title": "OpenClaw低调更新重磅版本，龙虾长手长脚了",
+      "link": "https://www.qbitai.com/2026/05/416034.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-12 04:02",
+      "summary": "让AI agent看到屏幕，也能操作鼠标键盘"
+    },
+    {
+      "title": "谷歌在 Next '26 大会上宣布推出 GKE Agent Sandbox 和 Hypercluster，并将 Kubernetes 定位为 AI 代理",
+      "link": "https://www.infoq.cn/article/BNvwzwb29PU4AORhPqbZ?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-12 17:02",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/BNvwzwb29PU4AORhPqbZ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "AI工具用了不少，利润为何不涨？网易智企发布CodeWave，直击 AI Coding 提效难题",
@@ -54,23 +68,29 @@
   ],
   "funding": [
     {
-      "title": "像素绽放PixelBloom 完成C轮融资：做全球AI视觉表达平台，更做能交方案的AI办公Agent",
-      "link": "https://www.qbitai.com/2026/05/415810.html",
+      "title": "估值200亿美元！可灵AI被曝剥离快手单独融资",
+      "link": "https://www.qbitai.com/2026/05/416056.html",
       "source": "qbitai",
-      "pub_date": "2026-05-11 07:57",
-      "summary": "办公软件的终局是交方案"
+      "pub_date": "2026-05-12 06:06",
+      "summary": "快手，可能要亲手拆出第二家“快手”了。"
     }
   ],
-  "research": [
-    {
-      "title": "浙大校友用AI突破32年拉姆齐数下界",
-      "link": "https://www.qbitai.com/2026/05/415031.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-10 04:01",
-      "summary": "拉姆齐数R(3,17) 下界从92提升至93"
-    }
-  ],
+  "research": [],
   "industry": [
+    {
+      "title": "商汤善惠烧卖购机器人小店上海“开业”，让机器人真正落地线下零售",
+      "link": "https://www.qbitai.com/2026/05/416590.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-12 10:14",
+      "summary": "打造“一人多面”的具身智能便利店"
+    },
+    {
+      "title": "模力工场039周AI应用周榜：AI 应用正悄悄变“窄”，通用工具之争逐渐退潮，垂直流程开始冒头",
+      "link": "https://www.infoq.cn/article/ac0Kvqlz4cS2PhAcwvPP?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-12 20:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ac0Kvqlz4cS2PhAcwvPP?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
     {
       "title": "38万应用暴露、2000+应用泄密！AI编程把“内网”变公网",
       "link": "https://www.infoq.cn/article/j8rolcojYjAakoeJ3FhS?utm_source=rss&utm_medium=article",
@@ -80,6 +100,27 @@
     }
   ],
   "other": [
+    {
+      "title": "AI第一金主黄仁勋：日均花掉20亿",
+      "link": "https://www.qbitai.com/2026/05/416540.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-12 08:03",
+      "summary": "“AI御三家”都投了"
+    },
+    {
+      "title": "龙虾退烧后，荣耀给它造了一个宇宙",
+      "link": "https://www.qbitai.com/2026/05/416081.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-12 07:17",
+      "summary": "OpenClaw 不缺掌声了，它缺的是一个能长期生长的硬件生态。"
+    },
+    {
+      "title": "Markdown要凉…卡帕西也站HTML了",
+      "link": "https://www.qbitai.com/2026/05/416339.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-12 07:08",
+      "summary": "去质疑一切吧"
+    },
     {
       "title": "做AI漫剧的、搞Agent的、投硅谷的，5.20这些赛道顶流碰头了｜最新嘉宾阵容",
       "link": "https://www.qbitai.com/2026/05/415263.html",
@@ -93,27 +134,6 @@
       "source": "qbitai",
       "pub_date": "2026-05-11 08:31",
       "summary": "AI时代最贵的东西，已经不是模型了"
-    },
-    {
-      "title": "黄仁勋喊话毕业生：AI不会取代你，但善用AI的人会",
-      "link": "https://www.qbitai.com/2026/05/415403.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-11 06:32",
-      "summary": "自曝创业至暗时刻，飞日本求世嘉CEO救命"
-    },
-    {
-      "title": "太初元碁携龙虾一体机亮相北京科博会",
-      "link": "https://www.qbitai.com/2026/05/415027.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-09 12:21",
-      "summary": ""
-    },
-    {
-      "title": "靠AI把股价干涨735%，这家公司开始成批裁掉可替代岗，全员招聘须CEO点头",
-      "link": "https://www.infoq.cn/article/aR2EFBI7VL4pDFWxatKR?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-11 15:54",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/aR2EFBI7VL4pDFWxatKR?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
