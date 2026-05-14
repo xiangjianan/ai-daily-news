@@ -1,88 +1,73 @@
 {
   "headline": [
     {
-      "title": "原来Ilya还有70亿美元OpenAI股权",
-      "link": "https://www.qbitai.com/2026/05/416597.html",
+      "title": "苹果画的饼谷歌率先搞定！Gemini全面进驻全家桶，连鼠标都AI上了",
+      "link": "https://www.qbitai.com/2026/05/416870.html",
       "source": "qbitai",
-      "pub_date": "2026-05-12 13:55",
-      "summary": "世纪庭审实锤OpenAI「造富神话」"
+      "pub_date": "2026-05-13 08:29",
+      "summary": "谷歌把Gemini塞进了Android"
     },
     {
-      "title": "企业每月烧掉数百万元Token却算不清账，谁来解决大模型的“最后一公里”工程难题？",
-      "link": "https://www.infoq.cn/article/FzzzoO8hcq9QUEqxEuw6?utm_source=rss&utm_medium=article",
+      "title": "奥特曼趁马斯克出差爆猛料：他曾想让子女继承OpenAI",
+      "link": "https://www.qbitai.com/2026/05/416739.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-13 03:38",
+      "summary": "奥特曼曝这老些瓜"
+    },
+    {
+      "title": "智能体成新型攻击入口？模型上线前OpenAI内部到底审什么？董事会成员首次详解",
+      "link": "https://www.infoq.cn/article/9lIsQifBWYzKi9j3D88I?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-05-12 11:40",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/FzzzoO8hcq9QUEqxEuw6?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-05-13 14:18",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/9lIsQifBWYzKi9j3D88I?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-      "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-05-12 18:05",
-      "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experie"
+      "title": "OpenAI 推出基于 WebSocket 的执行模式，减少代理工作流延迟",
+      "link": "https://www.infoq.cn/article/Bh5aINDHFALibFhNWEKi?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-13 10:34",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Bh5aINDHFALibFhNWEKi?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
-      "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-05-12 17:36",
-      "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads."
-    },
-    {
-      "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
-      "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-05-12 17:00",
-      "summary": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other re"
+      "title": "ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了",
+      "link": "https://www.infoq.cn/article/ch60MR1deJECc2dP9dhf?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-13 10:17",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ch60MR1deJECc2dP9dhf?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "product": [
     {
-      "title": "360发布OpenClaw生态安全报告：AI智能体风险进入自动化审计阶段",
-      "link": "https://www.qbitai.com/2026/05/416582.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-12 09:35",
-      "summary": "累计发现23个独立安全漏洞"
-    },
-    {
-      "title": "OpenClaw低调更新重磅版本，龙虾长手长脚了",
-      "link": "https://www.qbitai.com/2026/05/416034.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-12 04:02",
-      "summary": "让AI agent看到屏幕，也能操作鼠标键盘"
-    },
-    {
-      "title": "谷歌在 Next '26 大会上宣布推出 GKE Agent Sandbox 和 Hypercluster，并将 Kubernetes 定位为 AI 代理",
-      "link": "https://www.infoq.cn/article/BNvwzwb29PU4AORhPqbZ?utm_source=rss&utm_medium=article",
+      "title": "MediaTek 发布 AI 与游戏开发新工具，聚焦端侧智能体与移动图形能力",
+      "link": "https://www.infoq.cn/article/i1arV0AXjw1xSdXt3kzv?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-05-12 17:02",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/BNvwzwb29PU4AORhPqbZ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-05-13 15:49",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/i1arV0AXjw1xSdXt3kzv?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "AI工具用了不少，利润为何不涨？网易智企发布CodeWave，直击 AI Coding 提效难题",
-      "link": "https://www.infoq.cn/article/qFyHzWVe3SrEwbwzGtCq?utm_source=rss&utm_medium=article",
+      "title": "Cloudflare 推出 Artifacts Beta 测试版，为 AI 代理引入类似 Git 的版本控制功能",
+      "link": "https://www.infoq.cn/article/ULPBgiEHyo3i9OCTrgr9?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-05-11 18:54",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qFyHzWVe3SrEwbwzGtCq?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-05-13 14:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ULPBgiEHyo3i9OCTrgr9?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [
-    {
-      "title": "估值200亿美元！可灵AI被曝剥离快手单独融资",
-      "link": "https://www.qbitai.com/2026/05/416056.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-12 06:06",
-      "summary": "快手，可能要亲手拆出第二家“快手”了。"
-    }
-  ],
+  "funding": [],
   "research": [],
   "industry": [
     {
-      "title": "商汤善惠烧卖购机器人小店上海“开业”，让机器人真正落地线下零售",
-      "link": "https://www.qbitai.com/2026/05/416590.html",
+      "title": "8岁小学生idea直接变应用，秒哒3.0刚刚把AI应用门槛打没了",
+      "link": "https://www.qbitai.com/2026/05/417366.html",
       "source": "qbitai",
-      "pub_date": "2026-05-12 10:14",
-      "summary": "打造“一人多面”的具身智能便利店"
+      "pub_date": "2026-05-13 14:04",
+      "summary": "甚至可以直接在手机上做APP"
+    },
+    {
+      "title": "高德与千问C端应用团队开源AGenUI：首个覆盖iOS、安卓、鸿蒙三端的原生A2UI框架",
+      "link": "https://www.qbitai.com/2026/05/416864.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-13 05:53",
+      "summary": "无需为不同平台分别写UI代码"
     },
     {
       "title": "模力工场039周AI应用周榜：AI 应用正悄悄变“窄”，通用工具之争逐渐退潮，垂直流程开始冒头",
@@ -90,50 +75,43 @@
       "source": "infoq",
       "pub_date": "2026-05-12 20:00",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ac0Kvqlz4cS2PhAcwvPP?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "38万应用暴露、2000+应用泄密！AI编程把“内网”变公网",
-      "link": "https://www.infoq.cn/article/j8rolcojYjAakoeJ3FhS?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-11 18:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/j8rolcojYjAakoeJ3FhS?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
     {
-      "title": "AI第一金主黄仁勋：日均花掉20亿",
-      "link": "https://www.qbitai.com/2026/05/416540.html",
+      "title": "倒计时一周，AIGC峰会嘉宾又上新了！一起来看第三波嘉宾",
+      "link": "https://www.qbitai.com/2026/05/417447.html",
       "source": "qbitai",
-      "pub_date": "2026-05-12 08:03",
-      "summary": "“AI御三家”都投了"
-    },
-    {
-      "title": "龙虾退烧后，荣耀给它造了一个宇宙",
-      "link": "https://www.qbitai.com/2026/05/416081.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-12 07:17",
-      "summary": "OpenClaw 不缺掌声了，它缺的是一个能长期生长的硬件生态。"
-    },
-    {
-      "title": "Markdown要凉…卡帕西也站HTML了",
-      "link": "https://www.qbitai.com/2026/05/416339.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-12 07:08",
-      "summary": "去质疑一切吧"
-    },
-    {
-      "title": "做AI漫剧的、搞Agent的、投硅谷的，5.20这些赛道顶流碰头了｜最新嘉宾阵容",
-      "link": "https://www.qbitai.com/2026/05/415263.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-11 10:18",
+      "pub_date": "2026-05-13 15:54",
       "summary": "5月20日，马上AI起来！"
     },
     {
-      "title": "硅谷刷屏的AI护城河新论：代码能抄，产品能抄，但有一样东西，谁都抄不走",
-      "link": "https://www.qbitai.com/2026/05/415842.html",
+      "title": "挑战扩散自回归统治！字节提出视觉生成第三种路线，让模型像人类一样边画边改",
+      "link": "https://www.qbitai.com/2026/05/416978.html",
       "source": "qbitai",
-      "pub_date": "2026-05-11 08:31",
-      "summary": "AI时代最贵的东西，已经不是模型了"
+      "pub_date": "2026-05-13 14:04",
+      "summary": "相同参数量超越扩散自回归"
+    },
+    {
+      "title": "林俊旸果然创业了！一个“Qwen负责人”头衔值135亿",
+      "link": "https://www.qbitai.com/2026/05/416963.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-13 08:44",
+      "summary": "对于一家还没发产品的中国AI初创公司而言，这一估值，几乎没有先例。但相比林俊旸之前同台竞速的硅谷同行，不算贵。"
+    },
+    {
+      "title": "AI拿婚外情写勒索邮件，查一年告诉我科幻小说教坏的",
+      "link": "https://www.qbitai.com/2026/05/416831.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-13 05:40",
+      "summary": "Anthropic新研究实锤了"
+    },
+    {
+      "title": "AI步入“自我进化”时代，李彦宏首提AI时代度量衡“DAA”｜Create2026百度AI开发者⼤会速览",
+      "link": "https://www.qbitai.com/2026/05/416762.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-13 04:43",
+      "summary": "李彦宏提出“AI时代进化论”"
     }
   ]
 }
