@@ -1,6 +1,20 @@
 {
   "headline": [
     {
+      "title": "容联云发布“数字员工”级 Al Agent 平台，重塑大模型联络中心",
+      "link": "https://www.qbitai.com/2026/05/418140.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-15 08:18",
+      "summary": "该平台以 AI Agent 为核心"
+    },
+    {
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+      "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-05-15 16:00",
+      "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments."
+    },
+    {
       "title": "OpenAI says Codex is coming to your phone",
       "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
       "source": "techcrunch_ai",
@@ -15,104 +29,75 @@
       "summary": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPho"
     },
     {
-      "title": "OpenAI says hackers stole some data after latest code security issue",
-      "link": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-05-14 16:25",
-      "summary": "OpenAI said the damage was limited to the employees’ devices and did not affect user data nor its production systems, and none of its intellectual property was stolen."
-    },
-    {
-      "title": "Helping ChatGPT better recognize context in sensitive conversations",
-      "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "title": "A new personal finance experience in ChatGPT",
+      "link": "https://openai.com/index/personal-finance-chatgpt",
       "source": "openai_blog",
-      "pub_date": "2026-05-14 00:00",
-      "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely."
-    },
-    {
-      "title": "How ChatGPT adoption broadened in early 2026",
-      "link": "https://openai.com/signals/research/2026q1-update",
-      "source": "openai_blog",
-      "pub_date": "2026-05-11 15:00",
-      "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption."
+      "pub_date": "2026-05-15 00:00",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goa"
     }
   ],
   "product": [
     {
-      "title": "谷歌 DORA 团队发布新报告：扎实的工程基础决定了 AI 投资回报",
-      "link": "https://www.infoq.cn/article/IgGuKFh9qmKmFEIZeR4t?utm_source=rss&utm_medium=article",
+      "title": "阿里发布Qoder 1.0，可全面接管代码生成、验证和交付流程",
+      "link": "https://www.qbitai.com/2026/05/418027.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-15 07:36",
+      "summary": "Windows、macOS 和 Linux系统用户均可下载使用。"
+    },
+    {
+      "title": "Kubernetes v1.36 发布：安全默认配置强化，AI 工作负载支持日趋成熟",
+      "link": "https://www.infoq.cn/article/kNkrHGzRvA7r6pRtlGB5?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-05-14 09:23",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/IgGuKFh9qmKmFEIZeR4t?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-05-15 20:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/kNkrHGzRvA7r6pRtlGB5?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [
     {
-      "title": "田渊栋AI创业估值315亿，老黄苏妈都投了，姚班施天麟也是合伙人",
-      "link": "https://www.qbitai.com/2026/05/417468.html",
+      "title": "数亿元融资落地！国内最早布局“人类学习”路线的具身公司，用人类视角重做具身智能",
+      "link": "https://www.qbitai.com/2026/05/417935.html",
       "source": "qbitai",
-      "pub_date": "2026-05-14 07:14",
-      "summary": "谷歌GV、Greycroft联合领投这轮早期融资，英伟达、AMD等也参与其中"
-    },
-    {
-      "title": "前阿里Qwen负责人林俊旸再创业，新AI Lab估值136亿元",
-      "link": "https://www.infoq.cn/article/OpaYcpzKc45zmvxCNBlW?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-14 11:40",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/OpaYcpzKc45zmvxCNBlW?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-05-15 02:21",
+      "summary": "具身智能正在经历一场静默但深刻的路线转变"
     }
   ],
   "research": [],
-  "industry": [
-    {
-      "title": "阿里 AI 应用新进展：悟空开始逐步规模化放量",
-      "link": "https://www.qbitai.com/2026/05/417748.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-14 08:26",
-      "summary": "阿里 AI 在模型、云基础设施和应用各层实现加速突破"
-    },
-    {
-      "title": "AWS WorkSpaces 支持 AI 智能体直接操作遗留桌面应用程序",
-      "link": "https://www.infoq.cn/article/ktRP5kz1fMkW5rmmMFoR?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-14 14:29",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ktRP5kz1fMkW5rmmMFoR?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "industry": [],
   "other": [
     {
-      "title": "人手一个数据库，Kimi背后这套AI基建到底有多能扛？",
-      "link": "https://www.qbitai.com/2026/05/417731.html",
+      "title": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局",
+      "link": "https://www.qbitai.com/2026/05/418135.html",
       "source": "qbitai",
-      "pub_date": "2026-05-14 14:58",
-      "summary": "Agent时代的数据库，怎么跑通商业化？"
+      "pub_date": "2026-05-15 10:14",
+      "summary": ""
     },
     {
-      "title": "重生之我在AI时代当老板：让一群Agent互相PUA",
-      "link": "https://www.qbitai.com/2026/05/417816.html",
+      "title": "Need is all you need：AI接手Coding后，程序员最值钱的能力只剩这一项?",
+      "link": "https://www.qbitai.com/2026/05/418035.html",
       "source": "qbitai",
-      "pub_date": "2026-05-14 11:14",
-      "summary": "Team，从来不是默认选项"
+      "pub_date": "2026-05-15 09:55",
+      "summary": "说明需求，Qoder就能帮你实现"
     },
     {
-      "title": "淘天金码奖落幕：20 名超级工程师诞生，推动 AI Native 实践",
-      "link": "https://www.qbitai.com/2026/05/417927.html",
+      "title": "手机的智能体AI，正在因为天玑全面跃升",
+      "link": "https://www.qbitai.com/2026/05/417968.html",
       "source": "qbitai",
-      "pub_date": "2026-05-14 10:28",
-      "summary": "AI主导、人类协助"
+      "pub_date": "2026-05-15 07:36",
+      "summary": "联发科正在成为智能体化体验落地的全栈赋能者"
     },
     {
-      "title": "国产GPU组了个开源局，把SGLang等核心开发者都摇来了！",
-      "link": "https://www.qbitai.com/2026/05/417791.html",
+      "title": "坐到马斯克和库克中间的湖南女人",
+      "link": "https://www.qbitai.com/2026/05/417965.html",
       "source": "qbitai",
-      "pub_date": "2026-05-14 09:51",
-      "summary": "国产GPU开启生态坐标之争"
+      "pub_date": "2026-05-15 07:29",
+      "summary": "15岁离家，23岁创业"
     },
     {
-      "title": "Robotaxi第一股又涨疯了",
-      "link": "https://www.qbitai.com/2026/05/417754.html",
+      "title": "蚂蚁百灵 Ring-2.6-1T 开源 Agent 执行能力全面增强",
+      "link": "https://www.qbitai.com/2026/05/417961.html",
       "source": "qbitai",
-      "pub_date": "2026-05-14 08:41",
-      "summary": "卖车收入暴涨116%"
+      "pub_date": "2026-05-15 07:14",
+      "summary": "AIME 26 得分 95.83"
     }
   ]
 }
