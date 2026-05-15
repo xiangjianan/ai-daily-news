@@ -1,117 +1,118 @@
 {
   "headline": [
     {
-      "title": "苹果画的饼谷歌率先搞定！Gemini全面进驻全家桶，连鼠标都AI上了",
-      "link": "https://www.qbitai.com/2026/05/416870.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-13 08:29",
-      "summary": "谷歌把Gemini塞进了Android"
+      "title": "OpenAI says Codex is coming to your phone",
+      "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-05-14 20:58",
+      "summary": "The update gives users enhanced flexibility over how they can manage their workflows."
     },
     {
-      "title": "奥特曼趁马斯克出差爆猛料：他曾想让子女继承OpenAI",
-      "link": "https://www.qbitai.com/2026/05/416739.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-13 03:38",
-      "summary": "奥特曼曝这老些瓜"
+      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+      "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-05-14 19:12",
+      "summary": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPho"
     },
     {
-      "title": "智能体成新型攻击入口？模型上线前OpenAI内部到底审什么？董事会成员首次详解",
-      "link": "https://www.infoq.cn/article/9lIsQifBWYzKi9j3D88I?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-13 14:18",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/9lIsQifBWYzKi9j3D88I?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "OpenAI says hackers stole some data after latest code security issue",
+      "link": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-05-14 16:25",
+      "summary": "OpenAI said the damage was limited to the employees’ devices and did not affect user data nor its production systems, and none of its intellectual property was stolen."
     },
     {
-      "title": "OpenAI 推出基于 WebSocket 的执行模式，减少代理工作流延迟",
-      "link": "https://www.infoq.cn/article/Bh5aINDHFALibFhNWEKi?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-13 10:34",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Bh5aINDHFALibFhNWEKi?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "Helping ChatGPT better recognize context in sensitive conversations",
+      "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "source": "openai_blog",
+      "pub_date": "2026-05-14 00:00",
+      "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely."
     },
     {
-      "title": "ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了",
-      "link": "https://www.infoq.cn/article/ch60MR1deJECc2dP9dhf?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-13 10:17",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ch60MR1deJECc2dP9dhf?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "How ChatGPT adoption broadened in early 2026",
+      "link": "https://openai.com/signals/research/2026q1-update",
+      "source": "openai_blog",
+      "pub_date": "2026-05-11 15:00",
+      "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption."
     }
   ],
   "product": [
     {
-      "title": "MediaTek 发布 AI 与游戏开发新工具，聚焦端侧智能体与移动图形能力",
-      "link": "https://www.infoq.cn/article/i1arV0AXjw1xSdXt3kzv?utm_source=rss&utm_medium=article",
+      "title": "谷歌 DORA 团队发布新报告：扎实的工程基础决定了 AI 投资回报",
+      "link": "https://www.infoq.cn/article/IgGuKFh9qmKmFEIZeR4t?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-05-13 15:49",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/i1arV0AXjw1xSdXt3kzv?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Cloudflare 推出 Artifacts Beta 测试版，为 AI 代理引入类似 Git 的版本控制功能",
-      "link": "https://www.infoq.cn/article/ULPBgiEHyo3i9OCTrgr9?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-13 14:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ULPBgiEHyo3i9OCTrgr9?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-05-14 09:23",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/IgGuKFh9qmKmFEIZeR4t?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [],
+  "funding": [
+    {
+      "title": "田渊栋AI创业估值315亿，老黄苏妈都投了，姚班施天麟也是合伙人",
+      "link": "https://www.qbitai.com/2026/05/417468.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-14 07:14",
+      "summary": "谷歌GV、Greycroft联合领投这轮早期融资，英伟达、AMD等也参与其中"
+    },
+    {
+      "title": "前阿里Qwen负责人林俊旸再创业，新AI Lab估值136亿元",
+      "link": "https://www.infoq.cn/article/OpaYcpzKc45zmvxCNBlW?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-14 11:40",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/OpaYcpzKc45zmvxCNBlW?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "research": [],
   "industry": [
     {
-      "title": "8岁小学生idea直接变应用，秒哒3.0刚刚把AI应用门槛打没了",
-      "link": "https://www.qbitai.com/2026/05/417366.html",
+      "title": "阿里 AI 应用新进展：悟空开始逐步规模化放量",
+      "link": "https://www.qbitai.com/2026/05/417748.html",
       "source": "qbitai",
-      "pub_date": "2026-05-13 14:04",
-      "summary": "甚至可以直接在手机上做APP"
+      "pub_date": "2026-05-14 08:26",
+      "summary": "阿里 AI 在模型、云基础设施和应用各层实现加速突破"
     },
     {
-      "title": "高德与千问C端应用团队开源AGenUI：首个覆盖iOS、安卓、鸿蒙三端的原生A2UI框架",
-      "link": "https://www.qbitai.com/2026/05/416864.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-13 05:53",
-      "summary": "无需为不同平台分别写UI代码"
-    },
-    {
-      "title": "模力工场039周AI应用周榜：AI 应用正悄悄变“窄”，通用工具之争逐渐退潮，垂直流程开始冒头",
-      "link": "https://www.infoq.cn/article/ac0Kvqlz4cS2PhAcwvPP?utm_source=rss&utm_medium=article",
+      "title": "AWS WorkSpaces 支持 AI 智能体直接操作遗留桌面应用程序",
+      "link": "https://www.infoq.cn/article/ktRP5kz1fMkW5rmmMFoR?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-05-12 20:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ac0Kvqlz4cS2PhAcwvPP?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-05-14 14:29",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ktRP5kz1fMkW5rmmMFoR?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
     {
-      "title": "倒计时一周，AIGC峰会嘉宾又上新了！一起来看第三波嘉宾",
-      "link": "https://www.qbitai.com/2026/05/417447.html",
+      "title": "人手一个数据库，Kimi背后这套AI基建到底有多能扛？",
+      "link": "https://www.qbitai.com/2026/05/417731.html",
       "source": "qbitai",
-      "pub_date": "2026-05-13 15:54",
-      "summary": "5月20日，马上AI起来！"
+      "pub_date": "2026-05-14 14:58",
+      "summary": "Agent时代的数据库，怎么跑通商业化？"
     },
     {
-      "title": "挑战扩散自回归统治！字节提出视觉生成第三种路线，让模型像人类一样边画边改",
-      "link": "https://www.qbitai.com/2026/05/416978.html",
+      "title": "重生之我在AI时代当老板：让一群Agent互相PUA",
+      "link": "https://www.qbitai.com/2026/05/417816.html",
       "source": "qbitai",
-      "pub_date": "2026-05-13 14:04",
-      "summary": "相同参数量超越扩散自回归"
+      "pub_date": "2026-05-14 11:14",
+      "summary": "Team，从来不是默认选项"
     },
     {
-      "title": "林俊旸果然创业了！一个“Qwen负责人”头衔值135亿",
-      "link": "https://www.qbitai.com/2026/05/416963.html",
+      "title": "淘天金码奖落幕：20 名超级工程师诞生，推动 AI Native 实践",
+      "link": "https://www.qbitai.com/2026/05/417927.html",
       "source": "qbitai",
-      "pub_date": "2026-05-13 08:44",
-      "summary": "对于一家还没发产品的中国AI初创公司而言，这一估值，几乎没有先例。但相比林俊旸之前同台竞速的硅谷同行，不算贵。"
+      "pub_date": "2026-05-14 10:28",
+      "summary": "AI主导、人类协助"
     },
     {
-      "title": "AI拿婚外情写勒索邮件，查一年告诉我科幻小说教坏的",
-      "link": "https://www.qbitai.com/2026/05/416831.html",
+      "title": "国产GPU组了个开源局，把SGLang等核心开发者都摇来了！",
+      "link": "https://www.qbitai.com/2026/05/417791.html",
       "source": "qbitai",
-      "pub_date": "2026-05-13 05:40",
-      "summary": "Anthropic新研究实锤了"
+      "pub_date": "2026-05-14 09:51",
+      "summary": "国产GPU开启生态坐标之争"
     },
     {
-      "title": "AI步入“自我进化”时代，李彦宏首提AI时代度量衡“DAA”｜Create2026百度AI开发者⼤会速览",
-      "link": "https://www.qbitai.com/2026/05/416762.html",
+      "title": "Robotaxi第一股又涨疯了",
+      "link": "https://www.qbitai.com/2026/05/417754.html",
       "source": "qbitai",
-      "pub_date": "2026-05-13 04:43",
-      "summary": "李彦宏提出“AI时代进化论”"
+      "pub_date": "2026-05-14 08:41",
+      "summary": "卖车收入暴涨116%"
     }
   ]
 }
