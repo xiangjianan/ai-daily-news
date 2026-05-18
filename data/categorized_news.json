@@ -1,11 +1,25 @@
 {
   "headline": [
     {
-      "title": "容联云发布“数字员工”级 Al Agent 平台，重塑大模型联络中心",
-      "link": "https://www.qbitai.com/2026/05/418140.html",
+      "title": "龙虾之父月烧940万元的token！要不是入职OpenAI还真用不起",
+      "link": "https://www.qbitai.com/2026/05/418822.html",
       "source": "qbitai",
-      "pub_date": "2026-05-15 08:18",
-      "summary": "该平台以 AI Agent 为核心"
+      "pub_date": "2026-05-17 04:48",
+      "summary": "“但复杂需求还得Claude”"
+    },
+    {
+      "title": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
+      "link": "https://www.qbitai.com/2026/05/418814.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-17 03:42",
+      "summary": "先把SFT挖的坑填了！"
+    },
+    {
+      "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
+      "link": "https://www.qbitai.com/2026/05/418737.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-17 03:37",
+      "summary": "费用参考也很透明"
     },
     {
       "title": "ChatGPT 可以帮你理财了，但它也知道你的全部余额！用户：谢谢不用了",
@@ -20,20 +34,6 @@
       "source": "infoq",
       "pub_date": "2026-05-16 10:00",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/JrjkdccVRjyzNUAhl9Lm?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-      "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-05-16 15:33",
-      "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex."
-    },
-    {
-      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-      "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-05-15 16:00",
-      "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments."
     }
   ],
   "product": [
@@ -49,6 +49,13 @@
   "research": [],
   "industry": [
     {
+      "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
+      "link": "https://www.qbitai.com/2026/05/418836.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-17 08:55",
+      "summary": ""
+    },
+    {
       "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
       "link": "https://www.qbitai.com/2026/05/418620.html",
       "source": "qbitai",
@@ -57,6 +64,20 @@
     }
   ],
   "other": [
+    {
+      "title": "一只机器狗，把英伟达的算力王座拱翻了",
+      "link": "https://www.qbitai.com/2026/05/418969.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-17 15:10",
+      "summary": "人造劳动力，离普通家庭还有多远？"
+    },
+    {
+      "title": "世界大学生超级计算机竞赛首设“英才对接”环节，搭建“赛场—职场”人才供需桥梁",
+      "link": "https://www.qbitai.com/2026/05/418964.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-17 10:21",
+      "summary": "全球规模最大、参与人数最多的大学生超算赛事"
+    },
     {
       "title": "奥特曼投的芯片涨疯了，今年最大科技IPO",
       "link": "https://www.qbitai.com/2026/05/418594.html",
@@ -77,20 +98,6 @@
       "source": "qbitai",
       "pub_date": "2026-05-16 06:35",
       "summary": ""
-    },
-    {
-      "title": "中国500万医生的新AI：顶刊独家联手，卷的就是证据源",
-      "link": "https://www.qbitai.com/2026/05/418491.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-16 04:49",
-      "summary": "阿里健康发布「氢离子」"
-    },
-    {
-      "title": "15.68万乐道L80开卖，厨房搬进前备厢，李斌：纯电大五座SUV的“拐点”",
-      "link": "https://www.qbitai.com/2026/05/418150.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-16 04:27",
-      "summary": "共享蔚来超8800座充换电站"
     }
   ]
 }
