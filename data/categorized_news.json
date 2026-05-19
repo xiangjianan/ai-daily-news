@@ -1,27 +1,6 @@
 {
   "headline": [
     {
-      "title": "龙虾之父月烧940万元的token！要不是入职OpenAI还真用不起",
-      "link": "https://www.qbitai.com/2026/05/418822.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-17 04:48",
-      "summary": "“但复杂需求还得Claude”"
-    },
-    {
-      "title": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
-      "link": "https://www.qbitai.com/2026/05/418814.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-17 03:42",
-      "summary": "先把SFT挖的坑填了！"
-    },
-    {
-      "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
-      "link": "https://www.qbitai.com/2026/05/418737.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-17 03:37",
-      "summary": "费用参考也很透明"
-    },
-    {
       "title": "ChatGPT 可以帮你理财了，但它也知道你的全部余额！用户：谢谢不用了",
       "link": "https://www.infoq.cn/article/0iIMdRwey2MQ7BHLfFj8?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -34,9 +13,44 @@
       "source": "infoq",
       "pub_date": "2026-05-16 10:00",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/JrjkdccVRjyzNUAhl9Lm?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-05-18 19:27",
+      "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries d"
+    },
+    {
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-05-18 17:34",
+      "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late."
+    },
+    {
+      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+      "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-05-17 19:46",
+      "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy."
     }
   ],
   "product": [
+    {
+      "title": "openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕",
+      "link": "https://www.qbitai.com/2026/05/419515.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-18 10:26",
+      "summary": "底层范式变了"
+    },
+    {
+      "title": "上交x创智x瑞金联合发布CX-Mind：胸片诊断进入“可验证推理”时代",
+      "link": "https://www.qbitai.com/2026/05/419396.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-18 06:57",
+      "summary": "五项维度全部排名第一"
+    },
     {
       "title": "Kubernetes v1.36 发布：安全默认配置强化，AI 工作负载支持日趋成熟",
       "link": "https://www.infoq.cn/article/kNkrHGzRvA7r6pRtlGB5?utm_source=rss&utm_medium=article",
@@ -46,58 +60,66 @@
     }
   ],
   "funding": [],
-  "research": [],
-  "industry": [
+  "research": [
     {
-      "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
-      "link": "https://www.qbitai.com/2026/05/418836.html",
+      "title": "AI水论文封一年，署名连坐！arXiv最严新规来了，陶哲轩附议",
+      "link": "https://www.qbitai.com/2026/05/419528.html",
       "source": "qbitai",
-      "pub_date": "2026-05-17 08:55",
-      "summary": ""
+      "pub_date": "2026-05-18 12:18",
+      "summary": "生成论文远比消化容易"
     },
     {
-      "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
-      "link": "https://www.qbitai.com/2026/05/418620.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-16 13:44",
-      "summary": "5月19日至20日，带上你的需求。带上你的方案，我们在亦庄，不见不散。"
+      "title": "曝Kimi 后训练团队研究员离职，曾为K2.5贡献者；MiniMax最新招聘，兼职也拿期权；传蜜雪CEO隔空回复黄仁勋，“大佬同款”卖爆｜AI周报",
+      "link": "https://www.infoq.cn/article/dC22NUwr2kfuqEW7bb13?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-18 16:04",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/dC22NUwr2kfuqEW7bb13?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
+  "industry": [
+    {
+      "title": "Golden Question 征集令｜把你的 AI 落地之问带去 Snowflake Summit 26",
+      "link": "https://xie.infoq.cn/article/80a33c078f04f989f38ed1c94?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-18 16:39",
+      "summary": "提交你的问题，我们替你去问！<div align=\"right\"><a href=\"https://xie.infoq.cn/article/80a33c078f04f989f38ed1c94?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
     {
-      "title": "一只机器狗，把英伟达的算力王座拱翻了",
-      "link": "https://www.qbitai.com/2026/05/418969.html",
+      "title": "重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代",
+      "link": "https://www.qbitai.com/2026/05/419585.html",
       "source": "qbitai",
-      "pub_date": "2026-05-17 15:10",
-      "summary": "人造劳动力，离普通家庭还有多远？"
+      "pub_date": "2026-05-18 13:16",
+      "summary": "芯片与系统级双重创新"
     },
     {
-      "title": "世界大学生超级计算机竞赛首设“英才对接”环节，搭建“赛场—职场”人才供需桥梁",
-      "link": "https://www.qbitai.com/2026/05/418964.html",
+      "title": "华为“养”出半个具身智能创业圈",
+      "link": "https://www.qbitai.com/2026/05/419414.html",
       "source": "qbitai",
-      "pub_date": "2026-05-17 10:21",
-      "summary": "全球规模最大、参与人数最多的大学生超算赛事"
+      "pub_date": "2026-05-18 08:54",
+      "summary": "正在经历一次罕见的人才外溢。"
     },
     {
-      "title": "奥特曼投的芯片涨疯了，今年最大科技IPO",
-      "link": "https://www.qbitai.com/2026/05/418594.html",
+      "title": "8B模型做生物实验：实验步骤顺序不乱、剂量无幻觉｜ICLR 2026",
+      "link": "https://www.qbitai.com/2026/05/419386.html",
       "source": "qbitai",
-      "pub_date": "2026-05-16 06:52",
-      "summary": "奥特曼的20亿持股版图也曝光了"
+      "pub_date": "2026-05-18 06:52",
+      "summary": "超越GPT-4o"
     },
     {
-      "title": "虾马之后又火一个！OpenHuman用20分钟了解你的一切，存成卡帕西式知识库",
-      "link": "https://www.qbitai.com/2026/05/418571.html",
+      "title": "信通院&清华提出FedRE：用「纠缠」搞定联邦学习三难困境 | CVPR 26",
+      "link": "https://www.qbitai.com/2026/05/419373.html",
       "source": "qbitai",
-      "pub_date": "2026-05-16 06:42",
-      "summary": "懂我的还得是Human"
+      "pub_date": "2026-05-18 06:44",
+      "summary": "隐私和性能我全都要"
     },
     {
-      "title": "别让模型烧Token了！GitHub 20k星神作：把全网变成命令行",
-      "link": "https://www.qbitai.com/2026/05/418518.html",
+      "title": "黄仁勋北京必吃榜我们都尝了！后海酒吧老板：他答应以后每年来一次",
+      "link": "https://www.qbitai.com/2026/05/419278.html",
       "source": "qbitai",
-      "pub_date": "2026-05-16 06:35",
-      "summary": ""
+      "pub_date": "2026-05-18 06:03",
+      "summary": "老黄严选北京游"
     }
   ]
 }
