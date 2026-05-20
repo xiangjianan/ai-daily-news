@@ -1,39 +1,39 @@
 {
   "headline": [
     {
-      "title": "ChatGPT 可以帮你理财了，但它也知道你的全部余额！用户：谢谢不用了",
-      "link": "https://www.infoq.cn/article/0iIMdRwey2MQ7BHLfFj8?utm_source=rss&utm_medium=article",
+      "title": "Anthropic首次揭秘下一代Claude怎么造！用户吐槽直接喂模型，连AI“做梦”都被训练",
+      "link": "https://www.infoq.cn/article/8AFM65dK2wFMypqoz6ok?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-05-16 17:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/0iIMdRwey2MQ7BHLfFj8?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-05-19 13:21",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/8AFM65dK2wFMypqoz6ok?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "记忆感知的大模型 KVCache 优化｜AICon上海",
-      "link": "https://www.infoq.cn/article/JrjkdccVRjyzNUAhl9Lm?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-16 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/JrjkdccVRjyzNUAhl9Lm?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-      "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+      "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-05-18 19:27",
-      "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries d"
+      "pub_date": "2026-05-19 17:51",
+      "summary": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building so"
     },
     {
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
+      "link": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-05-18 17:34",
-      "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late."
+      "pub_date": "2026-05-19 17:45",
+      "summary": "The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot."
     },
     {
-      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-      "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026",
+      "link": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-05-17 19:46",
-      "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy."
+      "pub_date": "2026-05-19 17:45",
+      "summary": "At the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity."
+    },
+    {
+      "title": "OpenAI is making it easier to check if an image was made by their models",
+      "link": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-05-19 17:45",
+      "summary": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products."
     }
   ],
   "product": [
@@ -45,18 +45,18 @@
       "summary": "底层范式变了"
     },
     {
-      "title": "上交x创智x瑞金联合发布CX-Mind：胸片诊断进入“可验证推理”时代",
-      "link": "https://www.qbitai.com/2026/05/419396.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-18 06:57",
-      "summary": "五项维度全部排名第一"
+      "title": "05·29 腾讯云「数据库+AI」产品发布会重磅启幕",
+      "link": "https://www.infoq.cn/article/FAhJ08IG1ffzxw1OYYza?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-19 14:50",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/FAhJ08IG1ffzxw1OYYza?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Kubernetes v1.36 发布：安全默认配置强化，AI 工作负载支持日趋成熟",
-      "link": "https://www.infoq.cn/article/kNkrHGzRvA7r6pRtlGB5?utm_source=rss&utm_medium=article",
+      "title": "Airbnb 采用基于上下文的身份识别模型，支持隐私优先的社交功能",
+      "link": "https://www.infoq.cn/article/IfmltpVtyyg7Lv9ruzzo?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-05-15 20:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/kNkrHGzRvA7r6pRtlGB5?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-05-19 13:46",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/IfmltpVtyyg7Lv9ruzzo?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
@@ -87,39 +87,39 @@
   ],
   "other": [
     {
-      "title": "重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代",
-      "link": "https://www.qbitai.com/2026/05/419585.html",
+      "title": "抢先李飞飞！世界模型能多人联机玩FPS游戏了",
+      "link": "https://www.qbitai.com/2026/05/420083.html",
       "source": "qbitai",
-      "pub_date": "2026-05-18 13:16",
-      "summary": "芯片与系统级双重创新"
+      "pub_date": "2026-05-19 07:05",
+      "summary": "所谓的真实……真的重要吗？"
     },
     {
-      "title": "华为“养”出半个具身智能创业圈",
-      "link": "https://www.qbitai.com/2026/05/419414.html",
+      "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
+      "link": "https://www.qbitai.com/2026/05/420084.html",
       "source": "qbitai",
-      "pub_date": "2026-05-18 08:54",
-      "summary": "正在经历一次罕见的人才外溢。"
+      "pub_date": "2026-05-19 07:03",
+      "summary": "发布MT Lambda"
     },
     {
-      "title": "8B模型做生物实验：实验步骤顺序不乱、剂量无幻觉｜ICLR 2026",
-      "link": "https://www.qbitai.com/2026/05/419386.html",
+      "title": "Cursor新模型，你怎么还在套Kimi？马斯克你怎么还吆喝上了？？",
+      "link": "https://www.qbitai.com/2026/05/419990.html",
       "source": "qbitai",
-      "pub_date": "2026-05-18 06:52",
-      "summary": "超越GPT-4o"
+      "pub_date": "2026-05-19 06:07",
+      "summary": "1/10成本、Opus 4.7级表现"
     },
     {
-      "title": "信通院&清华提出FedRE：用「纠缠」搞定联邦学习三难困境 | CVPR 26",
-      "link": "https://www.qbitai.com/2026/05/419373.html",
+      "title": "L2++「五冠王」文远知行：自动驾驶版的张雪机车，专治各种不服",
+      "link": "https://www.qbitai.com/2026/05/419913.html",
       "source": "qbitai",
-      "pub_date": "2026-05-18 06:44",
-      "summary": "隐私和性能我全都要"
+      "pub_date": "2026-05-19 05:11",
+      "summary": "赛车有张雪，智驾有文远"
     },
     {
-      "title": "黄仁勋北京必吃榜我们都尝了！后海酒吧老板：他答应以后每年来一次",
-      "link": "https://www.qbitai.com/2026/05/419278.html",
+      "title": "5.20 明天见！拿好这份参会指南｜AIGC2026峰会",
+      "link": "https://www.qbitai.com/2026/05/419901.html",
       "source": "qbitai",
-      "pub_date": "2026-05-18 06:03",
-      "summary": "老黄严选北京游"
+      "pub_date": "2026-05-19 03:25",
+      "summary": "提前查好路况，定好闹钟，明天线下见！"
     }
   ]
 }
