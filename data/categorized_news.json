@@ -1,82 +1,82 @@
 {
   "headline": [
     {
-      "title": "Anthropic首次揭秘下一代Claude怎么造！用户吐槽直接喂模型，连AI“做梦”都被训练",
-      "link": "https://www.infoq.cn/article/8AFM65dK2wFMypqoz6ok?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-19 13:21",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/8AFM65dK2wFMypqoz6ok?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "智象未来超两千亿参数图像大模型HiDream-O1-Image-Pro发布，融资持续提速",
+      "link": "https://www.qbitai.com/2026/05/420753.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-20 14:09",
+      "summary": "向世界模型进发。"
     },
     {
-      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
-      "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+      "title": "Anthropic will pay xAI $1.25B per month for compute",
+      "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-05-19 17:51",
-      "summary": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building so"
+      "pub_date": "2026-05-20 21:29",
+      "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth."
     },
     {
-      "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
-      "link": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/",
+      "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+      "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-05-19 17:45",
-      "summary": "The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot."
+      "pub_date": "2026-05-20 20:28",
+      "summary": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up."
     },
     {
-      "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026",
-      "link": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
+      "title": "OpenAI barrels toward IPO that may happen in September",
+      "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-05-19 17:45",
-      "summary": "At the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity."
+      "pub_date": "2026-05-20 17:24",
+      "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO."
     },
     {
-      "title": "OpenAI is making it easier to check if an image was made by their models",
-      "link": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-05-19 17:45",
-      "summary": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products."
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "source": "openai_blog",
+      "pub_date": "2026-05-20 00:00",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics."
     }
   ],
   "product": [
     {
-      "title": "openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕",
-      "link": "https://www.qbitai.com/2026/05/419515.html",
+      "title": "海信激光电视探索X1 Pro发布：中国家庭，正式进入客厅影院时代",
+      "link": "https://www.qbitai.com/2026/05/420723.html",
       "source": "qbitai",
-      "pub_date": "2026-05-18 10:26",
-      "summary": "底层范式变了"
-    },
-    {
-      "title": "05·29 腾讯云「数据库+AI」产品发布会重磅启幕",
-      "link": "https://www.infoq.cn/article/FAhJ08IG1ffzxw1OYYza?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-19 14:50",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/FAhJ08IG1ffzxw1OYYza?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Airbnb 采用基于上下文的身份识别模型，支持隐私优先的社交功能",
-      "link": "https://www.infoq.cn/article/IfmltpVtyyg7Lv9ruzzo?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-19 13:46",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/IfmltpVtyyg7Lv9ruzzo?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-05-20 07:26",
+      "summary": "光路传播效率提升20%"
     }
   ],
-  "funding": [],
-  "research": [
+  "funding": [
     {
-      "title": "AI水论文封一年，署名连坐！arXiv最严新规来了，陶哲轩附议",
-      "link": "https://www.qbitai.com/2026/05/419528.html",
+      "title": "趋境科技完成数亿元Pre-A轮融资，高品质AI Token生产基础设施",
+      "link": "https://www.qbitai.com/2026/05/420651.html",
       "source": "qbitai",
-      "pub_date": "2026-05-18 12:18",
-      "summary": "生成论文远比消化容易"
-    },
-    {
-      "title": "曝Kimi 后训练团队研究员离职，曾为K2.5贡献者；MiniMax最新招聘，兼职也拿期权；传蜜雪CEO隔空回复黄仁勋，“大佬同款”卖爆｜AI周报",
-      "link": "https://www.infoq.cn/article/dC22NUwr2kfuqEW7bb13?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-18 16:04",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/dC22NUwr2kfuqEW7bb13?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-05-20 05:29",
+      "summary": "ATaaS 日均调用量近万亿"
     }
   ],
+  "research": [],
   "industry": [
+    {
+      "title": "2026中国AIGC最值得关注的企业&产品图鉴来了！谁在造浪，谁在落地？",
+      "link": "https://www.qbitai.com/2026/05/420656.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-20 05:59",
+      "summary": "看谁真正会游泳"
+    },
+    {
+      "title": "10 天 3000 元，一人造出全球 AI 爆款！好莱坞导演抢人、游戏版引爆期待，合作细节首次披露",
+      "link": "https://www.infoq.cn/article/srgOzGfGgMQiEdum2GhZ?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-20 18:17",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/srgOzGfGgMQiEdum2GhZ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Snowflake Intelligence 合作伙伴生态：把 AI 能力带入千行百业 ｜技术趋势",
+      "link": "https://www.infoq.cn/article/PYoRlEUWJZJvkCCXTF1D?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-20 16:48",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/PYoRlEUWJZJvkCCXTF1D?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
     {
       "title": "Golden Question 征集令｜把你的 AI 落地之问带去 Snowflake Summit 26",
       "link": "https://xie.infoq.cn/article/80a33c078f04f989f38ed1c94?utm_source=rss&utm_medium=article",
@@ -87,39 +87,39 @@
   ],
   "other": [
     {
-      "title": "抢先李飞飞！世界模型能多人联机玩FPS游戏了",
-      "link": "https://www.qbitai.com/2026/05/420083.html",
+      "title": "太初元碁洪源：异构计算能力将成为未来AI算力基础设施的重要方向｜AIGC2026",
+      "link": "https://www.qbitai.com/2026/05/420743.html",
       "source": "qbitai",
-      "pub_date": "2026-05-19 07:05",
-      "summary": "所谓的真实……真的重要吗？"
+      "pub_date": "2026-05-20 13:08",
+      "summary": "AI产业正在进入新一轮高强度算力周期"
     },
     {
-      "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
-      "link": "https://www.qbitai.com/2026/05/420084.html",
+      "title": "VC、品牌顾问、编剧，正在批量把自己做成AI",
+      "link": "https://www.qbitai.com/2026/05/420703.html",
       "source": "qbitai",
-      "pub_date": "2026-05-19 07:03",
-      "summary": "发布MT Lambda"
+      "pub_date": "2026-05-20 10:15",
+      "summary": "让你的经验24小时自动接单"
     },
     {
-      "title": "Cursor新模型，你怎么还在套Kimi？马斯克你怎么还吆喝上了？？",
-      "link": "https://www.qbitai.com/2026/05/419990.html",
+      "title": "AIDC建设正从“通用标准”走向“适用高效”",
+      "link": "https://www.qbitai.com/2026/05/420698.html",
       "source": "qbitai",
-      "pub_date": "2026-05-19 06:07",
-      "summary": "1/10成本、Opus 4.7级表现"
+      "pub_date": "2026-05-20 07:35",
+      "summary": "商汤大装置林海谈AIDC"
     },
     {
-      "title": "L2++「五冠王」文远知行：自动驾驶版的张雪机车，专治各种不服",
-      "link": "https://www.qbitai.com/2026/05/419913.html",
+      "title": "破壁行动！把大厂级“研发外挂”发给每一个创新者，智会心研PLUS版免费公测",
+      "link": "https://www.qbitai.com/2026/05/420681.html",
       "source": "qbitai",
-      "pub_date": "2026-05-19 05:11",
-      "summary": "赛车有张雪，智驾有文远"
+      "pub_date": "2026-05-20 07:27",
+      "summary": "智会心研 PLUS 开启公测，免费开放高阶研发 AI 能力，完善资料、邀友可领会员，助力大众低成本搞技术创新。"
     },
     {
-      "title": "5.20 明天见！拿好这份参会指南｜AIGC2026峰会",
-      "link": "https://www.qbitai.com/2026/05/419901.html",
+      "title": "苏姿丰上海开讲：AI正在重新定义计算的每一层",
+      "link": "https://www.qbitai.com/2026/05/420531.html",
       "source": "qbitai",
-      "pub_date": "2026-05-19 03:25",
-      "summary": "提前查好路况，定好闹钟，明天线下见！"
+      "pub_date": "2026-05-20 00:48",
+      "summary": "AMD持续加码中国开发者生态建设"
     }
   ]
 }
