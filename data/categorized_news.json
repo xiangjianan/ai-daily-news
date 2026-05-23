@@ -8,11 +8,18 @@
       "summary": "125页“令人恐惧”的推演"
     },
     {
-      "title": "OpenAI开源Symphony：面向自主编码智能体编排的SPEC规范文档",
-      "link": "https://www.infoq.cn/article/kmcvx8qNTQRYpPHVDq4B?utm_source=rss&utm_medium=article",
+      "title": "虚拟上下文窗口技术实现10倍扩容，联想天禧AI 4.0破解大模型长程推理难题",
+      "link": "https://www.infoq.cn/article/wCwTSfI13xoY4xKQg0Oh?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-05-21 14:39",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/kmcvx8qNTQRYpPHVDq4B?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-05-22 17:32",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/wCwTSfI13xoY4xKQg0Oh?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "source": "openai_blog",
+      "pub_date": "2026-05-22 00:00",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment."
     },
     {
       "title": "AdventHealth advances whole-person care with OpenAI",
@@ -20,13 +27,6 @@
       "source": "openai_blog",
       "pub_date": "2026-05-21 12:00",
       "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care."
-    },
-    {
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "source": "openai_blog",
-      "pub_date": "2026-05-20 00:00",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes."
     },
     {
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
@@ -37,6 +37,13 @@
     }
   ],
   "product": [
+    {
+      "title": "39万！雷军发布小米最贵SUV",
+      "link": "https://www.qbitai.com/2026/05/422088.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-22 00:50",
+      "summary": "特斯拉前厂长宋钢加盟后首秀"
+    },
     {
       "title": "腾讯混元开源全新翻译模型Hy-MT2 ，上线小程序「腾讯Hy翻译」",
       "link": "https://www.qbitai.com/2026/05/422068.html",
@@ -50,76 +57,61 @@
       "source": "infoq",
       "pub_date": "2026-05-21 16:06",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/TbgvhdcciqULlEEmFBbU?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "词元时代，万物智能 | 摩尔线程2026产品发布会：打造全场景AI算力基石",
-      "link": "https://www.infoq.cn/article/R8aT75QB1XbqoF2Wojq8?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-21 15:37",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/R8aT75QB1XbqoF2Wojq8?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "腾讯混元世界模型的研发布局与思考｜AICon上海",
-      "link": "https://www.infoq.cn/article/4j0EEB3WoPsHJXUHubVR?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-21 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/4j0EEB3WoPsHJXUHubVR?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [],
-  "research": [
+  "funding": [
     {
-      "title": "AI首次实现中国风光发电普查，北大、阿里达摩院研究登上《自然》",
-      "link": "https://www.qbitai.com/2026/05/422002.html",
+      "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
+      "link": "https://www.qbitai.com/2026/05/422624.html",
       "source": "qbitai",
-      "pub_date": "2026-05-21 09:14",
-      "summary": "加快实现‘双碳’目标。"
-    }
-  ],
-  "industry": [
+      "pub_date": "2026-05-22 07:16",
+      "summary": "DeepSeek Code is Coming"
+    },
     {
-      "title": "10 天 3000 元，一人造出全球 AI 爆款！好莱坞导演抢人、游戏版引爆期待，合作细节首次披露",
-      "link": "https://www.infoq.cn/article/srgOzGfGgMQiEdum2GhZ?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-20 18:17",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/srgOzGfGgMQiEdum2GhZ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
+      "link": "https://www.qbitai.com/2026/05/422615.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-22 06:38",
+      "summary": "一个AI统一入口，搞定所有"
     }
   ],
+  "research": [],
+  "industry": [],
   "other": [
     {
-      "title": "风行在线CEO易正朝：先全员Coding，再All in众创丨AIGC2026",
-      "link": "https://www.qbitai.com/2026/05/422001.html",
+      "title": "龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾",
+      "link": "https://www.qbitai.com/2026/05/422811.html",
       "source": "qbitai",
-      "pub_date": "2026-05-21 09:27",
-      "summary": "AI会放大“自嗨”，解药只有交付结果"
+      "pub_date": "2026-05-22 14:42",
+      "summary": "虾的下半场才刚开始"
     },
     {
-      "title": "Artificial Analysis放榜：千问3.7问鼎国产模型冠军，全球前五",
-      "link": "https://www.qbitai.com/2026/05/422009.html",
+      "title": "李飞飞再出手，空间智能的ImageNet来了",
+      "link": "https://www.qbitai.com/2026/05/422738.html",
       "source": "qbitai",
-      "pub_date": "2026-05-21 09:16",
-      "summary": "Qwen3.7-Max即将上线阿里云百炼对外提供API服务"
+      "pub_date": "2026-05-22 08:25",
+      "summary": "一个专门用来评测具身空间智能的新基准"
     },
     {
-      "title": "上海交大AI教授亲授：半天带你拆解Agent底层逻辑",
-      "link": "https://www.qbitai.com/2026/05/421697.html",
+      "title": "顶流里最快！智谱，你是在「喷」代码吧",
+      "link": "https://www.qbitai.com/2026/05/422511.html",
       "source": "qbitai",
-      "pub_date": "2026-05-21 06:52",
-      "summary": "周日来北京线下揭秘"
+      "pub_date": "2026-05-22 03:05",
+      "summary": "400 tokens/s"
     },
     {
-      "title": "得场景者得AI天下，出行赛道跑出了一家值得关注的数据玩家",
-      "link": "https://www.qbitai.com/2026/05/421694.html",
+      "title": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法",
+      "link": "https://www.qbitai.com/2026/05/422455.html",
       "source": "qbitai",
-      "pub_date": "2026-05-21 06:46",
-      "summary": "全场景数据、全链条服务助力AI大模型高效迭代"
+      "pub_date": "2026-05-22 02:57",
+      "summary": "提效数十倍，Token消耗直降70%"
     },
     {
-      "title": "520当天400万AI人，都在量子位听这近20场演讲&对谈｜第四届中国AIGC产业峰会",
-      "link": "https://www.qbitai.com/2026/05/421691.html",
+      "title": "联想集团Q4营收利润双创新高，兑现历史最佳财年",
+      "link": "https://www.qbitai.com/2026/05/422127.html",
       "source": "qbitai",
-      "pub_date": "2026-05-21 05:37",
-      "summary": "核心观点都在这了~"
+      "pub_date": "2026-05-22 00:46",
+      "summary": "调整后净利润同比增长42.1%"
     }
   ]
 }
