@@ -1,11 +1,18 @@
 {
   "headline": [
     {
-      "title": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
-      "link": "https://www.qbitai.com/2026/05/422032.html",
+      "title": "OpenAI大神教你如何榨干Codex",
+      "link": "https://www.qbitai.com/2026/05/423179.html",
       "source": "qbitai",
-      "pub_date": "2026-05-21 09:36",
-      "summary": "125页“令人恐惧”的推演"
+      "pub_date": "2026-05-23 09:50",
+      "summary": "13k星开源库作者解锁Codex-maxxing！"
+    },
+    {
+      "title": "OpenAI 详解规模化低延迟语音 AI 的 WebRTC 架构",
+      "link": "https://www.infoq.cn/article/HzTpYj4SIqzFOHybIO2q?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-23 14:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/HzTpYj4SIqzFOHybIO2q?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "虚拟上下文窗口技术实现10倍扩容，联想天禧AI 4.0破解大模型长程推理难题",
@@ -27,39 +34,17 @@
       "source": "openai_blog",
       "pub_date": "2026-05-21 12:00",
       "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care."
-    },
-    {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "source": "openai_blog",
-      "pub_date": "2026-05-20 00:00",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics."
     }
   ],
-  "product": [
-    {
-      "title": "39万！雷军发布小米最贵SUV",
-      "link": "https://www.qbitai.com/2026/05/422088.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-22 00:50",
-      "summary": "特斯拉前厂长宋钢加盟后首秀"
-    },
-    {
-      "title": "腾讯混元开源全新翻译模型Hy-MT2 ，上线小程序「腾讯Hy翻译」",
-      "link": "https://www.qbitai.com/2026/05/422068.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-21 09:48",
-      "summary": "最大提升体现在指令遵循能力上"
-    },
-    {
-      "title": "Cloudflare与Stripe推出新协议，让AI智能体创建账号、购买域名和进行生产部署",
-      "link": "https://www.infoq.cn/article/TbgvhdcciqULlEEmFBbU?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-21 16:06",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/TbgvhdcciqULlEEmFBbU?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "product": [],
   "funding": [
+    {
+      "title": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资",
+      "link": "https://www.qbitai.com/2026/05/423159.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-23 02:48",
+      "summary": "不造人形机器人，死磕餐饮后厨"
+    },
     {
       "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
       "link": "https://www.qbitai.com/2026/05/422624.html",
@@ -78,6 +63,20 @@
   "research": [],
   "industry": [],
   "other": [
+    {
+      "title": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
+      "link": "https://www.qbitai.com/2026/05/423202.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-23 10:09",
+      "summary": "“AI时代经验不再是护城河”"
+    },
+    {
+      "title": "DeepSeek V4价格打骨折，宁王京东网易抢着入场，梁文锋：目标是AGI",
+      "link": "https://www.qbitai.com/2026/05/423162.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-23 09:46",
+      "summary": "梁文锋承诺坚持开源路线"
+    },
     {
       "title": "龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾",
       "link": "https://www.qbitai.com/2026/05/422811.html",
@@ -98,20 +97,6 @@
       "source": "qbitai",
       "pub_date": "2026-05-22 03:05",
       "summary": "400 tokens/s"
-    },
-    {
-      "title": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法",
-      "link": "https://www.qbitai.com/2026/05/422455.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-22 02:57",
-      "summary": "提效数十倍，Token消耗直降70%"
-    },
-    {
-      "title": "联想集团Q4营收利润双创新高，兑现历史最佳财年",
-      "link": "https://www.qbitai.com/2026/05/422127.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-22 00:46",
-      "summary": "调整后净利润同比增长42.1%"
     }
   ]
 }
