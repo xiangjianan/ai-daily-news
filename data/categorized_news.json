@@ -39,30 +39,44 @@
   "product": [],
   "funding": [
     {
+      "title": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
+      "link": "https://www.qbitai.com/2026/05/423382.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-24 06:14",
+      "summary": "技术创新只是起点，产业整合速度才是AI落地的真正竞争力"
+    },
+    {
       "title": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资",
       "link": "https://www.qbitai.com/2026/05/423159.html",
       "source": "qbitai",
       "pub_date": "2026-05-23 02:48",
       "summary": "不造人形机器人，死磕餐饮后厨"
-    },
-    {
-      "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
-      "link": "https://www.qbitai.com/2026/05/422624.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-22 07:16",
-      "summary": "DeepSeek Code is Coming"
-    },
-    {
-      "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
-      "link": "https://www.qbitai.com/2026/05/422615.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-22 06:38",
-      "summary": "一个AI统一入口，搞定所有"
     }
   ],
   "research": [],
   "industry": [],
   "other": [
+    {
+      "title": "卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛",
+      "link": "https://www.qbitai.com/2026/05/423421.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-24 10:50",
+      "summary": "大厂集体下场后，创业公司还有哪些机会？"
+    },
+    {
+      "title": "谷歌CEO承认Coding落后了",
+      "link": "https://www.qbitai.com/2026/05/423390.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-24 06:20",
+      "summary": "搜索25年来最大改版，但谷歌还不敢一脚切到AI"
+    },
+    {
+      "title": "什么！你说胡彦斌也在苦修Vibe Coding",
+      "link": "https://www.qbitai.com/2026/05/423213.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-24 04:53",
+      "summary": "Vibe Coding还是太权威了vibe"
+    },
     {
       "title": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
       "link": "https://www.qbitai.com/2026/05/423202.html",
@@ -76,27 +90,6 @@
       "source": "qbitai",
       "pub_date": "2026-05-23 09:46",
       "summary": "梁文锋承诺坚持开源路线"
-    },
-    {
-      "title": "龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾",
-      "link": "https://www.qbitai.com/2026/05/422811.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-22 14:42",
-      "summary": "虾的下半场才刚开始"
-    },
-    {
-      "title": "李飞飞再出手，空间智能的ImageNet来了",
-      "link": "https://www.qbitai.com/2026/05/422738.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-22 08:25",
-      "summary": "一个专门用来评测具身空间智能的新基准"
-    },
-    {
-      "title": "顶流里最快！智谱，你是在「喷」代码吧",
-      "link": "https://www.qbitai.com/2026/05/422511.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-22 03:05",
-      "summary": "400 tokens/s"
     }
   ]
 }
