@@ -1,25 +1,18 @@
 {
   "headline": [
     {
-      "title": "图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI下一程",
-      "link": "https://www.qbitai.com/2026/05/424551.html",
+      "title": "卡帕西Anthropic最新头衔：技术员工（MTS）",
+      "link": "https://www.qbitai.com/2026/05/425304.html",
       "source": "qbitai",
-      "pub_date": "2026-05-25 04:38",
-      "summary": "报名通道已开，手慢无"
+      "pub_date": "2026-05-26 07:42",
+      "summary": "MTS（技术员工） @Anthropic"
     },
     {
-      "title": "Claude 通过率不到4%，SaaS-Bench撕碎了Computer-Use的「全自动办公」幻想",
-      "link": "https://www.qbitai.com/2026/05/424277.html",
+      "title": "编程权威榜单：千问3.7仅次于Claude，阿里全球第二",
+      "link": "https://www.qbitai.com/2026/05/425150.html",
       "source": "qbitai",
-      "pub_date": "2026-05-25 03:29",
-      "summary": "UniPat AI 发布 SaaS-Bench 评测，Claude 等主流大模型在真实办公任务中完全通过率最高仅 3.8%，AI 全自动办公远未落地。"
-    },
-    {
-      "title": "OpenAI 详解规模化低延迟语音 AI 的 WebRTC 架构",
-      "link": "https://www.infoq.cn/article/HzTpYj4SIqzFOHybIO2q?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-23 14:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/HzTpYj4SIqzFOHybIO2q?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-05-26 05:32",
+      "summary": "跻身全球编程模型第一梯队"
     },
     {
       "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
@@ -34,41 +27,48 @@
       "source": "openai_blog",
       "pub_date": "2026-05-22 00:00",
       "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment."
+    },
+    {
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "link": "https://openai.com/index/adventhealth",
+      "source": "openai_blog",
+      "pub_date": "2026-05-21 12:00",
+      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care."
     }
   ],
-  "product": [],
+  "product": [
+    {
+      "title": "华为发布AI DC数据基础设施全栈方案，加速行业智能化跃升",
+      "link": "https://www.qbitai.com/2026/05/425296.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-26 06:52",
+      "summary": ""
+    },
+    {
+      "title": "荣耀600系列手机发布：4K闪光微单Live，国补价2294.15元起",
+      "link": "https://www.qbitai.com/2026/05/425155.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-26 05:50",
+      "summary": "独特“幸运星”ID设计，打造数字系列史上最精致外观"
+    },
+    {
+      "title": "从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
+      "link": "https://www.infoq.cn/article/YHD4cguvebWJled2FK96?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-26 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/YHD4cguvebWJled2FK96?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "funding": [
     {
-      "title": "打造创投生态的超级枢纽， 2026投资界SuperLink大会定档6月",
-      "link": "https://www.qbitai.com/2026/05/424605.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-25 07:29",
-      "summary": "6月10-11日盛大启幕"
-    },
-    {
-      "title": "华为具身大脑一号位创业，用认知科学造世界模型，获亿元级融资",
-      "link": "https://www.qbitai.com/2026/05/423455.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-25 02:28",
-      "summary": "用“人类心智”重做具身智能"
-    },
-    {
-      "title": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
-      "link": "https://www.qbitai.com/2026/05/423441.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-25 01:51",
-      "summary": "这些AI关键词正在被重新定义"
+      "title": "蚂蚁重磅领投，光轮智能完成新一轮融资！物理AI的价值中心，已经变了",
+      "link": "https://www.infoq.cn/article/bdsq4OUrTNJdvCLaxo0u?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-26 18:01",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/bdsq4OUrTNJdvCLaxo0u?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "research": [
-    {
-      "title": "蚂蚁灵波LingBot-VA论文被机器人顶会RSS 2026接收，让机器人边推演、边行动",
-      "link": "https://www.qbitai.com/2026/05/424581.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-25 06:26",
-      "summary": "获得了国际机器人研究共同体的高度认可"
-    }
-  ],
+  "research": [],
   "industry": [
     {
       "title": "从 AI 试点到 AI 运营：零售与制造业领导者如何让 Agentic AI 真正落地 ｜ 技术趋势",
@@ -80,39 +80,39 @@
   ],
   "other": [
     {
+      "title": "刚刚，国产AI自己造了AI，全球首例！",
+      "link": "https://www.qbitai.com/2026/05/425511.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-26 08:46",
+      "summary": "训练速度比英伟达Megatron快10%"
+    },
+    {
+      "title": "留给人类数学家的悬赏不多了！谷歌DeepMind一口气解决9道埃尔德什问题",
+      "link": "https://www.qbitai.com/2026/05/425455.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-26 08:20",
+      "summary": "解决卡了人类56年的数学难题"
+    },
+    {
+      "title": "“卡车界特斯拉”，刚刚又融了2亿美元",
+      "link": "https://www.qbitai.com/2026/05/425058.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-26 05:37",
+      "summary": "90后天才+70后老将打造"
+    },
+    {
+      "title": "刚刚，国产Agent模型闯入全球第一梯队！限时免费",
+      "link": "https://www.qbitai.com/2026/05/424851.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-26 04:13",
+      "summary": "深度适配OpenClaw、Claude Code、Hermes等"
+    },
+    {
       "title": "京东JoyInside戴文军：AI的终极形态不是聊天，是融入你家每一件物品丨AIGC2026",
       "link": "https://www.qbitai.com/2026/05/424794.html",
       "source": "qbitai",
       "pub_date": "2026-05-25 09:37",
       "summary": "硬件不该让人适应，它应该主动适应你"
-    },
-    {
-      "title": "无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务",
-      "link": "https://www.qbitai.com/2026/05/424610.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-25 08:48",
-      "summary": "特斯拉学会“躲交警”了"
-    },
-    {
-      "title": "“VLA和世界模型都不是终局，会有物理世界独有的模型” | 蚂蚁灵波沈宇军@AIGC2026",
-      "link": "https://www.qbitai.com/2026/05/424584.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-25 06:56",
-      "summary": "“要做机器人时代的安卓系统”"
-    },
-    {
-      "title": "DeepSeek V4还能更省！新工具缓存命中率高达99.82%，2折稳定到手",
-      "link": "https://www.qbitai.com/2026/05/424552.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-25 04:40",
-      "summary": "原本4亿+token、61美元的账单，直降至12美元"
-    },
-    {
-      "title": "Bintrail：利用索引二进制日志实现 MySQL 时间旅行查询",
-      "link": "https://www.infoq.cn/article/78T9QsuOzWscUxadORto?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-25 17:41",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/78T9QsuOzWscUxadORto?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
