@@ -1,6 +1,20 @@
 {
   "headline": [
     {
+      "title": "OpenAI挖来了个F1级别车手搞公关",
+      "link": "https://www.qbitai.com/2026/05/425857.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-27 06:55",
+      "summary": "曾在Salesforce干了13年营销"
+    },
+    {
+      "title": "Codex自我蒸馏玩法火了！OpenAI员工亲授：复制粘贴就能让AI消灭重复劳动",
+      "link": "https://www.qbitai.com/2026/05/425810.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-27 05:12",
+      "summary": "只需一段提示词"
+    },
+    {
       "title": "卡帕西Anthropic最新头衔：技术员工（MTS）",
       "link": "https://www.qbitai.com/2026/05/425304.html",
       "source": "qbitai",
@@ -8,49 +22,21 @@
       "summary": "MTS（技术员工） @Anthropic"
     },
     {
-      "title": "编程权威榜单：千问3.7仅次于Claude，阿里全球第二",
-      "link": "https://www.qbitai.com/2026/05/425150.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-26 05:32",
-      "summary": "跻身全球编程模型第一梯队"
+      "title": "让具身模型学会“先想后做”！星源智推出400万问答对大规模数据集，训练框架决策性能碾压GPT-5",
+      "link": "https://www.infoq.cn/article/zleRjMWUeNF4C9zTeX8p?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-27 18:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/zleRjMWUeNF4C9zTeX8p?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "link": "https://openai.com/index/cisco",
       "source": "openai_blog",
-      "pub_date": "2026-05-25 00:00",
-      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency."
-    },
-    {
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "source": "openai_blog",
-      "pub_date": "2026-05-22 00:00",
-      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment."
-    },
-    {
-      "title": "AdventHealth advances whole-person care with OpenAI",
-      "link": "https://openai.com/index/adventhealth",
-      "source": "openai_blog",
-      "pub_date": "2026-05-21 12:00",
-      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care."
+      "pub_date": "2026-05-27 11:00",
+      "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation."
     }
   ],
   "product": [
-    {
-      "title": "华为发布AI DC数据基础设施全栈方案，加速行业智能化跃升",
-      "link": "https://www.qbitai.com/2026/05/425296.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-26 06:52",
-      "summary": ""
-    },
-    {
-      "title": "荣耀600系列手机发布：4K闪光微单Live，国补价2294.15元起",
-      "link": "https://www.qbitai.com/2026/05/425155.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-26 05:50",
-      "summary": "独特“幸运星”ID设计，打造数字系列史上最精致外观"
-    },
     {
       "title": "从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
       "link": "https://www.infoq.cn/article/YHD4cguvebWJled2FK96?utm_source=rss&utm_medium=article",
@@ -68,51 +54,51 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/bdsq4OUrTNJdvCLaxo0u?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "research": [],
-  "industry": [
+  "research": [
     {
-      "title": "从 AI 试点到 AI 运营：零售与制造业领导者如何让 Agentic AI 真正落地 ｜ 技术趋势",
-      "link": "https://www.infoq.cn/article/mcKvzoaxMjgAvjrxobyC?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-25 14:53",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/mcKvzoaxMjgAvjrxobyC?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时",
+      "link": "https://www.qbitai.com/2026/05/425523.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-27 01:14",
+      "summary": "“1%是我写的，99%是Agent写的。”"
     }
   ],
+  "industry": [],
   "other": [
+    {
+      "title": "1400亿Agent入场，“流量”这条护城河要塌了",
+      "link": "https://www.qbitai.com/2026/05/425881.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-27 09:31",
+      "summary": "看到大厂押注Agent生态的新方向"
+    },
+    {
+      "title": "5秒完成3D场景编辑，北大&港中文&上海AI Lab搞出VGGT-Edit，120倍加速太炸了",
+      "link": "https://www.qbitai.com/2026/05/425870.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-27 09:01",
+      "summary": "不再绕回2D"
+    },
+    {
+      "title": "触觉具身来了个梦之队：天使轮近亿",
+      "link": "https://www.qbitai.com/2026/05/425660.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-27 05:18",
+      "summary": "复旦系具身新星，想让机器人真正会“触摸”"
+    },
+    {
+      "title": "将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式",
+      "link": "https://www.qbitai.com/2026/05/425600.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-26 10:17",
+      "summary": "光影之间，读懂未尽之意"
+    },
     {
       "title": "刚刚，国产AI自己造了AI，全球首例！",
       "link": "https://www.qbitai.com/2026/05/425511.html",
       "source": "qbitai",
       "pub_date": "2026-05-26 08:46",
       "summary": "训练速度比英伟达Megatron快10%"
-    },
-    {
-      "title": "留给人类数学家的悬赏不多了！谷歌DeepMind一口气解决9道埃尔德什问题",
-      "link": "https://www.qbitai.com/2026/05/425455.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-26 08:20",
-      "summary": "解决卡了人类56年的数学难题"
-    },
-    {
-      "title": "“卡车界特斯拉”，刚刚又融了2亿美元",
-      "link": "https://www.qbitai.com/2026/05/425058.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-26 05:37",
-      "summary": "90后天才+70后老将打造"
-    },
-    {
-      "title": "刚刚，国产Agent模型闯入全球第一梯队！限时免费",
-      "link": "https://www.qbitai.com/2026/05/424851.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-26 04:13",
-      "summary": "深度适配OpenClaw、Claude Code、Hermes等"
-    },
-    {
-      "title": "京东JoyInside戴文军：AI的终极形态不是聊天，是融入你家每一件物品丨AIGC2026",
-      "link": "https://www.qbitai.com/2026/05/424794.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-25 09:37",
-      "summary": "硬件不该让人适应，它应该主动适应你"
     }
   ]
 }
