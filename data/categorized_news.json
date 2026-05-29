@@ -1,25 +1,11 @@
 {
   "headline": [
     {
-      "title": "OpenAI挖来了个F1级别车手搞公关",
-      "link": "https://www.qbitai.com/2026/05/425857.html",
+      "title": "7B打败o3、GPT-5！医学AI智能体让模型学会“看哪里、怎么看”",
+      "link": "https://www.qbitai.com/2026/05/426150.html",
       "source": "qbitai",
-      "pub_date": "2026-05-27 06:55",
-      "summary": "曾在Salesforce干了13年营销"
-    },
-    {
-      "title": "Codex自我蒸馏玩法火了！OpenAI员工亲授：复制粘贴就能让AI消灭重复劳动",
-      "link": "https://www.qbitai.com/2026/05/425810.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-27 05:12",
-      "summary": "只需一段提示词"
-    },
-    {
-      "title": "卡帕西Anthropic最新头衔：技术员工（MTS）",
-      "link": "https://www.qbitai.com/2026/05/425304.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-26 07:42",
-      "summary": "MTS（技术员工） @Anthropic"
+      "pub_date": "2026-05-28 08:01",
+      "summary": "医学AI Agent到了关键拐点"
     },
     {
       "title": "让具身模型学会“先想后做”！星源智推出400万问答对大规模数据集，训练框架决策性能碾压GPT-5",
@@ -27,6 +13,20 @@
       "source": "infoq",
       "pub_date": "2026-05-27 18:00",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/zleRjMWUeNF4C9zTeX8p?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+      "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-05-28 18:52",
+      "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO."
+    },
+    {
+      "title": "OpenAI’s Frontier Governance Framework",
+      "link": "https://openai.com/index/openai-frontier-governance-framework",
+      "source": "openai_blog",
+      "pub_date": "2026-05-28 00:00",
+      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations."
     },
     {
       "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
@@ -38,67 +38,89 @@
   ],
   "product": [
     {
-      "title": "从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
-      "link": "https://www.infoq.cn/article/YHD4cguvebWJled2FK96?utm_source=rss&utm_medium=article",
+      "title": "「AI研习社」规范AI行为，用CodeBuddy从0-1做出真正可上线小程序",
+      "link": "https://www.infoq.cn/video/A9OKjbcWKWYPIqvP48AU?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-05-26 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/YHD4cguvebWJled2FK96?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-05-28 09:21",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/video/A9OKjbcWKWYPIqvP48AU?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
+      "link": "https://www.infoq.cn/article/vk2wb5zk9sFHhP7fx5NO?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-28 09:15",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/vk2wb5zk9sFHhP7fx5NO?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [
     {
-      "title": "蚂蚁重磅领投，光轮智能完成新一轮融资！物理AI的价值中心，已经变了",
-      "link": "https://www.infoq.cn/article/bdsq4OUrTNJdvCLaxo0u?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-26 18:01",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/bdsq4OUrTNJdvCLaxo0u?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "5篇AI生成的数学论文被接收！00后创始人洪乐潼融资14个亿",
+      "link": "https://www.qbitai.com/2026/05/426198.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-28 08:11",
+      "summary": "8篇由同一个系统生成或形式化证明的数学论文"
     }
   ],
   "research": [
     {
-      "title": "DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时",
-      "link": "https://www.qbitai.com/2026/05/425523.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-27 01:14",
-      "summary": "“1%是我写的，99%是Agent写的。”"
+      "title": "腾讯云 DBbrain 双轮驱动：极致性能洞察与 AI Skill 化转型实践 | 腾讯云数据库 DBTalk",
+      "link": "https://www.infoq.cn/video/1v8Y8WZ1uV0zGshrr5Gp?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-28 10:37",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/video/1v8Y8WZ1uV0zGshrr5Gp?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "industry": [],
+  "industry": [
+    {
+      "title": "沙钢签约钉钉，让悟空成为每一位“钢铁人”的生产力工具",
+      "link": "https://www.qbitai.com/2026/05/426223.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-28 08:47",
+      "summary": "实现AI技术从“能力”到“价值”的转化"
+    },
+    {
+      "title": "Agentic Coding + ClickHouse: 1人1栈1应用，AI全栈几天搞定",
+      "link": "https://www.infoq.cn/article/UdQ0zzmK6TOwZlB1qDSo?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-28 14:41",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/UdQ0zzmK6TOwZlB1qDSo?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "other": [
     {
-      "title": "1400亿Agent入场，“流量”这条护城河要塌了",
-      "link": "https://www.qbitai.com/2026/05/425881.html",
+      "title": "DeepSeek V4芯模协同背后，国产算力生态开始飞轮加速",
+      "link": "https://www.qbitai.com/2026/05/426293.html",
       "source": "qbitai",
-      "pub_date": "2026-05-27 09:31",
-      "summary": "看到大厂押注Agent生态的新方向"
+      "pub_date": "2026-05-28 13:32",
+      "summary": "国产算力是潮流，先用起来。"
     },
     {
-      "title": "5秒完成3D场景编辑，北大&港中文&上海AI Lab搞出VGGT-Edit，120倍加速太炸了",
-      "link": "https://www.qbitai.com/2026/05/425870.html",
+      "title": "世界模型接棒语言模型，这家公司全球首创物理AGI“双金字塔”体系，通用机器人进入“家庭时代”",
+      "link": "https://www.qbitai.com/2026/05/426237.html",
       "source": "qbitai",
-      "pub_date": "2026-05-27 09:01",
-      "summary": "不再绕回2D"
+      "pub_date": "2026-05-28 13:01",
+      "summary": "12个月冲击物理AGI的“GPT-3时刻”"
     },
     {
-      "title": "触觉具身来了个梦之队：天使轮近亿",
-      "link": "https://www.qbitai.com/2026/05/425660.html",
+      "title": "AI正在重写软件行业？8岁孩子做操作系统，一人公司拿下千万订单",
+      "link": "https://www.qbitai.com/2026/05/426069.html",
       "source": "qbitai",
-      "pub_date": "2026-05-27 05:18",
-      "summary": "复旦系具身新星，想让机器人真正会“触摸”"
+      "pub_date": "2026-05-28 07:34",
+      "summary": "“87%用户不懂代码，却用AI跑通了一人公司”"
     },
     {
-      "title": "将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式",
-      "link": "https://www.qbitai.com/2026/05/425600.html",
+      "title": "「斯隆奖」得主戴亮全职加盟复旦",
+      "link": "https://www.qbitai.com/2026/05/425959.html",
       "source": "qbitai",
-      "pub_date": "2026-05-26 10:17",
-      "summary": "光影之间，读懂未尽之意"
+      "pub_date": "2026-05-28 04:44",
+      "summary": "复旦的顶尖人才版图"
     },
     {
-      "title": "刚刚，国产AI自己造了AI，全球首例！",
-      "link": "https://www.qbitai.com/2026/05/425511.html",
+      "title": "清华有了新老师：黄仁勋",
+      "link": "https://www.qbitai.com/2026/05/425948.html",
       "source": "qbitai",
-      "pub_date": "2026-05-26 08:46",
-      "summary": "训练速度比英伟达Megatron快10%"
+      "pub_date": "2026-05-28 04:39",
+      "summary": "黄博好，黄博好。"
     }
   ]
 }
