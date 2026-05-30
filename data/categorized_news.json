@@ -1,25 +1,32 @@
 {
   "headline": [
     {
-      "title": "7B打败o3、GPT-5！医学AI智能体让模型学会“看哪里、怎么看”",
-      "link": "https://www.qbitai.com/2026/05/426150.html",
+      "title": "清华系团队给大模型织了一张“智能算力电网”",
+      "link": "https://www.qbitai.com/2026/05/426353.html",
       "source": "qbitai",
-      "pub_date": "2026-05-28 08:01",
-      "summary": "医学AI Agent到了关键拐点"
+      "pub_date": "2026-05-29 02:47",
+      "summary": "单位Token成本降低40%"
     },
     {
-      "title": "让具身模型学会“先想后做”！星源智推出400万问答对大规模数据集，训练框架决策性能碾压GPT-5",
-      "link": "https://www.infoq.cn/article/zleRjMWUeNF4C9zTeX8p?utm_source=rss&utm_medium=article",
+      "title": "Claude 4.8炸场！部分能力超过Mythos，支持数百子智能体并行",
+      "link": "https://www.qbitai.com/2026/05/426314.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-28 23:57",
+      "summary": "可以长时间执行任务，人类不用经常回来检查它的工作"
+    },
+    {
+      "title": "把GPT-4o拉下神坛！星源智联合北大推出RoboAgent，让3B VLM在未知场景跑出94%成功率",
+      "link": "https://www.infoq.cn/article/OuKcGdoHsN6mrctXfAKM?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-05-27 18:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/zleRjMWUeNF4C9zTeX8p?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-05-29 11:18",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/OuKcGdoHsN6mrctXfAKM?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
-      "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-05-28 18:52",
-      "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO."
+      "title": "Opus 4.8 刚发布，Redis 之父质疑跑分：DHH 盛赞的 GPT-5.5，正在动摇编码王座",
+      "link": "https://www.infoq.cn/article/rCTXhK96Y3jiDG7N1is5?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-29 10:55",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/rCTXhK96Y3jiDG7N1is5?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "OpenAI’s Frontier Governance Framework",
@@ -27,56 +34,40 @@
       "source": "openai_blog",
       "pub_date": "2026-05-28 00:00",
       "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations."
-    },
-    {
-      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-      "link": "https://openai.com/index/cisco",
-      "source": "openai_blog",
-      "pub_date": "2026-05-27 11:00",
-      "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation."
     }
   ],
   "product": [
     {
-      "title": "「AI研习社」规范AI行为，用CodeBuddy从0-1做出真正可上线小程序",
-      "link": "https://www.infoq.cn/video/A9OKjbcWKWYPIqvP48AU?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-28 09:21",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/video/A9OKjbcWKWYPIqvP48AU?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了",
+      "link": "https://www.qbitai.com/2026/05/426479.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-29 09:05",
+      "summary": "这是这个时代的印刷机"
     },
     {
-      "title": "Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
-      "link": "https://www.infoq.cn/article/vk2wb5zk9sFHhP7fx5NO?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-28 09:15",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/vk2wb5zk9sFHhP7fx5NO?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
-  "funding": [
-    {
-      "title": "5篇AI生成的数学论文被接收！00后创始人洪乐潼融资14个亿",
-      "link": "https://www.qbitai.com/2026/05/426198.html",
+      "title": "创意设计版WorkBuddy来了！腾讯发布智能体创意工作室Miora",
+      "link": "https://www.qbitai.com/2026/05/426400.html",
       "source": "qbitai",
-      "pub_date": "2026-05-28 08:11",
-      "summary": "8篇由同一个系统生成或形式化证明的数学论文"
+      "pub_date": "2026-05-29 08:32",
+      "summary": "一个人拥有整个创意工作室"
     }
   ],
-  "research": [
-    {
-      "title": "腾讯云 DBbrain 双轮驱动：极致性能洞察与 AI Skill 化转型实践 | 腾讯云数据库 DBTalk",
-      "link": "https://www.infoq.cn/video/1v8Y8WZ1uV0zGshrr5Gp?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-28 10:37",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/video/1v8Y8WZ1uV0zGshrr5Gp?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "funding": [],
+  "research": [],
   "industry": [
     {
-      "title": "沙钢签约钉钉，让悟空成为每一位“钢铁人”的生产力工具",
-      "link": "https://www.qbitai.com/2026/05/426223.html",
+      "title": "光帆科技与腾讯出行服务达成战略合作 开启新一轮预售",
+      "link": "https://www.qbitai.com/2026/05/426552.html",
       "source": "qbitai",
-      "pub_date": "2026-05-28 08:47",
-      "summary": "实现AI技术从“能力”到“价值”的转化"
+      "pub_date": "2026-05-29 11:27",
+      "summary": ""
+    },
+    {
+      "title": "Golden Question 征集令｜把你的 AI 落地之问带去 Snowflake Summit 26",
+      "link": "https://xie.infoq.cn/article/80a33c078f04f989f38ed1c94?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-05-18 16:39",
+      "summary": "提交你的问题，我们替你去问！<div align=\"right\"><a href=\"https://xie.infoq.cn/article/80a33c078f04f989f38ed1c94?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "Agentic Coding + ClickHouse: 1人1栈1应用，AI全栈几天搞定",
@@ -88,39 +79,39 @@
   ],
   "other": [
     {
-      "title": "DeepSeek V4芯模协同背后，国产算力生态开始飞轮加速",
-      "link": "https://www.qbitai.com/2026/05/426293.html",
+      "title": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
+      "link": "https://www.qbitai.com/2026/05/426557.html",
       "source": "qbitai",
-      "pub_date": "2026-05-28 13:32",
-      "summary": "国产算力是潮流，先用起来。"
+      "pub_date": "2026-05-29 14:30",
+      "summary": "智驾出事，比亚迪兜底"
     },
     {
-      "title": "世界模型接棒语言模型，这家公司全球首创物理AGI“双金字塔”体系，通用机器人进入“家庭时代”",
-      "link": "https://www.qbitai.com/2026/05/426237.html",
+      "title": "PPIO入选非凡产研「2026 Global AI 100」，以AI实力领跑出海新浪潮",
+      "link": "https://www.qbitai.com/2026/05/426548.html",
       "source": "qbitai",
-      "pub_date": "2026-05-28 13:01",
-      "summary": "12个月冲击物理AGI的“GPT-3时刻”"
+      "pub_date": "2026-05-29 11:24",
+      "summary": ""
     },
     {
-      "title": "AI正在重写软件行业？8岁孩子做操作系统，一人公司拿下千万订单",
-      "link": "https://www.qbitai.com/2026/05/426069.html",
+      "title": "面壁智能「开源周」：一场定义端侧 AI 终局的系统性「亮剑」",
+      "link": "https://www.qbitai.com/2026/05/426542.html",
       "source": "qbitai",
-      "pub_date": "2026-05-28 07:34",
-      "summary": "“87%用户不懂代码，却用AI跑通了一人公司”"
+      "pub_date": "2026-05-29 09:13",
+      "summary": "端侧 AI 是一个系统性工程"
     },
     {
-      "title": "「斯隆奖」得主戴亮全职加盟复旦",
-      "link": "https://www.qbitai.com/2026/05/425959.html",
+      "title": "下限零基础，上限肝大作！腾讯这个AI游戏创作平台，太野了",
+      "link": "https://www.qbitai.com/2026/05/426447.html",
       "source": "qbitai",
-      "pub_date": "2026-05-28 04:44",
-      "summary": "复旦的顶尖人才版图"
+      "pub_date": "2026-05-29 08:50",
+      "summary": "下一波AI创作浪潮正在游戏领域发生"
     },
     {
-      "title": "清华有了新老师：黄仁勋",
-      "link": "https://www.qbitai.com/2026/05/425948.html",
+      "title": "刚刚，全球⾸个“事件级预测”具身智能世界模型来了！",
+      "link": "https://www.qbitai.com/2026/05/426366.html",
       "source": "qbitai",
-      "pub_date": "2026-05-28 04:39",
-      "summary": "黄博好，黄博好。"
+      "pub_date": "2026-05-29 07:02",
+      "summary": "从按帧学动作，到按「事件」理解世界"
     }
   ]
 }
