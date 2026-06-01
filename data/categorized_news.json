@@ -36,82 +36,53 @@
       "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations."
     }
   ],
-  "product": [
-    {
-      "title": "5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了",
-      "link": "https://www.qbitai.com/2026/05/426479.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-29 09:05",
-      "summary": "这是这个时代的印刷机"
-    },
-    {
-      "title": "创意设计版WorkBuddy来了！腾讯发布智能体创意工作室Miora",
-      "link": "https://www.qbitai.com/2026/05/426400.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-29 08:32",
-      "summary": "一个人拥有整个创意工作室"
-    }
-  ],
+  "product": [],
   "funding": [],
   "research": [],
   "industry": [
-    {
-      "title": "光帆科技与腾讯出行服务达成战略合作 开启新一轮预售",
-      "link": "https://www.qbitai.com/2026/05/426552.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-29 11:27",
-      "summary": ""
-    },
     {
       "title": "Golden Question 征集令｜把你的 AI 落地之问带去 Snowflake Summit 26",
       "link": "https://xie.infoq.cn/article/80a33c078f04f989f38ed1c94?utm_source=rss&utm_medium=article",
       "source": "infoq",
       "pub_date": "2026-05-18 16:39",
       "summary": "提交你的问题，我们替你去问！<div align=\"right\"><a href=\"https://xie.infoq.cn/article/80a33c078f04f989f38ed1c94?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Agentic Coding + ClickHouse: 1人1栈1应用，AI全栈几天搞定",
-      "link": "https://www.infoq.cn/article/UdQ0zzmK6TOwZlB1qDSo?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-05-28 14:41",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/UdQ0zzmK6TOwZlB1qDSo?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
     {
-      "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
-      "link": "https://www.qbitai.com/2026/05/426662.html",
+      "title": "DDIM之父宋佳铭，宣布离职",
+      "link": "https://www.qbitai.com/2026/05/427104.html",
       "source": "qbitai",
-      "pub_date": "2026-05-30 06:33",
+      "pub_date": "2026-05-31 14:30",
+      "summary": "新的浪潮，还在继续往前推"
+    },
+    {
+      "title": "别光给Agent加Tool了，它根本选不明白！复旦×通义提出全新CUA训练范式",
+      "link": "https://www.qbitai.com/2026/05/427005.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-31 14:25",
+      "summary": "下一代CUA训练范式"
+    },
+    {
+      "title": "英伟达版「MacBook Pro」曝光：老黄自研了CPU！",
+      "link": "https://www.qbitai.com/2026/05/426991.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-31 14:17",
+      "summary": "我们需要一台「印刷机」"
+    },
+    {
+      "title": "机器人原生世界动作模型问世！首创时空一体架构，复旦系团队出品",
+      "link": "https://www.qbitai.com/2026/05/426984.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-31 10:13",
+      "summary": "半年斩获5轮融资"
+    },
+    {
+      "title": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026",
+      "link": "https://www.qbitai.com/2026/05/426970.html",
+      "source": "qbitai",
+      "pub_date": "2026-05-31 10:03",
       "summary": "让世界模型迈向多智能体交互仿真"
-    },
-    {
-      "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
-      "link": "https://www.qbitai.com/2026/05/426643.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-30 03:17",
-      "summary": "让世界模型迈向多智能体交互仿真"
-    },
-    {
-      "title": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
-      "link": "https://www.qbitai.com/2026/05/426557.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-29 14:30",
-      "summary": "智驾出事，比亚迪兜底"
-    },
-    {
-      "title": "PPIO入选非凡产研「2026 Global AI 100」，以AI实力领跑出海新浪潮",
-      "link": "https://www.qbitai.com/2026/05/426548.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-29 11:24",
-      "summary": ""
-    },
-    {
-      "title": "面壁智能「开源周」：一场定义端侧 AI 终局的系统性「亮剑」",
-      "link": "https://www.qbitai.com/2026/05/426542.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-29 09:13",
-      "summary": "端侧 AI 是一个系统性工程"
     }
   ]
 }
