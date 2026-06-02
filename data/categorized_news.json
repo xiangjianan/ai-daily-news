@@ -1,11 +1,18 @@
 {
   "headline": [
     {
-      "title": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
-      "link": "https://www.qbitai.com/2026/05/426706.html",
+      "title": "OpenAI重返机器人赛道！四大核心岗位开招",
+      "link": "https://www.qbitai.com/2026/06/427238.html",
       "source": "qbitai",
-      "pub_date": "2026-05-30 06:43",
-      "summary": "（可能是）大模型圈里最会弹钢琴的人"
+      "pub_date": "2026-06-01 06:11",
+      "summary": "年薪超200万"
+    },
+    {
+      "title": "大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海",
+      "link": "https://www.infoq.cn/article/TE9JmYeShY8qevQ2bOEy?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-06-01 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/TE9JmYeShY8qevQ2bOEy?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "把GPT-4o拉下神坛！星源智联合北大推出RoboAgent，让3B VLM在未知场景跑出94%成功率",
@@ -22,23 +29,40 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/rCTXhK96Y3jiDG7N1is5?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-      "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-05-30 15:30",
-      "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product."
-    },
-    {
-      "title": "OpenAI’s Frontier Governance Framework",
-      "link": "https://openai.com/index/openai-frontier-governance-framework",
-      "source": "openai_blog",
-      "pub_date": "2026-05-28 00:00",
-      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations."
+      "pub_date": "2026-06-01 20:03",
+      "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident."
     }
   ],
-  "product": [],
-  "funding": [],
-  "research": [],
+  "product": [
+    {
+      "title": "微软推出 MDASH，用于大规模 AI 漏洞研究",
+      "link": "https://www.infoq.cn/article/oWPMVX8STv5EwuP49oS6?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-06-01 18:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/oWPMVX8STv5EwuP49oS6?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
+  "funding": [
+    {
+      "title": "近2亿美元！VAST完成新一轮融资，正式披露世界模型路线",
+      "link": "https://www.qbitai.com/2026/06/427516.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-01 09:46",
+      "summary": "场景永不消失，多人真正同屏"
+    }
+  ],
+  "research": [
+    {
+      "title": "材料版AlphaFold来了！40个工业任务全方位SOTA，AI4S迎来行业大突破",
+      "link": "https://www.qbitai.com/2026/06/427142.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-01 05:25",
+      "summary": "叠加LLM“训练buff”，材料AI终于学会了“物理直觉”"
+    }
+  ],
   "industry": [
     {
       "title": "Golden Question 征集令｜把你的 AI 落地之问带去 Snowflake Summit 26",
@@ -50,39 +74,39 @@
   ],
   "other": [
     {
+      "title": "清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖",
+      "link": "https://www.qbitai.com/2026/06/427530.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-01 10:34",
+      "summary": "已经投资了数个世界领先的AI科技公司"
+    },
+    {
+      "title": "德系精工邂逅中国智慧 全新奥迪Q5L现已登陆全国门店",
+      "link": "https://www.qbitai.com/2026/06/427231.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-01 08:10",
+      "summary": ""
+    },
+    {
+      "title": "今天起，无限期免费！全球首个全模态API开放，Top 10 AI Lab出手",
+      "link": "https://www.qbitai.com/2026/06/427332.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-01 07:57",
+      "summary": "文本图像视频都能用"
+    },
+    {
+      "title": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026",
+      "link": "https://www.qbitai.com/2026/06/427141.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-01 05:32",
+      "summary": "Demo从来都不难做，难的是让它在企业生产环境里真正跑起来"
+    },
+    {
       "title": "DDIM之父宋佳铭，宣布离职",
       "link": "https://www.qbitai.com/2026/05/427104.html",
       "source": "qbitai",
       "pub_date": "2026-05-31 14:30",
       "summary": "新的浪潮，还在继续往前推"
-    },
-    {
-      "title": "别光给Agent加Tool了，它根本选不明白！复旦×通义提出全新CUA训练范式",
-      "link": "https://www.qbitai.com/2026/05/427005.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-31 14:25",
-      "summary": "下一代CUA训练范式"
-    },
-    {
-      "title": "英伟达版「MacBook Pro」曝光：老黄自研了CPU！",
-      "link": "https://www.qbitai.com/2026/05/426991.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-31 14:17",
-      "summary": "我们需要一台「印刷机」"
-    },
-    {
-      "title": "机器人原生世界动作模型问世！首创时空一体架构，复旦系团队出品",
-      "link": "https://www.qbitai.com/2026/05/426984.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-31 10:13",
-      "summary": "半年斩获5轮融资"
-    },
-    {
-      "title": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026",
-      "link": "https://www.qbitai.com/2026/05/426970.html",
-      "source": "qbitai",
-      "pub_date": "2026-05-31 10:03",
-      "summary": "让世界模型迈向多智能体交互仿真"
     }
   ]
 }
