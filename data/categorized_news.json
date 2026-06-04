@@ -1,6 +1,13 @@
 {
   "headline": [
     {
+      "title": "刚刚，Anthropic提交了招股书！",
+      "link": "https://www.qbitai.com/2026/06/428407.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-03 03:55",
+      "summary": "最快Q4上市"
+    },
+    {
       "title": "OpenAI挖走中科大少年班校友！12岁上大学，哈佛史上最年轻正教授",
       "link": "https://www.qbitai.com/2026/06/428003.html",
       "source": "qbitai",
@@ -15,76 +22,54 @@
       "summary": "AI视频编辑先理解再动手"
     },
     {
-      "title": "Codex 500万用户福利被怼“作秀”！Claude Code 吃掉近九成 Token，OpenAI 抢用户败在“小气”上？",
-      "link": "https://www.infoq.cn/article/50wIN1CuFf0ioqwebZvj?utm_source=rss&utm_medium=article",
+      "title": "拒绝蒸馏！微软发布自研MAI-Thinking-1追平Claude Opus 4.6：完全从零训练，不沾任何第三方模型输出",
+      "link": "https://www.infoq.cn/article/StrGjRRmFKm4fXCvLOSP?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-06-02 18:40",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/50wIN1CuFf0ioqwebZvj?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-06-03 16:30",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/StrGjRRmFKm4fXCvLOSP?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI launches new Codex tools for white-collar work",
-      "link": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-06-02 16:00",
-      "summary": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app,"
-    },
-    {
-      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "link": "https://openai.com/index/travelers",
-      "source": "openai_blog",
-      "pub_date": "2026-06-02 12:00",
-      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand."
+      "title": "看完 Snowflake 这套新品，我更确信大模型吃不掉数据这个赛道",
+      "link": "https://www.infoq.cn/article/ChrM7o35aliBpeyJzuIs?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-06-03 12:01",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ChrM7o35aliBpeyJzuIs?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "product": [
     {
-      "title": "百度文心发布 PaddleOCR-VL-1.6：准确率突破 96.33%，刷新文档解析 SOTA",
-      "link": "https://www.qbitai.com/2026/06/427754.html",
+      "title": "橡木果发布“本能驱动”技术路线，开辟自下而上具身智能新范式",
+      "link": "https://www.qbitai.com/2026/06/428413.html",
       "source": "qbitai",
-      "pub_date": "2026-06-02 07:47",
-      "summary": "已上线 PaddleOCR 官网，支持网页端和API调用"
-    },
-    {
-      "title": "Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件",
-      "link": "https://www.qbitai.com/2026/06/427730.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-02 03:15",
-      "summary": "Qwen3.7-Plus已上线阿里云百炼"
-    },
-    {
-      "title": "微软推出 MDASH，用于大规模 AI 漏洞研究",
-      "link": "https://www.infoq.cn/article/oWPMVX8STv5EwuP49oS6?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-06-01 18:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/oWPMVX8STv5EwuP49oS6?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-06-02 13:01",
+      "summary": "自下而上，从底层本能出发"
     }
   ],
   "funding": [],
   "research": [],
-  "industry": [
-    {
-      "title": "云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路",
-      "link": "https://www.qbitai.com/2026/06/427472.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-02 01:33",
-      "summary": "从仿真到多形态真机，具身模型如何落地复杂家庭柔性物体操作？"
-    },
-    {
-      "title": "85%的企业 AI 落地卡在数据上，为什么你还在选模型？",
-      "link": "https://www.infoq.cn/article/eyoJhLqNXMZQEAQUBhB9?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-06-02 15:26",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/eyoJhLqNXMZQEAQUBhB9?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "谷歌扩大 SynthID 在 AI 水印技术中的应用，并提供内容检测 API 预览",
-      "link": "https://www.infoq.cn/article/NkqXbxUbPZgu21AvAxor?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-06-02 14:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/NkqXbxUbPZgu21AvAxor?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "industry": [],
   "other": [
+    {
+      "title": "从看懂世界到做对动作，卧安机器人OneModel 1.7用一条「隐式通路」打通了具身智能的关键断层",
+      "link": "https://www.qbitai.com/2026/06/428703.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-03 12:28",
+      "summary": "在潜在空间中完成信息传导"
+    },
+    {
+      "title": "世界模型榜首易主！跨维智能登顶WorldArena",
+      "link": "https://www.qbitai.com/2026/06/428435.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-03 09:54",
+      "summary": ""
+    },
+    {
+      "title": "刚刚，Meta Skill来了",
+      "link": "https://www.qbitai.com/2026/06/428335.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-03 01:29",
+      "summary": "GitHub最新火爆仓库：OpenSquilla。"
+    },
     {
       "title": "MiniMax M3一手实测：老黄PPT上74个Logo，我以为能难住它",
       "link": "https://www.qbitai.com/2026/06/428092.html",
@@ -98,27 +83,6 @@
       "source": "qbitai",
       "pub_date": "2026-06-02 14:52",
       "summary": "平台入驻全球达人已超10万"
-    },
-    {
-      "title": "滴滴2026Q1财报：国内基本盘稳固 国际业务成第二增长引擎",
-      "link": "https://www.qbitai.com/2026/06/428331.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-02 12:28",
-      "summary": "日均订单刷新历史纪录至3940万单"
-    },
-    {
-      "title": "“豆包汽车”，目标市场10万-20万",
-      "link": "https://www.qbitai.com/2026/06/427760.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-02 08:12",
-      "summary": "国资入主，赛力斯让权"
-    },
-    {
-      "title": "机器人运控训练步入分钟级时代！清华AIR开源UniLab：3分钟训好人形，速度暴涨10倍，Mac上也能跑",
-      "link": "https://www.qbitai.com/2026/06/427729.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-02 03:57",
-      "summary": "全新的机器人强化学习训练架构"
     }
   ]
 }
