@@ -1,25 +1,25 @@
 {
   "headline": [
     {
-      "title": "刚刚，Anthropic提交了招股书！",
-      "link": "https://www.qbitai.com/2026/06/428407.html",
+      "title": "LeCun 10亿押注的方向，全球领先视觉大模型团队早已布局",
+      "link": "https://www.qbitai.com/2026/06/428790.html",
       "source": "qbitai",
-      "pub_date": "2026-06-03 03:55",
-      "summary": "最快Q4上市"
+      "pub_date": "2026-06-04 03:43",
+      "summary": "”隐空间世界模型很难，但我们一定要做“"
     },
     {
-      "title": "OpenAI挖走中科大少年班校友！12岁上大学，哈佛史上最年轻正教授",
-      "link": "https://www.qbitai.com/2026/06/428003.html",
+      "title": "一个GPT Plus会员的钱，够机器人跑一个月世界模型了",
+      "link": "https://www.qbitai.com/2026/06/428791.html",
       "source": "qbitai",
-      "pub_date": "2026-06-02 14:54",
-      "summary": "还挖走了苏炜杰"
+      "pub_date": "2026-06-04 03:10",
+      "summary": "不多不少，只要150"
     },
     {
-      "title": "字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
-      "link": "https://www.qbitai.com/2026/06/427810.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-02 09:28",
-      "summary": "AI视频编辑先理解再动手"
+      "title": "OpenAI CFO 首次详解公司战略：B端C端收入五五开、抢 IPO 第一名没意义，今年拿出神秘AI硬件",
+      "link": "https://www.infoq.cn/article/BRvoqUKZgRrl5Xt9ooyJ?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-06-04 17:33",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/BRvoqUKZgRrl5Xt9ooyJ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "拒绝蒸馏！微软发布自研MAI-Thinking-1追平Claude Opus 4.6：完全从零训练，不沾任何第三方模型输出",
@@ -29,60 +29,76 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/StrGjRRmFKm4fXCvLOSP?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "看完 Snowflake 这套新品，我更确信大模型吃不掉数据这个赛道",
-      "link": "https://www.infoq.cn/article/ChrM7o35aliBpeyJzuIs?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-06-03 12:01",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ChrM7o35aliBpeyJzuIs?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+      "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-06-04 22:43",
+      "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa"
     }
   ],
-  "product": [
+  "product": [],
+  "funding": [
     {
-      "title": "橡木果发布“本能驱动”技术路线，开辟自下而上具身智能新范式",
-      "link": "https://www.qbitai.com/2026/06/428413.html",
+      "title": "戴盟机器人完成亿元融资，阿里通义多模态大牛加盟攻关物理世界模型",
+      "link": "https://www.qbitai.com/2026/06/428778.html",
       "source": "qbitai",
-      "pub_date": "2026-06-02 13:01",
-      "summary": "自下而上，从底层本能出发"
+      "pub_date": "2026-06-04 03:06",
+      "summary": "甩开视觉内卷"
     }
   ],
-  "funding": [],
-  "research": [],
-  "industry": [],
+  "research": [
+    {
+      "title": "Arm 开源 AI 安全框架 Metis，性能优于传统 SAST 工具",
+      "link": "https://www.infoq.cn/article/WBSYmfvEkiaHEcgkYOcA?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-06-04 16:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/WBSYmfvEkiaHEcgkYOcA?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
+  "industry": [
+    {
+      "title": "比亚迪与中国石化深化战略合作 共建智慧能源生态",
+      "link": "https://www.qbitai.com/2026/06/428933.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-04 06:58",
+      "summary": ""
+    }
+  ],
   "other": [
     {
-      "title": "从看懂世界到做对动作，卧安机器人OneModel 1.7用一条「隐式通路」打通了具身智能的关键断层",
-      "link": "https://www.qbitai.com/2026/06/428703.html",
+      "title": "重估比亚迪，从智驾开始",
+      "link": "https://www.qbitai.com/2026/06/429192.html",
       "source": "qbitai",
-      "pub_date": "2026-06-03 12:28",
-      "summary": "在潜在空间中完成信息传导"
-    },
-    {
-      "title": "世界模型榜首易主！跨维智能登顶WorldArena",
-      "link": "https://www.qbitai.com/2026/06/428435.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-03 09:54",
+      "pub_date": "2026-06-04 13:10",
       "summary": ""
     },
     {
-      "title": "刚刚，Meta Skill来了",
-      "link": "https://www.qbitai.com/2026/06/428335.html",
+      "title": "中国足球小将夺冠，比亚迪携手足球少年走向世界",
+      "link": "https://www.qbitai.com/2026/06/429186.html",
       "source": "qbitai",
-      "pub_date": "2026-06-03 01:29",
-      "summary": "GitHub最新火爆仓库：OpenSquilla。"
+      "pub_date": "2026-06-04 13:00",
+      "summary": ""
     },
     {
-      "title": "MiniMax M3一手实测：老黄PPT上74个Logo，我以为能难住它",
-      "link": "https://www.qbitai.com/2026/06/428092.html",
+      "title": "CVPR 2026，英伟达特斯拉Waymo一块听中国公司讲物理AI",
+      "link": "https://www.qbitai.com/2026/06/429130.html",
       "source": "qbitai",
-      "pub_date": "2026-06-02 15:50",
-      "summary": "还能带你打卡老黄同款南锣路线"
+      "pub_date": "2026-06-04 11:56",
+      "summary": "率先实现物理AI闭环飞轮"
     },
     {
-      "title": "头部厂商集体买单，全球AI原生达人营销头号平台正在诞生！",
-      "link": "https://www.qbitai.com/2026/06/427922.html",
+      "title": "连GitLab都开始裁程序员了",
+      "link": "https://www.qbitai.com/2026/06/429117.html",
       "source": "qbitai",
-      "pub_date": "2026-06-02 14:52",
-      "summary": "平台入驻全球达人已超10万"
+      "pub_date": "2026-06-04 08:54",
+      "summary": "硅谷科技公司Q1裁员同比增长40%"
+    },
+    {
+      "title": "A股账户可以买Robotaxi了",
+      "link": "https://www.qbitai.com/2026/06/428954.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-04 07:41",
+      "summary": "Robotaxi双雄同日官宣"
     }
   ]
 }
