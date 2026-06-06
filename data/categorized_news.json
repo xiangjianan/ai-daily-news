@@ -1,20 +1,6 @@
 {
   "headline": [
     {
-      "title": "LeCun 10亿押注的方向，全球领先视觉大模型团队早已布局",
-      "link": "https://www.qbitai.com/2026/06/428790.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-04 03:43",
-      "summary": "”隐空间世界模型很难，但我们一定要做“"
-    },
-    {
-      "title": "一个GPT Plus会员的钱，够机器人跑一个月世界模型了",
-      "link": "https://www.qbitai.com/2026/06/428791.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-04 03:10",
-      "summary": "不多不少，只要150"
-    },
-    {
       "title": "OpenAI CFO 首次详解公司战略：B端C端收入五五开、抢 IPO 第一名没意义，今年拿出神秘AI硬件",
       "link": "https://www.infoq.cn/article/BRvoqUKZgRrl5Xt9ooyJ?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -22,11 +8,11 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/BRvoqUKZgRrl5Xt9ooyJ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "拒绝蒸馏！微软发布自研MAI-Thinking-1追平Claude Opus 4.6：完全从零训练，不沾任何第三方模型输出",
-      "link": "https://www.infoq.cn/article/StrGjRRmFKm4fXCvLOSP?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-06-03 16:30",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/StrGjRRmFKm4fXCvLOSP?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
+      "link": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-06-05 14:32",
+      "summary": "The U.S. eavesdropping agency is reportedly preparing Anthropic's Mythos for use in cyberattacks, despite a federal ban on using the AI model maker."
     },
     {
       "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
@@ -34,18 +20,46 @@
       "source": "techcrunch_ai",
       "pub_date": "2026-06-04 22:43",
       "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa"
-    }
-  ],
-  "product": [],
-  "funding": [
+    },
     {
-      "title": "戴盟机器人完成亿元融资，阿里通义多模态大牛加盟攻关物理世界模型",
-      "link": "https://www.qbitai.com/2026/06/428778.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-04 03:06",
-      "summary": "甩开视觉内卷"
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "link": "https://openai.com/index/chatgpt-memory-dreaming",
+      "source": "openai_blog",
+      "pub_date": "2026-06-04 09:00",
+      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations."
+    },
+    {
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "source": "openai_blog",
+      "pub_date": "2026-06-03 13:15",
+      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities."
     }
   ],
+  "product": [
+    {
+      "title": "华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”",
+      "link": "https://www.qbitai.com/2026/06/431027.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-05 10:46",
+      "summary": ""
+    },
+    {
+      "title": "WPS笔记正式发布：AI贯穿记录、整理与复用全过程",
+      "link": "https://www.qbitai.com/2026/06/431014.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-05 09:16",
+      "summary": "AI笔记不是聊天框，而是信息入口。"
+    },
+    {
+      "title": "从超级个体到超级团队，腾讯云发布WorkBuddy企业版",
+      "link": "https://www.qbitai.com/2026/06/430758.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-05 08:55",
+      "summary": "打造企业AI效率工具新标配"
+    }
+  ],
+  "funding": [],
   "research": [
     {
       "title": "Arm 开源 AI 安全框架 Metis，性能优于传统 SAST 工具",
@@ -57,48 +71,55 @@
   ],
   "industry": [
     {
-      "title": "比亚迪与中国石化深化战略合作 共建智慧能源生态",
-      "link": "https://www.qbitai.com/2026/06/428933.html",
+      "title": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制",
+      "link": "https://www.qbitai.com/2026/06/431033.html",
       "source": "qbitai",
-      "pub_date": "2026-06-04 06:58",
+      "pub_date": "2026-06-05 10:53",
+      "summary": "研究表明，睡眠中的记忆重激活参与调控睡眠动态，为理解“记忆-睡眠”双向作用机制提供了新的实验证据。"
+    },
+    {
+      "title": "国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态",
+      "link": "https://www.qbitai.com/2026/06/430757.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-05 09:40",
       "summary": ""
     }
   ],
   "other": [
     {
-      "title": "重估比亚迪，从智驾开始",
-      "link": "https://www.qbitai.com/2026/06/429192.html",
+      "title": "有人靠CPU把AI算力密度卷到了新高度",
+      "link": "https://www.qbitai.com/2026/06/431045.html",
       "source": "qbitai",
-      "pub_date": "2026-06-04 13:10",
+      "pub_date": "2026-06-05 13:16",
+      "summary": "Agentic AI的算力焦虑，英特尔给来了一剂「猛药」"
+    },
+    {
+      "title": "B站宣布启动AI创造公开赛 打造中国版Build in Public",
+      "link": "https://www.qbitai.com/2026/06/430752.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-05 07:38",
       "summary": ""
     },
     {
-      "title": "中国足球小将夺冠，比亚迪携手足球少年走向世界",
-      "link": "https://www.qbitai.com/2026/06/429186.html",
+      "title": "100亿砸向人形，不如先让10万台机器狗走进家庭",
+      "link": "https://www.qbitai.com/2026/06/429968.html",
       "source": "qbitai",
-      "pub_date": "2026-06-04 13:00",
-      "summary": ""
+      "pub_date": "2026-06-05 07:21",
+      "summary": "所有通用技术，最后都要回到消费市场。"
     },
     {
-      "title": "CVPR 2026，英伟达特斯拉Waymo一块听中国公司讲物理AI",
-      "link": "https://www.qbitai.com/2026/06/429130.html",
+      "title": "活久见！奥特曼Dario哈萨比斯同仇敌忾：DNA得查了",
+      "link": "https://www.qbitai.com/2026/06/429711.html",
       "source": "qbitai",
-      "pub_date": "2026-06-04 11:56",
-      "summary": "率先实现物理AI闭环飞轮"
+      "pub_date": "2026-06-05 06:56",
+      "summary": "科技领袖呼吁DNA安全立法"
     },
     {
-      "title": "连GitLab都开始裁程序员了",
-      "link": "https://www.qbitai.com/2026/06/429117.html",
+      "title": "全球首个机器人训练楼盘开盘：30万套中国住宅，机器人拎包入住",
+      "link": "https://www.qbitai.com/2026/06/429349.html",
       "source": "qbitai",
-      "pub_date": "2026-06-04 08:54",
-      "summary": "硅谷科技公司Q1裁员同比增长40%"
-    },
-    {
-      "title": "A股账户可以买Robotaxi了",
-      "link": "https://www.qbitai.com/2026/06/428954.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-04 07:41",
-      "summary": "Robotaxi双雄同日官宣"
+      "pub_date": "2026-06-05 06:33",
+      "summary": "具身智能的房地产开发商来了！"
     }
   ]
 }
