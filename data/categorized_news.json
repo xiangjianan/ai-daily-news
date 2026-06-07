@@ -1,6 +1,13 @@
 {
   "headline": [
     {
+      "title": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
+      "link": "https://www.qbitai.com/2026/06/431287.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-06 07:15",
+      "summary": "观众投币定前十！"
+    },
+    {
       "title": "OpenAI CFO 首次详解公司战略：B端C端收入五五开、抢 IPO 第一名没意义，今年拿出神秘AI硬件",
       "link": "https://www.infoq.cn/article/BRvoqUKZgRrl5Xt9ooyJ?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -8,32 +15,25 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/BRvoqUKZgRrl5Xt9ooyJ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-06-06 20:32",
+      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process."
+    },
+    {
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-06-06 16:17",
+      "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\""
+    },
+    {
       "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
       "link": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
       "source": "techcrunch_ai",
       "pub_date": "2026-06-05 14:32",
       "summary": "The U.S. eavesdropping agency is reportedly preparing Anthropic's Mythos for use in cyberattacks, despite a federal ban on using the AI model maker."
-    },
-    {
-      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-      "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-06-04 22:43",
-      "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa"
-    },
-    {
-      "title": "Dreaming: Better memory for a more helpful ChatGPT",
-      "link": "https://openai.com/index/chatgpt-memory-dreaming",
-      "source": "openai_blog",
-      "pub_date": "2026-06-04 09:00",
-      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations."
-    },
-    {
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "source": "openai_blog",
-      "pub_date": "2026-06-03 13:15",
-      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities."
     }
   ],
   "product": [
@@ -52,11 +52,11 @@
       "summary": "AI笔记不是聊天框，而是信息入口。"
     },
     {
-      "title": "从超级个体到超级团队，腾讯云发布WorkBuddy企业版",
-      "link": "https://www.qbitai.com/2026/06/430758.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-05 08:55",
-      "summary": "打造企业AI效率工具新标配"
+      "title": "Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+      "link": "https://www.infoq.cn/article/NWjH4oTh0j4HsxJsCRaf?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-06-06 09:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/NWjH4oTh0j4HsxJsCRaf?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
@@ -87,39 +87,39 @@
   ],
   "other": [
     {
+      "title": "马斯克是SpaceX面子，她才是里子",
+      "link": "https://www.qbitai.com/2026/06/431371.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-06 10:14",
+      "summary": "造火箭的正在批量造巨富"
+    },
+    {
+      "title": "Hinton吹哨了：AI已经有意识！",
+      "link": "https://www.qbitai.com/2026/06/431349.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-06 07:08",
+      "summary": "人类得接受自己不再是唯一智能生命体"
+    },
+    {
+      "title": "今年CVPR看点是广东：何恺明再获至高大奖，广工大打破大厂名校垄断",
+      "link": "https://www.qbitai.com/2026/06/431186.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-06 07:00",
+      "summary": "广东上大分！"
+    },
+    {
+      "title": "港股鞋王千百度，一夜完成AI数据公司转型",
+      "link": "https://www.qbitai.com/2026/06/431056.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-06 03:35",
+      "summary": "形成「鞋履+人工智能数据」双主业"
+    },
+    {
       "title": "有人靠CPU把AI算力密度卷到了新高度",
       "link": "https://www.qbitai.com/2026/06/431045.html",
       "source": "qbitai",
       "pub_date": "2026-06-05 13:16",
       "summary": "Agentic AI的算力焦虑，英特尔给来了一剂「猛药」"
-    },
-    {
-      "title": "B站宣布启动AI创造公开赛 打造中国版Build in Public",
-      "link": "https://www.qbitai.com/2026/06/430752.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-05 07:38",
-      "summary": ""
-    },
-    {
-      "title": "100亿砸向人形，不如先让10万台机器狗走进家庭",
-      "link": "https://www.qbitai.com/2026/06/429968.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-05 07:21",
-      "summary": "所有通用技术，最后都要回到消费市场。"
-    },
-    {
-      "title": "活久见！奥特曼Dario哈萨比斯同仇敌忾：DNA得查了",
-      "link": "https://www.qbitai.com/2026/06/429711.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-05 06:56",
-      "summary": "科技领袖呼吁DNA安全立法"
-    },
-    {
-      "title": "全球首个机器人训练楼盘开盘：30万套中国住宅，机器人拎包入住",
-      "link": "https://www.qbitai.com/2026/06/429349.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-05 06:33",
-      "summary": "具身智能的房地产开发商来了！"
     }
   ]
 }
