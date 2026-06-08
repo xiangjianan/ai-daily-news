@@ -1,6 +1,13 @@
 {
   "headline": [
     {
+      "title": "OpenAI芯片核心叛逃Anthropic！就在量产前夜",
+      "link": "https://www.qbitai.com/2026/06/431499.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-07 12:07",
+      "summary": "帮OpenAI从零造出第一颗芯片的人，转投Anthropic了"
+    },
+    {
       "title": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
       "link": "https://www.qbitai.com/2026/06/431287.html",
       "source": "qbitai",
@@ -15,42 +22,21 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/BRvoqUKZgRrl5Xt9ooyJ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
+      "title": "OpenAI is still working on that ‘super app’",
+      "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-06-07 16:23",
+      "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee."
+    },
+    {
       "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
       "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
       "source": "techcrunch_ai",
       "pub_date": "2026-06-06 20:32",
       "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process."
-    },
-    {
-      "title": "The Trump administration might take an equity stake in OpenAI",
-      "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-06-06 16:17",
-      "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\""
-    },
-    {
-      "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
-      "link": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-06-05 14:32",
-      "summary": "The U.S. eavesdropping agency is reportedly preparing Anthropic's Mythos for use in cyberattacks, despite a federal ban on using the AI model maker."
     }
   ],
   "product": [
-    {
-      "title": "华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”",
-      "link": "https://www.qbitai.com/2026/06/431027.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-05 10:46",
-      "summary": ""
-    },
-    {
-      "title": "WPS笔记正式发布：AI贯穿记录、整理与复用全过程",
-      "link": "https://www.qbitai.com/2026/06/431014.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-05 09:16",
-      "summary": "AI笔记不是聊天框，而是信息入口。"
-    },
     {
       "title": "Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
       "link": "https://www.infoq.cn/article/NWjH4oTh0j4HsxJsCRaf?utm_source=rss&utm_medium=article",
@@ -69,57 +55,42 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/WBSYmfvEkiaHEcgkYOcA?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "industry": [
+  "industry": [],
+  "other": [
     {
-      "title": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制",
-      "link": "https://www.qbitai.com/2026/06/431033.html",
+      "title": "有余凯不投的地平线离职创业员工吗？",
+      "link": "https://www.qbitai.com/2026/06/431931.html",
       "source": "qbitai",
-      "pub_date": "2026-06-05 10:53",
-      "summary": "研究表明，睡眠中的记忆重激活参与调控睡眠动态，为理解“记忆-睡眠”双向作用机制提供了新的实验证据。"
+      "pub_date": "2026-06-07 12:43",
+      "summary": "「放任」人才外流的反常操作，只是格局使然吗？"
     },
     {
-      "title": "国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态",
-      "link": "https://www.qbitai.com/2026/06/430757.html",
+      "title": "马斯克39页SpaceX计划，人类史上最伟大的PPT",
+      "link": "https://www.qbitai.com/2026/06/431694.html",
       "source": "qbitai",
-      "pub_date": "2026-06-05 09:40",
-      "summary": ""
-    }
-  ],
-  "other": [
+      "pub_date": "2026-06-07 12:13",
+      "summary": "人类历史最大规模的IPO招股开始了！"
+    },
+    {
+      "title": "教你用AI一节课收17万，华尔街精英排着队付费",
+      "link": "https://www.qbitai.com/2026/06/431487.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-07 03:10",
+      "summary": "花旗美银都是客户"
+    },
+    {
+      "title": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
+      "link": "https://www.qbitai.com/2026/06/431401.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-07 01:13",
+      "summary": "高一致性、低延迟、实时超分全梭哈"
+    },
     {
       "title": "马斯克是SpaceX面子，她才是里子",
       "link": "https://www.qbitai.com/2026/06/431371.html",
       "source": "qbitai",
       "pub_date": "2026-06-06 10:14",
       "summary": "造火箭的正在批量造巨富"
-    },
-    {
-      "title": "Hinton吹哨了：AI已经有意识！",
-      "link": "https://www.qbitai.com/2026/06/431349.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-06 07:08",
-      "summary": "人类得接受自己不再是唯一智能生命体"
-    },
-    {
-      "title": "今年CVPR看点是广东：何恺明再获至高大奖，广工大打破大厂名校垄断",
-      "link": "https://www.qbitai.com/2026/06/431186.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-06 07:00",
-      "summary": "广东上大分！"
-    },
-    {
-      "title": "港股鞋王千百度，一夜完成AI数据公司转型",
-      "link": "https://www.qbitai.com/2026/06/431056.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-06 03:35",
-      "summary": "形成「鞋履+人工智能数据」双主业"
-    },
-    {
-      "title": "有人靠CPU把AI算力密度卷到了新高度",
-      "link": "https://www.qbitai.com/2026/06/431045.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-05 13:16",
-      "summary": "Agentic AI的算力焦虑，英特尔给来了一剂「猛药」"
     }
   ]
 }
