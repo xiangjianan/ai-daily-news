@@ -1,96 +1,110 @@
 {
   "headline": [
     {
-      "title": "OpenAI芯片核心叛逃Anthropic！就在量产前夜",
-      "link": "https://www.qbitai.com/2026/06/431499.html",
+      "title": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！",
+      "link": "https://www.qbitai.com/2026/06/432425.html",
       "source": "qbitai",
-      "pub_date": "2026-06-07 12:07",
-      "summary": "帮OpenAI从零造出第一颗芯片的人，转投Anthropic了"
+      "pub_date": "2026-06-08 08:28",
+      "summary": "豆包硬刚ChatGPT"
     },
     {
-      "title": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
-      "link": "https://www.qbitai.com/2026/06/431287.html",
+      "title": "大模型看Coding，具身看Picking！原力灵机已抢先入局",
+      "link": "https://www.qbitai.com/2026/06/432417.html",
       "source": "qbitai",
-      "pub_date": "2026-06-06 07:15",
-      "summary": "观众投币定前十！"
+      "pub_date": "2026-06-08 06:30",
+      "summary": "轻视它就会错过整个时代"
     },
     {
-      "title": "OpenAI CFO 首次详解公司战略：B端C端收入五五开、抢 IPO 第一名没意义，今年拿出神秘AI硬件",
-      "link": "https://www.infoq.cn/article/BRvoqUKZgRrl5Xt9ooyJ?utm_source=rss&utm_medium=article",
+      "title": "云知声U2，重新计算通用大模型的商业价值",
+      "link": "https://www.infoq.cn/article/dXrSfgKc1E2Ck60IGYhT?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-06-04 17:33",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/BRvoqUKZgRrl5Xt9ooyJ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-06-08 16:43",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/dXrSfgKc1E2Ck60IGYhT?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI is still working on that ‘super app’",
-      "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+      "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-06-07 16:23",
-      "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee."
+      "pub_date": "2026-06-08 22:41",
+      "summary": "Tools for Humanity, Sam Altman's identify verification company, is reportedly struggling to generate revenue and will downsize its staff."
     },
     {
-      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-      "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "title": "OpenAI files confidentially for IPO, following Anthropic",
+      "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-06-06 20:32",
-      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process."
+      "pub_date": "2026-06-08 21:29",
+      "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms."
     }
   ],
   "product": [
     {
-      "title": "Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
-      "link": "https://www.infoq.cn/article/NWjH4oTh0j4HsxJsCRaf?utm_source=rss&utm_medium=article",
+      "title": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
+      "link": "https://www.qbitai.com/2026/06/432587.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-08 10:40",
+      "summary": "协助用户与商家判断智能体可信赖程度"
+    },
+    {
+      "title": "高德发布ABot-Earth0.5：跨越2D蒸馏模式，以3D原生驱动高一致性场景生成",
+      "link": "https://www.qbitai.com/2026/06/432489.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-08 09:00",
+      "summary": "ABot-Earth0.5正式开放内测"
+    },
+    {
+      "title": "蚂蚁国际推出移动智能体协议AMP，海外AI支付迈向统一标准",
+      "link": "https://www.infoq.cn/article/gSR7FTxv2trGQjSIMkmp?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-06-06 09:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/NWjH4oTh0j4HsxJsCRaf?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-06-08 18:29",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/gSR7FTxv2trGQjSIMkmp?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
   "research": [
     {
-      "title": "Arm 开源 AI 安全框架 Metis，性能优于传统 SAST 工具",
-      "link": "https://www.infoq.cn/article/WBSYmfvEkiaHEcgkYOcA?utm_source=rss&utm_medium=article",
+      "title": "“英伟达也缺算力！”顶尖AI研究员转投xAI内幕：谁GPU管够，就去哪里",
+      "link": "https://www.infoq.cn/article/E1oMvU7A5EH9hDMcAJLE?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-06-04 16:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/WBSYmfvEkiaHEcgkYOcA?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-06-08 16:34",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/E1oMvU7A5EH9hDMcAJLE?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "industry": [],
   "other": [
+    {
+      "title": "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动",
+      "link": "https://www.qbitai.com/2026/06/432581.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-08 08:09",
+      "summary": ""
+    },
+    {
+      "title": "马斯克SpaceX路演PPT：60页，值1.77万亿美元",
+      "link": "https://www.qbitai.com/2026/06/432084.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-08 05:02",
+      "summary": "最值得看的不是火箭是AI"
+    },
+    {
+      "title": "让矩阵归模拟，让逻辑归数字！这家中国团队重新定义了计算机",
+      "link": "https://www.qbitai.com/2026/06/432062.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-08 04:36",
+      "summary": "黄仁勋要算一万步，这家公司的芯片只需一步"
+    },
+    {
+      "title": "高通点赞广汽埃安N60智驾大赛获亚军，文远知行WRD 3.0亮相高通峰会",
+      "link": "https://www.qbitai.com/2026/06/432055.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-08 03:17",
+      "summary": "文远知行携L2++ 一段式端到端方案WRD 3.0参展"
+    },
     {
       "title": "有余凯不投的地平线离职创业员工吗？",
       "link": "https://www.qbitai.com/2026/06/431931.html",
       "source": "qbitai",
       "pub_date": "2026-06-07 12:43",
       "summary": "「放任」人才外流的反常操作，只是格局使然吗？"
-    },
-    {
-      "title": "马斯克39页SpaceX计划，人类史上最伟大的PPT",
-      "link": "https://www.qbitai.com/2026/06/431694.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-07 12:13",
-      "summary": "人类历史最大规模的IPO招股开始了！"
-    },
-    {
-      "title": "教你用AI一节课收17万，华尔街精英排着队付费",
-      "link": "https://www.qbitai.com/2026/06/431487.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-07 03:10",
-      "summary": "花旗美银都是客户"
-    },
-    {
-      "title": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
-      "link": "https://www.qbitai.com/2026/06/431401.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-07 01:13",
-      "summary": "高一致性、低延迟、实时超分全梭哈"
-    },
-    {
-      "title": "马斯克是SpaceX面子，她才是里子",
-      "link": "https://www.qbitai.com/2026/06/431371.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-06 10:14",
-      "summary": "造火箭的正在批量造巨富"
     }
   ]
 }
