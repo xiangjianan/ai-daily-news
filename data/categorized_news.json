@@ -1,6 +1,20 @@
 {
   "headline": [
     {
+      "title": "GPT-5.6首批实测来了！精准狙击Mythos",
+      "link": "https://www.qbitai.com/2026/06/433731.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-10 06:45",
+      "summary": "本月发布！"
+    },
+    {
+      "title": "Claude Fable 5首日实测，杀疯了…",
+      "link": "https://www.qbitai.com/2026/06/433682.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-10 05:54",
+      "summary": "听取哇声一片"
+    },
+    {
       "title": "刚刚，Claude Mythos 5发布！5000万行代码1天搞定",
       "link": "https://www.qbitai.com/2026/06/433590.html",
       "source": "qbitai",
@@ -8,97 +22,89 @@
       "summary": "一个更强的模型上桌了"
     },
     {
-      "title": "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent",
-      "link": "https://www.qbitai.com/2026/06/433508.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-09 07:11",
-      "summary": ""
+      "title": "OpenAI 为 Codex 智能体打造安全的 Windows 沙盒",
+      "link": "https://www.infoq.cn/article/P3C52z1QFIgM0oBSIiXO?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-06-10 18:30",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/P3C52z1QFIgM0oBSIiXO?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "国产通用大模型第一梯队，来新人了？！",
-      "link": "https://www.qbitai.com/2026/06/432747.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-09 02:55",
-      "summary": "不卷参数，卷“智能密度×Token价值”"
-    },
-    {
-      "title": "Anthropic 被曝雇1000名人类工程师“培训”Claude Code，时薪280美元：AI 编程越进化越离不开真人兜底",
-      "link": "https://www.infoq.cn/article/qamWWo56NVvksQUYQGNF?utm_source=rss&utm_medium=article",
+      "title": "大人，AI编程又变天了！Claude Code之父、龙虾创始人同时力捧新范式，杀死提示词工程？",
+      "link": "https://www.infoq.cn/article/W3cHyeWfH0fbisevdoK6?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-06-09 09:33",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qamWWo56NVvksQUYQGNF?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "云知声U2，重新计算通用大模型的商业价值",
-      "link": "https://www.infoq.cn/article/dXrSfgKc1E2Ck60IGYhT?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-06-08 16:43",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/dXrSfgKc1E2Ck60IGYhT?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-06-10 18:06",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/W3cHyeWfH0fbisevdoK6?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "product": [
+  "product": [],
+  "funding": [
     {
-      "title": "蚂蚁国际推出移动智能体协议AMP，海外AI支付迈向统一标准",
-      "link": "https://www.infoq.cn/article/gSR7FTxv2trGQjSIMkmp?utm_source=rss&utm_medium=article",
+      "title": "完成亿元天使轮融资，华超神控押注 AI 超声脑机接口",
+      "link": "https://www.infoq.cn/article/C1Fqp2WOao7d72b1kHR1?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-06-08 18:29",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/gSR7FTxv2trGQjSIMkmp?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-06-10 18:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/C1Fqp2WOao7d72b1kHR1?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [],
-  "research": [
-    {
-      "title": "“英伟达也缺算力！”顶尖AI研究员转投xAI内幕：谁GPU管够，就去哪里",
-      "link": "https://www.infoq.cn/article/E1oMvU7A5EH9hDMcAJLE?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-06-08 16:34",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/E1oMvU7A5EH9hDMcAJLE?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "research": [],
   "industry": [
     {
-      "title": "解码热门AI应用，智能质检、3D生成与AIGC实践分享",
-      "link": "https://www.infoq.cn/video/NkDlPzssTJw9VN31i4JE?utm_source=rss&utm_medium=article",
+      "title": "百度智能云与FluxA达成战略合作，共建 Agent 经济全球支付基础设施",
+      "link": "https://www.qbitai.com/2026/06/433516.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-10 06:51",
+      "summary": "诚邀30家OPC入驻内测"
+    },
+    {
+      "title": "业界首次：DeepSeek-V4 基于国产AI芯片+SGLang RBG的云原生推理方案在招商银行落地",
+      "link": "https://www.infoq.cn/article/FDIT4N6S583uNKGmUm8F?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-06-09 16:41",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/video/NkDlPzssTJw9VN31i4JE?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-06-10 13:59",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/FDIT4N6S583uNKGmUm8F?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Qoder CLI：从 Coding Agent 到企业级 AI 应用基础设施｜AICon上海",
+      "link": "https://www.infoq.cn/article/cAWaKiuf9U4MNkjyfKYa?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-06-10 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/cAWaKiuf9U4MNkjyfKYa?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
+    {
+      "title": "中国第一、全球第二！HiDream-O1-Image-1.5 登顶文生图榜单，超越谷歌、英伟达",
+      "link": "https://www.qbitai.com/2026/06/434196.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-10 11:52",
+      "summary": "转载来源：智象未来\n本文为量子位获授权转载，观点仅为原作者所有。"
+    },
+    {
+      "title": "东风联手九识，商用无人车也有“HI模式”了",
+      "link": "https://www.qbitai.com/2026/06/433956.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-10 11:38",
+      "summary": "商用车AI基座已成型"
+    },
+    {
+      "title": "抖音征召天下「AI视频英才」！创作者们，这次是真能吃上AI红利了…",
+      "link": "https://www.qbitai.com/2026/06/433832.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-10 10:25",
+      "summary": "踮起脚尖吧。"
+    },
+    {
+      "title": "英特尔锐炫™ Pro B70 GPU亮相MPTS2026，共探大视听时代AI创作新范式",
+      "link": "https://www.qbitai.com/2026/06/433798.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-10 07:27",
+      "summary": "AI创作新时代，英特尔锐炫™ Pro B70 GPU 释放专业算力潜能"
+    },
     {
       "title": "内蒙跑通AI逆袭新解法",
       "link": "https://www.qbitai.com/2026/06/433565.html",
       "source": "qbitai",
       "pub_date": "2026-06-09 13:40",
       "summary": "全行业的Token焦虑何解？"
-    },
-    {
-      "title": "理想智驾一号位创业，落户北京亦庄了",
-      "link": "https://www.qbitai.com/2026/06/433560.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-09 13:20",
-      "summary": "10天跻身具身独角兽"
-    },
-    {
-      "title": "你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司",
-      "link": "https://www.qbitai.com/2026/06/433517.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-09 09:12",
-      "summary": "祝大家都能找到，属于自己的驱动力"
-    },
-    {
-      "title": "仅4B大小可端侧部署！卡帕西预言的「认知模型」被国产做出来了",
-      "link": "https://www.qbitai.com/2026/06/433478.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-09 04:17",
-      "summary": "效果比肩GPT-5.4"
-    },
-    {
-      "title": "你天天刷的小红书，正在长出一个GitHub",
-      "link": "https://www.qbitai.com/2026/06/433066.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-09 04:07",
-      "summary": "RED Skill预计7月全量上线"
     }
   ]
 }
