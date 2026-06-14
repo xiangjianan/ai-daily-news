@@ -15,11 +15,11 @@
       "summary": "最难档通通零蛋"
     },
     {
-      "title": "Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜",
-      "link": "https://www.qbitai.com/2026/06/434571.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-11 08:23",
-      "summary": "聪明人总能花最少的钱办最好的事，AI也一样。"
+      "title": "面壁智能开源社区负责人井晨哲将在AICon上海站，分享高效端侧大模型的技术趋势与产业应用观察",
+      "link": "https://www.infoq.cn/article/sMxf71RUtLYgI0BsQhKw?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-06-13 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/sMxf71RUtLYgI0BsQhKw?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "智源大会圆桌：大模型没有终局，具身智能可能是中国的 AlphaGo 时刻",
@@ -37,15 +37,7 @@
     }
   ],
   "product": [],
-  "funding": [
-    {
-      "title": "SpaceX一上市，连食堂阿姨都要成百万富翁了。。。",
-      "link": "https://www.qbitai.com/2026/06/434733.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-12 00:26",
-      "summary": "光散户就给马斯克冲了700亿刀"
-    }
-  ],
+  "funding": [],
   "research": [],
   "industry": [
     {
@@ -58,39 +50,39 @@
   ],
   "other": [
     {
+      "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
+      "link": "https://www.qbitai.com/2026/06/435483.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-13 12:40",
+      "summary": "模型参数量只有1B"
+    },
+    {
+      "title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
+      "link": "https://www.qbitai.com/2026/06/435455.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-13 08:11",
+      "summary": "一起构建下一代物理世界的智能系统"
+    },
+    {
+      "title": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
+      "link": "https://www.qbitai.com/2026/06/435394.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-13 05:19",
+      "summary": ""
+    },
+    {
+      "title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
+      "link": "https://www.qbitai.com/2026/06/435339.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-13 04:05",
+      "summary": "马斯克成人类历史首位万亿美金富豪"
+    },
+    {
       "title": "神了，世界杯第一天真按千问剧本踢了",
       "link": "https://www.qbitai.com/2026/06/435321.html",
       "source": "qbitai",
       "pub_date": "2026-06-12 16:45",
       "summary": "比分、红牌、绝杀全押中"
-    },
-    {
-      "title": "千里收购了一家毫米波雷达公司",
-      "link": "https://www.qbitai.com/2026/06/435196.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-12 09:13",
-      "summary": "布局全栈闭环"
-    },
-    {
-      "title": "耐心资本护航创新，2026SuperLink开启创投价值共生新时代",
-      "link": "https://www.qbitai.com/2026/06/435192.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-12 07:31",
-      "summary": "助力LP与GP高效合"
-    },
-    {
-      "title": "BEV 杀入具身智能：跨维把机器人数据带上 Scaling 快车道",
-      "link": "https://www.qbitai.com/2026/06/434761.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-12 04:11",
-      "summary": ""
-    },
-    {
-      "title": "1290万高考生看过来！阿里出了个志愿填报Agent，免费的",
-      "link": "https://www.qbitai.com/2026/06/434558.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-11 07:25",
-      "summary": "前期做了40万AI考生压测"
     }
   ]
 }
