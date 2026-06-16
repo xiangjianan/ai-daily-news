@@ -1,18 +1,25 @@
 {
   "headline": [
     {
-      "title": "Anthropic老大的唯一 -1，就是AI股神的未婚妻",
-      "link": "https://www.qbitai.com/2026/06/433717.html",
+      "title": "4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型",
+      "link": "https://www.qbitai.com/2026/06/435802.html",
       "source": "qbitai",
-      "pub_date": "2026-06-12 07:29",
-      "summary": "那位被OpenAI开除的股神"
+      "pub_date": "2026-06-15 06:52",
+      "summary": "还能听懂时间戳"
     },
     {
-      "title": "“智能体最后的考试”，Fable 5竟然不敌GPT 5.5",
-      "link": "https://www.qbitai.com/2026/06/434774.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-12 04:13",
-      "summary": "最难档通通零蛋"
+      "title": "前 OpenAI 高管清华演讲：比失业更可怕的，是 AI 时代我们不知道“我是谁”",
+      "link": "https://www.infoq.cn/article/BVEc18iUtotFGN2mpRSI?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-06-15 22:31",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/BVEc18iUtotFGN2mpRSI?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Fable 5 被禁竟因不听劝，Anthropic开启退款；阿里辟谣合伙人周靖人离职消息；智谱GLM-5.2全量开放：前沿智能不应被随时收回｜AI周报",
+      "link": "https://www.infoq.cn/article/iuD87mUGUbkR8RGbiqNr?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-06-15 16:48",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/iuD87mUGUbkR8RGbiqNr?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "OpenAI GPT-5.5 与 Codex 正式登陆 Amazon Bedrock",
@@ -22,67 +29,91 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/FuhAEYbk8T0b0GQZyq4c?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "面壁智能开源社区负责人井晨哲将在AICon上海站，分享高效端侧大模型的技术趋势与产业应用观察",
-      "link": "https://www.infoq.cn/article/sMxf71RUtLYgI0BsQhKw?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-06-13 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/sMxf71RUtLYgI0BsQhKw?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "智源大会圆桌：大模型没有终局，具身智能可能是中国的 AlphaGo 时刻",
-      "link": "https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-06-12 16:30",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-06-15 21:50",
+      "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro"
     }
   ],
-  "product": [],
-  "funding": [],
-  "research": [],
+  "product": [
+    {
+      "title": "Microsoft Discovery 正式上线 Azure ，为 Majorana 2 量子芯片的研发提供代理式 AI 支持",
+      "link": "https://www.infoq.cn/article/TVaWScbjordM7XP3FuPg?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-06-15 18:11",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/TVaWScbjordM7XP3FuPg?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
+  "funding": [
+    {
+      "title": "89年哈工程校友，拿下全球海洋机器人领域最大单轮融资",
+      "link": "https://www.qbitai.com/2026/06/435804.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-15 06:54",
+      "summary": "上半年订单金额已超10亿"
+    }
+  ],
+  "research": [
+    {
+      "title": "低成本复刻Fable 5的路子找到了：OrcaRouter多模型组队，性能反超",
+      "link": "https://www.qbitai.com/2026/06/435558.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-15 05:43",
+      "summary": "原来最强AI不是一个AI"
+    },
+    {
+      "title": "智源大会 | 天工AI重新定义世界模型，公布Matrix-Game 3.5 最新技术突破",
+      "link": "https://www.qbitai.com/2026/06/435520.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-15 03:24",
+      "summary": "昆仑万维将持续深耕，步履不停"
+    }
+  ],
   "industry": [
     {
-      "title": "2026奇点智能产品大会首批嘉宾官宣：在 AI 的“可交付的时代”，看一线专家如何拆解真实落地闭环！",
-      "link": "https://www.qbitai.com/2026/06/435105.html",
+      "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
+      "link": "https://www.qbitai.com/2026/06/435848.html",
       "source": "qbitai",
-      "pub_date": "2026-06-12 07:27",
-      "summary": "7 月 17-18 日"
+      "pub_date": "2026-06-15 12:57",
+      "summary": ""
     }
   ],
   "other": [
+    {
+      "title": "从ICRA到CVPR，机器人圈最近到底在聊什么？｜北京·周三晚",
+      "link": "https://www.qbitai.com/2026/06/435841.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-15 09:37",
+      "summary": ""
+    },
+    {
+      "title": "宇树机器人要登珠峰了！",
+      "link": "https://www.qbitai.com/2026/06/435817.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-15 09:17",
+      "summary": "已登顶钦博拉索"
+    },
+    {
+      "title": "刚成立一年就拿下车厂订单，这家清华系公司把具身智能送进真实产线",
+      "link": "https://www.qbitai.com/2026/06/435574.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-15 06:08",
+      "summary": "过去两年，具身智能行业最热的关键词是人形机器人。但未来几年，更重要的关键词或许会变成另一件事：智能生产力。"
+    },
+    {
+      "title": "Agent时代，华为云开始重新造地基了",
+      "link": "https://www.qbitai.com/2026/06/435531.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-15 03:40",
+      "summary": "Agentic新基建"
+    },
     {
       "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
       "link": "https://www.qbitai.com/2026/06/435483.html",
       "source": "qbitai",
       "pub_date": "2026-06-13 12:40",
       "summary": "模型参数量只有1B"
-    },
-    {
-      "title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
-      "link": "https://www.qbitai.com/2026/06/435455.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-13 08:11",
-      "summary": "一起构建下一代物理世界的智能系统"
-    },
-    {
-      "title": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
-      "link": "https://www.qbitai.com/2026/06/435394.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-13 05:19",
-      "summary": ""
-    },
-    {
-      "title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
-      "link": "https://www.qbitai.com/2026/06/435339.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-13 04:05",
-      "summary": "马斯克成人类历史首位万亿美金富豪"
-    },
-    {
-      "title": "神了，世界杯第一天真按千问剧本踢了",
-      "link": "https://www.qbitai.com/2026/06/435321.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-12 16:45",
-      "summary": "比分、红牌、绝杀全押中"
     }
   ]
 }
