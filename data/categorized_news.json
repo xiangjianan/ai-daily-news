@@ -1,11 +1,11 @@
 {
   "headline": [
     {
-      "title": "4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型",
-      "link": "https://www.qbitai.com/2026/06/435802.html",
+      "title": "三连发！阿里发布首个具身大模型Qwen-Robot系列",
+      "link": "https://www.qbitai.com/2026/06/435873.html",
       "source": "qbitai",
-      "pub_date": "2026-06-15 06:52",
-      "summary": "还能听懂时间戳"
+      "pub_date": "2026-06-16 04:39",
+      "summary": "边走、边看、边思考"
     },
     {
       "title": "前 OpenAI 高管清华演讲：比失业更可怕的，是 AI 时代我们不知道“我是谁”",
@@ -22,21 +22,28 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/iuD87mUGUbkR8RGbiqNr?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI GPT-5.5 与 Codex 正式登陆 Amazon Bedrock",
-      "link": "https://www.infoq.cn/article/FuhAEYbk8T0b0GQZyq4c?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-06-14 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/FuhAEYbk8T0b0GQZyq4c?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "Introducing the OpenAI Partner Network",
+      "link": "https://openai.com/index/introducing-openai-partner-network",
+      "source": "openai_blog",
+      "pub_date": "2026-06-14 17:00",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation."
     },
     {
-      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
-      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-06-15 21:50",
-      "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro"
+      "title": "New OpenAI Academy courses for the next era of work",
+      "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "source": "openai_blog",
+      "pub_date": "2026-06-12 10:00",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work."
     }
   ],
   "product": [
+    {
+      "title": "上线首月吸引 10 万开发者，AnySearch 为 Agent 解锁网页之外的世界",
+      "link": "https://www.qbitai.com/2026/06/435861.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-16 01:32",
+      "summary": "专为 Agent 设计的 AI 搜索层服务"
+    },
     {
       "title": "Microsoft Discovery 正式上线 Azure ，为 Majorana 2 量子芯片的研发提供代理式 AI 支持",
       "link": "https://www.infoq.cn/article/TVaWScbjordM7XP3FuPg?utm_source=rss&utm_medium=article",
@@ -45,32 +52,16 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/TVaWScbjordM7XP3FuPg?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [
-    {
-      "title": "89年哈工程校友，拿下全球海洋机器人领域最大单轮融资",
-      "link": "https://www.qbitai.com/2026/06/435804.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-15 06:54",
-      "summary": "上半年订单金额已超10亿"
-    }
-  ],
-  "research": [
-    {
-      "title": "低成本复刻Fable 5的路子找到了：OrcaRouter多模型组队，性能反超",
-      "link": "https://www.qbitai.com/2026/06/435558.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-15 05:43",
-      "summary": "原来最强AI不是一个AI"
-    },
-    {
-      "title": "智源大会 | 天工AI重新定义世界模型，公布Matrix-Game 3.5 最新技术突破",
-      "link": "https://www.qbitai.com/2026/06/435520.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-15 03:24",
-      "summary": "昆仑万维将持续深耕，步履不停"
-    }
-  ],
+  "funding": [],
+  "research": [],
   "industry": [
+    {
+      "title": "从技术向运营生产力“质变”：神州数码以AI for Process构建AI落地产业的“飞轮”",
+      "link": "https://www.qbitai.com/2026/06/435859.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-16 04:10",
+      "summary": ""
+    },
     {
       "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
       "link": "https://www.qbitai.com/2026/06/435848.html",
@@ -81,39 +72,39 @@
   ],
   "other": [
     {
-      "title": "从ICRA到CVPR，机器人圈最近到底在聊什么？｜北京·周三晚",
-      "link": "https://www.qbitai.com/2026/06/435841.html",
+      "title": "一个模型控制手脚腰身！机器人终于学会全身协同干精细活了",
+      "link": "https://www.qbitai.com/2026/06/436073.html",
       "source": "qbitai",
-      "pub_date": "2026-06-15 09:37",
-      "summary": ""
+      "pub_date": "2026-06-16 13:23",
+      "summary": "手的问题，其实不在手"
     },
     {
-      "title": "宇树机器人要登珠峰了！",
-      "link": "https://www.qbitai.com/2026/06/435817.html",
+      "title": "和朱广权同台讲脱口秀，鸿蒙小艺这次把AI助手卷到新阶段了？！",
+      "link": "https://www.qbitai.com/2026/06/435953.html",
       "source": "qbitai",
-      "pub_date": "2026-06-15 09:17",
-      "summary": "已登顶钦博拉索"
+      "pub_date": "2026-06-16 13:02",
+      "summary": "会思考、能调度、还会自进化"
     },
     {
-      "title": "刚成立一年就拿下车厂订单，这家清华系公司把具身智能送进真实产线",
-      "link": "https://www.qbitai.com/2026/06/435574.html",
+      "title": "网易有道首席科学家段亦涛：让AI技术扎根业务场景",
+      "link": "https://www.qbitai.com/2026/06/435950.html",
       "source": "qbitai",
-      "pub_date": "2026-06-15 06:08",
-      "summary": "过去两年，具身智能行业最热的关键词是人形机器人。但未来几年，更重要的关键词或许会变成另一件事：智能生产力。"
+      "pub_date": "2026-06-16 10:36",
+      "summary": "转载来源：网易有道\n本文为量子位获授权转载，观点仅为原作者所有。"
     },
     {
-      "title": "Agent时代，华为云开始重新造地基了",
-      "link": "https://www.qbitai.com/2026/06/435531.html",
+      "title": "不儿，罗永浩、胡彦斌都来参加这场AI大赛了啊",
+      "link": "https://www.qbitai.com/2026/06/435931.html",
       "source": "qbitai",
-      "pub_date": "2026-06-15 03:40",
-      "summary": "Agentic新基建"
+      "pub_date": "2026-06-16 09:31",
+      "summary": "100万奖金，0门槛参赛"
     },
     {
-      "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
-      "link": "https://www.qbitai.com/2026/06/435483.html",
+      "title": "SpaceX华人女孩刷屏！没有硕博学位，6年从火箭小白到「猛禽」飞行操作员",
+      "link": "https://www.qbitai.com/2026/06/435882.html",
       "source": "qbitai",
-      "pub_date": "2026-06-13 12:40",
-      "summary": "模型参数量只有1B"
+      "pub_date": "2026-06-16 06:40",
+      "summary": "她并不是一位被神话出来的「星舰女王」"
     }
   ]
 }
