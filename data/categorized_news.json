@@ -1,11 +1,11 @@
 {
   "headline": [
     {
-      "title": "哈？Q1狂烧250亿！OpenAI财报泄露全网炸锅",
-      "link": "https://www.qbitai.com/2026/06/436477.html",
+      "title": "GPT发AI原创新成果了",
+      "link": "https://www.qbitai.com/2026/06/436842.html",
       "source": "qbitai",
-      "pub_date": "2026-06-18 05:12",
-      "summary": "给A社都干沉默了…"
+      "pub_date": "2026-06-19 03:34",
+      "summary": "AI实现药物全自动研发，还远吗？"
     },
     {
       "title": "Gemini 联合负责人出走 OpenAI：Google 为什么总让 AI 天才感到挫败？",
@@ -73,6 +73,20 @@
   ],
   "other": [
     {
+      "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
+      "link": "https://www.qbitai.com/2026/06/436864.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-19 08:42",
+      "summary": "创作者的终极玩具来了"
+    },
+    {
+      "title": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
+      "link": "https://www.qbitai.com/2026/06/436813.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-19 03:28",
+      "summary": "人形机器人正式迈入“GPT时代”"
+    },
+    {
       "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
       "link": "https://www.qbitai.com/2026/06/436758.html",
       "source": "qbitai",
@@ -92,20 +106,6 @@
       "source": "qbitai",
       "pub_date": "2026-06-18 10:14",
       "summary": ""
-    },
-    {
-      "title": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
-      "link": "https://www.qbitai.com/2026/06/436674.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-18 09:39",
-      "summary": "已接入华为鸿蒙生态"
-    },
-    {
-      "title": "全员本科生！何恺明组新作：文生图，258M参数就够了",
-      "link": "https://www.qbitai.com/2026/06/436518.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-18 09:12",
-      "summary": "整篇论文一共六位作者。除了何恺明之外，其余五位都还是本科生。"
     }
   ]
 }
