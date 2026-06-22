@@ -15,6 +15,13 @@
       "summary": "AI实现药物全自动研发，还远吗？"
     },
     {
+      "title": "从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+      "link": "https://www.infoq.cn/article/qTF6xLMZmM5vJe0L9twb?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-06-21 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qTF6xLMZmM5vJe0L9twb?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
       "title": "AI 大模型驱动银行信贷业务的全链路变革｜AICon上海",
       "link": "https://www.infoq.cn/article/TbCYkGW0XrYuhSK1NE2p?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -27,13 +34,6 @@
       "source": "infoq",
       "pub_date": "2026-06-18 18:15",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/3hkmF10X9ec1ujwwIjFW?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "JetBrains 开源 Mellum2，尝试 Claude Code 无法涉足的领域",
-      "link": "https://www.infoq.cn/article/QQVa7HhtdoDzLFB7ewVQ?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-06-18 17:48",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/QQVa7HhtdoDzLFB7ewVQ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "product": [
@@ -73,6 +73,20 @@
   ],
   "other": [
     {
+      "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+      "link": "https://www.qbitai.com/2026/06/437198.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-21 09:18",
+      "summary": "2026年还没过半，具身智能的融资就快要超过去年全年了，超过一半的钱都流入了机器人的“大脑”。"
+    },
+    {
+      "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
+      "link": "https://www.qbitai.com/2026/06/437141.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-21 04:46",
+      "summary": "一个月只要340块"
+    },
+    {
       "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
       "link": "https://www.qbitai.com/2026/06/437023.html",
       "source": "qbitai",
@@ -92,20 +106,6 @@
       "source": "qbitai",
       "pub_date": "2026-06-19 08:42",
       "summary": "创作者的终极玩具来了"
-    },
-    {
-      "title": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
-      "link": "https://www.qbitai.com/2026/06/436813.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-19 03:28",
-      "summary": "人形机器人正式迈入“GPT时代”"
-    },
-    {
-      "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
-      "link": "https://www.qbitai.com/2026/06/436758.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-18 13:46",
-      "summary": "M4是大脑，百小医是身体"
     }
   ]
 }
