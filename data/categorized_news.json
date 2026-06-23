@@ -1,18 +1,18 @@
 {
   "headline": [
     {
+      "title": "入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习",
+      "link": "https://www.qbitai.com/2026/06/437235.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-22 03:48",
+      "summary": "120分钟长视频一边看一边记"
+    },
+    {
       "title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
       "link": "https://www.qbitai.com/2026/06/436980.html",
       "source": "qbitai",
       "pub_date": "2026-06-20 09:42",
       "summary": "Gemini 3.5 Pro呢？"
-    },
-    {
-      "title": "GPT发AI原创新成果了",
-      "link": "https://www.qbitai.com/2026/06/436842.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-19 03:34",
-      "summary": "AI实现药物全自动研发，还远吗？"
     },
     {
       "title": "从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
@@ -38,11 +38,18 @@
   ],
   "product": [
     {
-      "title": "Terraform MCP Server 发布，助力 AI 助手对接 Terraform 基础设施",
-      "link": "https://www.infoq.cn/article/ftrYiDYaJmOeZcexSUMc?utm_source=rss&utm_medium=article",
+      "title": "阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级",
+      "link": "https://www.qbitai.com/2026/06/437317.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-22 07:30",
+      "summary": ""
+    },
+    {
+      "title": "xAI发布Grok Skills并更新用于工具调用的Responses API",
+      "link": "https://www.infoq.cn/article/hmME4JhKTJUYJy9DNEJ2?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-06-18 14:18",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ftrYiDYaJmOeZcexSUMc?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-06-22 16:49",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/hmME4JhKTJUYJy9DNEJ2?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
@@ -73,6 +80,20 @@
   ],
   "other": [
     {
+      "title": "AI硬件席卷618，钉钉A1包揽天猫、抖音、京东销量冠军",
+      "link": "https://www.qbitai.com/2026/06/437308.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-22 06:22",
+      "summary": "同时拿下天猫、抖音、京东三大平台 AI 录音设备销量第一"
+    },
+    {
+      "title": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告",
+      "link": "https://www.qbitai.com/2026/06/437249.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-22 05:09",
+      "summary": "DeepSeek正在全力押注"
+    },
+    {
       "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
       "link": "https://www.qbitai.com/2026/06/437198.html",
       "source": "qbitai",
@@ -92,20 +113,6 @@
       "source": "qbitai",
       "pub_date": "2026-06-20 11:56",
       "summary": "全球最聪明的人之一，成了AI最狂热的布道者"
-    },
-    {
-      "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
-      "link": "https://www.qbitai.com/2026/06/436966.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-20 09:36",
-      "summary": "抢人最猛的Meta，似乎先从内部裂开了"
-    },
-    {
-      "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
-      "link": "https://www.qbitai.com/2026/06/436864.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-19 08:42",
-      "summary": "创作者的终极玩具来了"
     }
   ]
 }
