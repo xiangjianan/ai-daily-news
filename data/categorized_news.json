@@ -1,42 +1,49 @@
 {
   "headline": [
     {
-      "title": "入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习",
-      "link": "https://www.qbitai.com/2026/06/437235.html",
+      "title": "57场面试杀进OpenAI！华人博士开源「AI面经」，含泪推荐",
+      "link": "https://www.qbitai.com/2026/06/437425.html",
       "source": "qbitai",
-      "pub_date": "2026-06-22 03:48",
-      "summary": "120分钟长视频一边看一边记"
+      "pub_date": "2026-06-23 07:31",
+      "summary": "希望你能找到快乐"
     },
     {
-      "title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
-      "link": "https://www.qbitai.com/2026/06/436980.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-20 09:42",
-      "summary": "Gemini 3.5 Pro呢？"
-    },
-    {
-      "title": "从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
-      "link": "https://www.infoq.cn/article/qTF6xLMZmM5vJe0L9twb?utm_source=rss&utm_medium=article",
+      "title": "拿下OpenAI Offer后，她复盘了57场面试：Transformer要会手写，LeetCode还得刷",
+      "link": "https://www.infoq.cn/article/85A9DVFo51jUHia88mQ4?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-06-21 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qTF6xLMZmM5vJe0L9twb?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-06-23 19:09",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/85A9DVFo51jUHia88mQ4?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "AI 大模型驱动银行信贷业务的全链路变革｜AICon上海",
-      "link": "https://www.infoq.cn/article/TbCYkGW0XrYuhSK1NE2p?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-06-20 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/TbCYkGW0XrYuhSK1NE2p?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "Superhuman acquires AI detection startup GPTZero",
+      "link": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-06-23 21:48",
+      "summary": "Superhuman, which also has an AI detection tool as part of Grammarly, has snapped up GPTZero."
     },
     {
-      "title": "Gemini 联合负责人出走 OpenAI：Google 为什么总让 AI 天才感到挫败？",
-      "link": "https://www.infoq.cn/article/3hkmF10X9ec1ujwwIjFW?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-06-18 18:15",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/3hkmF10X9ec1ujwwIjFW?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
+      "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-06-23 19:49",
+      "summary": "Menlo has created a solid rep for itself as an AI investor, all based on one gutsy $750 million move in 2024."
+    },
+    {
+      "title": "OpenAI launches new initiative to help find and patch open source bugs",
+      "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-06-23 00:11",
+      "summary": "OpenAI is using AI to help the open source community better protect itself."
     }
   ],
   "product": [
+    {
+      "title": "刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码",
+      "link": "https://www.qbitai.com/2026/06/437503.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-23 13:37",
+      "summary": "编程比肩Opus 4.7"
+    },
     {
       "title": "阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级",
       "link": "https://www.qbitai.com/2026/06/437317.html",
@@ -45,74 +52,73 @@
       "summary": ""
     },
     {
-      "title": "xAI发布Grok Skills并更新用于工具调用的Responses API",
-      "link": "https://www.infoq.cn/article/hmME4JhKTJUYJy9DNEJ2?utm_source=rss&utm_medium=article",
+      "title": "腾讯云发布边缘 Web 与 AI Agent 托管平台 EdgeOne Makers：一键开发部署，分钟级全球上线",
+      "link": "https://www.infoq.cn/article/5iz5ew8NpQXIvvpFphDk?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-06-22 16:49",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/hmME4JhKTJUYJy9DNEJ2?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
-  "funding": [],
-  "research": [
-    {
-      "title": "英伟达开始搞机器人自己研究机器人那套了…",
-      "link": "https://www.qbitai.com/2026/06/437041.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-20 12:06",
-      "summary": "为了让你烧token，英伟达已经卷到机器人身上了"
+      "pub_date": "2026-06-23 17:46",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/5iz5ew8NpQXIvvpFphDk?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
-      "link": "https://www.qbitai.com/2026/06/436996.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-20 10:42",
-      "summary": "速度快7倍，成本只有Veo 3的1/2000"
-    }
-  ],
-  "industry": [
-    {
-      "title": "个体10倍提效，组织却不足20%？AI产业正迎来Agent落地大考",
-      "link": "https://www.infoq.cn/article/Xbol4ryW7wkczQsumUY9?utm_source=rss&utm_medium=article",
+      "title": "谷歌推出Colab CLI：面向开发者、自动化与AI智能体的命令行工具",
+      "link": "https://www.infoq.cn/article/UWmllxei7QLmEqZY5SrY?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-06-18 17:58",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Xbol4ryW7wkczQsumUY9?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-06-23 14:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/UWmllxei7QLmEqZY5SrY?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Dropbox发布Nova：用于大规模运行AI编程智能体的内部平台",
+      "link": "https://www.infoq.cn/article/5UOHryk6Ck66376bCULb?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-06-23 09:40",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/5UOHryk6Ck66376bCULb?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
+  "funding": [
+    {
+      "title": "正行创新完成近亿美元天使轮融资，正大集团、华勤技术等多家上市企业联合加持",
+      "link": "https://www.qbitai.com/2026/06/437694.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-23 13:54",
+      "summary": "以“数据—模型—基础设施”系统性协同通往物理智能"
+    }
+  ],
+  "research": [],
+  "industry": [],
   "other": [
     {
-      "title": "AI硬件席卷618，钉钉A1包揽天猫、抖音、京东销量冠军",
-      "link": "https://www.qbitai.com/2026/06/437308.html",
+      "title": "云计算一哥，让小鹏、Kimi和猎豹都爽了一把",
+      "link": "https://www.qbitai.com/2026/06/437672.html",
       "source": "qbitai",
-      "pub_date": "2026-06-22 06:22",
-      "summary": "同时拿下天猫、抖音、京东三大平台 AI 录音设备销量第一"
+      "pub_date": "2026-06-23 13:47",
+      "summary": "Agentic AI爆发的拐点已然来临"
     },
     {
-      "title": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告",
-      "link": "https://www.qbitai.com/2026/06/437249.html",
+      "title": "可口可乐的世界杯TVC，居然是prompt生成的",
+      "link": "https://www.qbitai.com/2026/06/437381.html",
       "source": "qbitai",
-      "pub_date": "2026-06-22 05:09",
-      "summary": "DeepSeek正在全力押注"
+      "pub_date": "2026-06-23 06:10",
+      "summary": "24小时在线，2秒回话，陪你聊球"
     },
     {
-      "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
-      "link": "https://www.qbitai.com/2026/06/437198.html",
+      "title": "机器人全栈操作系统！老黄率先抛出“具身版安卓”",
+      "link": "https://www.qbitai.com/2026/06/437382.html",
       "source": "qbitai",
-      "pub_date": "2026-06-21 09:18",
-      "summary": "2026年还没过半，具身智能的融资就快要超过去年全年了，超过一半的钱都流入了机器人的“大脑”。"
+      "pub_date": "2026-06-23 06:06",
+      "summary": "英伟达：不造机器人，但要帮具身企业造好机器人"
     },
     {
-      "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
-      "link": "https://www.qbitai.com/2026/06/437141.html",
+      "title": "马斯克又盯上AI基建：特斯拉要卖“算力积木”了",
+      "link": "https://www.qbitai.com/2026/06/437340.html",
       "source": "qbitai",
-      "pub_date": "2026-06-21 04:46",
-      "summary": "一个月只要340块"
+      "pub_date": "2026-06-23 06:02",
+      "summary": "新商标已曝光"
     },
     {
-      "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
-      "link": "https://www.qbitai.com/2026/06/437023.html",
+      "title": "雷鸟创新 2026 上半年成绩单：618 销量五连冠、三大机构认证第一",
+      "link": "https://www.qbitai.com/2026/06/437489.html",
       "source": "qbitai",
-      "pub_date": "2026-06-20 11:56",
-      "summary": "全球最聪明的人之一，成了AI最狂热的布道者"
+      "pub_date": "2026-06-23 03:38",
+      "summary": "实现上半年市场表现的“开门红”"
     }
   ]
 }
