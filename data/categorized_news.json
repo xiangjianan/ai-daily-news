@@ -1,11 +1,11 @@
 {
   "headline": [
     {
-      "title": "57场面试杀进OpenAI！华人博士开源「AI面经」，含泪推荐",
-      "link": "https://www.qbitai.com/2026/06/437425.html",
+      "title": "刚刚，Claude Code大升级！卡帕西：LLM第三次变革",
+      "link": "https://www.qbitai.com/2026/06/437734.html",
       "source": "qbitai",
-      "pub_date": "2026-06-23 07:31",
-      "summary": "希望你能找到快乐"
+      "pub_date": "2026-06-24 03:56",
+      "summary": "目前A社约65%的产品代码已经由Claude Tag参与完成"
     },
     {
       "title": "拿下OpenAI Offer后，她复盘了57场面试：Transformer要会手写，LeetCode还得刷",
@@ -15,41 +15,48 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/85A9DVFo51jUHia88mQ4?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Superhuman acquires AI detection startup GPTZero",
-      "link": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-06-23 21:48",
-      "summary": "Superhuman, which also has an AI detection tool as part of Grammarly, has snapped up GPTZero."
+      "pub_date": "2026-06-24 14:54",
+      "summary": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems."
     },
     {
-      "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
-      "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-06-23 19:49",
-      "summary": "Menlo has created a solid rep for itself as an AI investor, all based on one gutsy $750 million move in 2024."
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "source": "openai_blog",
+      "pub_date": "2026-06-24 06:00",
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems."
     },
     {
-      "title": "OpenAI launches new initiative to help find and patch open source bugs",
-      "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-06-23 00:11",
-      "summary": "OpenAI is using AI to help the open source community better protect itself."
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "link": "https://openai.com/index/gpt-5-immunology-mystery",
+      "source": "openai_blog",
+      "pub_date": "2026-06-23 17:00",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research."
     }
   ],
   "product": [
     {
-      "title": "刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码",
-      "link": "https://www.qbitai.com/2026/06/437503.html",
+      "title": "百度智能云发布百度千帆Token Plan企业版，提供GLM-5.2等模型",
+      "link": "https://www.qbitai.com/2026/06/438174.html",
       "source": "qbitai",
-      "pub_date": "2026-06-23 13:37",
-      "summary": "编程比肩Opus 4.7"
+      "pub_date": "2026-06-24 11:09",
+      "summary": "已率先完成智谱GLM-5.2适配"
     },
     {
-      "title": "阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级",
-      "link": "https://www.qbitai.com/2026/06/437317.html",
+      "title": "2026世界人工智能大会SAIL奖TOP30及青年优秀论文奖TOP20发布",
+      "link": "https://www.qbitai.com/2026/06/437698.html",
       "source": "qbitai",
-      "pub_date": "2026-06-22 07:30",
-      "summary": ""
+      "pub_date": "2026-06-24 03:14",
+      "summary": "卓越人工智能引领者奖颁布"
+    },
+    {
+      "title": "Spring 近期新闻：Boot、Security、Integration、Modulith 发布增量版本及 Spring AI 2.0 正式发布",
+      "link": "https://www.infoq.cn/article/Jpi5XBmoO8smLYSyaD9t?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-06-24 11:11",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Jpi5XBmoO8smLYSyaD9t?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "腾讯云发布边缘 Web 与 AI Agent 托管平台 EdgeOne Makers：一键开发部署，分钟级全球上线",
@@ -64,61 +71,54 @@
       "source": "infoq",
       "pub_date": "2026-06-23 14:00",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/UWmllxei7QLmEqZY5SrY?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Dropbox发布Nova：用于大规模运行AI编程智能体的内部平台",
-      "link": "https://www.infoq.cn/article/5UOHryk6Ck66376bCULb?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-06-23 09:40",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/5UOHryk6Ck66376bCULb?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [
+  "funding": [],
+  "research": [
     {
-      "title": "正行创新完成近亿美元天使轮融资，正大集团、华勤技术等多家上市企业联合加持",
-      "link": "https://www.qbitai.com/2026/06/437694.html",
+      "title": "华为天才少年一作，港大MaRS Lab拿下IEEE TRO傅京孙纪念最佳论文奖",
+      "link": "https://www.qbitai.com/2026/06/437833.html",
       "source": "qbitai",
-      "pub_date": "2026-06-23 13:54",
-      "summary": "以“数据—模型—基础设施”系统性协同通往物理智能"
+      "pub_date": "2026-06-24 05:30",
+      "summary": "开源项目GitHub狂揽4.2k Star"
     }
   ],
-  "research": [],
   "industry": [],
   "other": [
     {
-      "title": "云计算一哥，让小鹏、Kimi和猎豹都爽了一把",
-      "link": "https://www.qbitai.com/2026/06/437672.html",
+      "title": "世界模型混战，Momenta率先冲刺IPO",
+      "link": "https://www.qbitai.com/2026/06/438179.html",
       "source": "qbitai",
-      "pub_date": "2026-06-23 13:47",
-      "summary": "Agentic AI爆发的拐点已然来临"
+      "pub_date": "2026-06-24 23:20",
+      "summary": "AI司机收入3年涨42倍"
     },
     {
-      "title": "可口可乐的世界杯TVC，居然是prompt生成的",
-      "link": "https://www.qbitai.com/2026/06/437381.html",
+      "title": "1小时真机RL微调成功率破95%！HIL-ResRL：即插即用的VLA“外挂”神器",
+      "link": "https://www.qbitai.com/2026/06/438166.html",
       "source": "qbitai",
-      "pub_date": "2026-06-23 06:10",
-      "summary": "24小时在线，2秒回话，陪你聊球"
+      "pub_date": "2026-06-24 10:38",
+      "summary": ""
     },
     {
-      "title": "机器人全栈操作系统！老黄率先抛出“具身版安卓”",
-      "link": "https://www.qbitai.com/2026/06/437382.html",
+      "title": "Future Tech谁会成为下一个AI巨头？这175个早期项目站上WAIC2026",
+      "link": "https://www.qbitai.com/2026/06/438157.html",
       "source": "qbitai",
-      "pub_date": "2026-06-23 06:06",
-      "summary": "英伟达：不造机器人，但要帮具身企业造好机器人"
+      "pub_date": "2026-06-24 09:58",
+      "summary": "报名通道已开启。"
     },
     {
-      "title": "马斯克又盯上AI基建：特斯拉要卖“算力积木”了",
-      "link": "https://www.qbitai.com/2026/06/437340.html",
+      "title": "物理AI第一块万亿市场，在公路货运先跑通闭环了",
+      "link": "https://www.qbitai.com/2026/06/437853.html",
       "source": "qbitai",
-      "pub_date": "2026-06-23 06:02",
-      "summary": "新商标已曝光"
+      "pub_date": "2026-06-24 06:06",
+      "summary": "申通安能用真金白银下单"
     },
     {
-      "title": "雷鸟创新 2026 上半年成绩单：618 销量五连冠、三大机构认证第一",
-      "link": "https://www.qbitai.com/2026/06/437489.html",
+      "title": "阿里QoderWork推“峰谷Token”，夜间使用Qwen3.7低至2折",
+      "link": "https://www.qbitai.com/2026/06/437834.html",
       "source": "qbitai",
-      "pub_date": "2026-06-23 03:38",
-      "summary": "实现上半年市场表现的“开门红”"
+      "pub_date": "2026-06-24 04:34",
+      "summary": "涵盖QoderWork、Qoder Desktop等"
     }
   ]
 }
