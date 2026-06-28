@@ -1,6 +1,13 @@
 {
   "headline": [
     {
+      "title": "GPT-5.6突然发布！Fable5痛失最强基模王座",
+      "link": "https://www.qbitai.com/2026/06/438895.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-27 01:53",
+      "summary": "一口气端出三款GPT 5.6系列模型"
+    },
+    {
       "title": "Claude Fable 5分批重新上线！GPT-5.6秒跟",
       "link": "https://www.qbitai.com/2026/06/438789.html",
       "source": "qbitai",
@@ -15,35 +22,21 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/CcT6wZSLyVcIAmSLM1l0?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-      "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-06-26 18:32",
-      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global pa"
+      "pub_date": "2026-06-27 16:45",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team."
     },
     {
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-      "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-06-26 18:19",
-      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring."
-    },
-    {
-      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-      "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-06-26 17:43",
-      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference"
+      "pub_date": "2026-06-27 12:00",
+      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market."
     }
   ],
   "product": [
-    {
-      "title": "让机器人学会“预判接触”：它石智航牵头四大顶尖机构发布TacForeSight，破解精细操作难题",
-      "link": "https://www.qbitai.com/2026/06/438701.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-26 03:47",
-      "summary": "提前200毫秒预判"
-    },
     {
       "title": "两年砸10亿，北森宣布All in AI：上线15个AI HR专家，造了一个“数字人事部”",
       "link": "https://www.infoq.cn/article/j1XdsvKMeFio6oyHGTkK?utm_source=rss&utm_medium=article",
@@ -73,39 +66,39 @@
   ],
   "other": [
     {
+      "title": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力",
+      "link": "https://www.qbitai.com/2026/06/439393.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-27 12:29",
+      "summary": "人类一次录制，Agent就能模拟"
+    },
+    {
+      "title": "第一批一人公司，现在怎么样了？",
+      "link": "https://www.qbitai.com/2026/06/439237.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-27 12:23",
+      "summary": "我们跟一群OPC创业者聊了聊"
+    },
+    {
+      "title": "CVPR 2026最热方向，被一家杭州团队率先跑进了端侧！",
+      "link": "https://www.qbitai.com/2026/06/439236.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-27 12:19",
+      "summary": "VLM- R1之后再次出手！全球首个端侧流式多模态来了！"
+    },
+    {
+      "title": "微软年度AI职场报告：员工已经准备好了，公司还没有",
+      "link": "https://www.qbitai.com/2026/06/439032.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-27 04:48",
+      "summary": "28页干货爆炸"
+    },
+    {
       "title": "谷歌「推理之王」也跑路Meta了，当年还是李飞飞挖来的",
       "link": "https://www.qbitai.com/2026/06/438848.html",
       "source": "qbitai",
       "pub_date": "2026-06-26 08:05",
       "summary": "Coding为王"
-    },
-    {
-      "title": "从需求到设计到代码，一个软件全搞定！TRAE Work Design实测来了",
-      "link": "https://www.qbitai.com/2026/06/438750.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-26 05:12",
-      "summary": "精准识别设计系统"
-    },
-    {
-      "title": "英伟达MoE新开源：一行import，微调加速3.7倍",
-      "link": "https://www.qbitai.com/2026/06/438703.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-26 03:23",
-      "summary": "在Transformers v5的基础上，增加了专家并行、DeepEP和TransformerEngine"
-    },
-    {
-      "title": "WAVES 2026：今年盛夏，在创投浪潮里，做迎风而立的少数人！",
-      "link": "https://www.qbitai.com/2026/06/438698.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-26 02:58",
-      "summary": ""
-    },
-    {
-      "title": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了",
-      "link": "https://www.qbitai.com/2026/06/438690.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-26 01:26",
-      "summary": "Macbook涨了2500元"
     }
   ]
 }
