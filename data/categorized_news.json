@@ -8,13 +8,6 @@
       "summary": "一口气端出三款GPT 5.6系列模型"
     },
     {
-      "title": "Claude Fable 5分批重新上线！GPT-5.6秒跟",
-      "link": "https://www.qbitai.com/2026/06/438789.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-26 06:55",
-      "summary": "这不能是营销计划的一部分吧？"
-    },
-    {
       "title": "AI 设计9个月就能媲美Blackwell？OpenAI “辣芯”绕开英伟达正面战场，但老黄的GPU大盘不稳了",
       "link": "https://www.infoq.cn/article/CcT6wZSLyVcIAmSLM1l0?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -34,9 +27,23 @@
       "source": "techcrunch_ai",
       "pub_date": "2026-06-27 12:00",
       "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market."
+    },
+    {
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-06-26 18:32",
+      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global pa"
     }
   ],
   "product": [
+    {
+      "title": "苹果推出 Core AI 框架，为自研芯片优化端侧生成式 AI",
+      "link": "https://www.infoq.cn/article/x6KDPdgrdHzY7I38JK9U?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-06-28 11:06",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/x6KDPdgrdHzY7I38JK9U?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
     {
       "title": "两年砸10亿，北森宣布All in AI：上线15个AI HR专家，造了一个“数字人事部”",
       "link": "https://www.infoq.cn/article/j1XdsvKMeFio6oyHGTkK?utm_source=rss&utm_medium=article",
@@ -54,17 +61,38 @@
       "summary": ""
     }
   ],
-  "research": [],
-  "industry": [
+  "research": [
     {
-      "title": "华勤技术与正行创新达成战略合作，加速机器人“走进工厂、走上产线”",
-      "link": "https://www.qbitai.com/2026/06/438741.html",
+      "title": "一次吃下一本书！百度开源新OCR，作者疑似前DeepSeek研究员",
+      "link": "https://www.qbitai.com/2026/06/439464.html",
       "source": "qbitai",
-      "pub_date": "2026-06-26 04:00",
-      "summary": "共建工业物理智能“数据底座与智能大脑”"
+      "pub_date": "2026-06-28 06:04",
+      "summary": ""
     }
   ],
+  "industry": [],
   "other": [
+    {
+      "title": "抱抱脸模型TOP榜，我现在只服yuxinlu1",
+      "link": "https://www.qbitai.com/2026/06/439603.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-28 13:55",
+      "summary": "杀进一众大厂中间"
+    },
+    {
+      "title": "梁文锋署名的DSpark，看懂这10个点就够了！",
+      "link": "https://www.qbitai.com/2026/06/439548.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-28 08:06",
+      "summary": "精髓在于极强的系统工程"
+    },
+    {
+      "title": "前端工程师最不想看到的开源项目出现了，一行命令克隆任意网站",
+      "link": "https://www.qbitai.com/2026/06/439515.html",
+      "source": "qbitai",
+      "pub_date": "2026-06-28 07:56",
+      "summary": "GitHub 20k Star"
+    },
     {
       "title": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力",
       "link": "https://www.qbitai.com/2026/06/439393.html",
@@ -78,27 +106,6 @@
       "source": "qbitai",
       "pub_date": "2026-06-27 12:23",
       "summary": "我们跟一群OPC创业者聊了聊"
-    },
-    {
-      "title": "CVPR 2026最热方向，被一家杭州团队率先跑进了端侧！",
-      "link": "https://www.qbitai.com/2026/06/439236.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-27 12:19",
-      "summary": "VLM- R1之后再次出手！全球首个端侧流式多模态来了！"
-    },
-    {
-      "title": "微软年度AI职场报告：员工已经准备好了，公司还没有",
-      "link": "https://www.qbitai.com/2026/06/439032.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-27 04:48",
-      "summary": "28页干货爆炸"
-    },
-    {
-      "title": "谷歌「推理之王」也跑路Meta了，当年还是李飞飞挖来的",
-      "link": "https://www.qbitai.com/2026/06/438848.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-26 08:05",
-      "summary": "Coding为王"
     }
   ]
 }
