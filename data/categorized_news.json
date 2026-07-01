@@ -1,133 +1,96 @@
 {
   "headline": [
     {
-      "title": "Claude Mythos让梁文锋决定融资",
-      "link": "https://www.qbitai.com/2026/06/439863.html",
+      "title": "Claude Code之父版「职场MBTI」：AI洗牌后只剩5类人，你选哪种？",
+      "link": "https://www.qbitai.com/2026/06/440599.html",
       "source": "qbitai",
-      "pub_date": "2026-06-29 08:54",
-      "summary": "DeepSeek不储备弹药根本没法打下去了"
+      "pub_date": "2026-06-30 09:34",
+      "summary": "未来是属于这5种职业的"
     },
     {
-      "title": "GPT-5.6首发，比Fable 5便宜一半！深度评估者直接“开麦”：能力测试中疯狂作弊",
-      "link": "https://www.infoq.cn/article/MODueV4HEMT4Hb92HebD?utm_source=rss&utm_medium=article",
+      "title": "8 人起家年入上亿美元，推出自研大模型对战 Cursor、Claude Code？",
+      "link": "https://www.infoq.cn/article/lgKWA0PHN4zsOkB4C4Pv?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-06-29 16:04",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/MODueV4HEMT4Hb92HebD?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-06-30 18:29",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/lgKWA0PHN4zsOkB4C4Pv?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Gemini’s personalized AI image generation is now free for US users",
-      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "title": "3000块钱，这支中国团队把ChatGPT成功的“秘密”用在了机器人训练上",
+      "link": "https://www.infoq.cn/article/t78dBsMM5KZabshzEMuo?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-06-30 15:07",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/t78dBsMM5KZabshzEMuo?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+      "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-06-29 20:12",
-      "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps."
+      "pub_date": "2026-06-30 15:00",
+      "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency."
     },
     {
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "link": "https://openai.com/index/hp-frontier-partnership",
+      "title": "How ChatGPT adoption has expanded",
+      "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
       "source": "openai_blog",
-      "pub_date": "2026-06-28 17:00",
-      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations."
-    },
-    {
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "link": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "source": "openai_blog",
-      "pub_date": "2026-06-26 10:00",
-      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
+      "pub_date": "2026-06-30 09:00",
+      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages."
     }
   ],
   "product": [
     {
-      "title": "OceanBase发布AI数据库：以一套引擎融合湖库与多模态数据",
-      "link": "https://www.qbitai.com/2026/06/439876.html",
+      "title": "中国信通院发布AI Infra运维领域首个评测基准",
+      "link": "https://www.qbitai.com/2026/06/440454.html",
       "source": "qbitai",
-      "pub_date": "2026-06-29 08:49",
-      "summary": "让AI真正“读懂”企业"
-    },
-    {
-      "title": "AWS 推出开源框架 Blocks，面向 AI 智能体的后端开发工具",
-      "link": "https://www.infoq.cn/article/ZdA3CGtWNFGAoalSeiu8?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-06-29 14:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ZdA3CGtWNFGAoalSeiu8?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "苹果推出 Core AI 框架，为自研芯片优化端侧生成式 AI",
-      "link": "https://www.infoq.cn/article/x6KDPdgrdHzY7I38JK9U?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-06-28 11:06",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/x6KDPdgrdHzY7I38JK9U?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-06-30 07:20",
+      "summary": "覆盖 5 款主流国产芯片"
     }
   ],
   "funding": [
     {
-      "title": "国家队+千亿产业+头部财投集体入局，智平方200亿估值筑就大湾区具身智能名片",
-      "link": "https://www.qbitai.com/2026/06/439861.html",
+      "title": "百亿估值只是起点，跨维智能的物理AGI之路",
+      "link": "https://www.qbitai.com/2026/06/440949.html",
       "source": "qbitai",
-      "pub_date": "2026-06-29 08:29",
-      "summary": "大湾区首个200亿具身智能独角兽诞生！“最像特斯拉”智平方吸金50亿，全矩阵顶级资本重仓"
+      "pub_date": "2026-06-30 11:04",
+      "summary": ""
     }
   ],
-  "research": [
-    {
-      "title": "Ask HN: What's SOTA for AI Voice Narration",
-      "link": "https://news.ycombinator.com/item?id=48726190",
-      "source": "hackernews",
-      "pub_date": "2026-06-29 22:30",
-      "summary": "<p>I need some character voice acting for an animation I'm making. The response from people when I used Elevenlabs was that it felt flat and characters were inconsistent.<p>I was previously using the "
-    }
-  ],
-  "industry": [
-    {
-      "title": "“词元盗用”正在成为AI商业化面临的新风险",
-      "link": "https://www.qbitai.com/2026/06/439746.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-29 02:42",
-      "summary": "有人盯上的不是钱，而是 Token"
-    },
-    {
-      "title": "AI 正在重写应用开发，Vue 与 Vite，给出新的答",
-      "link": "https://www.infoq.cn/article/8O9lMqWlC0Qkh9uLpPqk?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-06-29 15:09",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/8O9lMqWlC0Qkh9uLpPqk?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "research": [],
+  "industry": [],
   "other": [
     {
-      "title": "全球首个：隐空间世界模型，打通长时序双向物理因果链了！",
-      "link": "https://www.qbitai.com/2026/06/439891.html",
+      "title": "港股新贵押注物理AI，乐动机器人打造万亿市场空间的核心基础设施",
+      "link": "https://www.qbitai.com/2026/06/440818.html",
       "source": "qbitai",
-      "pub_date": "2026-06-29 14:33",
-      "summary": "刚融了2亿美元，冲到了具身榜单第一"
+      "pub_date": "2026-06-30 10:20",
+      "summary": "谁能把这个空间高质量地数字化，谁就掌握了下一阶段机器智能的入口。"
     },
     {
-      "title": "AI当老板，快给10家公司干破产了…",
-      "link": "https://www.qbitai.com/2026/06/439864.html",
+      "title": "顶刊生物实验难复现？统一操作话术来了！编译通过率98.6%",
+      "link": "https://www.qbitai.com/2026/06/440630.html",
       "source": "qbitai",
-      "pub_date": "2026-06-29 08:23",
-      "summary": "画出那个矩阵的能力——还属于人类。"
+      "pub_date": "2026-06-30 10:09",
+      "summary": "AI进入生物制造，真正缺的不是更聪明的大脑，而是连接数字与物理世界的接口。"
     },
     {
-      "title": "啥？做AI短剧可以免费，免费，免费了！",
-      "link": "https://www.qbitai.com/2026/06/439750.html",
+      "title": "GLM-5.3你来定！智谱唐杰全球征集意见，评论区清一色：视觉",
+      "link": "https://www.qbitai.com/2026/06/440478.html",
       "source": "qbitai",
-      "pub_date": "2026-06-29 05:01",
-      "summary": "我反手做了个修仙爽剧"
+      "pub_date": "2026-06-30 08:46",
+      "summary": "真·有求必应·阿拉丁"
     },
     {
-      "title": "太空算力的国产答案：用光子更高效！马斯克和老黄都太绕了",
-      "link": "https://www.qbitai.com/2026/06/439728.html",
+      "title": "华尔街把美光当成「下一个英伟达」，市值一度超过特斯拉Meta",
+      "link": "https://www.qbitai.com/2026/06/440332.html",
       "source": "qbitai",
-      "pub_date": "2026-06-29 00:09",
-      "summary": "把天基计算推进到可验证、可迭代的工程路线"
+      "pub_date": "2026-06-30 06:51",
+      "summary": "内存涨疯了"
     },
     {
-      "title": "抱抱脸模型TOP榜，我现在只服yuxinlu1",
-      "link": "https://www.qbitai.com/2026/06/439603.html",
+      "title": "24小时直播，只靠一张照片？虎牙实时多模态数字人VAM 1.0率先突围行业三堵墙",
+      "link": "https://www.qbitai.com/2026/06/440236.html",
       "source": "qbitai",
-      "pub_date": "2026-06-28 13:55",
-      "summary": "杀进一众大厂中间"
+      "pub_date": "2026-06-30 05:53",
+      "summary": "能聊、能唱跳、能陪你玩游戏"
     }
   ]
 }
