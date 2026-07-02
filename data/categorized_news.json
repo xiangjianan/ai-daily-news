@@ -1,13 +1,6 @@
 {
   "headline": [
     {
-      "title": "Claude Code之父版「职场MBTI」：AI洗牌后只剩5类人，你选哪种？",
-      "link": "https://www.qbitai.com/2026/06/440599.html",
-      "source": "qbitai",
-      "pub_date": "2026-06-30 09:34",
-      "summary": "未来是属于这5种职业的"
-    },
-    {
       "title": "8 人起家年入上亿美元，推出自研大模型对战 Cursor、Claude Code？",
       "link": "https://www.infoq.cn/article/lgKWA0PHN4zsOkB4C4Pv?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -22,11 +15,11 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/t78dBsMM5KZabshzEMuo?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-      "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+      "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-06-30 15:00",
-      "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency."
+      "pub_date": "2026-07-01 14:20",
+      "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps."
     },
     {
       "title": "How ChatGPT adoption has expanded",
@@ -34,63 +27,77 @@
       "source": "openai_blog",
       "pub_date": "2026-06-30 09:00",
       "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages."
+    },
+    {
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "link": "https://openai.com/index/hp-frontier-partnership",
+      "source": "openai_blog",
+      "pub_date": "2026-06-28 17:00",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations."
     }
   ],
   "product": [
     {
-      "title": "中国信通院发布AI Infra运维领域首个评测基准",
-      "link": "https://www.qbitai.com/2026/06/440454.html",
+      "title": "OpenSquilla 发布 0.4.0：AI 写代码首次能“自我验证”",
+      "link": "https://www.qbitai.com/2026/07/441240.html",
       "source": "qbitai",
-      "pub_date": "2026-06-30 07:20",
-      "summary": "覆盖 5 款主流国产芯片"
-    }
-  ],
-  "funding": [
+      "pub_date": "2026-07-01 07:32",
+      "summary": "OpenSquilla 上线后数周内 GitHub star 增至数千量级"
+    },
     {
-      "title": "百亿估值只是起点，跨维智能的物理AGI之路",
-      "link": "https://www.qbitai.com/2026/06/440949.html",
+      "title": "Om AI联汇发布VLX：全球首个面向物理世界的端侧流式多模态模型",
+      "link": "https://www.qbitai.com/2026/07/441124.html",
       "source": "qbitai",
-      "pub_date": "2026-06-30 11:04",
-      "summary": ""
+      "pub_date": "2026-07-01 03:46",
+      "summary": "物理世界AI的下一步"
     }
   ],
-  "research": [],
+  "funding": [],
+  "research": [
+    {
+      "title": "Loop世界模型论文登顶Hugging Face，来自中国一家初创，周鸿祎陆奇都投了",
+      "link": "https://www.qbitai.com/2026/07/441225.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-01 07:24",
+      "summary": "重写“AI如何反复推演世界”"
+    }
+  ],
   "industry": [],
   "other": [
     {
-      "title": "港股新贵押注物理AI，乐动机器人打造万亿市场空间的核心基础设施",
-      "link": "https://www.qbitai.com/2026/06/440818.html",
+      "title": "具身智能Skill时刻！英伟达开源机器人技能库，Jim Fan：范式变了",
+      "link": "https://www.qbitai.com/2026/07/441396.html",
       "source": "qbitai",
-      "pub_date": "2026-06-30 10:20",
-      "summary": "谁能把这个空间高质量地数字化，谁就掌握了下一阶段机器智能的入口。"
+      "pub_date": "2026-07-01 09:33",
+      "summary": "全新的持续学习范式"
     },
     {
-      "title": "顶刊生物实验难复现？统一操作话术来了！编译通过率98.6%",
-      "link": "https://www.qbitai.com/2026/06/440630.html",
+      "title": "OceanBase湖库一体，重新定义AI数据库",
+      "link": "https://www.qbitai.com/2026/07/441386.html",
       "source": "qbitai",
-      "pub_date": "2026-06-30 10:09",
-      "summary": "AI进入生物制造，真正缺的不是更聪明的大脑，而是连接数字与物理世界的接口。"
+      "pub_date": "2026-07-01 09:05",
+      "summary": "一套技术栈实现离在线统一"
     },
     {
-      "title": "GLM-5.3你来定！智谱唐杰全球征集意见，评论区清一色：视觉",
-      "link": "https://www.qbitai.com/2026/06/440478.html",
+      "title": "金融AI武道大会开赛！四道业务真题，出题人：猜不到最优解",
+      "link": "https://www.qbitai.com/2026/07/441246.html",
       "source": "qbitai",
-      "pub_date": "2026-06-30 08:46",
-      "summary": "真·有求必应·阿拉丁"
+      "pub_date": "2026-07-01 07:41",
+      "summary": "Taste，决定天花板。"
     },
     {
-      "title": "华尔街把美光当成「下一个英伟达」，市值一度超过特斯拉Meta",
-      "link": "https://www.qbitai.com/2026/06/440332.html",
+      "title": "群核科技三项成果入选ECCV 2026，联手英伟达等探索物理AI仿真平台",
+      "link": "https://www.qbitai.com/2026/07/441237.html",
       "source": "qbitai",
-      "pub_date": "2026-06-30 06:51",
-      "summary": "内存涨疯了"
+      "pub_date": "2026-07-01 07:29",
+      "summary": "共同推进物理AI前沿技术探索。"
     },
     {
-      "title": "24小时直播，只靠一张照片？虎牙实时多模态数字人VAM 1.0率先突围行业三堵墙",
-      "link": "https://www.qbitai.com/2026/06/440236.html",
+      "title": "卡帕西李飞飞辛顿都投了的Transformer专用芯片，签下10亿美元大单",
+      "link": "https://www.qbitai.com/2026/07/441183.html",
       "source": "qbitai",
-      "pub_date": "2026-06-30 05:53",
-      "summary": "能聊、能唱跳、能陪你玩游戏"
+      "pub_date": "2026-07-01 07:15",
+      "summary": "已流片"
     }
   ]
 }
