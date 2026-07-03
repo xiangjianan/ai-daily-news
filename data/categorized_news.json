@@ -1,25 +1,11 @@
 {
   "headline": [
     {
-      "title": "8 人起家年入上亿美元，推出自研大模型对战 Cursor、Claude Code？",
-      "link": "https://www.infoq.cn/article/lgKWA0PHN4zsOkB4C4Pv?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-06-30 18:29",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/lgKWA0PHN4zsOkB4C4Pv?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "3000块钱，这支中国团队把ChatGPT成功的“秘密”用在了机器人训练上",
-      "link": "https://www.infoq.cn/article/t78dBsMM5KZabshzEMuo?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-06-30 15:07",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/t78dBsMM5KZabshzEMuo?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
-      "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-07-01 14:20",
-      "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps."
+      "pub_date": "2026-07-02 15:20",
+      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI "
     },
     {
       "title": "How ChatGPT adoption has expanded",
@@ -34,70 +20,98 @@
       "source": "openai_blog",
       "pub_date": "2026-06-28 17:00",
       "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations."
+    },
+    {
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "source": "openai_blog",
+      "pub_date": "2026-06-26 10:00",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
+    },
+    {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "source": "openai_blog",
+      "pub_date": "2026-06-24 06:00",
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems."
     }
   ],
   "product": [
     {
-      "title": "OpenSquilla 发布 0.4.0：AI 写代码首次能“自我验证”",
-      "link": "https://www.qbitai.com/2026/07/441240.html",
+      "title": "科大讯飞举办智能交互生态发布会，三大平台同步升级",
+      "link": "https://www.qbitai.com/2026/07/442048.html",
       "source": "qbitai",
-      "pub_date": "2026-07-01 07:32",
-      "summary": "OpenSquilla 上线后数周内 GitHub star 增至数千量级"
+      "pub_date": "2026-07-02 10:45",
+      "summary": ""
     },
     {
-      "title": "Om AI联汇发布VLX：全球首个面向物理世界的端侧流式多模态模型",
-      "link": "https://www.qbitai.com/2026/07/441124.html",
+      "title": "天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊",
+      "link": "https://www.qbitai.com/2026/07/442030.html",
       "source": "qbitai",
-      "pub_date": "2026-07-01 03:46",
-      "summary": "物理世界AI的下一步"
+      "pub_date": "2026-07-02 10:24",
+      "summary": "和人并肩工作"
+    },
+    {
+      "title": "Vercel 推出开源 AI 智能体开发框架 Eve",
+      "link": "https://www.infoq.cn/article/kY3j5x1kIEvedufYJ1rJ?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-02 10:54",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/kY3j5x1kIEvedufYJ1rJ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Dapr 1.18 推出可验证执行功能，为 AI 智能体与工作流赋予密码学信任能力",
+      "link": "https://www.infoq.cn/article/U3gIuyf8VccCdKZeiyCi?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-02 09:29",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/U3gIuyf8VccCdKZeiyCi?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
   "research": [
     {
-      "title": "Loop世界模型论文登顶Hugging Face，来自中国一家初创，周鸿祎陆奇都投了",
-      "link": "https://www.qbitai.com/2026/07/441225.html",
+      "title": "天工AI业务ARR突破8亿美元，向中国首个非BAT10亿美元ARR的AI公司迈进",
+      "link": "https://www.qbitai.com/2026/07/441786.html",
       "source": "qbitai",
-      "pub_date": "2026-07-01 07:24",
-      "summary": "重写“AI如何反复推演世界”"
+      "pub_date": "2026-07-02 06:23",
+      "summary": "其中AI短剧平台业务ARR超过7亿美元"
     }
   ],
   "industry": [],
   "other": [
     {
-      "title": "具身智能Skill时刻！英伟达开源机器人技能库，Jim Fan：范式变了",
-      "link": "https://www.qbitai.com/2026/07/441396.html",
+      "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+      "link": "https://www.qbitai.com/2026/07/442134.html",
       "source": "qbitai",
-      "pub_date": "2026-07-01 09:33",
-      "summary": "全新的持续学习范式"
+      "pub_date": "2026-07-02 11:28",
+      "summary": "与社区共同推进自演进智能体生态发展"
     },
     {
-      "title": "OceanBase湖库一体，重新定义AI数据库",
-      "link": "https://www.qbitai.com/2026/07/441386.html",
+      "title": "全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货",
+      "link": "https://www.qbitai.com/2026/07/442047.html",
       "source": "qbitai",
-      "pub_date": "2026-07-01 09:05",
-      "summary": "一套技术栈实现离在线统一"
+      "pub_date": "2026-07-02 10:56",
+      "summary": "霸榜OpenR ou"
     },
     {
-      "title": "金融AI武道大会开赛！四道业务真题，出题人：猜不到最优解",
-      "link": "https://www.qbitai.com/2026/07/441246.html",
+      "title": "论坛预告｜夯！AI企业家论坛首发阵容公开，更有千亿级实业巨头突袭",
+      "link": "https://www.qbitai.com/2026/07/442037.html",
       "source": "qbitai",
-      "pub_date": "2026-07-01 07:41",
-      "summary": "Taste，决定天花板。"
+      "pub_date": "2026-07-02 10:29",
+      "summary": "7月17日至7月20日"
     },
     {
-      "title": "群核科技三项成果入选ECCV 2026，联手英伟达等探索物理AI仿真平台",
-      "link": "https://www.qbitai.com/2026/07/441237.html",
+      "title": "钉钉A1录音卡入选Gartner AI可穿戴设备报告",
+      "link": "https://www.qbitai.com/2026/07/442024.html",
       "source": "qbitai",
-      "pub_date": "2026-07-01 07:29",
-      "summary": "共同推进物理AI前沿技术探索。"
+      "pub_date": "2026-07-02 08:03",
+      "summary": "AI 硬件的终局不是比拼参数，而是比拼背后有没有一个真正的企业级 AI 协作平台"
     },
     {
-      "title": "卡帕西李飞飞辛顿都投了的Transformer专用芯片，签下10亿美元大单",
-      "link": "https://www.qbitai.com/2026/07/441183.html",
+      "title": "招募｜量子位RSS’26专题策划",
+      "link": "https://www.qbitai.com/2026/07/442016.html",
       "source": "qbitai",
-      "pub_date": "2026-07-01 07:15",
-      "summary": "已流片"
+      "pub_date": "2026-07-02 07:33",
+      "summary": "7月13-17日，澳大利亚悉尼"
     }
   ]
 }
