@@ -1,6 +1,20 @@
 {
   "headline": [
     {
+      "title": "Claude Code 80%的提示词说删就删，Anthropic用Fable 5打了个样：AI行业的“降本”才刚刚开始",
+      "link": "https://www.infoq.cn/article/GEkEm7rkUJfF8bdwTuBt?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-03 19:27",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/GEkEm7rkUJfF8bdwTuBt?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "拒绝天价账单！OpenAI、Anthropic 自研芯片，剑指英伟达“暴利”护城河",
+      "link": "https://www.infoq.cn/article/MOqFJbvWYlJ9PXcfdfCC?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-03 18:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/MOqFJbvWYlJ9PXcfdfCC?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
       "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
       "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
       "source": "techcrunch_ai",
@@ -20,98 +34,63 @@
       "source": "openai_blog",
       "pub_date": "2026-06-28 17:00",
       "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations."
-    },
-    {
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "link": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "source": "openai_blog",
-      "pub_date": "2026-06-26 10:00",
-      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
-    },
-    {
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "source": "openai_blog",
-      "pub_date": "2026-06-24 06:00",
-      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems."
     }
   ],
   "product": [
-    {
-      "title": "科大讯飞举办智能交互生态发布会，三大平台同步升级",
-      "link": "https://www.qbitai.com/2026/07/442048.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-02 10:45",
-      "summary": ""
-    },
-    {
-      "title": "天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊",
-      "link": "https://www.qbitai.com/2026/07/442030.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-02 10:24",
-      "summary": "和人并肩工作"
-    },
     {
       "title": "Vercel 推出开源 AI 智能体开发框架 Eve",
       "link": "https://www.infoq.cn/article/kY3j5x1kIEvedufYJ1rJ?utm_source=rss&utm_medium=article",
       "source": "infoq",
       "pub_date": "2026-07-02 10:54",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/kY3j5x1kIEvedufYJ1rJ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Dapr 1.18 推出可验证执行功能，为 AI 智能体与工作流赋予密码学信任能力",
-      "link": "https://www.infoq.cn/article/U3gIuyf8VccCdKZeiyCi?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-02 09:29",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/U3gIuyf8VccCdKZeiyCi?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
-  "research": [
+  "research": [],
+  "industry": [
     {
-      "title": "天工AI业务ARR突破8亿美元，向中国首个非BAT10亿美元ARR的AI公司迈进",
-      "link": "https://www.qbitai.com/2026/07/441786.html",
+      "title": "WorldClaw与百度智能云达成战略合作，文心5.0系列登陆WorldRouter",
+      "link": "https://www.qbitai.com/2026/07/442447.html",
       "source": "qbitai",
-      "pub_date": "2026-07-02 06:23",
-      "summary": "其中AI短剧平台业务ARR超过7亿美元"
+      "pub_date": "2026-07-03 07:12",
+      "summary": ""
     }
   ],
-  "industry": [],
   "other": [
     {
-      "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
-      "link": "https://www.qbitai.com/2026/07/442134.html",
+      "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+      "link": "https://www.qbitai.com/2026/07/442746.html",
       "source": "qbitai",
-      "pub_date": "2026-07-02 11:28",
-      "summary": "与社区共同推进自演进智能体生态发展"
+      "pub_date": "2026-07-03 14:28",
+      "summary": "四年前LeCun提出JEPA时，大概不会想到，这套架构有一天会被用来理解：一颗细胞。"
     },
     {
-      "title": "全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货",
-      "link": "https://www.qbitai.com/2026/07/442047.html",
+      "title": "Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户",
+      "link": "https://www.qbitai.com/2026/07/442567.html",
       "source": "qbitai",
-      "pub_date": "2026-07-02 10:56",
-      "summary": "霸榜OpenR ou"
+      "pub_date": "2026-07-03 12:17",
+      "summary": "单词数r也是风险问题？！"
     },
     {
-      "title": "论坛预告｜夯！AI企业家论坛首发阵容公开，更有千亿级实业巨头突袭",
-      "link": "https://www.qbitai.com/2026/07/442037.html",
+      "title": "奕境携手华为乾崑全球实测！央视《超凡一步》见证中国汽车“三大跨越”",
+      "link": "https://www.qbitai.com/2026/07/442531.html",
       "source": "qbitai",
-      "pub_date": "2026-07-02 10:29",
-      "summary": "7月17日至7月20日"
+      "pub_date": "2026-07-03 10:46",
+      "summary": ""
     },
     {
-      "title": "钉钉A1录音卡入选Gartner AI可穿戴设备报告",
-      "link": "https://www.qbitai.com/2026/07/442024.html",
+      "title": "比亚迪6月销量超40万，年内销量记录再度刷新",
+      "link": "https://www.qbitai.com/2026/07/442517.html",
       "source": "qbitai",
-      "pub_date": "2026-07-02 08:03",
-      "summary": "AI 硬件的终局不是比拼参数，而是比拼背后有没有一个真正的企业级 AI 协作平台"
+      "pub_date": "2026-07-03 10:28",
+      "summary": ""
     },
     {
-      "title": "招募｜量子位RSS’26专题策划",
-      "link": "https://www.qbitai.com/2026/07/442016.html",
+      "title": "比亚迪集中公布多起名誉维权胜诉案件 重拳打击“黑公关”",
+      "link": "https://www.qbitai.com/2026/07/442503.html",
       "source": "qbitai",
-      "pub_date": "2026-07-02 07:33",
-      "summary": "7月13-17日，澳大利亚悉尼"
+      "pub_date": "2026-07-03 10:26",
+      "summary": ""
     }
   ]
 }
