@@ -38,6 +38,13 @@
   ],
   "product": [
     {
+      "title": "华为更新韬定律论文！",
+      "link": "https://www.qbitai.com/2026/07/443186.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-05 13:38",
+      "summary": "放弃的路线也说清楚了"
+    },
+    {
       "title": "Vercel 推出开源 AI 智能体开发框架 Eve",
       "link": "https://www.infoq.cn/article/kY3j5x1kIEvedufYJ1rJ?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -54,17 +61,38 @@
       "summary": ""
     }
   ],
-  "research": [],
-  "industry": [
+  "research": [
     {
-      "title": "WorldClaw与百度智能云达成战略合作，文心5.0系列登陆WorldRouter",
-      "link": "https://www.qbitai.com/2026/07/442447.html",
+      "title": "李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱",
+      "link": "https://www.qbitai.com/2026/07/443066.html",
       "source": "qbitai",
-      "pub_date": "2026-07-03 07:12",
-      "summary": ""
+      "pub_date": "2026-07-05 06:59",
+      "summary": "一段视频，生成无限训练场景"
     }
   ],
+  "industry": [],
   "other": [
+    {
+      "title": "Meta也来卖铲子了！小扎：模型可以慢，GPU必须赚",
+      "link": "https://www.qbitai.com/2026/07/443339.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-05 14:30",
+      "summary": "正考虑推出Meta Compute"
+    },
+    {
+      "title": "刚刚，LeCun团队让世界模型学会持续学习！",
+      "link": "https://www.qbitai.com/2026/07/442964.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-05 06:52",
+      "summary": "迈向持续学习的世界模型"
+    },
+    {
+      "title": "别争了！香农老婆，才是世界上第一个大语言模型",
+      "link": "https://www.qbitai.com/2026/07/443241.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-05 03:51",
+      "summary": "70年前，香农就拥有了端侧私人定制大语言模型"
+    },
     {
       "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
       "link": "https://www.qbitai.com/2026/07/442746.html",
@@ -78,27 +106,6 @@
       "source": "qbitai",
       "pub_date": "2026-07-03 12:17",
       "summary": "单词数r也是风险问题？！"
-    },
-    {
-      "title": "奕境携手华为乾崑全球实测！央视《超凡一步》见证中国汽车“三大跨越”",
-      "link": "https://www.qbitai.com/2026/07/442531.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-03 10:46",
-      "summary": ""
-    },
-    {
-      "title": "比亚迪6月销量超40万，年内销量记录再度刷新",
-      "link": "https://www.qbitai.com/2026/07/442517.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-03 10:28",
-      "summary": ""
-    },
-    {
-      "title": "比亚迪集中公布多起名誉维权胜诉案件 重拳打击“黑公关”",
-      "link": "https://www.qbitai.com/2026/07/442503.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-03 10:26",
-      "summary": ""
     }
   ]
 }
