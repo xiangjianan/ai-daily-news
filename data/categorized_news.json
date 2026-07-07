@@ -1,111 +1,103 @@
 {
   "headline": [
     {
-      "title": "Claude Code 80%的提示词说删就删，Anthropic用Fable 5打了个样：AI行业的“降本”才刚刚开始",
-      "link": "https://www.infoq.cn/article/GEkEm7rkUJfF8bdwTuBt?utm_source=rss&utm_medium=article",
+      "title": "真·QQ飞车！「电动版F1」上海开赛，Gemini在线解说",
+      "link": "https://www.qbitai.com/2026/07/443867.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-06 09:35",
+      "summary": "现实版《飞驰人生 3》"
+    },
+    {
+      "title": "Linus 再谈 AI：大模型能写 Demo，但对复杂系统要有敬畏之心",
+      "link": "https://www.infoq.cn/article/11fNtPYf59T76fyQkiPa?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-07-03 19:27",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/GEkEm7rkUJfF8bdwTuBt?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-07-06 18:19",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/11fNtPYf59T76fyQkiPa?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "拒绝天价账单！OpenAI、Anthropic 自研芯片，剑指英伟达“暴利”护城河",
-      "link": "https://www.infoq.cn/article/MOqFJbvWYlJ9PXcfdfCC?utm_source=rss&utm_medium=article",
+      "title": "“我一行代码都没读就发布了”，被OpenAI收购后，uv工具创始人开始反思AI编程",
+      "link": "https://www.infoq.cn/article/katE2jJKMX7FaGskhvRL?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-07-03 18:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/MOqFJbvWYlJ9PXcfdfCC?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-07-06 15:46",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/katE2jJKMX7FaGskhvRL?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-07-04 15:51",
-      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”"
+      "title": "73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
+      "link": "https://www.infoq.cn/article/e6J4FbXQj28CiziktLuS?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-06 10:27",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/e6J4FbXQj28CiziktLuS?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "How ChatGPT adoption has expanded",
-      "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "source": "openai_blog",
-      "pub_date": "2026-06-30 09:00",
-      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages."
-    },
-    {
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "link": "https://openai.com/index/hp-frontier-partnership",
-      "source": "openai_blog",
-      "pub_date": "2026-06-28 17:00",
-      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations."
+      "title": "豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报",
+      "link": "https://www.infoq.cn/article/rs0HJTRdN6Pl88LIFh1a?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-06 10:22",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/rs0HJTRdN6Pl88LIFh1a?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "product": [
     {
-      "title": "华为更新韬定律论文！",
-      "link": "https://www.qbitai.com/2026/07/443186.html",
+      "title": "OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5",
+      "link": "https://www.qbitai.com/2026/07/443863.html",
       "source": "qbitai",
-      "pub_date": "2026-07-05 13:38",
-      "summary": "放弃的路线也说清楚了"
+      "pub_date": "2026-07-06 09:28",
+      "summary": ""
     },
     {
-      "title": "Vercel 推出开源 AI 智能体开发框架 Eve",
-      "link": "https://www.infoq.cn/article/kY3j5x1kIEvedufYJ1rJ?utm_source=rss&utm_medium=article",
+      "title": "让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布",
+      "link": "https://www.infoq.cn/article/jpGdhU4YBXiXOloMEb2I?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-07-02 10:54",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/kY3j5x1kIEvedufYJ1rJ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-07-06 10:19",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/jpGdhU4YBXiXOloMEb2I?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [
-    {
-      "title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
-      "link": "https://www.qbitai.com/2026/07/442958.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-04 05:52",
-      "summary": ""
-    }
-  ],
+  "funding": [],
   "research": [
     {
-      "title": "李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱",
-      "link": "https://www.qbitai.com/2026/07/443066.html",
+      "title": "极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文",
+      "link": "https://www.qbitai.com/2026/07/444721.html",
       "source": "qbitai",
-      "pub_date": "2026-07-05 06:59",
-      "summary": "一段视频，生成无限训练场景"
+      "pub_date": "2026-07-06 10:33",
+      "summary": ""
     }
   ],
   "industry": [],
   "other": [
     {
-      "title": "Meta也来卖铲子了！小扎：模型可以慢，GPU必须赚",
-      "link": "https://www.qbitai.com/2026/07/443339.html",
+      "title": "在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑”",
+      "link": "https://www.qbitai.com/2026/07/444733.html",
       "source": "qbitai",
-      "pub_date": "2026-07-05 14:30",
-      "summary": "正考虑推出Meta Compute"
+      "pub_date": "2026-07-06 10:40",
+      "summary": ""
     },
     {
-      "title": "刚刚，LeCun团队让世界模型学会持续学习！",
-      "link": "https://www.qbitai.com/2026/07/442964.html",
+      "title": "2026新青年创投大会在沪举行：00后登场，创投新周期开启",
+      "link": "https://www.qbitai.com/2026/07/444049.html",
       "source": "qbitai",
-      "pub_date": "2026-07-05 06:52",
-      "summary": "迈向持续学习的世界模型"
+      "pub_date": "2026-07-06 10:22",
+      "summary": ""
     },
     {
-      "title": "别争了！香农老婆，才是世界上第一个大语言模型",
-      "link": "https://www.qbitai.com/2026/07/443241.html",
+      "title": "字节、宇树、BAT等40+产品大咖齐聚，2026奇点智能产品大会最新最全日程来了！",
+      "link": "https://www.qbitai.com/2026/07/444043.html",
       "source": "qbitai",
-      "pub_date": "2026-07-05 03:51",
-      "summary": "70年前，香农就拥有了端侧私人定制大语言模型"
+      "pub_date": "2026-07-06 09:54",
+      "summary": ""
     },
     {
-      "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
-      "link": "https://www.qbitai.com/2026/07/442746.html",
+      "title": "蔚来世界模型OTA，70万用户没人被留在旧版本",
+      "link": "https://www.qbitai.com/2026/07/443868.html",
       "source": "qbitai",
-      "pub_date": "2026-07-03 14:28",
-      "summary": "四年前LeCun提出JEPA时，大概不会想到，这套架构有一天会被用来理解：一颗细胞。"
+      "pub_date": "2026-07-06 09:41",
+      "summary": "把世界模型用活了"
     },
     {
-      "title": "Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户",
-      "link": "https://www.qbitai.com/2026/07/442567.html",
+      "title": "联想控股发起成立中国中文信息学会产学研创新生态工作委员会",
+      "link": "https://www.qbitai.com/2026/07/443869.html",
       "source": "qbitai",
-      "pub_date": "2026-07-03 12:17",
-      "summary": "单词数r也是风险问题？！"
+      "pub_date": "2026-07-06 09:39",
+      "summary": ""
     }
   ]
 }
