@@ -1,11 +1,11 @@
 {
   "headline": [
     {
-      "title": "真·QQ飞车！「电动版F1」上海开赛，Gemini在线解说",
-      "link": "https://www.qbitai.com/2026/07/443867.html",
+      "title": "Claude的脑子里，也长出了一块「意识」",
+      "link": "https://www.qbitai.com/2026/07/444741.html",
       "source": "qbitai",
-      "pub_date": "2026-07-06 09:35",
-      "summary": "现实版《飞驰人生 3》"
+      "pub_date": "2026-07-07 01:38",
+      "summary": "内部发现「类脑空间」，删掉就变傻"
     },
     {
       "title": "Linus 再谈 AI：大模型能写 Demo，但对复杂系统要有敬畏之心",
@@ -22,82 +22,96 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/katE2jJKMX7FaGskhvRL?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
-      "link": "https://www.infoq.cn/article/e6J4FbXQj28CiziktLuS?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-06 10:27",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/e6J4FbXQj28CiziktLuS?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-07-07 20:04",
+      "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle."
     },
     {
-      "title": "豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报",
-      "link": "https://www.infoq.cn/article/rs0HJTRdN6Pl88LIFh1a?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-06 10:22",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/rs0HJTRdN6Pl88LIFh1a?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "link": "https://openai.com/index/australian-payments-plus",
+      "source": "openai_blog",
+      "pub_date": "2026-07-07 00:00",
+      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central."
     }
   ],
   "product": [
     {
-      "title": "OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5",
-      "link": "https://www.qbitai.com/2026/07/443863.html",
+      "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+      "link": "https://www.qbitai.com/2026/07/445184.html",
       "source": "qbitai",
-      "pub_date": "2026-07-06 09:28",
+      "pub_date": "2026-07-07 03:35",
       "summary": ""
     },
     {
-      "title": "让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布",
-      "link": "https://www.infoq.cn/article/jpGdhU4YBXiXOloMEb2I?utm_source=rss&utm_medium=article",
+      "title": "微软通过 Copilot Autofix 将基于 AI 的漏洞修复功能引入 Azure DevOps",
+      "link": "https://www.infoq.cn/article/CSS70hYSA57JBUMLdf7L?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-07-06 10:19",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/jpGdhU4YBXiXOloMEb2I?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-07-07 17:23",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/CSS70hYSA57JBUMLdf7L?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "开源AI编程工具第一来啦：智谱GLM-5.2上线模力工场，还有专属折扣！",
+      "link": "https://www.infoq.cn/article/woKuALR13UH0o9XicUlZ?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-07 15:04",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/woKuALR13UH0o9XicUlZ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
   "research": [
     {
-      "title": "极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文",
-      "link": "https://www.qbitai.com/2026/07/444721.html",
+      "title": "征程赶超｜WAIC 2026理论突破：以数理双向赋能为钥，开启AI范式革新新征程",
+      "link": "https://www.qbitai.com/2026/07/444859.html",
       "source": "qbitai",
-      "pub_date": "2026-07-06 10:33",
+      "pub_date": "2026-07-07 03:14",
       "summary": ""
+    },
+    {
+      "title": "让 AI 真正“懂时间”：QC-MHM 时序知识图谱问答的全新突破 | AAAI",
+      "link": "https://www.infoq.cn/article/pAGx3GoLbi16BwUsoKw7?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-07 16:54",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/pAGx3GoLbi16BwUsoKw7?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "industry": [],
   "other": [
     {
-      "title": "在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑”",
-      "link": "https://www.qbitai.com/2026/07/444733.html",
+      "title": "DeepSeek招聘被「华为天才少年」公开吐槽，“面到最不专业的”",
+      "link": "https://www.qbitai.com/2026/07/445608.html",
       "source": "qbitai",
-      "pub_date": "2026-07-06 10:40",
-      "summary": ""
+      "pub_date": "2026-07-07 11:43",
+      "summary": "难怪DeepSeek要着重强调招HR（doge）"
     },
     {
-      "title": "2026新青年创投大会在沪举行：00后登场，创投新周期开启",
-      "link": "https://www.qbitai.com/2026/07/444049.html",
+      "title": "从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”",
+      "link": "https://www.qbitai.com/2026/07/445443.html",
       "source": "qbitai",
-      "pub_date": "2026-07-06 10:22",
-      "summary": ""
+      "pub_date": "2026-07-07 08:32",
+      "summary": "“共识与非共识”的深度思辨"
     },
     {
-      "title": "字节、宇树、BAT等40+产品大咖齐聚，2026奇点智能产品大会最新最全日程来了！",
-      "link": "https://www.qbitai.com/2026/07/444043.html",
+      "title": "我宣布这是中国最神奇的造车新势力",
+      "link": "https://www.qbitai.com/2026/07/445292.html",
       "source": "qbitai",
-      "pub_date": "2026-07-06 09:54",
-      "summary": ""
+      "pub_date": "2026-07-07 07:23",
+      "summary": "仅靠一款车5年不倒"
     },
     {
-      "title": "蔚来世界模型OTA，70万用户没人被留在旧版本",
-      "link": "https://www.qbitai.com/2026/07/443868.html",
+      "title": "让Skill“有图可依”：openJiuwen首发多模态Skill范式Skill-Omni",
+      "link": "https://www.qbitai.com/2026/07/445229.html",
       "source": "qbitai",
-      "pub_date": "2026-07-06 09:41",
-      "summary": "把世界模型用活了"
+      "pub_date": "2026-07-07 05:03",
+      "summary": "从文字说明书到多模态经验库"
     },
     {
-      "title": "联想控股发起成立中国中文信息学会产学研创新生态工作委员会",
-      "link": "https://www.qbitai.com/2026/07/443869.html",
+      "title": "刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
+      "link": "https://www.qbitai.com/2026/07/445230.html",
       "source": "qbitai",
-      "pub_date": "2026-07-06 09:39",
-      "summary": ""
+      "pub_date": "2026-07-07 04:48",
+      "summary": "来自蚂蚁灵波"
     }
   ]
 }
