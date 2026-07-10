@@ -1,6 +1,13 @@
 {
   "headline": [
     {
+      "title": "刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴",
+      "link": "https://www.qbitai.com/2026/07/446658.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-09 06:29",
+      "summary": "To safe AGI."
+    },
+    {
       "title": "“300行代码写个Cursor，这是AI时代软件工程师的新底线。”Ralph Loop创造者、Claude Code核心技术设计者的暴论",
       "link": "https://www.infoq.cn/article/d2tmcGi9Fy6PMkNGpo9y?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -8,124 +15,66 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/d2tmcGi9Fy6PMkNGpo9y?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "大模型推理也能“智能调度”：让奖励模型按需分配算力的动态路由机制 | ACL 2026",
-      "link": "https://www.infoq.cn/article/qYcpkTcUhClJvytSbLu1?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-08 11:19",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qYcpkTcUhClJvytSbLu1?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "This startup thinks robotics is about to have its ChatGPT moment",
-      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-07-08 19:19",
-      "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data."
+      "pub_date": "2026-07-09 23:38",
+      "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes"
     },
     {
-      "title": "OpenAI releases new voice models for more natural live conversations",
-      "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-07-08 17:00",
-      "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation."
+      "pub_date": "2026-07-09 22:24",
+      "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity."
     },
     {
-      "title": "Introducing GPT-Live",
-      "link": "https://openai.com/index/introducing-gpt-live",
-      "source": "openai_blog",
-      "pub_date": "2026-07-08 00:00",
-      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice."
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-07-09 22:03",
+      "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension."
     }
   ],
-  "product": [
-    {
-      "title": "“人机共生，产需共融”——2026世界机器人大会新闻发布会在京召开",
-      "link": "https://www.qbitai.com/2026/07/446226.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-08 10:04",
-      "summary": ""
-    },
-    {
-      "title": "高德发布Phys AI Data：首个面向物理AI训练与应用的一站式空间数据基座",
-      "link": "https://www.qbitai.com/2026/07/445946.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-08 07:42",
-      "summary": ""
-    },
-    {
-      "title": "HeroUI v3 正式发布，针对 React 和 React Native 从头进行了重写，并基于 Tailwind CSS v4 构建",
-      "link": "https://www.infoq.cn/article/S1JW65FuETJSyzr703t6?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-08 13:33",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/S1JW65FuETJSyzr703t6?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "企业微信首款 AI 硬件：出门问问TicNote合作款正式发布",
-      "link": "https://www.infoq.cn/article/CiwPd7c4oYfzqBGMbotV?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-07 23:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/CiwPd7c4oYfzqBGMbotV?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "微软通过 Copilot Autofix 将基于 AI 的漏洞修复功能引入 Azure DevOps",
-      "link": "https://www.infoq.cn/article/CSS70hYSA57JBUMLdf7L?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-07 17:23",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/CSS70hYSA57JBUMLdf7L?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "product": [],
   "funding": [],
-  "research": [
-    {
-      "title": "阿里斩获国际AI顶会最佳资源论文奖，提出Agent评测新范式",
-      "link": "https://www.qbitai.com/2026/07/446069.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-08 07:51",
-      "summary": ""
-    },
-    {
-      "title": "让 AI 真正“懂时间”：QC-MHM 时序知识图谱问答的全新突破 | AAAI",
-      "link": "https://www.infoq.cn/article/pAGx3GoLbi16BwUsoKw7?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-07 16:54",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/pAGx3GoLbi16BwUsoKw7?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "research": [],
   "industry": [],
   "other": [
     {
-      "title": "50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代",
-      "link": "https://www.qbitai.com/2026/07/446411.html",
+      "title": "Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出",
+      "link": "https://www.qbitai.com/2026/07/447508.html",
       "source": "qbitai",
-      "pub_date": "2026-07-08 13:29",
-      "summary": "华为联想都投了"
+      "pub_date": "2026-07-09 12:18",
+      "summary": "“已经出现泛化涌现”"
     },
     {
-      "title": "具身智能“高考”难疯了！人类100分，最强模型12.8",
-      "link": "https://www.qbitai.com/2026/07/446363.html",
+      "title": "第十一届中国航空创新创业大赛报名开启｜熵跃苍穹 无界新元",
+      "link": "https://www.qbitai.com/2026/07/446843.html",
       "source": "qbitai",
-      "pub_date": "2026-07-08 13:07",
-      "summary": "具身测评界的珠峰来了：RoboDojo"
-    },
-    {
-      "title": "横跨淘天与ATH事业群，硬核少年技术节下周京杭同步开幕，四项AIGX硬核成果齐发",
-      "link": "https://www.qbitai.com/2026/07/446356.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-08 10:15",
+      "pub_date": "2026-07-09 09:48",
       "summary": ""
     },
     {
-      "title": "别让AI一上来就“进厂打螺丝”：智源悟界·Orca要先教模型理解世界如何变化",
-      "link": "https://www.qbitai.com/2026/07/446075.html",
+      "title": "「没了李开复，零一万物还有什么？」一个敢问一个敢答",
+      "link": "https://www.qbitai.com/2026/07/446778.html",
       "source": "qbitai",
-      "pub_date": "2026-07-08 09:08",
-      "summary": "Hugging Face论文月榜第一"
+      "pub_date": "2026-07-09 07:34",
+      "summary": "李开复笑着回应了"
     },
     {
-      "title": "翁荔新博客提出「自进化先从Harness开始」，DeepSeek崔添翼转发附议",
-      "link": "https://www.qbitai.com/2026/07/446076.html",
+      "title": "刚刚，全球首个具身专属的MoE视频模型，开源了！",
+      "link": "https://www.qbitai.com/2026/07/446568.html",
       "source": "qbitai",
-      "pub_date": "2026-07-08 08:55",
-      "summary": "崔添翼：这个方向很容易出成果"
+      "pub_date": "2026-07-09 05:47",
+      "summary": "视频生成的下一站，或是机器人大脑"
+    },
+    {
+      "title": "2026年世界人工智能大会，7月17-7月20上海举办",
+      "link": "https://www.qbitai.com/2026/07/436498.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-09 05:33",
+      "summary": "180家企业携成果入驻"
     }
   ]
 }
