@@ -1,80 +1,102 @@
 {
   "headline": [
     {
-      "title": "刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴",
-      "link": "https://www.qbitai.com/2026/07/446658.html",
+      "title": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了",
+      "link": "https://www.qbitai.com/2026/07/447691.html",
       "source": "qbitai",
-      "pub_date": "2026-07-09 06:29",
-      "summary": "To safe AGI."
+      "pub_date": "2026-07-10 09:41",
+      "summary": ""
     },
     {
-      "title": "“300行代码写个Cursor，这是AI时代软件工程师的新底线。”Ralph Loop创造者、Claude Code核心技术设计者的暴论",
-      "link": "https://www.infoq.cn/article/d2tmcGi9Fy6PMkNGpo9y?utm_source=rss&utm_medium=article",
+      "title": "GPT-5.6全面围剿Claude Fable 5，“超级应用”ChatGPT Work上位，Altman紧急澄清：不会取代Coedx",
+      "link": "https://www.infoq.cn/article/iqUrh3vqeO4xszUa1bCd?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-07-08 17:15",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/d2tmcGi9Fy6PMkNGpo9y?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-07-10 14:10",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/iqUrh3vqeO4xszUa1bCd?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
-      "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-07-09 23:38",
-      "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes"
+      "title": "史上最高调的AI重写：Claude花11天搞定Bun，创始人花一个月才敢交底",
+      "link": "https://www.infoq.cn/article/uHkOoJ6Nfm6wNCsUryuO?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-10 13:21",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/uHkOoJ6Nfm6wNCsUryuO?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI launches its new family of models with GPT-5.6",
-      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-07-09 22:24",
-      "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity."
+      "pub_date": "2026-07-10 21:00",
+      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee."
     },
     {
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-07-09 22:03",
-      "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension."
+      "pub_date": "2026-07-10 00:16",
+      "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps."
     }
   ],
-  "product": [],
+  "product": [
+    {
+      "title": "日均提问次数暴增 20 倍！百度搭子宣布重磅升级，企业版同步发布",
+      "link": "https://www.qbitai.com/2026/07/447681.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-10 09:27",
+      "summary": "agent时代来了"
+    },
+    {
+      "title": "全球首个「具身原生」预训练模型发布，从物理世界出发为机器人造大脑！",
+      "link": "https://www.qbitai.com/2026/07/447627.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-10 08:01",
+      "summary": "开源第四弹：LingBot-VA 2.0"
+    },
+    {
+      "title": "行业首个具身原生世界动作模型来了！蚂蚁灵波发布LingBot-VA 2.0",
+      "link": "https://www.qbitai.com/2026/07/447597.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-10 03:28",
+      "summary": ""
+    }
+  ],
   "funding": [],
   "research": [],
   "industry": [],
   "other": [
     {
-      "title": "Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出",
-      "link": "https://www.qbitai.com/2026/07/447508.html",
+      "title": "只剩7天！第三届蚂蚁InTech奖申报即将截止，图灵奖得主坐镇评审",
+      "link": "https://www.qbitai.com/2026/07/447846.html",
       "source": "qbitai",
-      "pub_date": "2026-07-09 12:18",
-      "summary": "“已经出现泛化涌现”"
+      "pub_date": "2026-07-10 17:18",
+      "summary": "四大方向，奖金直给"
     },
     {
-      "title": "第十一届中国航空创新创业大赛报名开启｜熵跃苍穹 无界新元",
-      "link": "https://www.qbitai.com/2026/07/446843.html",
+      "title": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
+      "link": "https://www.qbitai.com/2026/07/447832.html",
       "source": "qbitai",
-      "pub_date": "2026-07-09 09:48",
+      "pub_date": "2026-07-10 14:13",
+      "summary": "AI变为研发流程的“组织者”"
+    },
+    {
+      "title": "一群做自动驾驶的人，盯上了睡眠这件事",
+      "link": "https://www.qbitai.com/2026/07/447796.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-10 09:45",
+      "summary": "把数据闭环搬进卧室"
+    },
+    {
+      "title": "AI聪明够了，行动呢？WAIC首夜，来聊点下一步的真实判断｜活动报名",
+      "link": "https://www.qbitai.com/2026/07/447682.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-10 09:32",
       "summary": ""
     },
     {
-      "title": "「没了李开复，零一万物还有什么？」一个敢问一个敢答",
-      "link": "https://www.qbitai.com/2026/07/446778.html",
+      "title": "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
+      "link": "https://www.qbitai.com/2026/07/447602.html",
       "source": "qbitai",
-      "pub_date": "2026-07-09 07:34",
-      "summary": "李开复笑着回应了"
-    },
-    {
-      "title": "刚刚，全球首个具身专属的MoE视频模型，开源了！",
-      "link": "https://www.qbitai.com/2026/07/446568.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-09 05:47",
-      "summary": "视频生成的下一站，或是机器人大脑"
-    },
-    {
-      "title": "2026年世界人工智能大会，7月17-7月20上海举办",
-      "link": "https://www.qbitai.com/2026/07/436498.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-09 05:33",
-      "summary": "180家企业携成果入驻"
+      "pub_date": "2026-07-10 04:44",
+      "summary": "字节也入局了"
     }
   ]
 }
