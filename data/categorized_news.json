@@ -1,11 +1,25 @@
 {
   "headline": [
     {
+      "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+      "link": "https://www.qbitai.com/2026/07/447873.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-11 05:30",
+      "summary": "神话级大模型驾驭宝典"
+    },
+    {
       "title": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了",
       "link": "https://www.qbitai.com/2026/07/447691.html",
       "source": "qbitai",
       "pub_date": "2026-07-10 09:41",
       "summary": ""
+    },
+    {
+      "title": "苹果甩出41页PDF怒告OpenAI“偷师”其核心机密！网友：早知道就等印度开源了",
+      "link": "https://www.infoq.cn/article/Rzh9umgPl90MgGolBcWm?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-11 17:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Rzh9umgPl90MgGolBcWm?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "GPT-5.6全面围剿Claude Fable 5，“超级应用”ChatGPT Work上位，Altman紧急澄清：不会取代Coedx",
@@ -20,20 +34,6 @@
       "source": "infoq",
       "pub_date": "2026-07-10 13:21",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/uHkOoJ6Nfm6wNCsUryuO?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-07-10 21:00",
-      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee."
-    },
-    {
-      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-07-10 00:16",
-      "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps."
     }
   ],
   "product": [
@@ -50,19 +50,26 @@
       "source": "qbitai",
       "pub_date": "2026-07-10 08:01",
       "summary": "开源第四弹：LingBot-VA 2.0"
-    },
-    {
-      "title": "行业首个具身原生世界动作模型来了！蚂蚁灵波发布LingBot-VA 2.0",
-      "link": "https://www.qbitai.com/2026/07/447597.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-10 03:28",
-      "summary": ""
     }
   ],
   "funding": [],
   "research": [],
   "industry": [],
   "other": [
+    {
+      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+      "link": "https://www.qbitai.com/2026/07/447902.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-11 10:07",
+      "summary": "已跑通300余项应用"
+    },
+    {
+      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+      "link": "https://www.qbitai.com/2026/07/447891.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-11 06:26",
+      "summary": "从FP64到INT8，全精度覆盖。"
+    },
     {
       "title": "只剩7天！第三届蚂蚁InTech奖申报即将截止，图灵奖得主坐镇评审",
       "link": "https://www.qbitai.com/2026/07/447846.html",
@@ -83,20 +90,6 @@
       "source": "qbitai",
       "pub_date": "2026-07-10 09:45",
       "summary": "把数据闭环搬进卧室"
-    },
-    {
-      "title": "AI聪明够了，行动呢？WAIC首夜，来聊点下一步的真实判断｜活动报名",
-      "link": "https://www.qbitai.com/2026/07/447682.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-10 09:32",
-      "summary": ""
-    },
-    {
-      "title": "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
-      "link": "https://www.qbitai.com/2026/07/447602.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-10 04:44",
-      "summary": "字节也入局了"
     }
   ]
 }
