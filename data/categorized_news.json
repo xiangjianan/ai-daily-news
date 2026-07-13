@@ -1,6 +1,13 @@
 {
   "headline": [
     {
+      "title": "老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型",
+      "link": "https://www.qbitai.com/2026/07/447981.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-12 01:37",
+      "summary": "老黄在ComputeX发布的“超级芯片”，已经在真机中落地了"
+    },
+    {
       "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
       "link": "https://www.qbitai.com/2026/07/447873.html",
       "source": "qbitai",
@@ -27,35 +34,36 @@
       "source": "infoq",
       "pub_date": "2026-07-10 14:10",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/iqUrh3vqeO4xszUa1bCd?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
+    }
+  ],
+  "product": [],
+  "funding": [
     {
-      "title": "史上最高调的AI重写：Claude花11天搞定Bun，创始人花一个月才敢交底",
-      "link": "https://www.infoq.cn/article/uHkOoJ6Nfm6wNCsUryuO?utm_source=rss&utm_medium=article",
+      "title": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+      "link": "https://www.qbitai.com/2026/07/447914.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-12 01:14",
+      "summary": "为了帮你看清具身数据行业，我们总结了以下十个行业现状"
+    }
+  ],
+  "research": [
+    {
+      "title": "面向 Qwen 系列模型线性注意力的高性能优化实践｜AICon深圳",
+      "link": "https://www.infoq.cn/article/wg5h3JBMvs5ZkoP0azha?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-07-10 13:21",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/uHkOoJ6Nfm6wNCsUryuO?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-07-12 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/wg5h3JBMvs5ZkoP0azha?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "product": [
-    {
-      "title": "日均提问次数暴增 20 倍！百度搭子宣布重磅升级，企业版同步发布",
-      "link": "https://www.qbitai.com/2026/07/447681.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-10 09:27",
-      "summary": "agent时代来了"
-    },
-    {
-      "title": "全球首个「具身原生」预训练模型发布，从物理世界出发为机器人造大脑！",
-      "link": "https://www.qbitai.com/2026/07/447627.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-10 08:01",
-      "summary": "开源第四弹：LingBot-VA 2.0"
-    }
-  ],
-  "funding": [],
-  "research": [],
   "industry": [],
   "other": [
+    {
+      "title": "98年哈工大教授创业，要做人形灵巧操作世界模型",
+      "link": "https://www.qbitai.com/2026/07/448034.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-12 08:29",
+      "summary": "从采集触觉，到对齐触觉，再到使用触觉"
+    },
     {
       "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
       "link": "https://www.qbitai.com/2026/07/447902.html",
@@ -83,13 +91,6 @@
       "source": "qbitai",
       "pub_date": "2026-07-10 14:13",
       "summary": "AI变为研发流程的“组织者”"
-    },
-    {
-      "title": "一群做自动驾驶的人，盯上了睡眠这件事",
-      "link": "https://www.qbitai.com/2026/07/447796.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-10 09:45",
-      "summary": "把数据闭环搬进卧室"
     }
   ]
 }
