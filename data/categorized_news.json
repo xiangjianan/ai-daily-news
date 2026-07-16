@@ -1,10 +1,24 @@
 {
   "headline": [
     {
-      "title": "GPT-5.6-sol入榜DRACO：OpenSquilla集成方案仍在Brave组质量、成本双领先",
-      "link": "https://www.qbitai.com/2026/07/449842.html",
+      "title": "荣膺2026 WAIC“镇馆之宝”！大模型原生智能体手机STEPX Neo解锁AI交互新范式",
+      "link": "https://www.qbitai.com/2026/07/450652.html",
       "source": "qbitai",
-      "pub_date": "2026-07-14 05:13",
+      "pub_date": "2026-07-15 06:43",
+      "summary": ""
+    },
+    {
+      "title": "不是吧OpenAI首款硬件吹半天就是个AI音箱？？",
+      "link": "https://www.qbitai.com/2026/07/450385.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-15 04:46",
+      "summary": "难怪苹果急眼了"
+    },
+    {
+      "title": "又快又聪明，阿里发布Qwen-Audio-3.0-Realtime：实时语音大模型四项功能升级",
+      "link": "https://www.qbitai.com/2026/07/450250.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-15 03:48",
       "summary": ""
     },
     {
@@ -20,36 +34,36 @@
       "source": "infoq",
       "pub_date": "2026-07-14 16:00",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/9RKrYlX2xWPNabO3ErVj?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "SpaceX联手Cursor的首个AI产品曝光！全能办公智能体内测中，ChatGPT Work迎来劲敌",
-      "link": "https://www.infoq.cn/article/uwozdp7L5ex4Z2r7iZRC?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-14 15:10",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/uwozdp7L5ex4Z2r7iZRC?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-      "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-07-14 22:22",
-      "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and bec"
     }
   ],
   "product": [
     {
-      "title": "B站AI创造公开赛正式上线投币榜，单月参赛人数突破五千",
-      "link": "https://www.qbitai.com/2026/07/449863.html",
+      "title": "测量精度突破1微米，效率提升3倍，优可测高精度闪测仪发布",
+      "link": "https://www.qbitai.com/2026/07/450841.html",
       "source": "qbitai",
-      "pub_date": "2026-07-14 11:05",
+      "pub_date": "2026-07-15 09:45",
       "summary": ""
     },
     {
-      "title": "高德发布通用世界模型工坊ABot-World Studio：5090单卡可生成小时级实时交互式视频与3D场景",
-      "link": "https://www.qbitai.com/2026/07/449568.html",
+      "title": "我和「二次元老公」约上会了！全球首个可以玩的实时交互模型，Xmax X2.0发布",
+      "link": "https://www.qbitai.com/2026/07/450130.html",
       "source": "qbitai",
-      "pub_date": "2026-07-14 03:46",
-      "summary": ""
+      "pub_date": "2026-07-15 08:09",
+      "summary": "世界就是你的画布"
+    },
+    {
+      "title": "Linux 基金会推出 Akrites 项目，防护核心开源软件免受 AI 网络威胁侵害",
+      "link": "https://www.infoq.cn/article/WL9yUw7LJbBFTgzwXbVZ?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-15 15:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/WL9yUw7LJbBFTgzwXbVZ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "WordPress 7.0 发布：内置 AI 基础能力、改进管理后台与设计套件",
+      "link": "https://www.infoq.cn/article/VAUIReF3N4Z4SkcosaYN?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-15 11:29",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/VAUIReF3N4Z4SkcosaYN?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "亚马逊云科技扩展了 DevOps 代理，新增基于 AI 的发布管理功能，可在代码投入生产前进行验证",
@@ -61,58 +75,50 @@
   ],
   "funding": [
     {
-      "title": "产业与全球资本共同加注，爱诗科技完成29.8亿元C轮融资",
-      "link": "https://www.qbitai.com/2026/07/449836.html",
+      "title": "估值4800亿，DeepSeek火速开启新一轮融资！最快明年IPO",
+      "link": "https://www.qbitai.com/2026/07/450101.html",
       "source": "qbitai",
-      "pub_date": "2026-07-14 04:06",
-      "summary": ""
+      "pub_date": "2026-07-15 00:54",
+      "summary": "距首轮估值上涨37%"
     }
   ],
   "research": [],
-  "industry": [
-    {
-      "title": "从 AI 取数到智能分析：企业级数据 Agent 的多阶段演进与工程化落地",
-      "link": "https://www.infoq.cn/article/LfO7mzdhxMWTtICFuTNb?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-14 09:53",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/LfO7mzdhxMWTtICFuTNb?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "industry": [],
   "other": [
     {
-      "title": "阶跃入局，重构智能体时代操作系统",
-      "link": "https://www.qbitai.com/2026/07/449979.html",
+      "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！",
+      "link": "https://www.qbitai.com/2026/07/450831.html",
       "source": "qbitai",
-      "pub_date": "2026-07-14 18:43",
-      "summary": "董事长印奇称“未来的OS一定是跨端的”"
+      "pub_date": "2026-07-15 09:18",
+      "summary": ""
     },
     {
-      "title": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
-      "link": "https://www.qbitai.com/2026/07/448475.html",
+      "title": "人在Meta，休个病假/产假转身被AI裁了？？",
+      "link": "https://www.qbitai.com/2026/07/450709.html",
       "source": "qbitai",
-      "pub_date": "2026-07-14 12:36",
-      "summary": "一手实测这就奉上"
+      "pub_date": "2026-07-15 09:03",
+      "summary": "26名员工正在集体起诉Meta"
     },
     {
-      "title": "马斯克“机器人还进不了厂”刚说完，小米机器人”上岗“汽车产线了",
-      "link": "https://www.qbitai.com/2026/07/449906.html",
+      "title": "马斯克也开始L4降维L2了！FSD正式进入反转时刻",
+      "link": "https://www.qbitai.com/2026/07/450657.html",
       "source": "qbitai",
-      "pub_date": "2026-07-14 12:04",
-      "summary": "全面硬刚Figure"
-    },
-    {
-      "title": "百年德国「战车」征服欧陆，驾驶位上是中国AI司机",
-      "link": "https://www.qbitai.com/2026/07/449850.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-14 11:04",
-      "summary": "一套模型，三个世界"
+      "pub_date": "2026-07-15 07:22",
+      "summary": "FSD、Robotaxi共用一套模型"
     },
     {
       "title": "2026年世界人工智能大会，7月17-7月20上海举办",
       "link": "https://www.qbitai.com/2026/07/436498.html",
       "source": "qbitai",
-      "pub_date": "2026-07-14 05:33",
+      "pub_date": "2026-07-15 05:33",
       "summary": "180家企业携成果入驻"
+    },
+    {
+      "title": "WAIC 最热闹的时刻，我们帮你筛掉噪音",
+      "link": "https://www.infoq.cn/article/PvrHDsA3SK724SzGZXjr?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-15 16:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/PvrHDsA3SK724SzGZXjr?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
