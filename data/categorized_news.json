@@ -1,55 +1,48 @@
 {
   "headline": [
     {
-      "title": "荣膺2026 WAIC“镇馆之宝”！大模型原生智能体手机STEPX Neo解锁AI交互新范式",
-      "link": "https://www.qbitai.com/2026/07/450652.html",
+      "title": "一句「哈哈」引发的苹果OpenAI窃密大战",
+      "link": "https://www.qbitai.com/2026/07/450921.html",
       "source": "qbitai",
-      "pub_date": "2026-07-15 06:43",
-      "summary": ""
+      "pub_date": "2026-07-16 04:47",
+      "summary": "苹果怒斥：烂到骨子里"
     },
     {
-      "title": "不是吧OpenAI首款硬件吹半天就是个AI音箱？？",
-      "link": "https://www.qbitai.com/2026/07/450385.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-15 04:46",
-      "summary": "难怪苹果急眼了"
+      "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
+      "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-07-16 20:07",
+      "summary": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner."
     },
     {
-      "title": "又快又聪明，阿里发布Qwen-Audio-3.0-Realtime：实时语音大模型四项功能升级",
-      "link": "https://www.qbitai.com/2026/07/450250.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-15 03:48",
-      "summary": ""
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-07-16 15:31",
+      "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball."
     },
     {
-      "title": "Claude Artifacts 一夜打通“全网公开分享+多人编辑”，AI 交付闭环彻底杀疯了",
-      "link": "https://www.infoq.cn/article/Pqcx0ktTdljvoQ3OMxze?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-14 22:01",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Pqcx0ktTdljvoQ3OMxze?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "link": "https://openai.com/index/cars24",
+      "source": "openai_blog",
+      "pub_date": "2026-07-16 00:00",
+      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company."
     },
     {
-      "title": "AlloyDB 推出代理模型，用数据库本地推理替代外部大模型调用",
-      "link": "https://www.infoq.cn/article/9RKrYlX2xWPNabO3ErVj?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-14 16:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/9RKrYlX2xWPNabO3ErVj?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "source": "openai_blog",
+      "pub_date": "2026-07-15 10:00",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
     }
   ],
   "product": [
     {
-      "title": "测量精度突破1微米，效率提升3倍，优可测高精度闪测仪发布",
-      "link": "https://www.qbitai.com/2026/07/450841.html",
+      "title": "用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界",
+      "link": "https://www.qbitai.com/2026/07/450896.html",
       "source": "qbitai",
-      "pub_date": "2026-07-15 09:45",
-      "summary": ""
-    },
-    {
-      "title": "我和「二次元老公」约上会了！全球首个可以玩的实时交互模型，Xmax X2.0发布",
-      "link": "https://www.qbitai.com/2026/07/450130.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-15 08:09",
-      "summary": "世界就是你的画布"
+      "pub_date": "2026-07-16 02:30",
+      "summary": "后训练中真机数据需求骤降60%"
     },
     {
       "title": "Linux 基金会推出 Akrites 项目，防护核心开源软件免受 AI 网络威胁侵害",
@@ -64,61 +57,62 @@
       "source": "infoq",
       "pub_date": "2026-07-15 11:29",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/VAUIReF3N4Z4SkcosaYN?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "亚马逊云科技扩展了 DevOps 代理，新增基于 AI 的发布管理功能，可在代码投入生产前进行验证",
-      "link": "https://www.infoq.cn/article/Af9AUfyturjojjQvv6QI?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-14 11:36",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Af9AUfyturjojjQvv6QI?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [
     {
-      "title": "估值4800亿，DeepSeek火速开启新一轮融资！最快明年IPO",
-      "link": "https://www.qbitai.com/2026/07/450101.html",
+      "title": "工业母机进入“计算化时刻”：中国移动投资友机技术，押注工业AI下一代基础设施",
+      "link": "https://www.qbitai.com/2026/07/451371.html",
       "source": "qbitai",
-      "pub_date": "2026-07-15 00:54",
-      "summary": "距首轮估值上涨37%"
+      "pub_date": "2026-07-16 09:29",
+      "summary": ""
     }
   ],
   "research": [],
-  "industry": [],
+  "industry": [
+    {
+      "title": "从 AI Coding 到 AI Native SDLC：企业级人机协同研发范式的演进与落地｜AICon深圳",
+      "link": "https://www.infoq.cn/article/H8IqlmqWsza0ev6KvvGm?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-16 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/H8IqlmqWsza0ev6KvvGm?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "other": [
     {
-      "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！",
-      "link": "https://www.qbitai.com/2026/07/450831.html",
+      "title": "理想L6换代24.98万开卖！L9同款自研芯片中控屏下放，一个版本配置拉满不涨价",
+      "link": "https://www.qbitai.com/2026/07/451576.html",
       "source": "qbitai",
-      "pub_date": "2026-07-15 09:18",
-      "summary": ""
+      "pub_date": "2026-07-16 15:12",
+      "summary": "最快下周一提车"
     },
     {
-      "title": "人在Meta，休个病假/产假转身被AI裁了？？",
-      "link": "https://www.qbitai.com/2026/07/450709.html",
+      "title": "全球首个！银河通用新框架仅需人类视频即可部署，特斯拉蚌埠住了",
+      "link": "https://www.qbitai.com/2026/07/451403.html",
       "source": "qbitai",
-      "pub_date": "2026-07-15 09:03",
-      "summary": "26名员工正在集体起诉Meta"
+      "pub_date": "2026-07-16 10:51",
+      "summary": "还能让机器人边干边学"
     },
     {
-      "title": "马斯克也开始L4降维L2了！FSD正式进入反转时刻",
-      "link": "https://www.qbitai.com/2026/07/450657.html",
+      "title": "RLinf v0.3来了！从模型生态到真机部署五大能力跃升，无问芯穹与清华大学联合打造",
+      "link": "https://www.qbitai.com/2026/07/451379.html",
       "source": "qbitai",
-      "pub_date": "2026-07-15 07:22",
-      "summary": "FSD、Robotaxi共用一套模型"
+      "pub_date": "2026-07-16 09:25",
+      "summary": "为破解具身智能行业发展瓶颈构建了新一代“进化底座”"
     },
     {
-      "title": "2026年世界人工智能大会，7月17-7月20上海举办",
-      "link": "https://www.qbitai.com/2026/07/436498.html",
+      "title": "手握英伟达宁德时代相同剧本，具身智能的第一个「基建商」出现了",
+      "link": "https://www.qbitai.com/2026/07/451327.html",
       "source": "qbitai",
-      "pub_date": "2026-07-15 05:33",
-      "summary": "180家企业携成果入驻"
+      "pub_date": "2026-07-16 09:13",
+      "summary": "Robotaxi第一股文远知行孵化"
     },
     {
-      "title": "WAIC 最热闹的时刻，我们帮你筛掉噪音",
-      "link": "https://www.infoq.cn/article/PvrHDsA3SK724SzGZXjr?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-15 16:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/PvrHDsA3SK724SzGZXjr?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "刚刚，逐际动力放出一段Demo，Figure：睡不着啊",
+      "link": "https://www.qbitai.com/2026/07/451084.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-16 08:04",
+      "summary": "不要赌某个模型能通吃一切。"
     }
   ]
 }
