@@ -1,13 +1,6 @@
 {
   "headline": [
     {
-      "title": "上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下",
-      "link": "https://www.qbitai.com/2026/07/453084.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-17 10:17",
-      "summary": ""
-    },
-    {
       "title": "WAIC 2026 | 混元Hy3大模型首秀，腾讯上线AI技能支付体系",
       "link": "https://www.infoq.cn/article/FeWLPKLYDjWko8rJjxKq?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -34,22 +27,22 @@
       "source": "openai_blog",
       "pub_date": "2026-07-15 10:00",
       "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
+    },
+    {
+      "title": "How sales teams use ChatGPT Work",
+      "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "source": "openai_blog",
+      "pub_date": "2026-07-14 00:00",
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
     }
   ],
   "product": [
     {
-      "title": "PPIO发布智能模型网关，打造面向Agent时代的智能Token工厂",
-      "link": "https://www.qbitai.com/2026/07/453467.html",
+      "title": "WAIC 2026现场发布AI商业落地报告，海亮科服同时入选产业图谱、Top50",
+      "link": "https://www.qbitai.com/2026/07/453889.html",
       "source": "qbitai",
-      "pub_date": "2026-07-17 22:32",
-      "summary": "万亿Token调用量验证"
-    },
-    {
-      "title": "WAIC 2026商汤大装置发布算电协同Agent，单位电力成本Token产出提升80%",
-      "link": "https://www.qbitai.com/2026/07/453211.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-17 11:00",
-      "summary": ""
+      "pub_date": "2026-07-18 10:12",
+      "summary": "全面演进为赋能千行百业的新型数字基础设施"
     },
     {
       "title": "GOAI 世界人工智能开源大赛官网上线，全球报名正式开启",
@@ -66,59 +59,52 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/zVfybMt5i742CqhWYjR4?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [],
-  "research": [],
-  "industry": [
+  "funding": [
     {
-      "title": "给AI发工号、定岗位、做绩效，数字员工终于能落地了",
-      "link": "https://www.qbitai.com/2026/07/453245.html",
+      "title": "DeepSeek估值，被一家安徽箱包公司给全部暴露了",
+      "link": "https://www.qbitai.com/2026/07/453641.html",
       "source": "qbitai",
-      "pub_date": "2026-07-17 16:40",
-      "summary": "面壁智能开源StaffDeck"
-    },
-    {
-      "title": "从仰望星空到落地创新：WAIC青年菁英会即将硬核开场，最新成果首发在即",
-      "link": "https://www.qbitai.com/2026/07/453203.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-17 10:41",
-      "summary": ""
+      "pub_date": "2026-07-18 03:41",
+      "summary": "3500亿估值曝光"
     }
   ],
+  "research": [],
+  "industry": [],
   "other": [
     {
-      "title": "逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU",
-      "link": "https://www.qbitai.com/2026/07/453352.html",
+      "title": "WAIC看了一圈，这家公司的机器人在认真打工",
+      "link": "https://www.qbitai.com/2026/07/454040.html",
       "source": "qbitai",
-      "pub_date": "2026-07-17 17:09",
-      "summary": "发布芯片只是拿到了入场券"
+      "pub_date": "2026-07-18 13:23",
+      "summary": "机器人真正具备了干活的完整能力"
     },
     {
-      "title": "WAIC直击 | 十大开源社区「挤」进了一家GPU展台，沐曦凭什么？",
-      "link": "https://www.qbitai.com/2026/07/453246.html",
+      "title": "WAIC 2026现场直击：万兴科技旗下万兴剧厂“无限画布”、新品Filmora.AI与Virbo AI火爆首秀",
+      "link": "https://www.qbitai.com/2026/07/454015.html",
       "source": "qbitai",
-      "pub_date": "2026-07-17 16:24",
-      "summary": "每个Token背后，都是一次开源协作"
-    },
-    {
-      "title": "达卯科技WAIC首发算电协同2.0：构筑AI算力与绿色能源融合新范式",
-      "link": "https://www.qbitai.com/2026/07/453237.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-17 12:00",
-      "summary": "打造AIDC绿电直连能源运营操作系统"
-    },
-    {
-      "title": "WAIC 2026 | 如果Agent有性格，你的智能伙伴会是什么样的？",
-      "link": "https://www.qbitai.com/2026/07/453217.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-17 11:34",
-      "summary": "北电数智带来AI赋能民生的真实答卷"
-    },
-    {
-      "title": "算力的尽头，不是更多算力——全球顶尖科学家7月18日聚首上海，共议AI时代的“未来计算”",
-      "link": "https://www.qbitai.com/2026/07/453208.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-17 10:53",
+      "pub_date": "2026-07-18 11:19",
       "summary": ""
+    },
+    {
+      "title": "滴滴在WAIC分享：AI升级出行体验 好服务连接消费烟火气",
+      "link": "https://www.qbitai.com/2026/07/454003.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-18 11:04",
+      "summary": ""
+    },
+    {
+      "title": "让VLA更懂接触，优理奇UniTac让机器人拥有“触觉想象力”",
+      "link": "https://www.qbitai.com/2026/07/453897.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-18 10:55",
+      "summary": "入选ECCV 2026"
+    },
+    {
+      "title": "妙啊！无人机直连卫星传Token",
+      "link": "https://www.qbitai.com/2026/07/453789.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-18 08:17",
+      "summary": "世界人工智能大会最高奖"
     }
   ]
 }
