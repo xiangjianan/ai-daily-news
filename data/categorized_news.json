@@ -1,48 +1,69 @@
 {
   "headline": [
     {
-      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-07-20 21:21",
-      "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently."
+      "title": "微软跟进谷歌支持 Go 语言开发 AI 智能体，OpenAI 与 Anthropic 落后一步",
+      "link": "https://www.infoq.cn/article/JRHq6KiOTaA3IKMUD9TZ?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-21 14:31",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/JRHq6KiOTaA3IKMUD9TZ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI is scared of open-weight models. Should the US be?",
-      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-07-20 19:33",
-      "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business."
+      "title": "OpenAI 将崩溃调试视为流行病学研究，修复了存在 18 之久年的 GNU libunwind 漏洞",
+      "link": "https://www.infoq.cn/article/6aAupoiW1H6WqbR0kO7W?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-21 09:52",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/6aAupoiW1H6WqbR0kO7W?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
-      "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-07-20 15:15",
-      "summary": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenA"
+      "pub_date": "2026-07-21 20:56",
+      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry."
     },
     {
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-07-19 19:24",
-      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public."
-    },
-    {
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "link": "https://openai.com/index/cars24",
+      "title": "Introducing the ChatGPT for small business program",
+      "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
       "source": "openai_blog",
-      "pub_date": "2026-07-16 00:00",
-      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company."
+      "pub_date": "2026-07-21 17:00",
+      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work."
+    },
+    {
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "source": "openai_blog",
+      "pub_date": "2026-07-21 07:00",
+      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders."
     }
   ],
   "product": [
     {
-      "title": "国家具身智能应用中试基地发布首个合作世界模型 魔芯科技MoWorld 3D正式亮相",
-      "link": "https://www.qbitai.com/2026/07/455517.html",
+      "title": "WAIC重磅成果｜上海仪电智算牵头成立“智算系统架构联盟”并发布《超节点系统架构规范》",
+      "link": "https://www.qbitai.com/2026/07/456052.html",
       "source": "qbitai",
-      "pub_date": "2026-07-20 08:44",
+      "pub_date": "2026-07-21 09:39",
       "summary": ""
+    },
+    {
+      "title": "WAIC重磅成果｜智爱赛思全面升级并发布科研专属Token Plan",
+      "link": "https://www.qbitai.com/2026/07/456021.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-21 09:21",
+      "summary": ""
+    },
+    {
+      "title": "阿里Qoder上线全新安全能力，为每位用户配备一位专属安全工程师",
+      "link": "https://www.qbitai.com/2026/07/455979.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-21 05:44",
+      "summary": ""
+    },
+    {
+      "title": "GOAI 世界人工智能开源大赛四大赛道正式发布",
+      "link": "https://www.infoq.cn/article/aBFeKFvlAt7vFfsv7arl?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-21 20:17",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/aBFeKFvlAt7vFfsv7arl?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "神州数码发布企业AI流程系统与智算产品，尝试打通应用和算力两端",
@@ -50,27 +71,6 @@
       "source": "infoq",
       "pub_date": "2026-07-20 19:59",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/jc1vll7xctqYlopcwIKe?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "一句话上线 AI Agent 应用：火山 Supabase + IGA Pages 全栈部署实践",
-      "link": "https://www.infoq.cn/article/ZG1ipDQr8pjjHUQe7gbF?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-20 14:47",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ZG1ipDQr8pjjHUQe7gbF?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "GMI Cloud联合InfoQ、10+企业重磅发布《中国AI产业核心要素出海发展白皮书》，汇聚 AI 产业共识，盘点出海方法论",
-      "link": "https://www.infoq.cn/article/cm9JyEjFfV4toUJabQ80?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-20 14:30",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/cm9JyEjFfV4toUJabQ80?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "AI 红利分层，“底座夯实”的团队获益最高——《DevData 2026 研发效能基准报告》正式发布！",
-      "link": "https://www.infoq.cn/article/qgQoeipS5mb1feHBpTpp?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-20 14:27",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qgQoeipS5mb1feHBpTpp?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
@@ -85,14 +85,28 @@
   ],
   "industry": [
     {
-      "title": "企业级 Harness Engineering 实践：运营、数据、Coding 与办公智能体工程化落地｜AICon深圳",
-      "link": "https://www.infoq.cn/article/mbMDGFkUMj9oCaj2ICUq?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-20 14:36",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/mbMDGFkUMj9oCaj2ICUq?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "WAIC重磅成果｜仪电智算云在国家人工智能应用中试基地建设中展现全栈服务能力",
+      "link": "https://www.qbitai.com/2026/07/455998.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-21 09:15",
+      "summary": ""
+    },
+    {
+      "title": "国内首个！阿里健康氢离子达成NEJM、JAMA、BMJ三大医学顶刊内容合作",
+      "link": "https://www.qbitai.com/2026/07/455993.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-21 06:03",
+      "summary": ""
     }
   ],
   "other": [
+    {
+      "title": "WAIC重磅成果｜上海市教育算力专区正式开启试运行",
+      "link": "https://www.qbitai.com/2026/07/456026.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-21 09:30",
+      "summary": ""
+    },
     {
       "title": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
       "link": "https://www.qbitai.com/2026/07/455805.html",
@@ -115,18 +129,11 @@
       "summary": ""
     },
     {
-      "title": "启鸣达人首发《世界模型驱动的教育AGI白皮书》| WAIC 2026",
-      "link": "https://www.qbitai.com/2026/07/455730.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-20 09:21",
-      "summary": "从理论探索到体系构建"
-    },
-    {
-      "title": "AI语音进入“表演时代”：阿里Qwen-Audio-3.0-TTS登顶全球权威榜单",
-      "link": "https://www.qbitai.com/2026/07/455658.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-20 09:05",
-      "summary": "细粒度标签+ 20 种方言"
+      "title": "Hugging Face遭攻击后，只能靠GLM 5.2救场？白宫AI顾问急眼喊话：“我们要没竞争力了”",
+      "link": "https://www.infoq.cn/article/xcmJWdpD1F509hxYy6N9?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-21 16:14",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/xcmJWdpD1F509hxYy6N9?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
