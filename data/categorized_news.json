@@ -1,32 +1,32 @@
 {
   "headline": [
     {
-      "title": "危！GPT-5.6会自动删文件，AI初创老板痛失整台Mac",
-      "link": "https://www.qbitai.com/2026/07/454689.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-19 09:39",
-      "summary": "黎曼动力正式发布Rienmann-1.0"
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-07-20 21:21",
+      "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently."
     },
     {
-      "title": "从大模型到 AI 执行系统：构建企业级可控 Agent 体系｜AICon深圳",
-      "link": "https://www.infoq.cn/article/eTGhBWBHXum6AuVU45Ab?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-19 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/eTGhBWBHXum6AuVU45Ab?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-07-20 19:33",
+      "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business."
     },
     {
-      "title": "WAIC 2026 | 混元Hy3大模型首秀，腾讯上线AI技能支付体系",
-      "link": "https://www.infoq.cn/article/FeWLPKLYDjWko8rJjxKq?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-17 21:01",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/FeWLPKLYDjWko8rJjxKq?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
+      "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-07-20 15:15",
+      "summary": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenA"
     },
     {
       "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
       "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
       "source": "techcrunch_ai",
       "pub_date": "2026-07-19 19:24",
-      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public."
+      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public."
     },
     {
       "title": "How Cars24 scales conversations and builds faster with OpenAI",
@@ -38,66 +38,95 @@
   ],
   "product": [
     {
-      "title": "WAIC 2026现场，阡视科技发布超节点系统，专为Token工厂而生",
-      "link": "https://www.infoq.cn/article/TjLEm0VKwkrrkLxOds61?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-19 10:59",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/TjLEm0VKwkrrkLxOds61?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "国家具身智能应用中试基地发布首个合作世界模型 魔芯科技MoWorld 3D正式亮相",
+      "link": "https://www.qbitai.com/2026/07/455517.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-20 08:44",
+      "summary": ""
     },
     {
-      "title": "GOAI 世界人工智能开源大赛官网上线，全球报名正式开启",
-      "link": "https://www.infoq.cn/article/r3sAtSl97Gx5CuZHXOdi?utm_source=rss&utm_medium=article",
+      "title": "神州数码发布企业AI流程系统与智算产品，尝试打通应用和算力两端",
+      "link": "https://www.infoq.cn/article/jc1vll7xctqYlopcwIKe?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-07-17 19:11",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/r3sAtSl97Gx5CuZHXOdi?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-07-20 19:59",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/jc1vll7xctqYlopcwIKe?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "一句话上线 AI Agent 应用：火山 Supabase + IGA Pages 全栈部署实践",
+      "link": "https://www.infoq.cn/article/ZG1ipDQr8pjjHUQe7gbF?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-20 14:47",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ZG1ipDQr8pjjHUQe7gbF?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "GMI Cloud联合InfoQ、10+企业重磅发布《中国AI产业核心要素出海发展白皮书》，汇聚 AI 产业共识，盘点出海方法论",
+      "link": "https://www.infoq.cn/article/cm9JyEjFfV4toUJabQ80?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-20 14:30",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/cm9JyEjFfV4toUJabQ80?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "AI 红利分层，“底座夯实”的团队获益最高——《DevData 2026 研发效能基准报告》正式发布！",
+      "link": "https://www.infoq.cn/article/qgQoeipS5mb1feHBpTpp?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-20 14:27",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qgQoeipS5mb1feHBpTpp?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
-  "research": [],
+  "research": [
+    {
+      "title": "WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践",
+      "link": "https://www.qbitai.com/2026/07/455963.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-20 10:42",
+      "summary": ""
+    }
+  ],
   "industry": [
     {
-      "title": "商汤大装置与国信数算达成战略合作，共建全国一体化算力网试验场",
-      "link": "https://www.qbitai.com/2026/07/454771.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-19 09:40",
-      "summary": "极响应全国一体化算力网建设部署"
+      "title": "企业级 Harness Engineering 实践：运营、数据、Coding 与办公智能体工程化落地｜AICon深圳",
+      "link": "https://www.infoq.cn/article/mbMDGFkUMj9oCaj2ICUq?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-20 14:36",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/mbMDGFkUMj9oCaj2ICUq?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
     {
-      "title": "冷门的哲学，成了“治”AI的热门",
-      "link": "https://www.qbitai.com/2026/07/455041.html",
+      "title": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
+      "link": "https://www.qbitai.com/2026/07/455805.html",
       "source": "qbitai",
-      "pub_date": "2026-07-19 12:34",
-      "summary": "智能进了社会，治理不能慢半拍"
+      "pub_date": "2026-07-20 10:33",
+      "summary": "大模型时代的共同选择"
     },
     {
-      "title": "围观WAIC模型「读心术」！现场火火火火火",
-      "link": "https://www.qbitai.com/2026/07/455031.html",
+      "title": "当AI进入最依赖“人”的行业：一家四线城市康复机构利润增长40%",
+      "link": "https://www.qbitai.com/2026/07/455791.html",
       "source": "qbitai",
-      "pub_date": "2026-07-19 11:55",
-      "summary": "主观世界模型"
-    },
-    {
-      "title": "不靠英伟达网卡，国产GPU直通方案实测出炉：吞吐飙升、延迟砍半",
-      "link": "https://www.qbitai.com/2026/07/454932.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-19 11:50",
-      "summary": "奇异摩尔首次亮相WAIC 2026"
-    },
-    {
-      "title": "逛了趟WAIC，我只想说，AI在物理世界都快卷疯了……",
-      "link": "https://www.qbitai.com/2026/07/454802.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-19 11:43",
-      "summary": "还得是AI圈春晚"
-    },
-    {
-      "title": "聚焦WAIC｜端侧原生架构获产业共识，Om AI联汇正式发起物理AI协同发展倡议",
-      "link": "https://www.qbitai.com/2026/07/454791.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-19 11:24",
+      "pub_date": "2026-07-20 09:54",
       "summary": ""
+    },
+    {
+      "title": "全球首发技术路线+全域联盟双轮破局，AI for ADANES释放先进核能新质生产力",
+      "link": "https://www.qbitai.com/2026/07/455729.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-20 09:41",
+      "summary": ""
+    },
+    {
+      "title": "启鸣达人首发《世界模型驱动的教育AGI白皮书》| WAIC 2026",
+      "link": "https://www.qbitai.com/2026/07/455730.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-20 09:21",
+      "summary": "从理论探索到体系构建"
+    },
+    {
+      "title": "AI语音进入“表演时代”：阿里Qwen-Audio-3.0-TTS登顶全球权威榜单",
+      "link": "https://www.qbitai.com/2026/07/455658.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-20 09:05",
+      "summary": "细粒度标签+ 20 种方言"
     }
   ]
 }
