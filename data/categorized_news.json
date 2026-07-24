@@ -1,13 +1,6 @@
 {
   "headline": [
     {
-      "title": "百度文心助手任务Agent登顶国际权威榜单，超越Claude、GPT拿下全球智能体冠军",
-      "link": "https://www.qbitai.com/2026/07/457117.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-22 07:31",
-      "summary": ""
-    },
-    {
       "title": "OpenAI承认为了偷答案，GPT-5.6 Sol 一路“杀进”生产系统：AI自主攻击时代真的来了",
       "link": "https://www.infoq.cn/article/P8G7TAsIP0rkeFFLxAf0?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -15,88 +8,110 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/P8G7TAsIP0rkeFFLxAf0?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-      "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "title": "OpenAI makes ChatGPT Health available to all US users",
+      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-07-22 20:49",
-      "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models."
+      "pub_date": "2026-07-23 17:00",
+      "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal."
     },
     {
-      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-07-22 19:11",
-      "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Huggin"
+      "title": "Launching Health in ChatGPT",
+      "link": "https://openai.com/index/health-in-chatgpt",
+      "source": "openai_blog",
+      "pub_date": "2026-07-23 00:00",
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health."
     },
     {
-      "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
-      "link": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-07-22 18:02",
-      "summary": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#16"
+      "title": "Introducing OpenAI Presence",
+      "link": "https://openai.com/index/introducing-openai-presence",
+      "source": "openai_blog",
+      "pub_date": "2026-07-22 05:30",
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
+    },
+    {
+      "title": "Introducing the ChatGPT for small business program",
+      "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "source": "openai_blog",
+      "pub_date": "2026-07-21 17:00",
+      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work."
     }
   ],
   "product": [
     {
-      "title": "Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议”",
-      "link": "https://www.qbitai.com/2026/07/457049.html",
+      "title": "阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务",
+      "link": "https://www.qbitai.com/2026/07/457694.html",
       "source": "qbitai",
-      "pub_date": "2026-07-22 04:10",
-      "summary": "通过Meeting Flow让实时智能融入会议与商务沟通场景"
+      "pub_date": "2026-07-23 06:58",
+      "summary": ""
     },
     {
-      "title": "天立启鸣发布教育AGI白皮书：破解教育“不可能三角”",
-      "link": "https://www.qbitai.com/2026/07/457040.html",
+      "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座",
+      "link": "https://www.qbitai.com/2026/07/457359.html",
       "source": "qbitai",
-      "pub_date": "2026-07-22 03:54",
-      "summary": "从答题响应到心智仿真"
+      "pub_date": "2026-07-23 01:55",
+      "summary": ""
     },
     {
-      "title": "GOAI 世界人工智能开源大赛四大赛道正式发布",
-      "link": "https://www.infoq.cn/article/aBFeKFvlAt7vFfsv7arl?utm_source=rss&utm_medium=article",
+      "title": "谷歌联合多家企业发布 Agentic Resource Discovery 规范，为 AI Agent 建立统一资源发现机制",
+      "link": "https://www.infoq.cn/article/9sEaQuLww0wAu016qH5R?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-07-21 20:17",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/aBFeKFvlAt7vFfsv7arl?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-07-23 09:48",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/9sEaQuLww0wAu016qH5R?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
   "research": [],
-  "industry": [],
+  "industry": [
+    {
+      "title": "趋境科技华东区域总部落地钱江世纪城，五年内建成万卡级高品质 AI Token 工厂",
+      "link": "https://www.qbitai.com/2026/07/457534.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-23 04:42",
+      "summary": "推进华东区域业务布局的重要一步"
+    },
+    {
+      "title": "从入鸿蒙到 AI Native：系统与 AI 融合下的应用智能化跃迁｜AICon深圳",
+      "link": "https://www.infoq.cn/article/Ti4HDYkZAlbNmEFFYp24?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-23 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Ti4HDYkZAlbNmEFFYp24?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "other": [
     {
-      "title": "美图拿出1亿元，面向全行业寻找AI影像Builder",
-      "link": "https://www.qbitai.com/2026/07/457223.html",
+      "title": "智能体政策新闻相关背景和简要解读",
+      "link": "https://www.qbitai.com/2026/07/457787.html",
       "source": "qbitai",
-      "pub_date": "2026-07-22 17:35",
-      "summary": "美图产品挑战赛（Meitu Hatch Catch）火热报名中"
-    },
-    {
-      "title": "业内首款超算+智算的大规模计算底座，在WAIC上我们找到了",
-      "link": "https://www.qbitai.com/2026/07/457054.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-22 05:47",
-      "summary": "一颗“不走寻常路”的芯"
-    },
-    {
-      "title": "我在WAIC 2026看见的十大趋势",
-      "link": "https://www.qbitai.com/2026/07/456974.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-22 03:46",
-      "summary": "没有人因此热情减退"
-    },
-    {
-      "title": "懂你、能交付、专业操作：金山办公田然给出AI办公助理的三项标准",
-      "link": "https://www.qbitai.com/2026/07/456910.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-22 03:24",
+      "pub_date": "2026-07-23 11:08",
       "summary": ""
     },
     {
-      "title": "物理AI的闭环，终于有人跑通了：日冕+远图万台级部署计划官宣",
-      "link": "https://www.qbitai.com/2026/07/456728.html",
+      "title": "机器人为啥困在Demo？讯飞新公司爻方智能给出答案：缺一味「本体认知」",
+      "link": "https://www.qbitai.com/2026/07/457698.html",
       "source": "qbitai",
-      "pub_date": "2026-07-22 03:06",
-      "summary": "按照规划，日冕和远图将首先在服务器制造场景验证超级工站能力，随后向更多生产环节扩展。2027年完成百台级部署，未来实现万台级具身智能产品部署。"
+      "pub_date": "2026-07-23 08:23",
+      "summary": "VLA不是终局"
+    },
+    {
+      "title": "超越π0，中国团队用1B参数模型登顶具身智能榜单",
+      "link": "https://www.qbitai.com/2026/07/457537.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-23 06:36",
+      "summary": "具身智能正在从「参数竞赛」进入「架构竞赛」。"
+    },
+    {
+      "title": "WAIC最狠展台打爆工业「深水区」！它石智航首发具身原生大脑AWE 3.5，具身Scaling全面释放",
+      "link": "https://www.qbitai.com/2026/07/457469.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-23 03:28",
+      "summary": "一台机器人的「多任务实战」"
+    },
+    {
+      "title": "贝壳财经启动“千帆竞发”计划，将征集百位优质创作者共建内容新生态",
+      "link": "https://www.qbitai.com/2026/07/457434.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-23 02:40",
+      "summary": ""
     }
   ]
 }
