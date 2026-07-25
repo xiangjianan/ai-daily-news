@@ -1,18 +1,25 @@
 {
   "headline": [
     {
-      "title": "OpenAI承认为了偷答案，GPT-5.6 Sol 一路“杀进”生产系统：AI自主攻击时代真的来了",
-      "link": "https://www.infoq.cn/article/P8G7TAsIP0rkeFFLxAf0?utm_source=rss&utm_medium=article",
+      "title": "“因为AI不再招研究生了！”菲尔兹奖得主转身加盟OpenAI：数学家这份工作很难维持",
+      "link": "https://www.infoq.cn/article/7rHl2bfzSq4kNVPQ9219?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-07-22 17:46",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/P8G7TAsIP0rkeFFLxAf0?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-07-24 19:30",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/7rHl2bfzSq4kNVPQ9219?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI makes ChatGPT Health available to all US users",
-      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "title": "OpenAI’s own model went rogue before Kimi had Wall Street sweating",
+      "link": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-07-23 17:00",
-      "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal."
+      "pub_date": "2026-07-24 16:50",
+      "summary": "Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do with&#160;how the U.S. AI industry reacted to it. Me"
+    },
+    {
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-07-24 13:36",
+      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents."
     },
     {
       "title": "Launching Health in ChatGPT",
@@ -27,90 +34,84 @@
       "source": "openai_blog",
       "pub_date": "2026-07-22 05:30",
       "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
-    },
-    {
-      "title": "Introducing the ChatGPT for small business program",
-      "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "source": "openai_blog",
-      "pub_date": "2026-07-21 17:00",
-      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work."
     }
   ],
   "product": [
     {
-      "title": "阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务",
-      "link": "https://www.qbitai.com/2026/07/457694.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-23 06:58",
-      "summary": ""
-    },
-    {
-      "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座",
-      "link": "https://www.qbitai.com/2026/07/457359.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-23 01:55",
-      "summary": ""
-    },
-    {
-      "title": "谷歌联合多家企业发布 Agentic Resource Discovery 规范，为 AI Agent 建立统一资源发现机制",
-      "link": "https://www.infoq.cn/article/9sEaQuLww0wAu016qH5R?utm_source=rss&utm_medium=article",
+      "title": "Pinecone 推出 Nexus 引擎：为 AI 智能体整合业务上下文并生成结构化数据",
+      "link": "https://www.infoq.cn/article/TdXHOr9FkuJ4a1mDh5uL?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-07-23 09:48",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/9sEaQuLww0wAu016qH5R?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-07-24 11:41",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/TdXHOr9FkuJ4a1mDh5uL?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [],
+  "funding": [
+    {
+      "title": "领克07GT重磅上市，以越级驾趣+全场景拓展生态掀翻旅行车市场",
+      "link": "https://www.qbitai.com/2026/07/459402.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-24 08:50",
+      "summary": ""
+    },
+    {
+      "title": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+      "link": "https://www.qbitai.com/2026/07/459262.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-24 07:49",
+      "summary": ""
+    }
+  ],
   "research": [],
   "industry": [
     {
-      "title": "趋境科技华东区域总部落地钱江世纪城，五年内建成万卡级高品质 AI Token 工厂",
-      "link": "https://www.qbitai.com/2026/07/457534.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-23 04:42",
-      "summary": "推进华东区域业务布局的重要一步"
+      "title": "深度对话：AI Agent 真落地，为什么需要 GPU 原生认知数据库？",
+      "link": "https://www.infoq.cn/video/WKDVJzq0LF6luzNAGwrP?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-24 17:30",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/video/WKDVJzq0LF6luzNAGwrP?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "从入鸿蒙到 AI Native：系统与 AI 融合下的应用智能化跃迁｜AICon深圳",
-      "link": "https://www.infoq.cn/article/Ti4HDYkZAlbNmEFFYp24?utm_source=rss&utm_medium=article",
+      "title": "Agent 想用但不敢用？百度智能云企业级 Agent 安全落地实践｜AICon深圳",
+      "link": "https://www.infoq.cn/article/QHoyhD3AbiXIjm0yPjao?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-07-23 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Ti4HDYkZAlbNmEFFYp24?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-07-24 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/QHoyhD3AbiXIjm0yPjao?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
     {
-      "title": "智能体政策新闻相关背景和简要解读",
-      "link": "https://www.qbitai.com/2026/07/457787.html",
+      "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
+      "link": "https://www.qbitai.com/2026/07/460154.html",
       "source": "qbitai",
-      "pub_date": "2026-07-23 11:08",
-      "summary": ""
+      "pub_date": "2026-07-24 14:42",
+      "summary": "跑出原生全模态新路径"
     },
     {
-      "title": "机器人为啥困在Demo？讯飞新公司爻方智能给出答案：缺一味「本体认知」",
-      "link": "https://www.qbitai.com/2026/07/457698.html",
+      "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
+      "link": "https://www.qbitai.com/2026/07/460041.html",
       "source": "qbitai",
-      "pub_date": "2026-07-23 08:23",
-      "summary": "VLA不是终局"
+      "pub_date": "2026-07-24 14:19",
+      "summary": "给它一张图，还你整个世界"
     },
     {
-      "title": "超越π0，中国团队用1B参数模型登顶具身智能榜单",
-      "link": "https://www.qbitai.com/2026/07/457537.html",
+      "title": "菲尔兹奖得主王虹，也发过NeurIPS",
+      "link": "https://www.qbitai.com/2026/07/460042.html",
       "source": "qbitai",
-      "pub_date": "2026-07-23 06:36",
-      "summary": "具身智能正在从「参数竞赛」进入「架构竞赛」。"
+      "pub_date": "2026-07-24 11:10",
+      "summary": "王虹主页唯一没挂链接的论文"
     },
     {
-      "title": "WAIC最狠展台打爆工业「深水区」！它石智航首发具身原生大脑AWE 3.5，具身Scaling全面释放",
-      "link": "https://www.qbitai.com/2026/07/457469.html",
+      "title": "抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录",
+      "link": "https://www.qbitai.com/2026/07/459432.html",
       "source": "qbitai",
-      "pub_date": "2026-07-23 03:28",
-      "summary": "一台机器人的「多任务实战」"
+      "pub_date": "2026-07-24 09:57",
+      "summary": "AI抢跑期，我们看见了全球化新品牌的下一程"
     },
     {
-      "title": "贝壳财经启动“千帆竞发”计划，将征集百位优质创作者共建内容新生态",
-      "link": "https://www.qbitai.com/2026/07/457434.html",
+      "title": "世界模型“六小龙”在WAIC吵起来了！行业红利就在非共识里",
+      "link": "https://www.qbitai.com/2026/07/458617.html",
       "source": "qbitai",
-      "pub_date": "2026-07-23 02:40",
+      "pub_date": "2026-07-24 07:29",
       "summary": ""
     }
   ]
