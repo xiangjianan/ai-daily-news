@@ -1,11 +1,25 @@
 {
   "headline": [
     {
+      "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+      "link": "https://www.qbitai.com/2026/07/460234.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-25 11:54",
+      "summary": "不做人形，抓住真实用户需求"
+    },
+    {
       "title": "“因为AI不再招研究生了！”菲尔兹奖得主转身加盟OpenAI：数学家这份工作很难维持",
       "link": "https://www.infoq.cn/article/7rHl2bfzSq4kNVPQ9219?utm_source=rss&utm_medium=article",
       "source": "infoq",
       "pub_date": "2026-07-24 19:30",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/7rHl2bfzSq4kNVPQ9219?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-07-25 00:23",
+      "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it."
     },
     {
       "title": "OpenAI’s own model went rogue before Kimi had Wall Street sweating",
@@ -15,28 +29,21 @@
       "summary": "Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do with&#160;how the U.S. AI industry reacted to it. Me"
     },
     {
-      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-      "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-07-24 13:36",
-      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents."
-    },
-    {
       "title": "Launching Health in ChatGPT",
       "link": "https://openai.com/index/health-in-chatgpt",
       "source": "openai_blog",
       "pub_date": "2026-07-23 00:00",
       "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health."
-    },
-    {
-      "title": "Introducing OpenAI Presence",
-      "link": "https://openai.com/index/introducing-openai-presence",
-      "source": "openai_blog",
-      "pub_date": "2026-07-22 05:30",
-      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
     }
   ],
   "product": [
+    {
+      "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
+      "link": "https://www.qbitai.com/2026/07/460174.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-25 03:21",
+      "summary": "单卡突破10000 video tokens/s，Vivix打通实时多模态生成全链路"
+    },
     {
       "title": "Pinecone 推出 Nexus 引擎：为 AI 智能体整合业务上下文并生成结构化数据",
       "link": "https://www.infoq.cn/article/TdXHOr9FkuJ4a1mDh5uL?utm_source=rss&utm_medium=article",
@@ -45,22 +52,7 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/TdXHOr9FkuJ4a1mDh5uL?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [
-    {
-      "title": "领克07GT重磅上市，以越级驾趣+全场景拓展生态掀翻旅行车市场",
-      "link": "https://www.qbitai.com/2026/07/459402.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-24 08:50",
-      "summary": ""
-    },
-    {
-      "title": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
-      "link": "https://www.qbitai.com/2026/07/459262.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-24 07:49",
-      "summary": ""
-    }
-  ],
+  "funding": [],
   "research": [],
   "industry": [
     {
@@ -80,39 +72,39 @@
   ],
   "other": [
     {
+      "title": "100%开源！吴恩达做了个个人桌面Agent",
+      "link": "https://www.qbitai.com/2026/07/460892.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-25 12:35",
+      "summary": "开源、隐私、本地优先、模型无关"
+    },
+    {
+      "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+      "link": "https://www.qbitai.com/2026/07/460542.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-25 12:24",
+      "summary": "这是机器人领域最好的时代"
+    },
+    {
+      "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+      "link": "https://www.qbitai.com/2026/07/460253.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-25 12:11",
+      "summary": "模型变强，Claude Code系统提示词都精简了"
+    },
+    {
+      "title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
+      "link": "https://www.qbitai.com/2026/07/460186.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-25 11:07",
+      "summary": "工业圈和学术圈“唱反调”"
+    },
+    {
       "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
       "link": "https://www.qbitai.com/2026/07/460154.html",
       "source": "qbitai",
       "pub_date": "2026-07-24 14:42",
       "summary": "跑出原生全模态新路径"
-    },
-    {
-      "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
-      "link": "https://www.qbitai.com/2026/07/460041.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-24 14:19",
-      "summary": "给它一张图，还你整个世界"
-    },
-    {
-      "title": "菲尔兹奖得主王虹，也发过NeurIPS",
-      "link": "https://www.qbitai.com/2026/07/460042.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-24 11:10",
-      "summary": "王虹主页唯一没挂链接的论文"
-    },
-    {
-      "title": "抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录",
-      "link": "https://www.qbitai.com/2026/07/459432.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-24 09:57",
-      "summary": "AI抢跑期，我们看见了全球化新品牌的下一程"
-    },
-    {
-      "title": "世界模型“六小龙”在WAIC吵起来了！行业红利就在非共识里",
-      "link": "https://www.qbitai.com/2026/07/458617.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-24 07:29",
-      "summary": ""
     }
   ]
 }
