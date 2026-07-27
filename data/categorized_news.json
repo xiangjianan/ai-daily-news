@@ -15,18 +15,18 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/7rHl2bfzSq4kNVPQ9219?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-07-26 16:33",
+      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\""
+    },
+    {
       "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
       "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
       "source": "techcrunch_ai",
       "pub_date": "2026-07-25 00:23",
       "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it."
-    },
-    {
-      "title": "OpenAI’s own model went rogue before Kimi had Wall Street sweating",
-      "link": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-07-24 16:50",
-      "summary": "Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do with&#160;how the U.S. AI industry reacted to it. Me"
     },
     {
       "title": "Launching Health in ChatGPT",
@@ -45,6 +45,13 @@
       "summary": "单卡突破10000 video tokens/s，Vivix打通实时多模态生成全链路"
     },
     {
+      "title": "最新发布：用 AI 构建面向 AI-Ready 管道的连接能力 ｜ Summit 2026",
+      "link": "https://www.infoq.cn/video/NvAaNKQjNJ4VkBiyUBuZ?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-24 16:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/video/NvAaNKQjNJ4VkBiyUBuZ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
       "title": "Pinecone 推出 Nexus 引擎：为 AI 智能体整合业务上下文并生成结构化数据",
       "link": "https://www.infoq.cn/article/TdXHOr9FkuJ4a1mDh5uL?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -61,16 +68,16 @@
       "source": "infoq",
       "pub_date": "2026-07-24 17:30",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/video/WKDVJzq0LF6luzNAGwrP?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Agent 想用但不敢用？百度智能云企业级 Agent 安全落地实践｜AICon深圳",
-      "link": "https://www.infoq.cn/article/QHoyhD3AbiXIjm0yPjao?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-24 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/QHoyhD3AbiXIjm0yPjao?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
+    {
+      "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+      "link": "https://www.qbitai.com/2026/07/460962.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-26 05:30",
+      "summary": "项目数据模型均开源"
+    },
     {
       "title": "100%开源！吴恩达做了个个人桌面Agent",
       "link": "https://www.qbitai.com/2026/07/460892.html",
@@ -98,13 +105,6 @@
       "source": "qbitai",
       "pub_date": "2026-07-25 11:07",
       "summary": "工业圈和学术圈“唱反调”"
-    },
-    {
-      "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
-      "link": "https://www.qbitai.com/2026/07/460154.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-24 14:42",
-      "summary": "跑出原生全模态新路径"
     }
   ]
 }
