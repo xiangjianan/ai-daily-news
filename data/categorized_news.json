@@ -1,32 +1,25 @@
 {
   "headline": [
     {
-      "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
-      "link": "https://www.qbitai.com/2026/07/460234.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-25 11:54",
-      "summary": "不做人形，抓住真实用户需求"
-    },
-    {
-      "title": "“因为AI不再招研究生了！”菲尔兹奖得主转身加盟OpenAI：数学家这份工作很难维持",
-      "link": "https://www.infoq.cn/article/7rHl2bfzSq4kNVPQ9219?utm_source=rss&utm_medium=article",
+      "title": "曝梁文锋不满内部会议泄露，DeepSeek或暂停融资；Karpathy入职Anthropic仅两月疑离职；日媒拆解宇树G1后认输：短期内赶不上中国｜AI周报",
+      "link": "https://www.infoq.cn/article/oSL5ff3IbpsJZcQzKxow?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-07-24 19:30",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/7rHl2bfzSq4kNVPQ9219?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-07-27 11:46",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/oSL5ff3IbpsJZcQzKxow?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-07-26 16:33",
-      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\""
+      "title": "全球首款2nm GPU 炸场！OpenAI、Meta、微软集体站台，AMD 要拆掉英伟达护城河？",
+      "link": "https://www.infoq.cn/article/SJj23gRv7ZXBHyaCi8Eq?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-27 09:57",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/SJj23gRv7ZXBHyaCi8Eq?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-07-25 00:23",
-      "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it."
+      "pub_date": "2026-07-27 17:28",
+      "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both."
     },
     {
       "title": "Launching Health in ChatGPT",
@@ -34,77 +27,85 @@
       "source": "openai_blog",
       "pub_date": "2026-07-23 00:00",
       "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health."
+    },
+    {
+      "title": "Introducing OpenAI Presence",
+      "link": "https://openai.com/index/introducing-openai-presence",
+      "source": "openai_blog",
+      "pub_date": "2026-07-22 05:30",
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
     }
   ],
   "product": [
     {
-      "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
-      "link": "https://www.qbitai.com/2026/07/460174.html",
+      "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
+      "link": "https://www.qbitai.com/2026/07/461149.html",
       "source": "qbitai",
-      "pub_date": "2026-07-25 03:21",
-      "summary": "单卡突破10000 video tokens/s，Vivix打通实时多模态生成全链路"
+      "pub_date": "2026-07-27 01:57",
+      "summary": ""
     },
     {
-      "title": "最新发布：用 AI 构建面向 AI-Ready 管道的连接能力 ｜ Summit 2026",
-      "link": "https://www.infoq.cn/video/NvAaNKQjNJ4VkBiyUBuZ?utm_source=rss&utm_medium=article",
+      "title": "亚马逊云科技发布 Loom，一个用于在企业级规模上管理 AI 代理的开源参考平台",
+      "link": "https://www.infoq.cn/article/JDgONrm19ROF1qHzfOQO?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-07-24 16:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/video/NvAaNKQjNJ4VkBiyUBuZ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Pinecone 推出 Nexus 引擎：为 AI 智能体整合业务上下文并生成结构化数据",
-      "link": "https://www.infoq.cn/article/TdXHOr9FkuJ4a1mDh5uL?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-24 11:41",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/TdXHOr9FkuJ4a1mDh5uL?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-07-27 09:24",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/JDgONrm19ROF1qHzfOQO?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [],
+  "funding": [
+    {
+      "title": "DeepSeek被曝主动叫停了第二轮融资签约",
+      "link": "https://www.qbitai.com/2026/07/461220.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-27 04:29",
+      "summary": "这轮融资计划至少募资100亿元"
+    }
+  ],
   "research": [],
   "industry": [
     {
-      "title": "深度对话：AI Agent 真落地，为什么需要 GPU 原生认知数据库？",
-      "link": "https://www.infoq.cn/video/WKDVJzq0LF6luzNAGwrP?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-24 17:30",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/video/WKDVJzq0LF6luzNAGwrP?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
+      "link": "https://www.qbitai.com/2026/07/461444.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-27 09:55",
+      "summary": "一次技术与场景的深度耦合"
     }
   ],
   "other": [
     {
-      "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
-      "link": "https://www.qbitai.com/2026/07/460962.html",
+      "title": "陶哲轩在菲尔兹颁奖现场：数学迎来百年新危机",
+      "link": "https://www.qbitai.com/2026/07/461398.html",
       "source": "qbitai",
-      "pub_date": "2026-07-26 05:30",
-      "summary": "项目数据模型均开源"
+      "pub_date": "2026-07-27 09:05",
+      "summary": ""
     },
     {
-      "title": "100%开源！吴恩达做了个个人桌面Agent",
-      "link": "https://www.qbitai.com/2026/07/460892.html",
+      "title": "与AI共生：2026微信小程序开发大赛WAIC官宣启动",
+      "link": "https://www.qbitai.com/2026/07/461392.html",
       "source": "qbitai",
-      "pub_date": "2026-07-25 12:35",
-      "summary": "开源、隐私、本地优先、模型无关"
+      "pub_date": "2026-07-27 08:54",
+      "summary": ""
     },
     {
-      "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
-      "link": "https://www.qbitai.com/2026/07/460542.html",
+      "title": "老黄「开源协议」就剩一家没签，是谁啊好难猜啊",
+      "link": "https://www.qbitai.com/2026/07/461341.html",
       "source": "qbitai",
-      "pub_date": "2026-07-25 12:24",
-      "summary": "这是机器人领域最好的时代"
+      "pub_date": "2026-07-27 07:55",
+      "summary": "Denny’s和英伟达，有一项核心业务高度重叠"
     },
     {
-      "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
-      "link": "https://www.qbitai.com/2026/07/460253.html",
+      "title": "AI最尴尬的短板，中国科学院出手了",
+      "link": "https://www.qbitai.com/2026/07/461160.html",
       "source": "qbitai",
-      "pub_date": "2026-07-25 12:11",
-      "summary": "模型变强，Claude Code系统提示词都精简了"
+      "pub_date": "2026-07-27 05:00",
+      "summary": "把“情商”做成了一套可测可训的工程"
     },
     {
-      "title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
-      "link": "https://www.qbitai.com/2026/07/460186.html",
+      "title": "出海企业苦等的可信任AI营销产品，飞书深诺做出来了",
+      "link": "https://www.qbitai.com/2026/07/461226.html",
       "source": "qbitai",
-      "pub_date": "2026-07-25 11:07",
-      "summary": "工业圈和学术圈“唱反调”"
+      "pub_date": "2026-07-27 04:33",
+      "summary": "让中国品牌赢在全球"
     }
   ]
 }
