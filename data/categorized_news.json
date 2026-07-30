@@ -1,88 +1,125 @@
 {
   "headline": [
     {
-      "title": "Launching Health in ChatGPT",
-      "link": "https://openai.com/index/health-in-chatgpt",
-      "source": "openai_blog",
-      "pub_date": "2026-07-23 00:00",
-      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health."
+      "title": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
+      "link": "https://www.qbitai.com/2026/07/462447.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-29 08:13",
+      "summary": "AI开始组团“挖漏洞”"
     },
     {
-      "title": "Introducing OpenAI Presence",
-      "link": "https://openai.com/index/introducing-openai-presence",
-      "source": "openai_blog",
-      "pub_date": "2026-07-22 05:30",
-      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
+      "title": "AI智能体正击穿生物安全防线！智源、北大实测11款商用大模型，均能生成绕过筛查的拆分方案",
+      "link": "https://www.infoq.cn/article/JOOv0RAS1AEZO92E4KyU?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-29 16:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/JOOv0RAS1AEZO92E4KyU?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Introducing the ChatGPT for small business program",
-      "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "source": "openai_blog",
-      "pub_date": "2026-07-21 17:00",
-      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work."
+      "title": "GPT“失控”被索赔1亿美元，微软反手扔王炸：新模型踩翻Mythos、价格砍半，还拉上“苦主”组了联盟",
+      "link": "https://www.infoq.cn/article/HmUiGVoVoyMc0Y29cZXc?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-29 14:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/HmUiGVoVoyMc0Y29cZXc?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "source": "openai_blog",
-      "pub_date": "2026-07-21 07:00",
-      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders."
+      "title": "OPPO 端侧多模态大模型工程化实践｜AICon深圳",
+      "link": "https://www.infoq.cn/article/ButxqDt3qZqzILoSZx4m?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-29 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ButxqDt3qZqzILoSZx4m?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-      "source": "openai_blog",
-      "pub_date": "2026-07-21 00:00",
-      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance."
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-07-29 22:46",
+      "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and compe"
     }
   ],
-  "product": [],
-  "funding": [],
+  "product": [
+    {
+      "title": "周鸿祎发布纳米Work：新一代企业智能体工作平台，为企业而生",
+      "link": "https://www.qbitai.com/2026/07/462062.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-29 01:53",
+      "summary": ""
+    },
+    {
+      "title": "“企业搞AI，老板要先用”！周鸿祎发布纳米Work，率先帮1000家小企业AI落地",
+      "link": "https://www.infoq.cn/article/Ey2MtxSL1FaYWesfqLGE?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-29 11:01",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Ey2MtxSL1FaYWesfqLGE?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
+  "funding": [
+    {
+      "title": "OceanBase回应融资报道：全力投入AI数据创新，与资本市场保持开放沟通",
+      "link": "https://www.qbitai.com/2026/07/462380.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-29 06:39",
+      "summary": ""
+    }
+  ],
   "research": [],
   "industry": [
     {
-      "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
-      "link": "https://www.qbitai.com/2026/07/461444.html",
+      "title": "中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径",
+      "link": "https://www.qbitai.com/2026/07/462943.html",
       "source": "qbitai",
-      "pub_date": "2026-07-27 09:55",
-      "summary": "一次技术与场景的深度耦合"
+      "pub_date": "2026-07-29 11:25",
+      "summary": "中科院、北电数智等专家共探数学与AI边界"
+    },
+    {
+      "title": "空中具身操作：让蜘蛛侠们安全落地",
+      "link": "https://www.qbitai.com/2026/07/462301.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-29 06:29",
+      "summary": ""
+    },
+    {
+      "title": "深度对话：做AI的最佳伙伴：定义Token从“生产”到“应用”的确定性旅程",
+      "link": "https://www.infoq.cn/video/G3qIla4jAZtDLCGhqvKx?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-07-29 19:12",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/video/G3qIla4jAZtDLCGhqvKx?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
+    {
+      "title": "Opus 5游戏提示词爆火！24小时复刻3A巨作",
+      "link": "https://www.qbitai.com/2026/07/462384.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-29 08:04",
+      "summary": "百万网友已玩疯"
+    },
+    {
+      "title": "萝卜快跑抢跑无人车右舵：香港率先全无人，伦敦直面Waymo",
+      "link": "https://www.qbitai.com/2026/07/462071.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-29 05:36",
+      "summary": "角逐全球最难右舵市场"
+    },
+    {
+      "title": "首个鸿蒙PC开源AI统一工作台JiuwenSwarm，办公编程一站式搞定",
+      "link": "https://www.qbitai.com/2026/07/462065.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-29 03:29",
+      "summary": "让多智能体团队随时随地为你干活"
+    },
+    {
+      "title": "九章云极Alaya Token完成Kimi K3适配 全球首个开源3T级模型入驻Token工厂",
+      "link": "https://www.qbitai.com/2026/07/462058.html",
+      "source": "qbitai",
+      "pub_date": "2026-07-29 01:45",
+      "summary": ""
+    },
     {
       "title": "豆包搜索，走出了豆包",
       "link": "https://www.qbitai.com/2026/07/461961.html",
       "source": "qbitai",
       "pub_date": "2026-07-28 10:12",
       "summary": "把搜索能力开放给Agent了"
-    },
-    {
-      "title": "Kimi K3、Unlimited OCR包揽全球前二，中国开源模型持续刷屏海外",
-      "link": "https://www.qbitai.com/2026/07/461949.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-28 08:17",
-      "summary": ""
-    },
-    {
-      "title": "当AI学会“仿真思维”，教师才能回归育人本质",
-      "link": "https://www.qbitai.com/2026/07/461939.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-28 07:32",
-      "summary": "从“工具效率”到“认知理解”，教育AI进入深水区"
-    },
-    {
-      "title": "Ilya获黄仁勋50亿美元押注：“是时候Scaling了”",
-      "link": "https://www.qbitai.com/2026/07/461911.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-28 05:46",
-      "summary": "迷人的Scaling曲线"
-    },
-    {
-      "title": "世界模型有触觉了！50万小时视频，训出首个隐式触觉世界动作模型",
-      "link": "https://www.qbitai.com/2026/07/461827.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-28 05:25",
-      "summary": ""
     }
   ]
 }
