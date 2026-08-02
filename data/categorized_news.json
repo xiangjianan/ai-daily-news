@@ -1,25 +1,18 @@
 {
   "headline": [
     {
-      "title": "GPT-5.6今起大降价，最大幅度80%！",
-      "link": "https://www.qbitai.com/2026/07/463640.html",
+      "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
+      "link": "https://www.qbitai.com/2026/08/464693.html",
       "source": "qbitai",
-      "pub_date": "2026-07-31 03:01",
-      "summary": "Luna打骨折"
+      "pub_date": "2026-08-01 05:02",
+      "summary": "对前沿实验室估值悲观"
     },
     {
-      "title": "Claude Code之父：Harness保质期只有半年，解开缰绳吧",
-      "link": "https://www.qbitai.com/2026/07/463433.html",
+      "title": "Anthropic模型，也失控了。。。",
+      "link": "https://www.qbitai.com/2026/08/464412.html",
       "source": "qbitai",
-      "pub_date": "2026-07-30 08:57",
-      "summary": "Claude code之父：大模型是有机生物，做好AI产品疏胜于堵"
-    },
-    {
-      "title": "GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现",
-      "link": "https://www.qbitai.com/2026/07/463297.html",
-      "source": "qbitai",
-      "pub_date": "2026-07-30 07:51",
-      "summary": "OpenAI的RSI焚诀，它来了！"
+      "pub_date": "2026-08-01 03:18",
+      "summary": "14万次测试翻旧账"
     },
     {
       "title": "翁荔被爆重返OpenAI！两天前因身体原因从Thinking Machines Lab离职",
@@ -27,6 +20,13 @@
       "source": "infoq",
       "pub_date": "2026-07-31 10:48",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/im3GxWtxYPZpkodNRgVQ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-08-01 17:07",
+      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents."
     },
     {
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
@@ -54,50 +54,42 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/A3Kb4dOvDtMWXiAYet8x?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "industry": [
-    {
-      "title": "DataBuddy：数据语义驱动的企业 Agent Runtime 设计与落地｜AICon深圳",
-      "link": "https://www.infoq.cn/article/M9l2eJdhQkbruQlETEbt?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-31 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/M9l2eJdhQkbruQlETEbt?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "industry": [],
   "other": [
     {
-      "title": "刚刚，即梦 Seedance 2.5来了！我狂测测测测……",
-      "link": "https://www.qbitai.com/2026/07/464329.html",
+      "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
+      "link": "https://www.qbitai.com/2026/08/464781.html",
       "source": "qbitai",
-      "pub_date": "2026-07-31 08:48",
-      "summary": "行业独家的30s视频原生直出"
+      "pub_date": "2026-08-01 10:45",
+      "summary": "具身智能的τ（bushi）"
     },
     {
-      "title": "视频后期，危！MiniMax H3手绘即特效，多模态的「Coding时刻」来了",
-      "link": "https://www.qbitai.com/2026/07/464277.html",
+      "title": "获奖之后，王虹最想感谢的人",
+      "link": "https://www.qbitai.com/2026/08/464761.html",
       "source": "qbitai",
-      "pub_date": "2026-07-31 08:28",
-      "summary": "尽显AGI黄金时代的奢华"
+      "pub_date": "2026-08-01 10:38",
+      "summary": "\"他真的给了我很大的帮助\""
     },
     {
-      "title": "米哈游蔡浩宇AI创业生变",
-      "link": "https://www.qbitai.com/2026/07/464169.html",
+      "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
+      "link": "https://www.qbitai.com/2026/08/464713.html",
       "source": "qbitai",
-      "pub_date": "2026-07-31 07:22",
-      "summary": "多个项目暂停，九成资源押向Agent"
+      "pub_date": "2026-08-01 10:33",
+      "summary": "狂刷3小时！"
     },
     {
-      "title": "姚顺雨拿50年数学难题成绩单，招人了",
-      "link": "https://www.qbitai.com/2026/07/464100.html",
+      "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+      "link": "https://www.qbitai.com/2026/08/464532.html",
       "source": "qbitai",
-      "pub_date": "2026-07-31 06:54",
-      "summary": "AI for Science方向"
+      "pub_date": "2026-08-01 04:53",
+      "summary": "下一场竞争，是谁能造出更多“有用的世界”"
     },
     {
-      "title": "学习强国做了个AI社区，两周铺进68座城市",
-      "link": "https://www.qbitai.com/2026/07/463727.html",
+      "title": "黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来",
+      "link": "https://www.qbitai.com/2026/08/464452.html",
       "source": "qbitai",
-      "pub_date": "2026-07-31 06:47",
-      "summary": ""
+      "pub_date": "2026-08-01 03:38",
+      "summary": "三本教科书，救活英伟达"
     }
   ]
 }
