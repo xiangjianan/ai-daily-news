@@ -15,13 +15,6 @@
       "summary": "14万次测试翻旧账"
     },
     {
-      "title": "翁荔被爆重返OpenAI！两天前因身体原因从Thinking Machines Lab离职",
-      "link": "https://www.infoq.cn/article/im3GxWtxYPZpkodNRgVQ?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-07-31 10:48",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/im3GxWtxYPZpkodNRgVQ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
       "title": "Sam Altman is still making the case for parenting via ChatGPT",
       "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
       "source": "techcrunch_ai",
@@ -34,6 +27,13 @@
       "source": "techcrunch_ai",
       "pub_date": "2026-07-31 22:47",
       "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
+    },
+    {
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "source": "openai_blog",
+      "pub_date": "2026-07-30 10:00",
+      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale."
     }
   ],
   "product": [],
