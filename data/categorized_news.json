@@ -1,95 +1,111 @@
 {
   "headline": [
     {
-      "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
-      "link": "https://www.qbitai.com/2026/08/464693.html",
+      "title": "刚刚，阿里Qwen3.8-Max来了！冲进全球第一梯队，模型表现直逼Claude",
+      "link": "https://www.qbitai.com/2026/08/465226.html",
       "source": "qbitai",
-      "pub_date": "2026-08-01 05:02",
-      "summary": "对前沿实验室估值悲观"
+      "pub_date": "2026-08-03 05:41",
+      "summary": "编程、专业工作、长程任务、多模态分析统统梭哈"
     },
     {
-      "title": "Anthropic模型，也失控了。。。",
-      "link": "https://www.qbitai.com/2026/08/464412.html",
+      "title": "赛博义父Tibo爆料：谷歌早一年就做出了ChatGPT，硬是没敢发！",
+      "link": "https://www.qbitai.com/2026/08/465176.html",
       "source": "qbitai",
-      "pub_date": "2026-08-01 03:18",
-      "summary": "14万次测试翻旧账"
+      "pub_date": "2026-08-03 04:29",
+      "summary": "终究还是喜提了「美国豆包」"
     },
     {
-      "title": "Sam Altman is still making the case for parenting via ChatGPT",
-      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "title": "Altman 带着GPT-6进白宫？OpenAI 新模型曝光，或成美国首批过审模型",
+      "link": "https://www.infoq.cn/article/uRoTVrUKptoRHzFwSpxj?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-03 11:55",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/uRoTVrUKptoRHzFwSpxj?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+      "link": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-08-01 17:07",
-      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents."
+      "pub_date": "2026-08-03 19:45",
+      "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the"
     },
     {
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+      "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-07-31 22:47",
-      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
-    },
-    {
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "source": "openai_blog",
-      "pub_date": "2026-07-30 10:00",
-      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale."
+      "pub_date": "2026-08-03 19:09",
+      "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue."
     }
   ],
-  "product": [],
-  "funding": [],
-  "research": [
+  "product": [
     {
-      "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
-      "link": "https://www.qbitai.com/2026/07/464328.html",
+      "title": "阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定",
+      "link": "https://www.qbitai.com/2026/08/465215.html",
       "source": "qbitai",
-      "pub_date": "2026-07-31 09:11",
-      "summary": "开源项目GitHub狂揽8000+Star"
+      "pub_date": "2026-08-03 04:58",
+      "summary": "阿里巴巴正式发布新一代基座大模型Qwen3.8，整体性能处于全球大模型第一梯队。Qwen3.8-Max预计下周开源，同时还将开源 Qwen3.8-27B。"
+    }
+  ],
+  "funding": [
+    {
+      "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
+      "link": "https://www.qbitai.com/2026/08/465361.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-03 06:49",
+      "summary": "由融中财经和秦创原科技创新投资集团主办的2026（第十二届）中国科创投资夏季峰会暨陕西科创产业生态大会圆满落下帷幕。"
     },
     {
-      "title": "为什么 Jotai 要重做 Store？一次高吞吐性能优化背后的架构取舍",
-      "link": "https://www.infoq.cn/article/A3Kb4dOvDtMWXiAYet8x?utm_source=rss&utm_medium=article",
+      "title": "Demo的高估值时代结束了，具身智能开始按生产力重新算账",
+      "link": "https://www.qbitai.com/2026/08/465225.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-03 05:42",
+      "summary": ""
+    }
+  ],
+  "research": [
+    {
+      "title": "浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程",
+      "link": "https://www.infoq.cn/article/amvXR0j31a7NMB4F5Z3Z?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-07-31 17:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/A3Kb4dOvDtMWXiAYet8x?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-08-03 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/amvXR0j31a7NMB4F5Z3Z?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "industry": [],
   "other": [
     {
-      "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
-      "link": "https://www.qbitai.com/2026/08/464781.html",
+      "title": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
+      "link": "https://www.qbitai.com/2026/08/465673.html",
       "source": "qbitai",
-      "pub_date": "2026-08-01 10:45",
-      "summary": "具身智能的τ（bushi）"
+      "pub_date": "2026-08-03 11:59",
+      "summary": "商汤预览了SenseNova U1.5 Lite"
     },
     {
-      "title": "获奖之后，王虹最想感谢的人",
-      "link": "https://www.qbitai.com/2026/08/464761.html",
+      "title": "年薪百万抢电工，Meta急到自己办技校",
+      "link": "https://www.qbitai.com/2026/08/465223.html",
       "source": "qbitai",
-      "pub_date": "2026-08-01 10:38",
-      "summary": "\"他真的给了我很大的帮助\""
+      "pub_date": "2026-08-03 07:11",
+      "summary": "电工短缺已经成为我们在美国扩建数据中心的头号障碍"
     },
     {
-      "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
-      "link": "https://www.qbitai.com/2026/08/464713.html",
+      "title": "当品牌开始争夺AI的答案：翰智GEO入场",
+      "link": "https://www.qbitai.com/2026/08/465662.html",
       "source": "qbitai",
-      "pub_date": "2026-08-01 10:33",
-      "summary": "狂刷3小时！"
+      "pub_date": "2026-08-03 06:58",
+      "summary": ""
     },
     {
-      "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
-      "link": "https://www.qbitai.com/2026/08/464532.html",
+      "title": "阿里“千问办公”开启公测",
+      "link": "https://www.qbitai.com/2026/08/465211.html",
       "source": "qbitai",
-      "pub_date": "2026-08-01 04:53",
-      "summary": "下一场竞争，是谁能造出更多“有用的世界”"
+      "pub_date": "2026-08-03 04:47",
+      "summary": "阿里巴巴旗下“千问办公”（QwenWork）开启公测，个人和企业用户均可体验。用户可在“千问办公”体验阿里最新旗舰模型Qwen3.8。"
     },
     {
-      "title": "黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来",
-      "link": "https://www.qbitai.com/2026/08/464452.html",
+      "title": "AI不再用完即忘：华为诺亚开源MindMemOS，记忆和Skill一起进化",
+      "link": "https://www.qbitai.com/2026/08/464835.html",
       "source": "qbitai",
-      "pub_date": "2026-08-01 03:38",
-      "summary": "三本教科书，救活英伟达"
+      "pub_date": "2026-08-03 02:51",
+      "summary": "面向AI Agent的可迁移、自演进记忆操作层MindMemOS"
     }
   ]
 }
