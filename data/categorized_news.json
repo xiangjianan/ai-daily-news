@@ -15,90 +15,81 @@
       "summary": "第二天，就有一篇人类论文回应：AI提出的反例不成立"
     },
     {
-      "title": "OpenAI天价网红公关活动，捅马蜂窝了",
-      "link": "https://www.qbitai.com/2026/08/466032.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-04 09:13",
-      "summary": "OpenAI+田园牧歌，画风属实太违和"
+      "title": "苹果指控 OpenAI挖人、拿零件、偷文件，OpenAI 晒聊天记录全面反击！马斯克：别信 OpenAI",
+      "link": "https://www.infoq.cn/article/rvVpcZspLiqGpPQq6HPw?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-05 22:36",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/rvVpcZspLiqGpPQq6HPw?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "中国软件行业领军人物、深开鸿CEO王成录博士确认出席AICon深圳，将分享“让 AI 拥有身体：从大模型迈向物理 AI”",
-      "link": "https://www.infoq.cn/article/vUmdr8i7Mo5sqovwLxN8?utm_source=rss&utm_medium=article",
+      "title": "Ming-Flash-Omni：全模态统一大模型的关键技术与实践",
+      "link": "https://www.infoq.cn/article/OlBv9DATXabu0bb4kAPt?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-08-04 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/vUmdr8i7Mo5sqovwLxN8?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-08-05 15:57",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/OlBv9DATXabu0bb4kAPt?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-08-04 19:48",
-      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta."
-    }
-  ],
-  "product": [],
-  "funding": [
-    {
-      "title": "激流：中国科技投资的势能与锚点｜甲子引力X",
-      "link": "https://www.qbitai.com/2026/08/465767.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-04 03:46",
-      "summary": "8月，中国科技产业智库甲子光年将在北京举办“激流——2026甲子引力X科技产业投资大会”，共同探讨中国科技投资的新变化与新答案。"
-    }
-  ],
-  "research": [
-    {
-      "title": "以 AI 为辅助的安全研究人员发现，攻击者可以利用经过特殊构造的视频获取用户电脑的访问权限",
-      "link": "https://www.infoq.cn/article/Mar3v7yyH4PjYFKLUZUh?utm_source=rss&utm_medium=article",
+      "title": "开出AI界最高薪的Anthropic，抱怨员工为钱而来？全网“阴阳”：和你死活反开源一样",
+      "link": "https://www.infoq.cn/article/qYp5NCloR64emA3Bq11F?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-08-04 14:15",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Mar3v7yyH4PjYFKLUZUh?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-08-05 15:25",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qYp5NCloR64emA3Bq11F?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "industry": [
+  "product": [
     {
-      "title": "资本重仓端侧物理AI：前海母基金数亿元押注，Om AI联汇加速端侧AI商业化落地",
-      "link": "https://www.qbitai.com/2026/08/465785.html",
+      "title": "等等，MiniMax H3不是刚发布吗？怎么就卷到几分钱的价格了……",
+      "link": "https://www.qbitai.com/2026/08/467036.html",
       "source": "qbitai",
-      "pub_date": "2026-08-04 06:47",
-      "summary": ""
+      "pub_date": "2026-08-05 13:47",
+      "summary": "MiniMax H3也能开箱即用了"
+    },
+    {
+      "title": "亚马逊云科技发布 GuardDuty Investigation Agent：让 AI 帮安全团队追查攻击线索",
+      "link": "https://www.infoq.cn/article/YZEahCZsDt3lZhHYvLPX?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-05 14:26",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/YZEahCZsDt3lZhHYvLPX?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
+  "funding": [],
+  "research": [],
+  "industry": [],
   "other": [
     {
-      "title": "开发者苦 “造轮子” 久矣，HarmonyOS 7 正在抹平系统能力的接入鸿沟",
-      "link": "https://www.qbitai.com/2026/08/466262.html",
+      "title": "别再吹AI生图了，不能图层编辑的AI都是“画饼”",
+      "link": "https://www.qbitai.com/2026/08/467034.html",
       "source": "qbitai",
-      "pub_date": "2026-08-04 09:18",
-      "summary": "Skill和Agent也能被封装调用"
+      "pub_date": "2026-08-05 14:09",
+      "summary": "兔展智能发布RabbitVis，让AI真正走完设计全流程"
     },
     {
-      "title": "腾讯混元Hy ASR 3.0 preview：让语音识别理解上下文",
-      "link": "https://www.qbitai.com/2026/08/465973.html",
+      "title": "又一家AI基金暴雷了",
+      "link": "https://www.qbitai.com/2026/08/467001.html",
       "source": "qbitai",
-      "pub_date": "2026-08-04 08:58",
-      "summary": "元宝已接入"
+      "pub_date": "2026-08-05 12:43",
+      "summary": "开源改写游戏规则"
     },
     {
-      "title": "DeepSeek低价风暴打服硅谷！海外平台争相倒贴V4 Flash",
-      "link": "https://www.qbitai.com/2026/08/465814.html",
+      "title": "淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
+      "link": "https://www.qbitai.com/2026/08/466998.html",
       "source": "qbitai",
-      "pub_date": "2026-08-04 08:18",
-      "summary": "那还说啥了梁圣，我订阅费全给你就是了呗"
+      "pub_date": "2026-08-05 09:38",
+      "summary": "阿里巴巴淘天集团开启2027届应届生招聘。"
     },
     {
-      "title": "亿级日活App的“算力生死劫”：推理成本倒挂，他们靠跨云架构砍掉75% GPU集群",
-      "link": "https://www.qbitai.com/2026/08/465732.html",
+      "title": "114B参数、6B激活，Sand.ai刚刚开源全球首个千亿MoE视频生成模型",
+      "link": "https://www.qbitai.com/2026/08/466847.html",
       "source": "qbitai",
-      "pub_date": "2026-08-04 01:27",
-      "summary": "出海AI，正被“三重算力锁链\"捆死"
+      "pub_date": "2026-08-05 07:05",
+      "summary": "10秒1080P，成本只要5毛钱"
     },
     {
-      "title": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
-      "link": "https://www.qbitai.com/2026/08/465673.html",
+      "title": "微软叫停Tokenmaxxing！预算卡死，超限自负",
+      "link": "https://www.qbitai.com/2026/08/466739.html",
       "source": "qbitai",
-      "pub_date": "2026-08-03 11:59",
-      "summary": "商汤预览了SenseNova U1.5 Lite"
+      "pub_date": "2026-08-05 06:33",
+      "summary": "内部默认用GPT-5.6"
     }
   ]
 }
