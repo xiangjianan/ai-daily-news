@@ -1,18 +1,32 @@
 {
   "headline": [
     {
-      "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
-      "link": "https://www.qbitai.com/2026/08/467663.html",
+      "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
+      "link": "https://www.qbitai.com/2026/08/467877.html",
       "source": "qbitai",
-      "pub_date": "2026-08-07 01:15",
-      "summary": "指环王成为大模型新基准"
+      "pub_date": "2026-08-07 03:23",
+      "summary": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测"
     },
     {
-      "title": "苹果指控 OpenAI挖人、拿零件、偷文件，OpenAI 晒聊天记录全面反击！马斯克：别信 OpenAI",
-      "link": "https://www.infoq.cn/article/rvVpcZspLiqGpPQq6HPw?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-05 22:36",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/rvVpcZspLiqGpPQq6HPw?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
+      "link": "https://www.qbitai.com/2026/08/467879.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-07 03:23",
+      "summary": "Chat优化版"
+    },
+    {
+      "title": "AI SSD：大模型推理的存储范式转移",
+      "link": "https://www.qbitai.com/2026/08/467840.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-07 02:56",
+      "summary": "算力、网络、内存与存储开始围绕每个Token协同"
+    },
+    {
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-08-07 22:48",
+      "summary": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess."
     },
     {
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -20,40 +34,61 @@
       "source": "techcrunch_ai",
       "pub_date": "2026-08-06 22:43",
       "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker."
-    },
-    {
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-08-06 17:34",
-      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries."
-    },
-    {
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-08-06 15:10",
-      "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a fo"
     }
   ],
-  "product": [],
-  "funding": [],
-  "research": [
+  "product": [
     {
-      "title": "美学升维，流畅突破：荣耀MagicOS11双架构重塑体验",
-      "link": "https://www.qbitai.com/2026/08/467478.html",
+      "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+      "link": "https://www.qbitai.com/2026/08/468324.html",
       "source": "qbitai",
-      "pub_date": "2026-08-06 09:58",
-      "summary": "正式公开了安卓液态玻璃设计的完整技术底座"
+      "pub_date": "2026-08-07 07:43",
+      "summary": "AI语音“听、说、创”一站式满足"
+    },
+    {
+      "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
+      "link": "https://www.qbitai.com/2026/08/468305.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-07 06:18",
+      "summary": "从「能用」走向「规模化落地」"
+    },
+    {
+      "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
+      "link": "https://www.qbitai.com/2026/08/467878.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-07 05:30",
+      "summary": "AI卷向运动赛道，Keep的新答卷能否跑通？"
+    },
+    {
+      "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
+      "link": "https://www.qbitai.com/2026/08/467834.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-07 01:39",
+      "summary": ""
+    },
+    {
+      "title": "Gartner发布2026中国网络安全技术成熟度曲线，AI安全开始“挤泡沫”",
+      "link": "https://www.infoq.cn/article/zko5GmLUpmxdSwWbkfTI?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-07 22:07",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/zko5GmLUpmxdSwWbkfTI?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
+  "funding": [],
+  "research": [],
   "industry": [
     {
-      "title": "超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地",
-      "link": "https://www.qbitai.com/2026/08/467262.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-06 05:29",
-      "summary": ""
+      "title": "HarmonyOS 7（API 26）Beta 2 新特性解读：AI 赋能应用故障分析，助力应用稳定性问题发现、定位与修复",
+      "link": "https://www.infoq.cn/article/FGMkg9BOrQ7vg5ubBp4U?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-07 11:53",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/FGMkg9BOrQ7vg5ubBp4U?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "DevEco CLI 快速入门：让 AI Agent 更懂 HarmonyOS 应用开发",
+      "link": "https://www.infoq.cn/article/eDt24UFt212XlaW83ryM?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-07 11:53",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/eDt24UFt212XlaW83ryM?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "平台工程成熟度已成为企业人工智能应用能否成功的关键差异化因素",
@@ -65,39 +100,39 @@
   ],
   "other": [
     {
-      "title": "冲刺全球首个100万小时具身数据！三家国产公司，联手了",
-      "link": "https://www.qbitai.com/2026/08/467486.html",
+      "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+      "link": "https://www.qbitai.com/2026/08/466738.html",
       "source": "qbitai",
-      "pub_date": "2026-08-07 00:55",
-      "summary": "采集、仿真、训练和评测，闭环了"
-    },
-    {
-      "title": "DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体",
-      "link": "https://www.qbitai.com/2026/08/467487.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-07 00:25",
-      "summary": "此后模型、算力、数据中心都在合作范围内"
-    },
-    {
-      "title": "没有人靠段子永载GitHub，除非谷歌姐夫",
-      "link": "https://www.qbitai.com/2026/08/467447.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-06 08:02",
-      "summary": "Jeff Dean用大脑挖比特币"
-    },
-    {
-      "title": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
-      "link": "https://www.qbitai.com/2026/08/467444.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-06 07:43",
+      "pub_date": "2026-08-07 06:21",
       "summary": ""
     },
     {
-      "title": "这人谁啊？哈萨比斯都让位了",
-      "link": "https://www.qbitai.com/2026/08/467274.html",
+      "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
+      "link": "https://www.qbitai.com/2026/08/467871.html",
       "source": "qbitai",
-      "pub_date": "2026-08-06 06:17",
-      "summary": "没想到还有LeCun的事儿"
+      "pub_date": "2026-08-07 03:08",
+      "summary": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线"
+    },
+    {
+      "title": "智元下架了首席科学家罗剑岚",
+      "link": "https://www.qbitai.com/2026/08/467730.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-07 01:25",
+      "summary": "智元机器人高管生变！"
+    },
+    {
+      "title": "10万人排队、一键出片，AI创作越简单，爆款为什么反而更难做了｜请回答 WAIC 2026",
+      "link": "https://www.infoq.cn/article/qYCvbmxPPLLUdyzCLOoF?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-07 18:09",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qYCvbmxPPLLUdyzCLOoF?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "从回答问题到把事办完，消费Agent还缺什么？飞猪新一代 AI 产品 V10 的一次探索",
+      "link": "https://www.infoq.cn/article/t0wslR8w8H7yeRD2MwO6?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-07 16:12",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/t0wslR8w8H7yeRD2MwO6?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
