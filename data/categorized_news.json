@@ -1,18 +1,11 @@
 {
   "headline": [
     {
-      "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
-      "link": "https://www.qbitai.com/2026/08/466386.html",
+      "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
+      "link": "https://www.qbitai.com/2026/08/467663.html",
       "source": "qbitai",
-      "pub_date": "2026-08-04 13:14",
-      "summary": "北京大学&#038;元空AI Agent联合实验室"
-    },
-    {
-      "title": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
-      "link": "https://www.qbitai.com/2026/08/465792.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-04 09:22",
-      "summary": "第二天，就有一篇人类论文回应：AI提出的反例不成立"
+      "pub_date": "2026-08-07 01:15",
+      "summary": "指环王成为大模型新基准"
     },
     {
       "title": "苹果指控 OpenAI挖人、拿零件、偷文件，OpenAI 晒聊天记录全面反击！马斯克：别信 OpenAI",
@@ -22,74 +15,89 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/rvVpcZspLiqGpPQq6HPw?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Ming-Flash-Omni：全模态统一大模型的关键技术与实践",
-      "link": "https://www.infoq.cn/article/OlBv9DATXabu0bb4kAPt?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-05 15:57",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/OlBv9DATXabu0bb4kAPt?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-08-06 22:43",
+      "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker."
     },
     {
-      "title": "开出AI界最高薪的Anthropic，抱怨员工为钱而来？全网“阴阳”：和你死活反开源一样",
-      "link": "https://www.infoq.cn/article/qYp5NCloR64emA3Bq11F?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-05 15:25",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qYp5NCloR64emA3Bq11F?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
-  "product": [
-    {
-      "title": "等等，MiniMax H3不是刚发布吗？怎么就卷到几分钱的价格了……",
-      "link": "https://www.qbitai.com/2026/08/467036.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-05 13:47",
-      "summary": "MiniMax H3也能开箱即用了"
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-08-06 17:34",
+      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries."
     },
     {
-      "title": "亚马逊云科技发布 GuardDuty Investigation Agent：让 AI 帮安全团队追查攻击线索",
-      "link": "https://www.infoq.cn/article/YZEahCZsDt3lZhHYvLPX?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-05 14:26",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/YZEahCZsDt3lZhHYvLPX?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-08-06 15:10",
+      "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a fo"
     }
   ],
+  "product": [],
   "funding": [],
-  "research": [],
-  "industry": [],
+  "research": [
+    {
+      "title": "美学升维，流畅突破：荣耀MagicOS11双架构重塑体验",
+      "link": "https://www.qbitai.com/2026/08/467478.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-06 09:58",
+      "summary": "正式公开了安卓液态玻璃设计的完整技术底座"
+    }
+  ],
+  "industry": [
+    {
+      "title": "超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地",
+      "link": "https://www.qbitai.com/2026/08/467262.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-06 05:29",
+      "summary": ""
+    },
+    {
+      "title": "平台工程成熟度已成为企业人工智能应用能否成功的关键差异化因素",
+      "link": "https://www.infoq.cn/article/j0qkf5FqgMfcDqOAWkZD?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-06 17:19",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/j0qkf5FqgMfcDqOAWkZD?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "other": [
     {
-      "title": "别再吹AI生图了，不能图层编辑的AI都是“画饼”",
-      "link": "https://www.qbitai.com/2026/08/467034.html",
+      "title": "冲刺全球首个100万小时具身数据！三家国产公司，联手了",
+      "link": "https://www.qbitai.com/2026/08/467486.html",
       "source": "qbitai",
-      "pub_date": "2026-08-05 14:09",
-      "summary": "兔展智能发布RabbitVis，让AI真正走完设计全流程"
+      "pub_date": "2026-08-07 00:55",
+      "summary": "采集、仿真、训练和评测，闭环了"
     },
     {
-      "title": "又一家AI基金暴雷了",
-      "link": "https://www.qbitai.com/2026/08/467001.html",
+      "title": "DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体",
+      "link": "https://www.qbitai.com/2026/08/467487.html",
       "source": "qbitai",
-      "pub_date": "2026-08-05 12:43",
-      "summary": "开源改写游戏规则"
+      "pub_date": "2026-08-07 00:25",
+      "summary": "此后模型、算力、数据中心都在合作范围内"
     },
     {
-      "title": "淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
-      "link": "https://www.qbitai.com/2026/08/466998.html",
+      "title": "没有人靠段子永载GitHub，除非谷歌姐夫",
+      "link": "https://www.qbitai.com/2026/08/467447.html",
       "source": "qbitai",
-      "pub_date": "2026-08-05 09:38",
-      "summary": "阿里巴巴淘天集团开启2027届应届生招聘。"
+      "pub_date": "2026-08-06 08:02",
+      "summary": "Jeff Dean用大脑挖比特币"
     },
     {
-      "title": "114B参数、6B激活，Sand.ai刚刚开源全球首个千亿MoE视频生成模型",
-      "link": "https://www.qbitai.com/2026/08/466847.html",
+      "title": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
+      "link": "https://www.qbitai.com/2026/08/467444.html",
       "source": "qbitai",
-      "pub_date": "2026-08-05 07:05",
-      "summary": "10秒1080P，成本只要5毛钱"
+      "pub_date": "2026-08-06 07:43",
+      "summary": ""
     },
     {
-      "title": "微软叫停Tokenmaxxing！预算卡死，超限自负",
-      "link": "https://www.qbitai.com/2026/08/466739.html",
+      "title": "这人谁啊？哈萨比斯都让位了",
+      "link": "https://www.qbitai.com/2026/08/467274.html",
       "source": "qbitai",
-      "pub_date": "2026-08-05 06:33",
-      "summary": "内部默认用GPT-5.6"
+      "pub_date": "2026-08-06 06:17",
+      "summary": "没想到还有LeCun的事儿"
     }
   ]
 }
