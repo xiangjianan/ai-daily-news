@@ -405,9 +405,12 @@ body {
   z-index: 9000;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: safe center;
+  flex-wrap: nowrap;
   gap: 10px;
   padding: 10px 16px;
+  overflow-x: auto;
+  scrollbar-width: none;
   background: rgba(255, 254, 248, 0.92);
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
@@ -421,12 +424,19 @@ body {
   transform: translateY(120%);
 }
 
+/* 隐藏底栏横向滚动条（仅极小屏按钮过多时才会出现滚动） */
+.report-nav::-webkit-scrollbar {
+  display: none;
+}
+
 .rn-btn {
   cursor: pointer;
   font-family: 'Noto Serif SC', serif;
   font-weight: 700;
   font-size: 14px;
   letter-spacing: 1px;
+  white-space: nowrap;
+  flex: none;
   color: #1a1a1a;
   background: #fffef8;
   border: 1.5px solid #1a1a1a;
@@ -463,6 +473,20 @@ body {
 
 @media (hover: hover) {
   .rn-review:hover:not(:disabled) {
+    background: #8b5a2b;
+    border-color: #8b5a2b;
+    color: #fffef8;
+  }
+}
+
+/* 最左「今天」按钮：棕褐描边/字色，区别于默认墨黑按钮与居中深色「历史回顾」 */
+.rn-today {
+  border-color: #8b5a2b;
+  color: #8b5a2b;
+}
+
+@media (hover: hover) {
+  .rn-today:hover:not(:disabled) {
     background: #8b5a2b;
     border-color: #8b5a2b;
     color: #fffef8;
@@ -753,8 +777,8 @@ body {
   }
 
   .rn-btn {
-    padding: 8px 12px;
-    font-size: 13px;
+    padding: 7px 10px;
+    font-size: 12.5px;
   }
 
   .history-overlay {

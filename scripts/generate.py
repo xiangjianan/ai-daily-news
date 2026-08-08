@@ -14,10 +14,20 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>AI科技日报 | {{ date_str }}</title>
+  <meta name="description" content="每日 AI 科技新闻日报，一报速览人工智能前沿动态。">
+  <meta name="theme-color" content="#1a1a1a">
+  <link rel="manifest" href="manifest.webmanifest">
   <link rel="stylesheet" href="assets/style.css">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
+  <!-- 图标 / PWA -->
+  <link rel="icon" type="image/svg+xml" href="icons/icon.svg">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="AI日报">
 </head>
 <body>
   <main id="reportStage">
@@ -141,6 +151,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     <button class="rn-btn" id="navPrev" aria-label="上一期">‹ 上一期</button>
     <button class="rn-btn rn-review" id="navReview" aria-label="历史回顾">📜 历史回顾</button>
     <button class="rn-btn" id="navNext" aria-label="下一期">下一期 ›</button>
+    <button class="rn-btn rn-today" id="navToday" aria-label="返回今天">📰 今天</button>
   </nav>
 
   <div class="history-overlay" id="historyOverlay" role="dialog" aria-modal="true" aria-label="历史日报回顾">
@@ -390,6 +401,14 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     function navPrev() { ensure(function () { if (curIdx > 0) showReport(items[curIdx - 1].date); }); }
     function navNext() { ensure(function () { if (curIdx < items.length - 1) showReport(items[curIdx + 1].date); }); }
 
+    // 返回并刷新到「今天」最新日报（entryPath(today) === index.html，no-cache 拉取最新）
+    function navToday() {
+      ensure(function (m) {
+        var t = m.meta.today;
+        if (dateIndex[t] != null) showReport(t);
+      });
+    }
+
     // 从回顾面板选择某天：关闭面板 + 整屏切到该日报
     function pickDate(date) {
       closeOverlay();
@@ -414,7 +433,19 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       });
     }
 
+    // PWA：按 BASE 规范化 manifest / 图标路径，并注册 Service Worker
+    var manifestLink = document.querySelector('link[rel="manifest"]');
+    if (manifestLink) manifestLink.href = u("manifest.webmanifest");
+    var appleIcon = document.querySelector('link[rel="apple-touch-icon"]');
+    if (appleIcon) appleIcon.href = u("icons/apple-touch-icon.png");
+    if ("serviceWorker" in navigator) {
+      window.addEventListener("load", function () {
+        navigator.serviceWorker.register(u("sw.js")).catch(function () {});
+      });
+    }
+
     // 事件绑定
+    $("navToday").addEventListener("click", navToday);
     $("navPrev").addEventListener("click", navPrev);
     $("navNext").addEventListener("click", navNext);
     $("navReview").addEventListener("click", openOverlay);
