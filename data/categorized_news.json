@@ -15,18 +15,11 @@
       "summary": "Chat优化版"
     },
     {
-      "title": "AI SSD：大模型推理的存储范式转移",
-      "link": "https://www.qbitai.com/2026/08/467840.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-07 02:56",
-      "summary": "算力、网络、内存与存储开始围绕每个Token协同"
-    },
-    {
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
       "source": "techcrunch_ai",
       "pub_date": "2026-08-07 22:48",
-      "summary": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess."
+      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-pro"
     },
     {
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -34,6 +27,13 @@
       "source": "techcrunch_ai",
       "pub_date": "2026-08-06 22:43",
       "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker."
+    },
+    {
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "source": "openai_blog",
+      "pub_date": "2026-08-06 10:00",
+      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna."
     }
   ],
   "product": [
@@ -45,7 +45,7 @@
       "summary": "AI语音“听、说、创”一站式满足"
     },
     {
-      "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
+      "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
       "link": "https://www.qbitai.com/2026/08/468305.html",
       "source": "qbitai",
       "pub_date": "2026-08-07 06:18",
@@ -57,13 +57,6 @@
       "source": "qbitai",
       "pub_date": "2026-08-07 05:30",
       "summary": "AI卷向运动赛道，Keep的新答卷能否跑通？"
-    },
-    {
-      "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
-      "link": "https://www.qbitai.com/2026/08/467834.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-07 01:39",
-      "summary": ""
     },
     {
       "title": "Gartner发布2026中国网络安全技术成熟度曲线，AI安全开始“挤泡沫”",
@@ -89,16 +82,30 @@
       "source": "infoq",
       "pub_date": "2026-08-07 11:53",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/eDt24UFt212XlaW83ryM?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "平台工程成熟度已成为企业人工智能应用能否成功的关键差异化因素",
-      "link": "https://www.infoq.cn/article/j0qkf5FqgMfcDqOAWkZD?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-06 17:19",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/j0qkf5FqgMfcDqOAWkZD?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
+    {
+      "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
+      "link": "https://www.qbitai.com/2026/08/468462.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-08 04:33",
+      "summary": "唉，赶紧整完快点发布吧。。。"
+    },
+    {
+      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+      "link": "https://www.qbitai.com/2026/08/468398.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-08 02:45",
+      "summary": "再花15亿美元买现成AI编程团队"
+    },
+    {
+      "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
+      "link": "https://www.qbitai.com/2026/08/468338.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-08 02:35",
+      "summary": "啊，这真是个AI“失控”的夏天"
+    },
     {
       "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
       "link": "https://www.qbitai.com/2026/08/466738.html",
@@ -112,27 +119,6 @@
       "source": "qbitai",
       "pub_date": "2026-08-07 03:08",
       "summary": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线"
-    },
-    {
-      "title": "智元下架了首席科学家罗剑岚",
-      "link": "https://www.qbitai.com/2026/08/467730.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-07 01:25",
-      "summary": "智元机器人高管生变！"
-    },
-    {
-      "title": "10万人排队、一键出片，AI创作越简单，爆款为什么反而更难做了｜请回答 WAIC 2026",
-      "link": "https://www.infoq.cn/article/qYCvbmxPPLLUdyzCLOoF?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-07 18:09",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qYCvbmxPPLLUdyzCLOoF?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "从回答问题到把事办完，消费Agent还缺什么？飞猪新一代 AI 产品 V10 的一次探索",
-      "link": "https://www.infoq.cn/article/t0wslR8w8H7yeRD2MwO6?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-07 16:12",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/t0wslR8w8H7yeRD2MwO6?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
