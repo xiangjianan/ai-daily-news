@@ -1,18 +1,18 @@
 {
   "headline": [
     {
-      "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
-      "link": "https://www.qbitai.com/2026/08/467877.html",
+      "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
+      "link": "https://www.qbitai.com/2026/08/468631.html",
       "source": "qbitai",
-      "pub_date": "2026-08-07 03:23",
-      "summary": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测"
+      "pub_date": "2026-08-08 07:57",
+      "summary": "这就有些尴尬了。"
     },
     {
-      "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
-      "link": "https://www.qbitai.com/2026/08/467879.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-07 03:23",
-      "summary": "Chat优化版"
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-08-08 19:41",
+      "summary": "NextSlide says its team members are now working on ChatGPT."
     },
     {
       "title": "OpenAI says it slowed Astra model development over security concerns",
@@ -67,7 +67,15 @@
     }
   ],
   "funding": [],
-  "research": [],
+  "research": [
+    {
+      "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
+      "link": "https://www.qbitai.com/2026/08/468555.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-08 07:56",
+      "summary": "海外团队纷纷下注，NeoLab浪潮狂飙"
+    }
+  ],
   "industry": [
     {
       "title": "HarmonyOS 7（API 26）Beta 2 新特性解读：AI 赋能应用故障分析，助力应用稳定性问题发现、定位与修复",
@@ -85,6 +93,13 @@
     }
   ],
   "other": [
+    {
+      "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
+      "link": "https://www.qbitai.com/2026/08/468498.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-08 07:51",
+      "summary": "「我，Jeff Dean，打钱」"
+    },
     {
       "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
       "link": "https://www.qbitai.com/2026/08/468462.html",
@@ -112,13 +127,6 @@
       "source": "qbitai",
       "pub_date": "2026-08-07 06:21",
       "summary": ""
-    },
-    {
-      "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
-      "link": "https://www.qbitai.com/2026/08/467871.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-07 03:08",
-      "summary": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线"
     }
   ]
 }
