@@ -387,3 +387,393 @@ a:hover {
     font-size: 16px;
   }
 }
+
+/* ============================================
+   历史日报回顾 (History Review)
+   ============================================ */
+
+/* 固定底部导航栏：上一期 / 历史回顾 / 下一期 */
+body {
+  padding-bottom: 72px; /* 为固定底栏留出空间，避免遮挡页脚 */
+}
+
+.report-nav {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 9000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px 16px;
+  background: rgba(255, 254, 248, 0.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-top: 1.5px solid #1a1a1a;
+  box-shadow: 0 -4px 18px rgba(0, 0, 0, 0.08);
+  transition: transform 0.32s ease;
+}
+
+/* 向下浏览时自动隐藏底栏，给日报留出全屏阅读空间 */
+.report-nav.hidden {
+  transform: translateY(120%);
+}
+
+.rn-btn {
+  cursor: pointer;
+  font-family: 'Noto Serif SC', serif;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  background: #fffef8;
+  border: 1.5px solid #1a1a1a;
+  padding: 9px 18px;
+  border-radius: 999px;
+  -webkit-tap-highlight-color: transparent;
+  transition: background 0.15s ease, color 0.15s ease, transform 0.15s ease, opacity 0.15s ease;
+}
+
+/* hover 仅在真正支持悬停的设备(桌面鼠标)生效，避免移动端点击后残留黑底 */
+@media (hover: hover) {
+  .rn-btn:hover:not(:disabled) {
+    background: #1a1a1a;
+    color: #fffef8;
+    transform: translateY(-1px);
+  }
+}
+
+/* 按压反馈(桌面/移动通用，松开即恢复原样) */
+.rn-btn:active:not(:disabled) {
+  transform: scale(0.96);
+}
+
+.rn-btn:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+}
+
+/* 中间“历史回顾”按钮高亮 */
+.rn-review {
+  background: #1a1a1a;
+  color: #fffef8;
+}
+
+@media (hover: hover) {
+  .rn-review:hover:not(:disabled) {
+    background: #8b5a2b;
+    border-color: #8b5a2b;
+    color: #fffef8;
+  }
+}
+
+.report-loading {
+  text-align: center;
+  padding: 80px 0;
+  color: #8a7a63;
+  font-size: 14px;
+}
+
+/* 回顾面板遮罩（玻璃拟态） */
+.history-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9100;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background: rgba(26, 26, 26, 0.55);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
+
+.history-overlay.open {
+  display: flex;
+  animation: hFade 0.25s ease;
+}
+
+.hpanel {
+  position: relative;
+  width: min(760px, 100%);
+  max-height: 88vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: #fffef8;
+  border: 1.5px solid #1a1a1a;
+  border-radius: 14px;
+  box-shadow: 0 30px 80px rgba(0, 0, 0, 0.45);
+  animation: hPop 0.3s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.hpanel-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 16px 20px;
+  border-bottom: 2px solid #1a1a1a;
+  background: linear-gradient(135deg, #fffef8, #f7f1e6);
+}
+
+.hpanel-title {
+  font-family: 'Noto Serif SC', serif;
+  font-weight: 900;
+  font-size: 20px;
+  letter-spacing: 3px;
+}
+
+.hpanel-sub {
+  font-size: 12px;
+  color: #7a6a55;
+  margin-top: 3px;
+  letter-spacing: 0.5px;
+}
+
+.hpanel-x {
+  flex: none;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 1.5px solid #1a1a1a;
+  background: #fffef8;
+  font-size: 15px;
+  line-height: 1;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.hpanel-x:hover {
+  background: #1a1a1a;
+  color: #fffef8;
+}
+
+.hpanel-scroll {
+  overflow-y: auto;
+  padding: 18px 20px 22px;
+}
+
+/* ===== 热力日历 ===== */
+.hm {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+.hm-weekdays {
+  display: grid;
+  grid-template-rows: repeat(7, 15px);
+  gap: 4px;
+  margin-top: 21px; /* 让出月份标签行（高 15 + 间距 6） */
+  font-size: 9px;
+  color: #9a8a73;
+  text-align: right;
+  width: 12px;
+}
+
+.hm-right {
+  flex: 1;
+  overflow-x: auto;
+  padding-bottom: 4px;
+}
+
+.hm-months {
+  display: flex;
+  gap: 4px;
+  height: 15px;
+  line-height: 15px;
+  margin-bottom: 6px;
+  font-size: 11px;
+  color: #7a6a55;
+  white-space: nowrap;
+}
+
+.hm-month {
+  flex: none;
+  overflow: visible;
+}
+
+.hm-weeks {
+  display: flex;
+  gap: 4px;
+}
+
+.hm-col {
+  display: grid;
+  grid-template-rows: repeat(7, 15px);
+  gap: 4px;
+}
+
+.hm-cell {
+  width: 15px;
+  height: 15px;
+  border-radius: 3px;
+  background: rgba(139, 90, 43, 0.08);
+}
+
+.hm-cell.has {
+  background: rgba(139, 90, 43, 0.82);
+  cursor: pointer;
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
+
+.hm-cell.has:hover {
+  transform: scale(1.3);
+  box-shadow: 0 0 0 2px rgba(139, 90, 43, 0.45);
+  position: relative;
+  z-index: 2;
+}
+
+/* ===== 时间轴 ===== */
+.tl-search {
+  width: 100%;
+  box-sizing: border-box;
+  margin: 18px 0 12px;
+  padding: 10px 14px;
+  border: 1.5px solid #cdbfa6;
+  border-radius: 10px;
+  background: #fffdf5;
+  font-size: 13px;
+  font-family: inherit;
+  outline: none;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.tl-search:focus {
+  border-color: #8b5a2b;
+  box-shadow: 0 0 0 3px rgba(139, 90, 43, 0.12);
+}
+
+.tl-group {
+  margin-bottom: 14px;
+}
+
+.tl-month {
+  font-size: 12px;
+  font-weight: 700;
+  color: #8b5a2b;
+  letter-spacing: 2px;
+  margin: 6px 0 8px;
+  padding-bottom: 4px;
+  border-bottom: 1px dashed #d8cab2;
+}
+
+.tl-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.15s ease;
+  animation: hSlide 0.25s ease both;
+}
+
+.tl-item:hover,
+.tl-item:focus {
+  background: rgba(139, 90, 43, 0.07);
+  outline: none;
+}
+
+.tl-date {
+  flex: none;
+  min-width: 42px;
+  font-size: 12px;
+  font-weight: 700;
+  color: #1a1a1a;
+  font-variant-numeric: tabular-nums;
+}
+
+.tl-issue {
+  flex: none;
+  font-size: 10px;
+  font-weight: 700;
+  color: #fff;
+  background: #1a1a1a;
+  padding: 2px 7px;
+  border-radius: 999px;
+  letter-spacing: 0.5px;
+}
+
+.tl-title {
+  flex: 1;
+  font-size: 13px;
+  color: #3a3a3a;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.tl-arrow {
+  flex: none;
+  color: #8b5a2b;
+  font-size: 16px;
+  opacity: 0.5;
+  transition: transform 0.15s ease, opacity 0.15s ease;
+}
+
+.tl-item:hover .tl-arrow {
+  opacity: 1;
+  transform: translateX(3px);
+}
+
+.tl-empty {
+  text-align: center;
+  color: #9a8a73;
+  padding: 30px 0;
+  font-size: 13px;
+}
+
+/* （预览弹窗已改为整屏切换，相关样式已移除）*/
+
+/* ===== 动画 ===== */
+@keyframes hFade {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes hPop {
+  from { opacity: 0; transform: translateY(16px) scale(0.97); }
+  to   { opacity: 1; transform: none; }
+}
+
+@keyframes hSlide {
+  from { opacity: 0; transform: translateX(-8px); }
+  to   { opacity: 1; transform: none; }
+}
+
+/* ===== 移动端 ===== */
+@media (max-width: 600px) {
+  .report-nav {
+    gap: 6px;
+    padding: 8px 10px;
+  }
+
+  .rn-btn {
+    padding: 8px 12px;
+    font-size: 13px;
+  }
+
+  .history-overlay {
+    padding: 0;
+  }
+
+  .hpanel {
+    width: 100%;
+    max-height: 100%;
+    height: 100%;
+    border-radius: 0;
+    border: none;
+  }
+}
+
+/* ===== 截图/打印时隐藏全部回顾 UI ===== */
+@media print {
+  .report-nav,
+  .history-overlay {
+    display: none !important;
+  }
+}
