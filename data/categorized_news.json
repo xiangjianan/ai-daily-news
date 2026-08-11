@@ -1,87 +1,73 @@
 {
   "headline": [
     {
-      "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
-      "link": "https://www.qbitai.com/2026/08/469500.html",
+      "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
+      "link": "https://www.qbitai.com/2026/08/470576.html",
       "source": "qbitai",
-      "pub_date": "2026-08-10 05:37",
-      "summary": "会话越长，人的表现越差"
+      "pub_date": "2026-08-11 09:24",
+      "summary": "谷歌算力分配内耗严重"
     },
     {
-      "title": "OpenAI给10亿用户免费换上GPT-5.6",
-      "link": "https://www.infoq.cn/article/RXRuR3TN9msNMAUWRtCl?utm_source=rss&utm_medium=article",
+      "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+      "link": "https://www.qbitai.com/2026/08/470485.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-11 05:12",
+      "summary": "把下界推高了一大截"
+    },
+    {
+      "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
+      "link": "https://www.qbitai.com/2026/08/470228.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-11 03:51",
+      "summary": "大水印时代来了"
+    },
+    {
+      "title": "OpenAI 代理群利用 Artifactory 零日漏洞逃离沙箱并入侵 Hugging Face",
+      "link": "https://www.infoq.cn/article/gkzDEyCF5U4DtKAa1Eee?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-08-09 10:23",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/RXRuR3TN9msNMAUWRtCl?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-08-11 16:36",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/gkzDEyCF5U4DtKAa1Eee?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "source": "openai_blog",
-      "pub_date": "2026-08-10 14:00",
-      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans."
-    },
-    {
-      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "link": "https://openai.com/index/model-ml",
-      "source": "openai_blog",
-      "pub_date": "2026-08-10 12:00",
-      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks."
-    },
-    {
-      "title": "Premium seats are coming to ChatGPT Business",
-      "link": "https://openai.com/index/premium-seats-chatgpt-business",
-      "source": "openai_blog",
-      "pub_date": "2026-08-10 00:00",
-      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work."
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-08-11 19:15",
+      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems."
     }
   ],
   "product": [
     {
-      "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
-      "link": "https://www.qbitai.com/2026/08/469493.html",
+      "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
+      "link": "https://www.qbitai.com/2026/08/470674.html",
       "source": "qbitai",
-      "pub_date": "2026-08-10 03:24",
-      "summary": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台"
+      "pub_date": "2026-08-11 13:57",
+      "summary": "资本正从具身本体集体涌向触觉"
     },
     {
-      "title": "Gartner发布2026中国网络安全技术成熟度曲线，AI安全开始“挤泡沫”",
-      "link": "https://www.infoq.cn/article/zko5GmLUpmxdSwWbkfTI?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-07 22:07",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/zko5GmLUpmxdSwWbkfTI?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
+      "link": "https://www.qbitai.com/2026/08/469860.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-11 00:46",
+      "summary": "三视角世界模型谁更稳?"
     }
   ],
   "funding": [
     {
-      "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
-      "link": "https://www.qbitai.com/2026/08/469520.html",
+      "title": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
+      "link": "https://www.qbitai.com/2026/08/470254.html",
       "source": "qbitai",
-      "pub_date": "2026-08-10 06:58",
-      "summary": "“我们90天就成了独角兽”"
+      "pub_date": "2026-08-11 04:31",
+      "summary": "真就把GPU当理财产品了～"
     }
   ],
   "research": [
     {
-      "title": "AI倒查论文100年！99.2%的顶刊都有问题…",
-      "link": "https://www.qbitai.com/2026/08/469795.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-10 13:58",
-      "summary": "科研人快来啊，天上掉选题了"
-    },
-    {
-      "title": "PDF当死，ARA该立！论文是时候Agent原生了",
-      "link": "https://www.qbitai.com/2026/08/469721.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-10 13:53",
-      "summary": "以后论文的第一读者不是人，而是AI？"
-    },
-    {
-      "title": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒",
-      "link": "https://www.qbitai.com/2026/08/469454.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-10 02:25",
-      "summary": ""
+      "title": "DORA：AI 辅助软件开发的团队画像与能力模型，帮助团队将研究成果落地",
+      "link": "https://www.infoq.cn/article/1oV8oaYwzU15W5BdSL7C?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-11 10:21",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/1oV8oaYwzU15W5BdSL7C?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "industry": [
@@ -91,50 +77,43 @@
       "source": "infoq",
       "pub_date": "2026-08-10 14:26",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/lWRKAhlso9f7OobiGXDI?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "智能互动 Agent 在快手商业场景的落地实践｜AICon深圳",
-      "link": "https://www.infoq.cn/article/KCw3ZLsEJcNYFegzd7dx?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-10 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/KCw3ZLsEJcNYFegzd7dx?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
     {
-      "title": "模型路线趋同之后，Physical AI的胜负手变了",
-      "link": "https://www.qbitai.com/2026/08/469544.html",
+      "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
+      "link": "https://www.qbitai.com/2026/08/470621.html",
       "source": "qbitai",
-      "pub_date": "2026-08-10 09:20",
-      "summary": "物理AI新瓶颈已出现"
+      "pub_date": "2026-08-11 11:36",
+      "summary": "算力竞赛的天平，正在向电力倾斜"
     },
     {
-      "title": "苹果开测长鑫存储！百度、千问也一起挤进苹果供应链",
-      "link": "https://www.qbitai.com/2026/08/469475.html",
+      "title": "宇树会破发吗？王兴兴回应了",
+      "link": "https://www.qbitai.com/2026/08/470307.html",
       "source": "qbitai",
-      "pub_date": "2026-08-10 02:34",
-      "summary": "先解决这轮内存荒！"
+      "pub_date": "2026-08-11 04:42",
+      "summary": "200问回应一切"
     },
     {
-      "title": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只",
-      "link": "https://www.qbitai.com/2026/08/469213.html",
+      "title": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿",
+      "link": "https://www.qbitai.com/2026/08/469880.html",
       "source": "qbitai",
-      "pub_date": "2026-08-10 01:34",
-      "summary": "全球灵巧手企业约50%在中国，且绝大多数将筹码押在了「五指」上。\n\n需求、资本和创业者正在快速推动，但从技术成熟、规模化量产到商业落地，中间仍隔着巨大的工程鸿沟。"
+      "pub_date": "2026-08-11 03:37",
+      "summary": ""
     },
     {
-      "title": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
-      "link": "https://www.qbitai.com/2026/08/469076.html",
+      "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
+      "link": "https://www.qbitai.com/2026/08/469869.html",
       "source": "qbitai",
-      "pub_date": "2026-08-10 01:12",
-      "summary": "从云计算到云原生，产业真正的跃迁从来不是简单堆算力，而是找到更适合新世界的架构。"
+      "pub_date": "2026-08-11 03:11",
+      "summary": "全球AI安全实战化测评，中国方案DoGNAVY位列前三"
     },
     {
-      "title": "AI推理规模上升后，华为开始重新定义“存储”的位置",
-      "link": "https://www.infoq.cn/article/qBHKWa0AabfP0Fs8rGrk?utm_source=rss&utm_medium=article",
+      "title": "把 AI 视频的钱花在刀刃上，不是每一刀上",
+      "link": "https://www.infoq.cn/article/pqWqcoySQ5HdKz96vSo3?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-08-10 15:24",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qBHKWa0AabfP0Fs8rGrk?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-08-11 19:11",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/pqWqcoySQ5HdKz96vSo3?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
