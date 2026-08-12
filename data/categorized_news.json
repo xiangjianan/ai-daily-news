@@ -1,25 +1,18 @@
 {
   "headline": [
     {
+      "title": "Anthropic CEO整天神神叨叨，投资人受不了了",
+      "link": "https://www.qbitai.com/2026/08/471162.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-12 13:38",
+      "summary": "Dario能不能少吓唬点人…"
+    },
+    {
       "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
       "link": "https://www.qbitai.com/2026/08/470576.html",
       "source": "qbitai",
       "pub_date": "2026-08-11 09:24",
       "summary": "谷歌算力分配内耗严重"
-    },
-    {
-      "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
-      "link": "https://www.qbitai.com/2026/08/470485.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-11 05:12",
-      "summary": "把下界推高了一大截"
-    },
-    {
-      "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
-      "link": "https://www.qbitai.com/2026/08/470228.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-11 03:51",
-      "summary": "大水印时代来了"
     },
     {
       "title": "OpenAI 代理群利用 Artifactory 零日漏洞逃离沙箱并入侵 Hugging Face",
@@ -29,14 +22,28 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/gkzDEyCF5U4DtKAa1Eee?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-08-11 19:15",
-      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems."
+      "pub_date": "2026-08-12 17:41",
+      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital."
+    },
+    {
+      "title": "Testing ads in ChatGPT",
+      "link": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "openai_blog",
+      "pub_date": "2026-08-11 10:00",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
     }
   ],
   "product": [
+    {
+      "title": "紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力",
+      "link": "https://www.qbitai.com/2026/08/471030.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-12 10:54",
+      "summary": "免训练、开箱即用！"
+    },
     {
       "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
       "link": "https://www.qbitai.com/2026/08/470674.html",
@@ -45,75 +52,59 @@
       "summary": "资本正从具身本体集体涌向触觉"
     },
     {
-      "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
-      "link": "https://www.qbitai.com/2026/08/469860.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-11 00:46",
-      "summary": "三视角世界模型谁更稳?"
+      "title": "Vercel 发布新语言 Zero：代码不是写给人看的，而是写给 AI 的",
+      "link": "https://www.infoq.cn/article/KEq5kQG53vxPd0bXCY7y?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-12 17:22",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/KEq5kQG53vxPd0bXCY7y?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [
     {
-      "title": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
-      "link": "https://www.qbitai.com/2026/08/470254.html",
+      "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
+      "link": "https://www.qbitai.com/2026/08/470901.html",
       "source": "qbitai",
-      "pub_date": "2026-08-11 04:31",
-      "summary": "真就把GPU当理财产品了～"
+      "pub_date": "2026-08-12 07:31",
+      "summary": "2026年7月29日—30日，由融中财经和秦创原科技创新投资集团主办的2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕。"
     }
   ],
-  "research": [
-    {
-      "title": "DORA：AI 辅助软件开发的团队画像与能力模型，帮助团队将研究成果落地",
-      "link": "https://www.infoq.cn/article/1oV8oaYwzU15W5BdSL7C?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-11 10:21",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/1oV8oaYwzU15W5BdSL7C?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
-  "industry": [
-    {
-      "title": "33% 增速、126% 留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
-      "link": "https://www.infoq.cn/article/lWRKAhlso9f7OobiGXDI?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-10 14:26",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/lWRKAhlso9f7OobiGXDI?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "research": [],
+  "industry": [],
   "other": [
+    {
+      "title": "《置身谷内》！Jeff Dean上顶会自曝离职现场：被1500人围堵",
+      "link": "https://www.qbitai.com/2026/08/471254.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-12 13:46",
+      "summary": "回消息到凌晨2点半"
+    },
+    {
+      "title": "国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键",
+      "link": "https://www.qbitai.com/2026/08/471049.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-12 13:10",
+      "summary": "具身模型一小时狂拣1816件异形包裹"
+    },
+    {
+      "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
+      "link": "https://www.qbitai.com/2026/08/470874.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-12 04:29",
+      "summary": "从柔性本体走向跨本体基础智能，让任务与世界知识延续"
+    },
+    {
+      "title": "刚刚，Manus恢复独立运营",
+      "link": "https://www.qbitai.com/2026/08/470805.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-12 02:51",
+      "summary": "Manus，完成复活赛了！"
+    },
     {
       "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
       "link": "https://www.qbitai.com/2026/08/470621.html",
       "source": "qbitai",
       "pub_date": "2026-08-11 11:36",
       "summary": "算力竞赛的天平，正在向电力倾斜"
-    },
-    {
-      "title": "宇树会破发吗？王兴兴回应了",
-      "link": "https://www.qbitai.com/2026/08/470307.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-11 04:42",
-      "summary": "200问回应一切"
-    },
-    {
-      "title": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿",
-      "link": "https://www.qbitai.com/2026/08/469880.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-11 03:37",
-      "summary": ""
-    },
-    {
-      "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
-      "link": "https://www.qbitai.com/2026/08/469869.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-11 03:11",
-      "summary": "全球AI安全实战化测评，中国方案DoGNAVY位列前三"
-    },
-    {
-      "title": "把 AI 视频的钱花在刀刃上，不是每一刀上",
-      "link": "https://www.infoq.cn/article/pqWqcoySQ5HdKz96vSo3?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-11 19:11",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/pqWqcoySQ5HdKz96vSo3?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
