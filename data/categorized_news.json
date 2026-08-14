@@ -1,11 +1,18 @@
 {
   "headline": [
     {
-      "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
-      "link": "https://www.qbitai.com/2026/08/472016.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-13 11:29",
-      "summary": "好数学家不挑AI模型"
+      "title": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
+      "link": "https://www.infoq.cn/article/YWXm26HRwC9ySEGZ9Lpp?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-14 23:41",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/YWXm26HRwC9ySEGZ9Lpp?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "涛思数据创始人&CEO陶建辉博士确认出席AICon深圳，将分享“大模型在工业场景落地的挑战与实践”",
+      "link": "https://www.infoq.cn/article/Uiz6Ovab2eKT0T9q3Nzp?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-14 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Uiz6Ovab2eKT0T9q3Nzp?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
@@ -22,96 +29,75 @@
       "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal."
     },
     {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-08-13 18:28",
-      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems."
-    },
-    {
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-08-13 17:07",
-      "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job."
+      "title": "The builder’s guide to GPT‑5.6",
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "source": "openai_blog",
+      "pub_date": "2026-08-13 11:00",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
     }
   ],
   "product": [
     {
-      "title": "中国人能飞！杭州发布全球首款站姿载人飞行器",
-      "link": "https://www.qbitai.com/2026/08/471893.html",
+      "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
+      "link": "https://www.qbitai.com/2026/08/473038.html",
       "source": "qbitai",
-      "pub_date": "2026-08-13 10:20",
-      "summary": "让一部分人先飞起来"
-    },
-    {
-      "title": "科大讯飞发布企业服务全系列产品 覆盖七大核心场景",
-      "link": "https://www.qbitai.com/2026/08/471884.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-13 10:01",
-      "summary": ""
-    },
-    {
-      "title": "倒计时｜2026世界机器人大会主论坛议程发布！",
-      "link": "https://www.qbitai.com/2026/08/471668.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-13 05:10",
-      "summary": ""
-    },
-    {
-      "title": "Vercel 发布新语言 Zero：代码不是写给人看的，而是写给 AI 的",
-      "link": "https://www.infoq.cn/article/KEq5kQG53vxPd0bXCY7y?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-12 17:22",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/KEq5kQG53vxPd0bXCY7y?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-08-14 08:47",
+      "summary": "顺手拿下最强开源安全模型"
     }
   ],
-  "funding": [
-    {
-      "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
-      "link": "https://www.qbitai.com/2026/08/472060.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-13 11:53",
-      "summary": "重新定义物理AI数据基础设施"
-    }
-  ],
+  "funding": [],
   "research": [],
-  "industry": [],
+  "industry": [
+    {
+      "title": "德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集",
+      "link": "https://www.qbitai.com/2026/08/472718.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-14 06:18",
+      "summary": ""
+    },
+    {
+      "title": "33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
+      "link": "https://www.infoq.cn/article/55mbodVKkHgiHYqfqkFG?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-15 00:19",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/55mbodVKkHgiHYqfqkFG?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "other": [
     {
-      "title": "深度体验DeepSeek Harness，我原谅它涨价了",
-      "link": "https://www.qbitai.com/2026/08/472208.html",
+      "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+      "link": "https://www.qbitai.com/2026/08/473379.html",
       "source": "qbitai",
-      "pub_date": "2026-08-13 16:03",
-      "summary": "欢迎，为后人种点树"
+      "pub_date": "2026-08-14 15:41",
+      "summary": "所有人都可免费下载部署及商用。"
     },
     {
-      "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
-      "link": "https://www.qbitai.com/2026/08/472059.html",
+      "title": "7亿年薪留不住！余家辉离职Meta创业",
+      "link": "https://www.qbitai.com/2026/08/473261.html",
       "source": "qbitai",
-      "pub_date": "2026-08-13 12:34",
-      "summary": "首颗AI芯片已进入量产"
+      "pub_date": "2026-08-14 14:59",
+      "summary": "真就只待了一年"
     },
     {
-      "title": "马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
-      "link": "https://www.qbitai.com/2026/08/472067.html",
+      "title": "谷歌开始肢解DeepMind，数个团队被划归总部",
+      "link": "https://www.qbitai.com/2026/08/473153.html",
       "source": "qbitai",
-      "pub_date": "2026-08-13 12:04",
-      "summary": "马斯克版Workbuddy也来了"
+      "pub_date": "2026-08-14 14:51",
+      "summary": "布林亲自下场督战"
     },
     {
-      "title": "刚刚！Ilya首个模型曝光了",
-      "link": "https://www.qbitai.com/2026/08/471701.html",
+      "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
+      "link": "https://www.qbitai.com/2026/08/473149.html",
       "source": "qbitai",
-      "pub_date": "2026-08-13 08:36",
-      "summary": "SSI第一剑，劈向持续学习"
+      "pub_date": "2026-08-14 10:25",
+      "summary": ""
     },
     {
-      "title": "联想集团Q1再创史上最佳业绩，AI服务器业务迎来爆发期",
-      "link": "https://www.qbitai.com/2026/08/471697.html",
+      "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
+      "link": "https://www.qbitai.com/2026/08/473144.html",
       "source": "qbitai",
-      "pub_date": "2026-08-13 06:33",
-      "summary": "当季实现营收1834亿元人民币，同比猛增43%，创历史新高"
+      "pub_date": "2026-08-14 08:36",
+      "summary": ""
     }
   ]
 }
