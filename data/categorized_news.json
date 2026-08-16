@@ -22,11 +22,11 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/YWXm26HRwC9ySEGZ9Lpp?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "涛思数据创始人&CEO陶建辉博士确认出席AICon深圳，将分享“大模型在工业场景落地的挑战与实践”",
-      "link": "https://www.infoq.cn/article/Uiz6Ovab2eKT0T9q3Nzp?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-14 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Uiz6Ovab2eKT0T9q3Nzp?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-08-16 16:53",
+      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
     },
     {
       "title": "Anthropic shares more details about how Claude’s new watermarks will work",
@@ -49,6 +49,13 @@
   "research": [],
   "industry": [
     {
+      "title": "从代码生成到研发闭环：AI Coding 在金融科技 SDLC 中的落地实践｜AICon深圳",
+      "link": "https://www.infoq.cn/article/LflwIiIVHRZlakxDgexC?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-16 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/LflwIiIVHRZlakxDgexC?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
       "title": "33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
       "link": "https://www.infoq.cn/article/55mbodVKkHgiHYqfqkFG?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -58,39 +65,39 @@
   ],
   "other": [
     {
-      "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
-      "link": "https://www.qbitai.com/2026/08/473866.html",
+      "title": "杭州95后小伙，5亿买走硅谷城堡",
+      "link": "https://www.qbitai.com/2026/08/474245.html",
       "source": "qbitai",
-      "pub_date": "2026-08-15 06:36",
-      "summary": "音潮API限时免费开放"
+      "pub_date": "2026-08-16 11:51",
+      "summary": "辞别马斯克xAI半年之后…"
     },
     {
-      "title": "DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了",
-      "link": "https://www.qbitai.com/2026/08/473597.html",
+      "title": "李飞飞最新访谈：AI咋能代替人呢？",
+      "link": "https://www.qbitai.com/2026/08/474140.html",
       "source": "qbitai",
-      "pub_date": "2026-08-15 05:53",
-      "summary": "大家已经给DeepSeek装上了啥"
+      "pub_date": "2026-08-16 10:45",
+      "summary": "AI不是替代者，而是个人能力的放大镜"
     },
     {
-      "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
-      "link": "https://www.qbitai.com/2026/08/473407.html",
+      "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
+      "link": "https://www.qbitai.com/2026/08/474064.html",
       "source": "qbitai",
-      "pub_date": "2026-08-15 04:21",
-      "summary": "1.9万字全文实录"
+      "pub_date": "2026-08-16 10:36",
+      "summary": "“错过种一棵树最好的时间”"
     },
     {
-      "title": "高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭！",
-      "link": "https://www.qbitai.com/2026/08/473395.html",
+      "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+      "link": "https://www.qbitai.com/2026/08/473972.html",
       "source": "qbitai",
-      "pub_date": "2026-08-15 04:03",
-      "summary": "对开发者而言，ASCF带来的不仅是“按时吃饭”的从容，更是低成本投入、高效率交付、高回报增长的完整商业闭环。"
+      "pub_date": "2026-08-16 05:37",
+      "summary": "背后是四项关键能力"
     },
     {
-      "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
-      "link": "https://www.qbitai.com/2026/08/473379.html",
+      "title": "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
+      "link": "https://www.qbitai.com/2026/08/473947.html",
       "source": "qbitai",
-      "pub_date": "2026-08-14 15:41",
-      "summary": "所有人都可免费下载部署及商用。"
+      "pub_date": "2026-08-16 05:28",
+      "summary": "将超越马斯克的SpaceX，成为史上上市估值最高的IPO。"
     }
   ]
 }
