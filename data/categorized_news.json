@@ -1,25 +1,18 @@
 {
   "headline": [
     {
-      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
-      "link": "https://www.qbitai.com/2026/08/473876.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-15 06:42",
-      "summary": "理解大模型，无需再训练一个替代网络"
-    },
-    {
-      "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
-      "link": "https://www.qbitai.com/2026/08/473669.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-15 06:05",
-      "summary": "推理能力还能自定义"
-    },
-    {
-      "title": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
-      "link": "https://www.infoq.cn/article/YWXm26HRwC9ySEGZ9Lpp?utm_source=rss&utm_medium=article",
+      "title": "编程能力提高50%！GLM-5.3 满分通过了GPT-5.6给的Coding 测试",
+      "link": "https://www.infoq.cn/article/xWyWwu4ZNptlhpb15tia?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-08-14 23:41",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/YWXm26HRwC9ySEGZ9Lpp?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-08-17 09:44",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/xWyWwu4ZNptlhpb15tia?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-08-17 15:16",
+      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center."
     },
     {
       "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
@@ -29,41 +22,91 @@
       "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
     },
     {
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-08-15 18:58",
-      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
+      "title": "OpenAI joins PORTS-Pike project",
+      "link": "https://openai.com/index/openai-joins-ports-pike-project",
+      "source": "openai_blog",
+      "pub_date": "2026-08-17 05:00",
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs"
+    },
+    {
+      "title": "The builder’s guide to GPT‑5.6",
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "source": "openai_blog",
+      "pub_date": "2026-08-13 11:00",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
     }
   ],
   "product": [
     {
-      "title": "Cloudflare Computer 发布：让 AI 智能体拥有持久化运行环境",
-      "link": "https://www.infoq.cn/article/RaKIH7E4lA9uQ4Iasltb?utm_source=rss&utm_medium=article",
+      "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
+      "link": "https://www.qbitai.com/2026/08/474537.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-17 09:30",
+      "summary": "8月17日，具身智能初创公司共生知行发布双足人形机器人驾驶卡丁车Demo"
+    },
+    {
+      "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
+      "link": "https://www.qbitai.com/2026/08/474361.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-17 08:26",
+      "summary": "智谱GLM-5.3首发上线范式PhanRouter，即日开放调用"
+    },
+    {
+      "title": "Instacart 推出 Blueberry AI 助手，帮助值班工程师处理线上故障",
+      "link": "https://www.infoq.cn/article/6xG6wLBUuqjPdRrf8r7I?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-08-15 21:52",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/RaKIH7E4lA9uQ4Iasltb?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-08-17 12:01",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/6xG6wLBUuqjPdRrf8r7I?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
-  "research": [],
+  "research": [
+    {
+      "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
+      "link": "https://www.qbitai.com/2026/08/474381.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-17 08:36",
+      "summary": "AI最近最出圈的数学突破，都在“找反例”"
+    },
+    {
+      "title": "盘古训练与推理通信优化实践：亲和昇腾平台的性能探索｜AICon深圳",
+      "link": "https://www.infoq.cn/article/jOPScUAQrlfpNwDAhaOL?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-17 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/jOPScUAQrlfpNwDAhaOL?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "industry": [
+    {
+      "title": "Vibe check：你的AI产品真的能落地吗",
+      "link": "https://www.infoq.cn/article/urRl1WXpPSQQd1A9hN5f?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-17 12:14",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/urRl1WXpPSQQd1A9hN5f?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
     {
       "title": "从代码生成到研发闭环：AI Coding 在金融科技 SDLC 中的落地实践｜AICon深圳",
       "link": "https://www.infoq.cn/article/LflwIiIVHRZlakxDgexC?utm_source=rss&utm_medium=article",
       "source": "infoq",
       "pub_date": "2026-08-16 10:00",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/LflwIiIVHRZlakxDgexC?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
-      "link": "https://www.infoq.cn/article/55mbodVKkHgiHYqfqkFG?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-15 00:19",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/55mbodVKkHgiHYqfqkFG?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
+    {
+      "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
+      "link": "https://www.qbitai.com/2026/08/474518.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-17 09:04",
+      "summary": "没有遥控、没人喂球"
+    },
+    {
+      "title": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
+      "link": "https://www.qbitai.com/2026/08/474334.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-17 07:39",
+      "summary": "即将完全开源"
+    },
     {
       "title": "杭州95后小伙，5亿买走硅谷城堡",
       "link": "https://www.qbitai.com/2026/08/474245.html",
@@ -84,20 +127,6 @@
       "source": "qbitai",
       "pub_date": "2026-08-16 10:36",
       "summary": "“错过种一棵树最好的时间”"
-    },
-    {
-      "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
-      "link": "https://www.qbitai.com/2026/08/473972.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-16 05:37",
-      "summary": "背后是四项关键能力"
-    },
-    {
-      "title": "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
-      "link": "https://www.qbitai.com/2026/08/473947.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-16 05:28",
-      "summary": "将超越马斯克的SpaceX，成为史上上市估值最高的IPO。"
     }
   ]
 }
