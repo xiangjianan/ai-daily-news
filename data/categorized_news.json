@@ -1,117 +1,96 @@
 {
   "headline": [
     {
-      "title": "650亿美元！IPO前夕，Anthropic营收底牌曝光",
-      "link": "https://www.qbitai.com/2026/08/474673.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-18 05:58",
-      "summary": "回头看，A社就这样完成了反超"
+      "title": "OpenAI 因安全问题突然停训GPT-6！网友：当你造出一个神，就不可能再给它拴上绳子",
+      "link": "https://www.infoq.cn/article/BLfF9zUGrzpqJ5QbSBJD?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-19 20:14",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/BLfF9zUGrzpqJ5QbSBJD?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-08-18 18:00",
-      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process."
+      "pub_date": "2026-08-19 22:10",
+      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data."
     },
     {
-      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-08-18 13:50",
-      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework."
+      "pub_date": "2026-08-19 19:00",
+      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenA"
     },
     {
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "link": "https://openai.com/index/chatgpt-for-teens",
-      "source": "openai_blog",
-      "pub_date": "2026-08-18 11:00",
-      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-08-19 18:46",
+      "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched fas"
     },
     {
-      "title": "OpenAI joins PORTS-Pike project",
-      "link": "https://openai.com/index/openai-joins-ports-pike-project",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "link": "https://openai.com/index/replit",
       "source": "openai_blog",
-      "pub_date": "2026-08-17 05:00",
-      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs"
+      "pub_date": "2026-08-19 07:00",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
     }
   ],
   "product": [
     {
-      "title": "网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
-      "link": "https://www.qbitai.com/2026/08/474857.html",
+      "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
+      "link": "https://www.qbitai.com/2026/08/475901.html",
       "source": "qbitai",
-      "pub_date": "2026-08-18 10:04",
-      "summary": "8月18日，网易传媒举办“蜜蜂AI媒体沟通会”"
-    },
-    {
-      "title": "π0引用的中国团队，又出手了：世界仿真器新作发布",
-      "link": "https://www.qbitai.com/2026/08/474838.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-18 09:57",
-      "summary": "给机器人造一个更接近真实的“第二世界”"
-    },
-    {
-      "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
-      "link": "https://www.qbitai.com/2026/08/474840.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-18 09:38",
-      "summary": "8月17日，阿里巴巴发布AI音乐模型HappyShrimp"
-    },
-    {
-      "title": "Cloudflare 推出 Precursor，通过持续性行为分析识别恶意机器人与 AI 自动化程序",
-      "link": "https://www.infoq.cn/article/7QNfsJhpgskMtVllCpWJ?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-18 10:58",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/7QNfsJhpgskMtVllCpWJ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-08-19 08:34",
+      "summary": "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。"
     }
   ],
-  "funding": [
-    {
-      "title": "年轻人首选B级闪充轿车秦MAX正式上市，售价10.99-14.39万元",
-      "link": "https://www.qbitai.com/2026/08/474907.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-18 11:07",
-      "summary": "8月13日，比亚迪秦MAX正式上市，推出EV与DM-i双动力版本"
-    }
-  ],
+  "funding": [],
   "research": [],
-  "industry": [],
+  "industry": [
+    {
+      "title": "明道云举办首届 Real AI Contest，面向真实落地的企业 AI 应用",
+      "link": "https://xie.infoq.cn/article/6724ff083cc2192487d818695?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-19 15:50",
+      "summary": "明道云举办首届 Real AI Contest，把已经走完这段距离的团队放到同一套标准下比一次，现金总奖池 ¥80,000，报名免费。<div align=\"right\"><a href=\"https://xie.infoq.cn/article/6724ff083cc2192487d818695?utm_source=rss&amp;utm_medium=article\">点击查看原文></a>"
+    }
+  ],
   "other": [
     {
-      "title": "比亚迪全程护航丝路万里行，深圳收官再启海外征程",
-      "link": "https://www.qbitai.com/2026/08/474868.html",
+      "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
+      "link": "https://www.qbitai.com/2026/08/475931.html",
       "source": "qbitai",
-      "pub_date": "2026-08-18 10:40",
-      "summary": "8月14日，2026丝绸之路万里行·启迪之路国内段在深圳收官。"
+      "pub_date": "2026-08-19 10:54",
+      "summary": ""
     },
     {
-      "title": "6个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
-      "link": "https://www.qbitai.com/2026/08/474806.html",
+      "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
+      "link": "https://www.qbitai.com/2026/08/475907.html",
       "source": "qbitai",
-      "pub_date": "2026-08-18 07:33",
-      "summary": "代码能跑≠游戏能玩"
+      "pub_date": "2026-08-19 10:12",
+      "summary": "超维动力KAI全栈具身智能硬核登场"
     },
     {
-      "title": "今日起，阿里“千问办公”接入企业微信",
-      "link": "https://www.qbitai.com/2026/08/474803.html",
+      "title": "MiniMax核心工程负责人阿岛离职",
+      "link": "https://www.qbitai.com/2026/08/475869.html",
       "source": "qbitai",
-      "pub_date": "2026-08-18 07:17",
-      "summary": "国内三大办公平台全面支持"
+      "pub_date": "2026-08-19 08:23",
+      "summary": "从技术研发到开发者沟通，长期活跃在开发者一线"
     },
     {
-      "title": "吉利汽车业绩高点，李书福激流勇退",
-      "link": "https://www.qbitai.com/2026/08/474736.html",
+      "title": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
+      "link": "https://www.qbitai.com/2026/08/475477.html",
       "source": "qbitai",
-      "pub_date": "2026-08-18 06:46",
-      "summary": "“吉利不再研发传统燃油车”"
+      "pub_date": "2026-08-19 07:42",
+      "summary": "构建全栈物理AI基础设施"
     },
     {
-      "title": "阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了",
-      "link": "https://www.qbitai.com/2026/08/474647.html",
+      "title": "用DeepSeek网页版就能瓜分鹅厂600万？？！",
+      "link": "https://www.qbitai.com/2026/08/475764.html",
       "source": "qbitai",
-      "pub_date": "2026-08-18 04:40",
-      "summary": "MyContext补上Agent的数据加工层"
+      "pub_date": "2026-08-19 07:40",
+      "summary": "冠军姿势长这样"
     }
   ]
 }
