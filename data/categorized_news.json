@@ -1,13 +1,6 @@
 {
   "headline": [
     {
-      "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
-      "link": "https://www.qbitai.com/2026/08/476596.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-21 07:17",
-      "summary": "机器人看3秒演示就能学会"
-    },
-    {
       "title": "“Anthropic不再是AI圈的信仰”",
       "link": "https://www.infoq.cn/article/hfJrKqqoww06UYcygUrJ?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -29,22 +22,21 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/LpNjOA7au7WIhTBmVcJo?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "link": "https://openai.com/index/stampli",
-      "source": "openai_blog",
-      "pub_date": "2026-08-20 00:00",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
-    }
-  ],
-  "product": [
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-08-22 19:00",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation."
+    },
     {
-      "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
-      "link": "https://www.qbitai.com/2026/08/476628.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-21 09:00",
-      "summary": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会"
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-08-22 16:30",
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
     }
   ],
+  "product": [],
   "funding": [
     {
       "title": "材科源图三个月完成两轮融资，AI全链路闭环加速材料产业化",
@@ -57,6 +49,20 @@
   "research": [],
   "industry": [
     {
+      "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+      "link": "https://www.qbitai.com/2026/08/477253.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-22 14:46",
+      "summary": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？"
+    },
+    {
+      "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+      "link": "https://www.qbitai.com/2026/08/477016.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-22 12:11",
+      "summary": "具身智能赛道壁垒不在出货量"
+    },
+    {
       "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
       "link": "https://www.qbitai.com/2026/08/476778.html",
       "source": "qbitai",
@@ -66,39 +72,39 @@
   ],
   "other": [
     {
-      "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
-      "link": "https://www.qbitai.com/2026/08/476733.html",
+      "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+      "link": "https://www.qbitai.com/2026/08/477246.html",
       "source": "qbitai",
-      "pub_date": "2026-08-21 09:44",
-      "summary": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。"
+      "pub_date": "2026-08-22 14:19",
+      "summary": "直击WRC"
     },
     {
-      "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
-      "link": "https://www.qbitai.com/2026/08/476591.html",
+      "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+      "link": "https://www.qbitai.com/2026/08/477155.html",
       "source": "qbitai",
-      "pub_date": "2026-08-21 06:40",
-      "summary": "让科学家的时间回到科学创造"
+      "pub_date": "2026-08-22 14:11",
+      "summary": "一脑驱动多形落地"
     },
     {
-      "title": "WRC展会拿旧Demo炒冷饭？扒一扒千寻藏在水下的全栈底牌",
-      "link": "https://www.qbitai.com/2026/08/476532.html",
+      "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
+      "link": "https://www.qbitai.com/2026/08/477094.html",
       "source": "qbitai",
-      "pub_date": "2026-08-21 05:38",
-      "summary": "一点新鲜变化都没有吗？"
+      "pub_date": "2026-08-22 13:56",
+      "summary": "采集，从一条腕带开始"
     },
     {
-      "title": "设计无边界！中坚科技旗下子公司桦之坚携巨型概念机器人ZERO惊艳2026世界机器人大会",
-      "link": "https://www.qbitai.com/2026/08/476525.html",
+      "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
+      "link": "https://www.qbitai.com/2026/08/477090.html",
       "source": "qbitai",
-      "pub_date": "2026-08-21 05:09",
-      "summary": "中坚科技（002779.SZ）旗下桦之坚携概念人形机器人ZERO亮相2026世界机器人大会。"
+      "pub_date": "2026-08-22 12:21",
+      "summary": "将真实场景重建为持续更新、可计算的4D数字世界。"
     },
     {
-      "title": "Jeff Dean离职后首次公开访谈火力有点猛。。。",
-      "link": "https://www.qbitai.com/2026/08/476468.html",
+      "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
+      "link": "https://www.qbitai.com/2026/08/476965.html",
       "source": "qbitai",
-      "pub_date": "2026-08-21 04:05",
-      "summary": "离开谷歌的原因之一：小团队可以极致聚焦！"
+      "pub_date": "2026-08-22 08:53",
+      "summary": ""
     }
   ]
 }
