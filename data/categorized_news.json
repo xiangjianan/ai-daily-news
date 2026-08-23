@@ -1,6 +1,13 @@
 {
   "headline": [
     {
+      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+      "link": "https://www.qbitai.com/2026/08/478191.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-23 09:56",
+      "summary": "Tokenizer、视频编码、API报错全扒一遍"
+    },
+    {
       "title": "“Anthropic不再是AI圈的信仰”",
       "link": "https://www.infoq.cn/article/hfJrKqqoww06UYcygUrJ?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -13,13 +20,6 @@
       "source": "infoq",
       "pub_date": "2026-08-21 10:25",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/9FZ8z60yB4tS4WQEP4dw?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
-      "link": "https://www.infoq.cn/article/LpNjOA7au7WIhTBmVcJo?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-20 19:03",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/LpNjOA7au7WIhTBmVcJo?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
@@ -54,57 +54,43 @@
       "source": "qbitai",
       "pub_date": "2026-08-22 14:46",
       "summary": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？"
-    },
-    {
-      "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-      "link": "https://www.qbitai.com/2026/08/477016.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-22 12:11",
-      "summary": "具身智能赛道壁垒不在出货量"
-    },
-    {
-      "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
-      "link": "https://www.qbitai.com/2026/08/476778.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-21 11:47",
-      "summary": "载重4.2吨、容积19.32m³"
     }
   ],
   "other": [
     {
-      "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
-      "link": "https://www.qbitai.com/2026/08/477246.html",
+      "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+      "link": "https://www.qbitai.com/2026/08/478319.html",
       "source": "qbitai",
-      "pub_date": "2026-08-22 14:19",
-      "summary": "直击WRC"
+      "pub_date": "2026-08-23 13:20",
+      "summary": "玩的就是真实"
     },
     {
-      "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
-      "link": "https://www.qbitai.com/2026/08/477155.html",
+      "title": "具身创业里的香港教授们",
+      "link": "https://www.qbitai.com/2026/08/478289.html",
       "source": "qbitai",
-      "pub_date": "2026-08-22 14:11",
-      "summary": "一脑驱动多形落地"
+      "pub_date": "2026-08-23 11:20",
+      "summary": "香港的大学里冒出了一批很特别的人"
     },
     {
-      "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
-      "link": "https://www.qbitai.com/2026/08/477094.html",
+      "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
+      "link": "https://www.qbitai.com/2026/08/478234.html",
       "source": "qbitai",
-      "pub_date": "2026-08-22 13:56",
-      "summary": "采集，从一条腕带开始"
+      "pub_date": "2026-08-23 11:17",
+      "summary": "多多支持像王兴兴这样优秀的具身机器人创业者"
     },
     {
-      "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
-      "link": "https://www.qbitai.com/2026/08/477090.html",
+      "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
+      "link": "https://www.qbitai.com/2026/08/478164.html",
       "source": "qbitai",
-      "pub_date": "2026-08-22 12:21",
-      "summary": "将真实场景重建为持续更新、可计算的4D数字世界。"
+      "pub_date": "2026-08-23 09:51",
+      "summary": "内存成本飙升逼涨硬件"
     },
     {
-      "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
-      "link": "https://www.qbitai.com/2026/08/476965.html",
+      "title": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起",
+      "link": "https://www.qbitai.com/2026/08/478093.html",
       "source": "qbitai",
-      "pub_date": "2026-08-22 08:53",
-      "summary": ""
+      "pub_date": "2026-08-23 09:45",
+      "summary": "AstraTennis时刻背后的硬核技术"
     }
   ]
 }
