@@ -1,42 +1,64 @@
 {
   "headline": [
     {
-      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
-      "link": "https://www.qbitai.com/2026/08/478191.html",
+      "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
+      "link": "https://www.qbitai.com/2026/08/478427.html",
       "source": "qbitai",
-      "pub_date": "2026-08-23 09:56",
-      "summary": "Tokenizer、视频编码、API报错全扒一遍"
+      "pub_date": "2026-08-24 05:09",
+      "summary": "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。"
     },
     {
-      "title": "“Anthropic不再是AI圈的信仰”",
-      "link": "https://www.infoq.cn/article/hfJrKqqoww06UYcygUrJ?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-21 11:04",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/hfJrKqqoww06UYcygUrJ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "OpenAI 之后又是 Anthropic，Claude 将攻击延伸至公共互联网",
-      "link": "https://www.infoq.cn/article/9FZ8z60yB4tS4WQEP4dw?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-21 10:25",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/9FZ8z60yB4tS4WQEP4dw?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+      "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-08-22 19:00",
-      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation."
+      "pub_date": "2026-08-24 19:58",
+      "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident."
     },
     {
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-08-22 16:30",
-      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
+      "pub_date": "2026-08-24 15:00",
+      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses."
+    },
+    {
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "link": "https://openai.com/index/gpt-5-6-in-kiro",
+      "source": "openai_blog",
+      "pub_date": "2026-08-24 12:00",
+      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
+    },
+    {
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "link": "https://openai.com/index/stampli",
+      "source": "openai_blog",
+      "pub_date": "2026-08-20 00:00",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
     }
   ],
-  "product": [],
+  "product": [
+    {
+      "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
+      "link": "https://www.qbitai.com/2026/08/478473.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-24 08:07",
+      "summary": "8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON"
+    },
+    {
+      "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
+      "link": "https://www.qbitai.com/2026/08/478469.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-24 07:04",
+      "summary": "定义国产推理算力新范式 赋能万卡级AI推理算力规模化落地"
+    },
+    {
+      "title": "多个 AI 智能体“同住”一台 EC2：AgentCore 推出持久计算",
+      "link": "https://www.infoq.cn/article/2IBWc7BuB2qoGao5tlQT?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-24 15:43",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/2IBWc7BuB2qoGao5tlQT?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "funding": [
     {
       "title": "材科源图三个月完成两轮融资，AI全链路闭环加速材料产业化",
@@ -46,51 +68,51 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/YB51rwb95keVmlIZ0xQd?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "research": [],
-  "industry": [
+  "research": [
     {
-      "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-      "link": "https://www.qbitai.com/2026/08/477253.html",
+      "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
+      "link": "https://www.qbitai.com/2026/08/478568.html",
       "source": "qbitai",
-      "pub_date": "2026-08-22 14:46",
-      "summary": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？"
+      "pub_date": "2026-08-24 13:21",
+      "summary": "全球大厂开始押注的AI科研，终于有了统一标准"
     }
   ],
+  "industry": [],
   "other": [
+    {
+      "title": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊",
+      "link": "https://www.qbitai.com/2026/08/478670.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-24 13:32",
+      "summary": "Visa看到的AI未来"
+    },
+    {
+      "title": "8月25日直播预告 | AFAC2026金融智能创新大赛，总决赛路演倒计时来啦！",
+      "link": "https://www.qbitai.com/2026/08/478447.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-24 06:03",
+      "summary": "AFAC2026总决赛路演将于8月25-26日在上海阿纳迪酒店（长宁区临虹路7号）举办。"
+    },
+    {
+      "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
+      "link": "https://www.qbitai.com/2026/08/478421.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-24 05:04",
+      "summary": ""
+    },
+    {
+      "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+      "link": "https://www.qbitai.com/2026/08/478358.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-23 23:19",
+      "summary": "Tim和胡彦斌亲自颁奖"
+    },
     {
       "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
       "link": "https://www.qbitai.com/2026/08/478319.html",
       "source": "qbitai",
       "pub_date": "2026-08-23 13:20",
       "summary": "玩的就是真实"
-    },
-    {
-      "title": "具身创业里的香港教授们",
-      "link": "https://www.qbitai.com/2026/08/478289.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-23 11:20",
-      "summary": "香港的大学里冒出了一批很特别的人"
-    },
-    {
-      "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
-      "link": "https://www.qbitai.com/2026/08/478234.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-23 11:17",
-      "summary": "多多支持像王兴兴这样优秀的具身机器人创业者"
-    },
-    {
-      "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
-      "link": "https://www.qbitai.com/2026/08/478164.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-23 09:51",
-      "summary": "内存成本飙升逼涨硬件"
-    },
-    {
-      "title": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起",
-      "link": "https://www.qbitai.com/2026/08/478093.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-23 09:45",
-      "summary": "AstraTennis时刻背后的硬核技术"
     }
   ]
 }
