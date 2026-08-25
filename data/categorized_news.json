@@ -1,25 +1,18 @@
 {
   "headline": [
     {
-      "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
-      "link": "https://www.qbitai.com/2026/08/478427.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-24 05:09",
-      "summary": "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。"
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-08-25 14:22",
+      "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art."
     },
     {
-      "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
-      "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-08-24 19:58",
-      "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident."
-    },
-    {
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-08-24 15:00",
-      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses."
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "link": "https://openai.com/index/introducing-admin-plugin",
+      "source": "openai_blog",
+      "pub_date": "2026-08-25 00:00",
+      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests."
     },
     {
       "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
@@ -34,22 +27,29 @@
       "source": "openai_blog",
       "pub_date": "2026-08-20 00:00",
       "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
+    },
+    {
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "link": "https://openai.com/index/replit",
+      "source": "openai_blog",
+      "pub_date": "2026-08-19 07:00",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
     }
   ],
   "product": [
     {
-      "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
-      "link": "https://www.qbitai.com/2026/08/478473.html",
+      "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
+      "link": "https://www.qbitai.com/2026/08/479314.html",
       "source": "qbitai",
-      "pub_date": "2026-08-24 08:07",
-      "summary": "8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON"
+      "pub_date": "2026-08-25 09:31",
+      "summary": "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。"
     },
     {
-      "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
-      "link": "https://www.qbitai.com/2026/08/478469.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-24 07:04",
-      "summary": "定义国产推理算力新范式 赋能万卡级AI推理算力规模化落地"
+      "title": "SpaceXAI 推出面向自主 AI 智能代理的 Grok Bot",
+      "link": "https://www.infoq.cn/article/a2Y7bOxLHZfCVWtKhAtQ?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-25 09:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/a2Y7bOxLHZfCVWtKhAtQ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "多个 AI 智能体“同住”一台 EC2：AgentCore 推出持久计算",
@@ -59,60 +59,59 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/2IBWc7BuB2qoGao5tlQT?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [
+  "funding": [],
+  "research": [],
+  "industry": [
     {
-      "title": "材科源图三个月完成两轮融资，AI全链路闭环加速材料产业化",
-      "link": "https://www.infoq.cn/article/YB51rwb95keVmlIZ0xQd?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-21 19:31",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/YB51rwb95keVmlIZ0xQd?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
-  "research": [
-    {
-      "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
-      "link": "https://www.qbitai.com/2026/08/478568.html",
+      "title": "王虹合作者获奖！科学探索奖2026年度获奖名单公布",
+      "link": "https://www.qbitai.com/2026/08/478912.html",
       "source": "qbitai",
-      "pub_date": "2026-08-24 13:21",
-      "summary": "全球大厂开始押注的AI科研，终于有了统一标准"
+      "pub_date": "2026-08-25 05:15",
+      "summary": "今年50位获奖人来自13个城市的30家高校、医院和科研机构"
+    },
+    {
+      "title": "人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机",
+      "link": "https://www.qbitai.com/2026/08/478839.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-25 04:08",
+      "summary": "2026年8月21日，小猿学习机在京举办“中小学课本学习智能体”首发上线活动。"
     }
   ],
-  "industry": [],
   "other": [
     {
-      "title": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊",
-      "link": "https://www.qbitai.com/2026/08/478670.html",
+      "title": "开源国产8B模型，比肩闭源Image 2了！",
+      "link": "https://www.qbitai.com/2026/08/479192.html",
       "source": "qbitai",
-      "pub_date": "2026-08-24 13:32",
-      "summary": "Visa看到的AI未来"
+      "pub_date": "2026-08-25 06:53",
+      "summary": "SenseNova U1.5 Lite"
     },
     {
-      "title": "8月25日直播预告 | AFAC2026金融智能创新大赛，总决赛路演倒计时来啦！",
-      "link": "https://www.qbitai.com/2026/08/478447.html",
+      "title": "半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司",
+      "link": "https://www.qbitai.com/2026/08/479132.html",
       "source": "qbitai",
-      "pub_date": "2026-08-24 06:03",
-      "summary": "AFAC2026总决赛路演将于8月25-26日在上海阿纳迪酒店（长宁区临虹路7号）举办。"
+      "pub_date": "2026-08-25 06:39",
+      "summary": "字节、汇川等已入股未来不远机器人最新一轮融资"
     },
     {
-      "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
-      "link": "https://www.qbitai.com/2026/08/478421.html",
+      "title": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
+      "link": "https://www.qbitai.com/2026/08/479096.html",
       "source": "qbitai",
-      "pub_date": "2026-08-24 05:04",
-      "summary": ""
+      "pub_date": "2026-08-25 05:48",
+      "summary": "AI科研能力从工具级转向系统级"
     },
     {
-      "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
-      "link": "https://www.qbitai.com/2026/08/478358.html",
+      "title": "赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
+      "link": "https://www.qbitai.com/2026/08/478996.html",
       "source": "qbitai",
-      "pub_date": "2026-08-23 23:19",
-      "summary": "Tim和胡彦斌亲自颁奖"
+      "pub_date": "2026-08-25 05:20",
+      "summary": "下一代Agent天然会走向云端和更大规模的计算资源"
     },
     {
-      "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
-      "link": "https://www.qbitai.com/2026/08/478319.html",
+      "title": "WAIC CONNECT | AI出海，不聊虚的！CONNECT带你拿下马来西亚真正的AI采购需求",
+      "link": "https://www.qbitai.com/2026/08/478479.html",
       "source": "qbitai",
-      "pub_date": "2026-08-23 13:20",
-      "summary": "玩的就是真实"
+      "pub_date": "2026-08-25 04:06",
+      "summary": "2026年9月7日–8日，WAIC CONNECT MALAYSIA活动，将在吉隆坡盛大开启！"
     }
   ]
 }
