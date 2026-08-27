@@ -1,117 +1,117 @@
 {
   "headline": [
     {
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
+      "link": "https://www.qbitai.com/2026/08/480005.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-27 02:46",
+      "summary": "西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。"
+    },
+    {
+      "title": "535B 大模型“直播”训练三个月：代码、数据、Loss全公开，吴恩达公开力挺",
+      "link": "https://www.infoq.cn/article/y7KTOS9YbBz0OcoyiweQ?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-26 14:51",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/y7KTOS9YbBz0OcoyiweQ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-08-25 14:22",
-      "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art."
+      "pub_date": "2026-08-26 19:37",
+      "summary": "Consumer AI apps need to stop making users learn their product architecture."
     },
     {
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "link": "https://openai.com/index/introducing-admin-plugin",
-      "source": "openai_blog",
-      "pub_date": "2026-08-25 00:00",
-      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests."
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-08-26 19:34",
+      "summary": "Was Greg Brockman the right executive all along?"
     },
     {
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "link": "https://openai.com/index/gpt-5-6-in-kiro",
-      "source": "openai_blog",
-      "pub_date": "2026-08-24 12:00",
-      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
-    },
-    {
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "link": "https://openai.com/index/stampli",
-      "source": "openai_blog",
-      "pub_date": "2026-08-20 00:00",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
-    },
-    {
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "link": "https://openai.com/index/replit",
-      "source": "openai_blog",
-      "pub_date": "2026-08-19 07:00",
-      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-08-26 19:05",
+      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date."
     }
   ],
   "product": [
     {
-      "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
-      "link": "https://www.qbitai.com/2026/08/479314.html",
+      "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
+      "link": "https://www.qbitai.com/2026/08/480001.html",
       "source": "qbitai",
-      "pub_date": "2026-08-25 09:31",
-      "summary": "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。"
+      "pub_date": "2026-08-27 01:45",
+      "summary": "8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。"
     },
     {
-      "title": "SpaceXAI 推出面向自主 AI 智能代理的 Grok Bot",
-      "link": "https://www.infoq.cn/article/a2Y7bOxLHZfCVWtKhAtQ?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-25 09:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/a2Y7bOxLHZfCVWtKhAtQ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "多个 AI 智能体“同住”一台 EC2：AgentCore 推出持久计算",
-      "link": "https://www.infoq.cn/article/2IBWc7BuB2qoGao5tlQT?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-24 15:43",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/2IBWc7BuB2qoGao5tlQT?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势",
+      "link": "https://www.qbitai.com/2026/08/479811.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-26 10:17",
+      "summary": "AI内容创作者增长187%，相关节目数量增长239%"
     }
   ],
   "funding": [],
   "research": [],
   "industry": [
     {
-      "title": "王虹合作者获奖！科学探索奖2026年度获奖名单公布",
-      "link": "https://www.qbitai.com/2026/08/478912.html",
+      "title": "AI视频应用井喷，美图打开新的增长空间",
+      "link": "https://www.qbitai.com/2026/08/479895.html",
       "source": "qbitai",
-      "pub_date": "2026-08-25 05:15",
-      "summary": "今年50位获奖人来自13个城市的30家高校、医院和科研机构"
+      "pub_date": "2026-08-26 10:18",
+      "summary": "从图像到视频，美图找到了一门更赚钱的生意"
     },
     {
-      "title": "人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机",
-      "link": "https://www.qbitai.com/2026/08/478839.html",
+      "title": "达卯科技与福建智算方舟达成合作，全栈式算电协同服务在闽落子",
+      "link": "https://www.qbitai.com/2026/08/479808.html",
       "source": "qbitai",
-      "pub_date": "2026-08-25 04:08",
-      "summary": "2026年8月21日，小猿学习机在京举办“中小学课本学习智能体”首发上线活动。"
+      "pub_date": "2026-08-26 09:17",
+      "summary": "长乐机场综保区智算中心全栈算电协同服务"
+    },
+    {
+      "title": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用",
+      "link": "https://www.qbitai.com/2026/08/479631.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-26 03:25",
+      "summary": "蚂蚁国际日前正式发布自研时序AI预测大模型“鹰序TST”2.0版。"
     }
   ],
   "other": [
     {
-      "title": "开源国产8B模型，比肩闭源Image 2了！",
-      "link": "https://www.qbitai.com/2026/08/479192.html",
+      "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
+      "link": "https://www.qbitai.com/2026/08/479919.html",
       "source": "qbitai",
-      "pub_date": "2026-08-25 06:53",
-      "summary": "SenseNova U1.5 Lite"
+      "pub_date": "2026-08-26 16:48",
+      "summary": "GLM-5.3 Flash"
     },
     {
-      "title": "半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司",
-      "link": "https://www.qbitai.com/2026/08/479132.html",
+      "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
+      "link": "https://www.qbitai.com/2026/08/479834.html",
       "source": "qbitai",
-      "pub_date": "2026-08-25 06:39",
-      "summary": "字节、汇川等已入股未来不远机器人最新一轮融资"
+      "pub_date": "2026-08-26 10:07",
+      "summary": "具身智能迈向GPT时刻"
     },
     {
-      "title": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
-      "link": "https://www.qbitai.com/2026/08/479096.html",
+      "title": "刚刚，Top级的视频AI免费了！我反手做了个精致版《牛来》",
+      "link": "https://www.qbitai.com/2026/08/479670.html",
       "source": "qbitai",
-      "pub_date": "2026-08-25 05:48",
-      "summary": "AI科研能力从工具级转向系统级"
+      "pub_date": "2026-08-26 05:56",
+      "summary": "Agnes Video 2.5 Flash"
     },
     {
-      "title": "赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
-      "link": "https://www.qbitai.com/2026/08/478996.html",
+      "title": "宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底",
+      "link": "https://www.qbitai.com/2026/08/479634.html",
       "source": "qbitai",
-      "pub_date": "2026-08-25 05:20",
-      "summary": "下一代Agent天然会走向云端和更大规模的计算资源"
+      "pub_date": "2026-08-26 05:52",
+      "summary": ""
     },
     {
-      "title": "WAIC CONNECT | AI出海，不聊虚的！CONNECT带你拿下马来西亚真正的AI采购需求",
-      "link": "https://www.qbitai.com/2026/08/478479.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-25 04:06",
-      "summary": "2026年9月7日–8日，WAIC CONNECT MALAYSIA活动，将在吉隆坡盛大开启！"
+      "title": "DeepSeek 开源 Harness：AI 智能体基础设施开始“拆分”",
+      "link": "https://www.infoq.cn/article/vS7tpsLPdevZhMKdtxei?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-26 16:26",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/vS7tpsLPdevZhMKdtxei?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
