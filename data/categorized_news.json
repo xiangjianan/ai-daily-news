@@ -1,11 +1,11 @@
 {
   "headline": [
     {
-      "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
-      "link": "https://www.qbitai.com/2026/08/480487.html",
+      "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+      "link": "https://www.qbitai.com/2026/08/481223.html",
       "source": "qbitai",
-      "pub_date": "2026-08-28 06:13",
-      "summary": "Claude觉醒超体"
+      "pub_date": "2026-08-29 12:50",
+      "summary": "AI「自进化」，越来越近了"
     },
     {
       "title": "大模型和硬件之间，长出了一层新生意",
@@ -15,11 +15,11 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/IROW9KWVs4zSCByU8wQE?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "曝英伟达129 亿美元收购Hugging Face！黄仁勋：我只后悔没有更早、更多投资OpenAI、Anthropic",
-      "link": "https://www.infoq.cn/article/Z9bIWfsMCIA9yiLUSDvJ?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-28 09:29",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Z9bIWfsMCIA9yiLUSDvJ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-08-29 18:41",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
     },
     {
       "title": "An Anthropic researcher just gave us a peek at self-improving AI",
@@ -38,13 +38,6 @@
   ],
   "product": [
     {
-      "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
-      "link": "https://www.qbitai.com/2026/08/480223.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-28 04:06",
-      "summary": "国产异构助力前沿智能进入普惠时代"
-    },
-    {
       "title": "Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎",
       "link": "https://www.infoq.cn/article/JDYKJmiY9vTRSw47t15a?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -52,52 +45,52 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/JDYKJmiY9vTRSw47t15a?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [
+  "funding": [],
+  "research": [],
+  "industry": [
     {
-      "title": "被高估的视触觉：容易复制的生意，有多大投资价值？",
-      "link": "https://www.qbitai.com/2026/08/480236.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-28 05:49",
-      "summary": "重新审视触视觉"
+      "title": "一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用",
+      "link": "https://www.infoq.cn/article/3R8f57Bow3B4kEBkPv5J?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-29 13:19",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/3R8f57Bow3B4kEBkPv5J?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "research": [],
-  "industry": [],
   "other": [
     {
-      "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
-      "link": "https://www.qbitai.com/2026/08/480700.html",
+      "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+      "link": "https://www.qbitai.com/2026/08/481372.html",
       "source": "qbitai",
-      "pub_date": "2026-08-28 15:36",
-      "summary": ""
+      "pub_date": "2026-08-29 13:11",
+      "summary": "推理软件栈的微小差异，就能改变输出token"
     },
     {
-      "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
-      "link": "https://www.qbitai.com/2026/08/480666.html",
+      "title": "去年归国的徐梦迪，成了清华姚班班主任",
+      "link": "https://www.qbitai.com/2026/08/481318.html",
       "source": "qbitai",
-      "pub_date": "2026-08-28 11:13",
-      "summary": "久久不愿来到台前的智元掌舵人"
+      "pub_date": "2026-08-29 13:01",
+      "summary": "本科读车辆工程，如今教AI第一班"
     },
     {
-      "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
-      "link": "https://www.qbitai.com/2026/08/480600.html",
+      "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
+      "link": "https://www.qbitai.com/2026/08/481075.html",
       "source": "qbitai",
-      "pub_date": "2026-08-28 09:45",
-      "summary": "企业智能化服务撑起基本盘，第二增长曲线冒头"
+      "pub_date": "2026-08-29 12:26",
+      "summary": "3秒可处理200份PDF"
     },
     {
-      "title": "e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛",
-      "link": "https://www.qbitai.com/2026/08/480591.html",
+      "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
+      "link": "https://www.qbitai.com/2026/08/480940.html",
       "source": "qbitai",
-      "pub_date": "2026-08-28 07:20",
-      "summary": "8月26日，2026年“数据要素×”大赛浙江赛区决赛落下帷幕。"
+      "pub_date": "2026-08-29 12:11",
+      "summary": "Coding正在变成Al世界的数字执行力"
     },
     {
-      "title": "首款癌症疫苗，一针300万？？？",
-      "link": "https://www.qbitai.com/2026/08/480557.html",
+      "title": "OpenClaw：红过，爱过，散了",
+      "link": "https://www.qbitai.com/2026/08/480855.html",
       "source": "qbitai",
-      "pub_date": "2026-08-28 06:22",
-      "summary": "别让顶级治疗方法称为富人专属"
+      "pub_date": "2026-08-29 12:00",
+      "summary": "龙虾退潮，Harness上位"
     }
   ]
 }
