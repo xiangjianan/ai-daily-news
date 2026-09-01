@@ -1,6 +1,20 @@
 {
   "headline": [
     {
+      "title": "「GPT-6」灰测demo刷屏！周四发布在即",
+      "link": "https://www.qbitai.com/2026/08/481893.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-31 04:47",
+      "summary": "核弹爆炸"
+    },
+    {
+      "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
+      "link": "https://www.qbitai.com/2026/08/481759.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-31 03:24",
+      "summary": "什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac"
+    },
+    {
       "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
       "link": "https://www.qbitai.com/2026/08/481223.html",
       "source": "qbitai",
@@ -8,55 +22,70 @@
       "summary": "AI「自进化」，越来越近了"
     },
     {
-      "title": "大模型和硬件之间，长出了一层新生意",
-      "link": "https://www.infoq.cn/article/IROW9KWVs4zSCByU8wQE?utm_source=rss&utm_medium=article",
+      "title": "OpenAI 将全面断供 Cursor：SpaceX 收购后触发控制权条款",
+      "link": "https://www.infoq.cn/article/YiHrlKLX6I6IP92BgV7K?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-08-28 15:57",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/IROW9KWVs4zSCByU8wQE?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-08-31 14:16",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/YiHrlKLX6I6IP92BgV7K?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-08-29 18:41",
-      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
-    },
-    {
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-08-28 19:30",
-      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance."
-    },
-    {
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "source": "openai_blog",
-      "pub_date": "2026-08-27 09:00",
-      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
+      "title": "长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报",
+      "link": "https://www.infoq.cn/article/8Ot7gRMNDMICpCW2Rk34?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-08-31 10:20",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/8Ot7gRMNDMICpCW2Rk34?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "product": [
     {
-      "title": "Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎",
-      "link": "https://www.infoq.cn/article/JDYKJmiY9vTRSw47t15a?utm_source=rss&utm_medium=article",
+      "title": "Kubeflow扩展了AI功能，项目临近CNCF毕业",
+      "link": "https://www.infoq.cn/article/grb2X7v7fr6kUNuuRkvt?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-08-28 14:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/JDYKJmiY9vTRSw47t15a?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-08-31 13:31",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/grb2X7v7fr6kUNuuRkvt?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
-  "research": [],
+  "research": [
+    {
+      "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
+      "link": "https://www.qbitai.com/2026/08/481475.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-31 03:01",
+      "summary": "自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。"
+    }
+  ],
   "industry": [
     {
-      "title": "一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用",
-      "link": "https://www.infoq.cn/article/3R8f57Bow3B4kEBkPv5J?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-29 13:19",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/3R8f57Bow3B4kEBkPv5J?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
+      "link": "https://www.qbitai.com/2026/08/481919.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-31 07:34",
+      "summary": ""
     }
   ],
   "other": [
+    {
+      "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
+      "link": "https://www.qbitai.com/2026/08/481928.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-31 13:20",
+      "summary": "划重点：这次不是你挨家敲门，是VC排队来看你。"
+    },
+    {
+      "title": "滴滴自动驾驶新一代车型开启载客测试服务",
+      "link": "https://www.qbitai.com/2026/08/481923.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-31 07:53",
+      "summary": "近期，滴滴自动驾驶新一代 Robotaxi R2正式开启无人载客测试服务"
+    },
+    {
+      "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
+      "link": "https://www.qbitai.com/2026/08/481750.html",
+      "source": "qbitai",
+      "pub_date": "2026-08-31 03:11",
+      "summary": "灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。"
+    },
     {
       "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
       "link": "https://www.qbitai.com/2026/08/481372.html",
@@ -70,27 +99,6 @@
       "source": "qbitai",
       "pub_date": "2026-08-29 13:01",
       "summary": "本科读车辆工程，如今教AI第一班"
-    },
-    {
-      "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
-      "link": "https://www.qbitai.com/2026/08/481075.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-29 12:26",
-      "summary": "3秒可处理200份PDF"
-    },
-    {
-      "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
-      "link": "https://www.qbitai.com/2026/08/480940.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-29 12:11",
-      "summary": "Coding正在变成Al世界的数字执行力"
-    },
-    {
-      "title": "OpenClaw：红过，爱过，散了",
-      "link": "https://www.qbitai.com/2026/08/480855.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-29 12:00",
-      "summary": "龙虾退潮，Harness上位"
     }
   ]
 }
