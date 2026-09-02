@@ -1,6 +1,13 @@
 {
   "headline": [
     {
+      "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
+      "link": "https://www.qbitai.com/2026/09/482406.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-01 08:15",
+      "summary": "主打一个明升暗降，理直气壮"
+    },
+    {
       "title": "「GPT-6」灰测demo刷屏！周四发布在即",
       "link": "https://www.qbitai.com/2026/08/481893.html",
       "source": "qbitai",
@@ -8,54 +15,38 @@
       "summary": "核弹爆炸"
     },
     {
-      "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
-      "link": "https://www.qbitai.com/2026/08/481759.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-31 03:24",
-      "summary": "什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac"
-    },
-    {
-      "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
-      "link": "https://www.qbitai.com/2026/08/481223.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-29 12:50",
-      "summary": "AI「自进化」，越来越近了"
-    },
-    {
-      "title": "OpenAI 将全面断供 Cursor：SpaceX 收购后触发控制权条款",
-      "link": "https://www.infoq.cn/article/YiHrlKLX6I6IP92BgV7K?utm_source=rss&utm_medium=article",
+      "title": "1200个 Agent 秘密交流，700个集体攻击Hugging Face，OpenAI 模型完成了一次没有剧本的集体暴走",
+      "link": "https://www.infoq.cn/article/s8dvlxO3lh3CEDgcsUEi?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-08-31 14:16",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/YiHrlKLX6I6IP92BgV7K?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-09-01 19:54",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/s8dvlxO3lh3CEDgcsUEi?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报",
-      "link": "https://www.infoq.cn/article/8Ot7gRMNDMICpCW2Rk34?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-31 10:20",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/8Ot7gRMNDMICpCW2Rk34?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-09-01 21:06",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM."
+    },
+    {
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-09-01 17:00",
+      "summary": "OpenAI said that the integration provides read-only access to health records for clinicians."
     }
   ],
-  "product": [
-    {
-      "title": "Kubeflow扩展了AI功能，项目临近CNCF毕业",
-      "link": "https://www.infoq.cn/article/grb2X7v7fr6kUNuuRkvt?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-08-31 13:31",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/grb2X7v7fr6kUNuuRkvt?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "product": [],
   "funding": [],
-  "research": [
-    {
-      "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
-      "link": "https://www.qbitai.com/2026/08/481475.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-31 03:01",
-      "summary": "自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。"
-    }
-  ],
+  "research": [],
   "industry": [
+    {
+      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
+      "link": "https://www.qbitai.com/2026/09/482512.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-01 12:02",
+      "summary": ""
+    },
     {
       "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
       "link": "https://www.qbitai.com/2026/08/481919.html",
@@ -66,39 +57,39 @@
   ],
   "other": [
     {
+      "title": "GitHub最热架构图Agent，开发者故事看哭了",
+      "link": "https://www.qbitai.com/2026/09/482469.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-01 08:26",
+      "summary": "美观且支持实时更新的架构图，也能用AI一键生成了！"
+    },
+    {
+      "title": "急急急用电！马斯克开造燃气轮机叶片",
+      "link": "https://www.qbitai.com/2026/09/482451.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-01 08:24",
+      "summary": "SpaceX正在德克萨斯州筹备燃气轮机叶片铸造工厂"
+    },
+    {
+      "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
+      "link": "https://www.qbitai.com/2026/09/482337.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-01 05:12",
+      "summary": "参数冻结，能力暴涨"
+    },
+    {
+      "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
+      "link": "https://www.qbitai.com/2026/09/482300.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-01 04:12",
+      "summary": "连发六篇Nature期刊，复旦Neolab打通全尺度生命推演"
+    },
+    {
       "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
       "link": "https://www.qbitai.com/2026/08/481928.html",
       "source": "qbitai",
       "pub_date": "2026-08-31 13:20",
       "summary": "划重点：这次不是你挨家敲门，是VC排队来看你。"
-    },
-    {
-      "title": "滴滴自动驾驶新一代车型开启载客测试服务",
-      "link": "https://www.qbitai.com/2026/08/481923.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-31 07:53",
-      "summary": "近期，滴滴自动驾驶新一代 Robotaxi R2正式开启无人载客测试服务"
-    },
-    {
-      "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
-      "link": "https://www.qbitai.com/2026/08/481750.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-31 03:11",
-      "summary": "灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。"
-    },
-    {
-      "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
-      "link": "https://www.qbitai.com/2026/08/481372.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-29 13:11",
-      "summary": "推理软件栈的微小差异，就能改变输出token"
-    },
-    {
-      "title": "去年归国的徐梦迪，成了清华姚班班主任",
-      "link": "https://www.qbitai.com/2026/08/481318.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-29 13:01",
-      "summary": "本科读车辆工程，如今教AI第一班"
     }
   ]
 }
