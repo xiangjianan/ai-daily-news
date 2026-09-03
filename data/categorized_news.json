@@ -1,18 +1,18 @@
 {
   "headline": [
     {
-      "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
-      "link": "https://www.qbitai.com/2026/09/482406.html",
+      "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+      "link": "https://www.qbitai.com/2026/09/483104.html",
       "source": "qbitai",
-      "pub_date": "2026-09-01 08:15",
-      "summary": "主打一个明升暗降，理直气壮"
+      "pub_date": "2026-09-02 06:20",
+      "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文"
     },
     {
-      "title": "「GPT-6」灰测demo刷屏！周四发布在即",
-      "link": "https://www.qbitai.com/2026/08/481893.html",
+      "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
+      "link": "https://www.qbitai.com/2026/09/482652.html",
       "source": "qbitai",
-      "pub_date": "2026-08-31 04:47",
-      "summary": "核弹爆炸"
+      "pub_date": "2026-09-02 02:18",
+      "summary": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色"
     },
     {
       "title": "1200个 Agent 秘密交流，700个集体攻击Hugging Face，OpenAI 模型完成了一次没有剧本的集体暴走",
@@ -22,74 +22,103 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/s8dvlxO3lh3CEDgcsUEi?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-09-01 21:06",
-      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM."
+      "pub_date": "2026-09-02 20:19",
+      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models."
     },
     {
-      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-09-01 17:00",
-      "summary": "OpenAI said that the integration provides read-only access to health records for clinicians."
+      "pub_date": "2026-09-02 17:09",
+      "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" t"
     }
   ],
-  "product": [],
+  "product": [
+    {
+      "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
+      "link": "https://www.qbitai.com/2026/09/483101.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-02 06:10",
+      "summary": ""
+    },
+    {
+      "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
+      "link": "https://www.qbitai.com/2026/09/482699.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-02 01:44",
+      "summary": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。"
+    },
+    {
+      "title": "李飞飞发布：全球首个多模态世界模型",
+      "link": "https://www.qbitai.com/2026/09/482586.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-02 01:07",
+      "summary": "一张图补全3D世界，还能给机器人造训练场"
+    }
+  ],
   "funding": [],
   "research": [],
   "industry": [
+    {
+      "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
+      "link": "https://www.qbitai.com/2026/09/482967.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-02 02:48",
+      "summary": "AI客服日扛1.5万通电话"
+    },
+    {
+      "title": "香港首个真实开放场景服务机器人落地兰桂坊",
+      "link": "https://www.qbitai.com/2026/09/482855.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-02 02:06",
+      "summary": "在香港兰桂坊，一位特殊的“酒保”正式上岗"
+    },
     {
       "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
       "link": "https://www.qbitai.com/2026/09/482512.html",
       "source": "qbitai",
       "pub_date": "2026-09-01 12:02",
       "summary": ""
-    },
-    {
-      "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
-      "link": "https://www.qbitai.com/2026/08/481919.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-31 07:34",
-      "summary": ""
     }
   ],
   "other": [
     {
-      "title": "GitHub最热架构图Agent，开发者故事看哭了",
-      "link": "https://www.qbitai.com/2026/09/482469.html",
+      "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
+      "link": "https://www.qbitai.com/2026/09/483274.html",
       "source": "qbitai",
-      "pub_date": "2026-09-01 08:26",
-      "summary": "美观且支持实时更新的架构图，也能用AI一键生成了！"
+      "pub_date": "2026-09-02 09:22",
+      "summary": "SkyProduction（天工工作台）全新版本于8月31日正式上线"
     },
     {
-      "title": "急急急用电！马斯克开造燃气轮机叶片",
-      "link": "https://www.qbitai.com/2026/09/482451.html",
+      "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
+      "link": "https://www.qbitai.com/2026/09/483097.html",
       "source": "qbitai",
-      "pub_date": "2026-09-01 08:24",
-      "summary": "SpaceX正在德克萨斯州筹备燃气轮机叶片铸造工厂"
+      "pub_date": "2026-09-02 06:06",
+      "summary": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能"
     },
     {
-      "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
-      "link": "https://www.qbitai.com/2026/09/482337.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-01 05:12",
-      "summary": "参数冻结，能力暴涨"
+      "title": "当 AI 开始重写负载，数据库该如何重新设计？",
+      "link": "https://www.infoq.cn/article/rhKVS8RAdp4aVPZD0vZu?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-02 18:07",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/rhKVS8RAdp4aVPZD0vZu?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
-      "link": "https://www.qbitai.com/2026/09/482300.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-01 04:12",
-      "summary": "连发六篇Nature期刊，复旦Neolab打通全尺度生命推演"
+      "title": "倒计时21天！GOAI进入决赛月，120强全力冲刺",
+      "link": "https://www.infoq.cn/article/JSgkNf4EBVRL6HPP8D1u?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-02 14:21",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/JSgkNf4EBVRL6HPP8D1u?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
-      "link": "https://www.qbitai.com/2026/08/481928.html",
-      "source": "qbitai",
-      "pub_date": "2026-08-31 13:20",
-      "summary": "划重点：这次不是你挨家敲门，是VC排队来看你。"
+      "title": "Cloudflare OS：Cloudflare 基于能力模型构建的开源企业级 AI 平台",
+      "link": "https://www.infoq.cn/article/ztbou1CqjAdzrT6GNSKV?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-02 13:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ztbou1CqjAdzrT6GNSKV?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
