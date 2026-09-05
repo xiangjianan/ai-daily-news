@@ -1,6 +1,13 @@
 {
   "headline": [
     {
+      "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+      "link": "https://www.qbitai.com/2026/09/484437.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-04 09:19",
+      "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL"
+    },
+    {
       "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
       "link": "https://www.qbitai.com/2026/09/483948.html",
       "source": "qbitai",
@@ -8,35 +15,42 @@
       "summary": "改进GPT Image 2的噪点问题"
     },
     {
-      "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
-      "link": "https://www.qbitai.com/2026/09/483898.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-03 21:50",
-      "summary": "全球最强C"
+      "title": "GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”",
+      "link": "https://www.infoq.cn/article/mKGb7ZiPRlAiFDZCWK0v?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-04 13:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/mKGb7ZiPRlAiFDZCWK0v?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "陈大年复出，入局大模型",
-      "link": "https://www.qbitai.com/2026/09/483600.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-03 10:13",
-      "summary": "首秀逼近DeepSeek万亿旗舰"
-    },
-    {
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-09-03 18:01",
-      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\""
+      "pub_date": "2026-09-04 23:15",
+      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews."
     },
     {
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "source": "openai_blog",
-      "pub_date": "2026-09-03 12:00",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-09-04 16:21",
+      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems."
     }
   ],
   "product": [
+    {
+      "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
+      "link": "https://www.qbitai.com/2026/09/484155.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-04 05:48",
+      "summary": ""
+    },
+    {
+      "title": "谷歌云发布 AI 智能体，简化数据库生命周期管理",
+      "link": "https://www.infoq.cn/article/iV0rsPyO5XZDJ7797hLJ?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-04 09:21",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/iV0rsPyO5XZDJ7797hLJ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
     {
       "title": "Diagrid Catalyst 2.0 发布，为 AI 智能体新增持久化、可验证的执行能力",
       "link": "https://www.infoq.cn/article/ofYabQL5uvxdaIY7B31f?utm_source=rss&utm_medium=article",
@@ -47,42 +61,50 @@
   ],
   "funding": [],
   "research": [],
-  "industry": [],
+  "industry": [
+    {
+      "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+      "link": "https://www.qbitai.com/2026/09/484547.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-04 09:23",
+      "summary": "国产卡跑出高品质 AI Token 生产级性能"
+    }
+  ],
   "other": [
     {
-      "title": "“没有Token的CS学生，应立即退学”",
-      "link": "https://www.qbitai.com/2026/09/483839.html",
+      "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
+      "link": "https://www.qbitai.com/2026/09/484293.html",
       "source": "qbitai",
-      "pub_date": "2026-09-03 11:32",
-      "summary": "禁止古法编程、Token自费"
+      "pub_date": "2026-09-04 08:57",
+      "summary": "不训练模型、不调参数"
     },
     {
-      "title": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
-      "link": "https://www.qbitai.com/2026/09/483786.html",
+      "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
+      "link": "https://www.qbitai.com/2026/09/484203.html",
       "source": "qbitai",
-      "pub_date": "2026-09-03 11:25",
-      "summary": "眼镜、耳机、麦克风都来了"
+      "pub_date": "2026-09-04 07:09",
+      "summary": "5000支队伍同台做题，写尽行业四年变化"
     },
     {
-      "title": "世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！",
-      "link": "https://www.qbitai.com/2026/09/483189.html",
+      "title": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
+      "link": "https://www.qbitai.com/2026/09/484163.html",
       "source": "qbitai",
-      "pub_date": "2026-09-03 10:18",
-      "summary": "单图直出场景，顶会最佳论文落地"
+      "pub_date": "2026-09-04 06:54",
+      "summary": "智能不只是模式识别，更是对世界的建模"
     },
     {
-      "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
-      "link": "https://www.qbitai.com/2026/09/483565.html",
+      "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
+      "link": "https://www.qbitai.com/2026/09/484159.html",
       "source": "qbitai",
-      "pub_date": "2026-09-03 03:16",
-      "summary": "从工厂一路干到家庭"
+      "pub_date": "2026-09-04 05:53",
+      "summary": "雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。"
     },
     {
-      "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
-      "link": "https://www.qbitai.com/2026/09/483552.html",
+      "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
+      "link": "https://www.qbitai.com/2026/09/483984.html",
       "source": "qbitai",
-      "pub_date": "2026-09-03 01:31",
-      "summary": ""
+      "pub_date": "2026-09-04 04:03",
+      "summary": "比新业务更考验一家公司的，可能是怎么对待年轻人。"
     }
   ]
 }
