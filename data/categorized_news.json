@@ -1,96 +1,109 @@
 {
   "headline": [
     {
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+      "link": "https://www.qbitai.com/2026/09/493241.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-21 08:21",
+      "summary": "97%尝试危险行为"
+    },
+    {
+      "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+      "link": "https://www.qbitai.com/2026/09/493218.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-21 06:22",
+      "summary": "在物理世界真正干活的具身智能体"
+    },
+    {
+      "title": "不靠最强大模型，也能拿全球第一？OceanBase 的 “纯国产组合” 登顶国际 Data Agent 榜",
+      "link": "https://www.infoq.cn/article/Obuxu1mvY9p6RNOlxFGc?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-21 13:58",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Obuxu1mvY9p6RNOlxFGc?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Altum：蚂蚁集团新一代大模型训练数据处理系统设计与实践｜QCon上海",
+      "link": "https://www.infoq.cn/article/AGIRRRtM1lBDFIvwWuRX?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-21 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/AGIRRRtM1lBDFIvwWuRX?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-09-19 17:30",
-      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately."
-    },
-    {
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "link": "https://openai.com/index/cooley-gopublic",
-      "source": "openai_blog",
-      "pub_date": "2026-09-17 12:00",
-      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
-    },
-    {
-      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-      "link": "https://openai.com/index/hex-gpt-6-astra",
-      "source": "openai_blog",
-      "pub_date": "2026-09-16 12:00",
-      "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share."
-    },
-    {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "source": "openai_blog",
-      "pub_date": "2026-09-14 00:00",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "source": "openai_blog",
-      "pub_date": "2026-09-11 10:00",
-      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
+      "pub_date": "2026-09-21 20:15",
+      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research."
     }
   ],
   "product": [
     {
-      "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
-      "link": "https://www.qbitai.com/2026/09/492849.html",
+      "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+      "link": "https://www.qbitai.com/2026/09/493235.html",
       "source": "qbitai",
-      "pub_date": "2026-09-20 02:48",
-      "summary": "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布"
+      "pub_date": "2026-09-21 07:52",
+      "summary": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。"
+    },
+    {
+      "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
+      "link": "https://www.qbitai.com/2026/09/493114.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-21 02:28",
+      "summary": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。"
+    },
+    {
+      "title": "70强项目观察之无界应用：AI应用正在从“有功能”走向“能完成任务”",
+      "link": "https://www.infoq.cn/article/te2qjg2J6Ausgc6vAeNy?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-21 18:18",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/te2qjg2J6Ausgc6vAeNy?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "《2026年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算力规模预计增长87.9%",
+      "link": "https://www.infoq.cn/article/vA7opkWL5WYlwYcPIdds?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-21 17:07",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/vA7opkWL5WYlwYcPIdds?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
-  "research": [
-    {
-      "title": "九问 ScienceDiscovery：从纳米抗体到大飞机，AI 如何从“给答案”走向“做研究”",
-      "link": "https://www.infoq.cn/article/7V4eTBr4WwyJbQp7RTOK?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-09-20 09:59",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/7V4eTBr4WwyJbQp7RTOK?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "research": [],
   "industry": [],
   "other": [
     {
-      "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
-      "link": "https://www.qbitai.com/2026/09/492973.html",
+      "title": "SkyProduction天工工作台中秋国庆特惠第二波：Seedance 2.5 720P 低至 0.27 元/秒，全网地板价！",
+      "link": "https://www.qbitai.com/2026/09/493268.html",
       "source": "qbitai",
-      "pub_date": "2026-09-20 14:30",
-      "summary": "剪映Hub+剪映助手，好用"
+      "pub_date": "2026-09-21 08:25",
+      "summary": "9月15日，SkyProduction（天工工作台）中秋国庆折上折活动正式开启！"
     },
     {
-      "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
-      "link": "https://www.qbitai.com/2026/09/493068.html",
+      "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+      "link": "https://www.qbitai.com/2026/09/493231.html",
       "source": "qbitai",
-      "pub_date": "2026-09-20 14:23",
-      "summary": "AI越来越能干，企业该怎么用"
+      "pub_date": "2026-09-21 07:31",
+      "summary": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark"
     },
     {
-      "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
-      "link": "https://www.qbitai.com/2026/09/492946.html",
+      "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
+      "link": "https://www.qbitai.com/2026/09/493179.html",
       "source": "qbitai",
-      "pub_date": "2026-09-20 12:22",
-      "summary": "AI办公这块蛋糕，中国电信可能要先切走一块了。"
+      "pub_date": "2026-09-21 03:46",
+      "summary": "激活参数仅27B"
     },
     {
-      "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
-      "link": "https://www.qbitai.com/2026/09/492939.html",
+      "title": "中国Neocloud市场第一！商汤大装置全面领跑",
+      "link": "https://www.qbitai.com/2026/09/493175.html",
       "source": "qbitai",
-      "pub_date": "2026-09-20 08:30",
-      "summary": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果"
+      "pub_date": "2026-09-21 03:32",
+      "summary": "沙利文报告"
     },
     {
-      "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
-      "link": "https://www.qbitai.com/2026/09/492912.html",
+      "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
+      "link": "https://www.qbitai.com/2026/09/493109.html",
       "source": "qbitai",
-      "pub_date": "2026-09-20 08:01",
-      "summary": "亚马逊云科技给企业安全用Agent打了个样"
+      "pub_date": "2026-09-21 02:17",
+      "summary": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。"
     }
   ]
 }
