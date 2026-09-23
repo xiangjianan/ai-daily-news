@@ -1,55 +1,55 @@
 {
   "headline": [
     {
-      "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
-      "link": "https://www.qbitai.com/2026/09/493241.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-21 08:21",
-      "summary": "97%尝试危险行为"
-    },
-    {
-      "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
-      "link": "https://www.qbitai.com/2026/09/493218.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-21 06:22",
-      "summary": "在物理世界真正干活的具身智能体"
-    },
-    {
-      "title": "不靠最强大模型，也能拿全球第一？OceanBase 的 “纯国产组合” 登顶国际 Data Agent 榜",
-      "link": "https://www.infoq.cn/article/Obuxu1mvY9p6RNOlxFGc?utm_source=rss&utm_medium=article",
+      "title": "从生成内容到创造体验，多模态大模型如何改变内容生产？",
+      "link": "https://www.infoq.cn/article/rNHK14OsBl5CgSpMoTPq?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-09-21 13:58",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Obuxu1mvY9p6RNOlxFGc?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-09-22 20:12",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/rNHK14OsBl5CgSpMoTPq?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Altum：蚂蚁集团新一代大模型训练数据处理系统设计与实践｜QCon上海",
-      "link": "https://www.infoq.cn/article/AGIRRRtM1lBDFIvwWuRX?utm_source=rss&utm_medium=article",
+      "title": "华为云码道面向鸿蒙开发者升级：上线鸿蒙编码大模型，覆盖开发到编译全流程",
+      "link": "https://www.infoq.cn/article/jCdqhiUJHJlVgOYGfWGx?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-09-21 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/AGIRRRtM1lBDFIvwWuRX?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-09-22 11:22",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/jCdqhiUJHJlVgOYGfWGx?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-09-21 20:15",
-      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research."
+      "pub_date": "2026-09-22 18:00",
+      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
+    },
+    {
+      "title": "Better prompt caching for GPT-6",
+      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "source": "openai_blog",
+      "pub_date": "2026-09-22 21:00",
+      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
+    },
+    {
+      "title": "Introducing GPT-6 Sol and Luna",
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "source": "openai_blog",
+      "pub_date": "2026-09-22 18:00",
+      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
     }
   ],
   "product": [
     {
-      "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
-      "link": "https://www.qbitai.com/2026/09/493235.html",
+      "title": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
+      "link": "https://www.qbitai.com/2026/09/493865.html",
       "source": "qbitai",
-      "pub_date": "2026-09-21 07:52",
-      "summary": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。"
+      "pub_date": "2026-09-22 08:49",
+      "summary": "9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”"
     },
     {
-      "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
-      "link": "https://www.qbitai.com/2026/09/493114.html",
+      "title": "首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求",
+      "link": "https://www.qbitai.com/2026/09/493819.html",
       "source": "qbitai",
-      "pub_date": "2026-09-21 02:28",
-      "summary": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。"
+      "pub_date": "2026-09-22 08:35",
+      "summary": "9月21日，首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行"
     },
     {
       "title": "70强项目观察之无界应用：AI应用正在从“有功能”走向“能完成任务”",
@@ -71,39 +71,39 @@
   "industry": [],
   "other": [
     {
-      "title": "SkyProduction天工工作台中秋国庆特惠第二波：Seedance 2.5 720P 低至 0.27 元/秒，全网地板价！",
-      "link": "https://www.qbitai.com/2026/09/493268.html",
+      "title": "陆川手搓历史现场，王珞丹熬夜抽卡，阿里全模态开始兜底生产",
+      "link": "https://www.qbitai.com/2026/09/494429.html",
       "source": "qbitai",
-      "pub_date": "2026-09-21 08:25",
-      "summary": "9月15日，SkyProduction（天工工作台）中秋国庆折上折活动正式开启！"
+      "pub_date": "2026-09-22 15:59",
+      "summary": "阿里：三年之内会出现一个原生的全模态统一生成模型，未来体验将不再受限于模态边界。"
     },
     {
-      "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
-      "link": "https://www.qbitai.com/2026/09/493231.html",
+      "title": "Agent时代，CPU的价值该重估了",
+      "link": "https://www.qbitai.com/2026/09/494430.html",
       "source": "qbitai",
-      "pub_date": "2026-09-21 07:31",
-      "summary": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark"
+      "pub_date": "2026-09-22 15:46",
+      "summary": "CPU与GPU趋近1∶1"
     },
     {
-      "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
-      "link": "https://www.qbitai.com/2026/09/493179.html",
+      "title": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
+      "link": "https://www.qbitai.com/2026/09/494420.html",
       "source": "qbitai",
-      "pub_date": "2026-09-21 03:46",
-      "summary": "激活参数仅27B"
+      "pub_date": "2026-09-22 14:28",
+      "summary": "从真实工厂到产品复制，再到生态和下一批机会，两位嘉宾会把工业AI从「能用」走向「规模化」的关键问题一层层拆开。"
     },
     {
-      "title": "中国Neocloud市场第一！商汤大装置全面领跑",
-      "link": "https://www.qbitai.com/2026/09/493175.html",
+      "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
+      "link": "https://www.qbitai.com/2026/09/494263.html",
       "source": "qbitai",
-      "pub_date": "2026-09-21 03:32",
-      "summary": "沙利文报告"
+      "pub_date": "2026-09-22 13:57",
+      "summary": "商汤U1 Pro，正式发布"
     },
     {
-      "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
-      "link": "https://www.qbitai.com/2026/09/493109.html",
+      "title": "WebArena作者Shuyan Zhou入职Meta超级智能实验室",
+      "link": "https://www.qbitai.com/2026/09/493653.html",
       "source": "qbitai",
-      "pub_date": "2026-09-21 02:17",
-      "summary": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。"
+      "pub_date": "2026-09-22 11:58",
+      "summary": "梦想是做能帮妈妈订机票的AI浏览器。"
     }
   ]
 }
