@@ -1,6 +1,13 @@
 {
   "headline": [
     {
+      "title": "Claude Opus 5.5 发布：一天内迁移 68 万行代码，单任务成本比 GPT-6 Astra 便宜 80%",
+      "link": "https://www.infoq.cn/article/jG9ksSRvpkfP20Qif8Ov?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-23 22:41",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/jG9ksSRvpkfP20Qif8Ov?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
       "title": "从生成内容到创造体验，多模态大模型如何改变内容生产？",
       "link": "https://www.infoq.cn/article/rNHK14OsBl5CgSpMoTPq?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -8,102 +15,112 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/rNHK14OsBl5CgSpMoTPq?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "华为云码道面向鸿蒙开发者升级：上线鸿蒙编码大模型，覆盖开发到编译全流程",
-      "link": "https://www.infoq.cn/article/jCdqhiUJHJlVgOYGfWGx?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-09-22 11:22",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/jCdqhiUJHJlVgOYGfWGx?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-09-22 18:00",
-      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
+      "pub_date": "2026-09-23 17:00",
+      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks."
     },
     {
-      "title": "Better prompt caching for GPT-6",
-      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "title": "Two years of OpenAI Academy",
+      "link": "https://openai.com/index/two-years-of-openai-academy",
       "source": "openai_blog",
-      "pub_date": "2026-09-22 21:00",
-      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
+      "pub_date": "2026-09-23 16:00",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
     },
     {
-      "title": "Introducing GPT-6 Sol and Luna",
-      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
       "source": "openai_blog",
-      "pub_date": "2026-09-22 18:00",
-      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
+      "pub_date": "2026-09-23 13:00",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
     }
   ],
   "product": [
     {
-      "title": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
-      "link": "https://www.qbitai.com/2026/09/493865.html",
+      "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
+      "link": "https://www.qbitai.com/2026/09/496493.html",
       "source": "qbitai",
-      "pub_date": "2026-09-22 08:49",
-      "summary": "9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”"
+      "pub_date": "2026-09-23 09:50",
+      "summary": "企业AI服务迎来平台化交付时代"
     },
     {
-      "title": "首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求",
-      "link": "https://www.qbitai.com/2026/09/493819.html",
+      "title": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
+      "link": "https://www.qbitai.com/2026/09/496471.html",
       "source": "qbitai",
-      "pub_date": "2026-09-22 08:35",
-      "summary": "9月21日，首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行"
-    },
-    {
-      "title": "70强项目观察之无界应用：AI应用正在从“有功能”走向“能完成任务”",
-      "link": "https://www.infoq.cn/article/te2qjg2J6Ausgc6vAeNy?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-09-21 18:18",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/te2qjg2J6Ausgc6vAeNy?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "《2026年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算力规模预计增长87.9%",
-      "link": "https://www.infoq.cn/article/vA7opkWL5WYlwYcPIdds?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-09-21 17:07",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/vA7opkWL5WYlwYcPIdds?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-09-23 08:45",
+      "summary": "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B"
     }
   ],
-  "funding": [],
-  "research": [],
-  "industry": [],
+  "funding": [
+    {
+      "title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
+      "link": "https://www.qbitai.com/2026/09/496494.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-23 09:46",
+      "summary": "打造算电协同领域“Windows”级操作系统"
+    }
+  ],
+  "research": [
+    {
+      "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
+      "link": "https://www.qbitai.com/2026/09/496393.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-23 07:29",
+      "summary": "每秒能产生5000+个沙盒"
+    }
+  ],
+  "industry": [
+    {
+      "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
+      "link": "https://www.qbitai.com/2026/09/496609.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-23 10:35",
+      "summary": "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会"
+    },
+    {
+      "title": "它石智航顶尖团队引领中国具身智能率先迈入规模化落地阶段",
+      "link": "https://www.qbitai.com/2026/09/496481.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-23 08:54",
+      "summary": "它石智航将继续扩大研发团队，加快布局生产基地，全面提升机器人交付能力"
+    }
+  ],
   "other": [
     {
-      "title": "陆川手搓历史现场，王珞丹熬夜抽卡，阿里全模态开始兜底生产",
-      "link": "https://www.qbitai.com/2026/09/494429.html",
+      "title": "成立九年，中科类脑把积累装进Token工厂",
+      "link": "https://www.qbitai.com/2026/09/496615.html",
       "source": "qbitai",
-      "pub_date": "2026-09-22 15:59",
-      "summary": "阿里：三年之内会出现一个原生的全模态统一生成模型，未来体验将不再受限于模态边界。"
+      "pub_date": "2026-09-24 00:48",
+      "summary": ""
     },
     {
-      "title": "Agent时代，CPU的价值该重估了",
-      "link": "https://www.qbitai.com/2026/09/494430.html",
+      "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
+      "link": "https://www.qbitai.com/2026/09/496578.html",
       "source": "qbitai",
-      "pub_date": "2026-09-22 15:46",
-      "summary": "CPU与GPU趋近1∶1"
+      "pub_date": "2026-09-23 09:56",
+      "summary": "商汤大装置异构混推创新实践与技术演进"
     },
     {
-      "title": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
-      "link": "https://www.qbitai.com/2026/09/494420.html",
+      "title": "Qwen一号位定了！刘大一恒接棒",
+      "link": "https://www.qbitai.com/2026/09/496384.html",
       "source": "qbitai",
-      "pub_date": "2026-09-22 14:28",
-      "summary": "从真实工厂到产品复制，再到生态和下一批机会，两位嘉宾会把工业AI从「能用」走向「规模化」的关键问题一层层拆开。"
+      "pub_date": "2026-09-23 07:27",
+      "summary": "与稚晖君同届天才少年"
     },
     {
-      "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
-      "link": "https://www.qbitai.com/2026/09/494263.html",
+      "title": "Jev vs Decitron：同为决策AI，为什么不是一回事？",
+      "link": "https://www.qbitai.com/2026/09/496352.html",
       "source": "qbitai",
-      "pub_date": "2026-09-22 13:57",
-      "summary": "商汤U1 Pro，正式发布"
+      "pub_date": "2026-09-23 06:38",
+      "summary": "对复杂现实进行推演与决策"
     },
     {
-      "title": "WebArena作者Shuyan Zhou入职Meta超级智能实验室",
-      "link": "https://www.qbitai.com/2026/09/493653.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-22 11:58",
-      "summary": "梦想是做能帮妈妈订机票的AI浏览器。"
+      "title": "利用 AI 搭建内部开发者平台",
+      "link": "https://www.infoq.cn/article/su9aJV7kiibMfxwzLpOJ?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-24 09:05",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/su9aJV7kiibMfxwzLpOJ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
