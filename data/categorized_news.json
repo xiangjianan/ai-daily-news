@@ -1,18 +1,18 @@
 {
   "headline": [
     {
+      "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
+      "link": "https://www.qbitai.com/2026/09/497382.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-26 07:04",
+      "summary": "还把「密钥」叫战利品"
+    },
+    {
       "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
       "link": "https://www.qbitai.com/2026/09/497177.html",
       "source": "qbitai",
       "pub_date": "2026-09-25 13:15",
       "summary": ""
-    },
-    {
-      "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
-      "link": "https://www.qbitai.com/2026/09/497070.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-25 06:14",
-      "summary": "一场物理世界的基模实验"
     },
     {
       "title": "29 小时攻破浏览器，GPT-6 Astra 成为 OpenAI 首个“严重级”模型",
@@ -38,6 +38,13 @@
   ],
   "product": [
     {
+      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+      "link": "https://www.qbitai.com/2026/09/498478.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-26 11:49",
+      "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。"
+    },
+    {
       "title": "WSO2 发布 Agent Manager，企业寻求应对日益严重的 AI Agent 泛滥问题",
       "link": "https://www.infoq.cn/article/4gr5Zt9GZoyIwF2f6LvR?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -48,11 +55,11 @@
   "funding": [],
   "research": [
     {
-      "title": "时隔十年，AI大牛署名新论文",
-      "link": "https://www.qbitai.com/2026/09/496834.html",
+      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+      "link": "https://www.qbitai.com/2026/09/498271.html",
       "source": "qbitai",
-      "pub_date": "2026-09-24 12:58",
-      "summary": "让自动驾驶“走一步想十步”"
+      "pub_date": "2026-09-26 09:07",
+      "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。"
     }
   ],
   "industry": [
@@ -66,6 +73,27 @@
   ],
   "other": [
     {
+      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+      "link": "https://www.qbitai.com/2026/09/497624.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-26 09:01",
+      "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？"
+    },
+    {
+      "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
+      "link": "https://www.qbitai.com/2026/09/497613.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-26 07:18",
+      "summary": "大伟哥：如果做不到，一年两年之后过来打我脸"
+    },
+    {
+      "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+      "link": "https://www.qbitai.com/2026/09/497425.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-26 07:12",
+      "summary": "vLLM人马创业公司团队出品"
+    },
+    {
       "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
       "link": "https://www.qbitai.com/2026/09/497278.html",
       "source": "qbitai",
@@ -78,27 +106,6 @@
       "source": "qbitai",
       "pub_date": "2026-09-25 10:00",
       "summary": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。"
-    },
-    {
-      "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
-      "link": "https://www.qbitai.com/2026/09/497075.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-25 06:20",
-      "summary": "Agent的手越伸越长"
-    },
-    {
-      "title": "呃…小扎「自研Manus」刚成Meta太子，就塌房了",
-      "link": "https://www.qbitai.com/2026/09/497060.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-25 06:11",
-      "summary": "人工外包团队"
-    },
-    {
-      "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
-      "link": "https://www.qbitai.com/2026/09/497012.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-25 05:52",
-      "summary": ""
     }
   ]
 }
