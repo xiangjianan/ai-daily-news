@@ -15,25 +15,25 @@
       "summary": ""
     },
     {
-      "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
-      "link": "https://www.qbitai.com/2026/09/497382.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-26 07:04",
-      "summary": "还把「密钥」叫战利品"
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-09-28 23:39",
+      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders."
     },
     {
-      "title": "29 小时攻破浏览器，GPT-6 Astra 成为 OpenAI 首个“严重级”模型",
-      "link": "https://www.infoq.cn/article/b5oxzJyafr0lkZexoo8E?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-09-24 16:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/b5oxzJyafr0lkZexoo8E?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-09-28 17:09",
+      "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming."
     },
     {
-      "title": "GPT-6猛砍价，Opus 5.5忙“变好用”：模型价格战，已经不能只看API定价",
-      "link": "https://www.infoq.cn/article/VSIsPFiO2hrjBi30wDfE?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-09-24 13:44",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/VSIsPFiO2hrjBi30wDfE?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-09-28 15:30",
+      "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass."
     }
   ],
   "product": [
@@ -43,6 +43,13 @@
       "source": "qbitai",
       "pub_date": "2026-09-26 11:49",
       "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。"
+    },
+    {
+      "title": "Imagination 发布 E 系列 GPU IP 新进展：一套架构支持图形、计算与AI",
+      "link": "https://www.infoq.cn/article/5Xfeqshw0hwfUD95JpWE?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-28 18:23",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/5Xfeqshw0hwfUD95JpWE?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
@@ -71,14 +78,28 @@
   ],
   "industry": [
     {
-      "title": "60 万行巨石应用 AI 重构的可验证交付工程｜QCon上海",
-      "link": "https://www.infoq.cn/article/06y8rRvgxgyBxOpr7L5r?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-09-24 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/06y8rRvgxgyBxOpr7L5r?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
+      "link": "https://www.qbitai.com/2026/09/499098.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-29 00:49",
+      "summary": "李飞飞将入职AMD首席科学家"
     }
   ],
   "other": [
+    {
+      "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+      "link": "https://www.qbitai.com/2026/09/498877.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-28 12:43",
+      "summary": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了"
+    },
+    {
+      "title": "HC归来，华为正重新定义AIDC基础设施",
+      "link": "https://www.qbitai.com/2026/09/498787.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-28 11:18",
+      "summary": "AI基础设施下一站：算电协同"
+    },
     {
       "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
       "link": "https://www.qbitai.com/2026/09/498605.html",
@@ -99,20 +120,6 @@
       "source": "qbitai",
       "pub_date": "2026-09-26 09:01",
       "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？"
-    },
-    {
-      "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
-      "link": "https://www.qbitai.com/2026/09/497613.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-26 07:18",
-      "summary": "大伟哥：如果做不到，一年两年之后过来打我脸"
-    },
-    {
-      "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
-      "link": "https://www.qbitai.com/2026/09/497425.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-26 07:12",
-      "summary": "vLLM人马创业公司团队出品"
     }
   ]
 }
