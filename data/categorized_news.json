@@ -1,6 +1,20 @@
 {
   "headline": [
     {
+      "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+      "link": "https://www.qbitai.com/2026/09/499246.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-29 23:01",
+      "summary": "今年devday牙膏挤爆"
+    },
+    {
+      "title": "OpenAI因新模型太强叫停发布",
+      "link": "https://www.qbitai.com/2026/09/499140.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-29 07:49",
+      "summary": "AGI计划暂停。"
+    },
+    {
       "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
       "link": "https://www.qbitai.com/2026/09/498633.html",
       "source": "qbitai",
@@ -8,74 +22,39 @@
       "summary": ""
     },
     {
-      "title": "啥题啊能干崩OpenAI最强模型训练…",
-      "link": "https://www.qbitai.com/2026/09/498546.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-27 09:44",
-      "summary": ""
+      "title": "大模型下沉车规芯片：超六成的车企座舱，为何选中了同一个“端侧大脑”？",
+      "link": "https://www.infoq.cn/article/O5pKYU5hfR2DgrXP6zRE?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-29 15:49",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/O5pKYU5hfR2DgrXP6zRE?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-09-28 23:39",
-      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders."
-    },
-    {
-      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-09-28 17:09",
-      "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming."
-    },
-    {
-      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-09-28 15:30",
-      "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass."
+      "pub_date": "2026-09-29 22:20",
+      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page."
     }
   ],
   "product": [
     {
-      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-      "link": "https://www.qbitai.com/2026/09/498478.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-26 11:49",
-      "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。"
-    },
-    {
-      "title": "Imagination 发布 E 系列 GPU IP 新进展：一套架构支持图形、计算与AI",
-      "link": "https://www.infoq.cn/article/5Xfeqshw0hwfUD95JpWE?utm_source=rss&utm_medium=article",
+      "title": "从新型存储介质PCM方案到PCIe 6.0 SSD，德明利率先推出面向AI基础设施的分层存储全栈方案",
+      "link": "https://www.infoq.cn/article/SrmkSf6vOfRt6lLuudZb?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-09-28 18:23",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/5Xfeqshw0hwfUD95JpWE?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
-      "link": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-09-27 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "WSO2 发布 Agent Manager，企业寻求应对日益严重的 AI Agent 泛滥问题",
-      "link": "https://www.infoq.cn/article/4gr5Zt9GZoyIwF2f6LvR?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-09-24 17:25",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/4gr5Zt9GZoyIwF2f6LvR?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-09-29 14:29",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/SrmkSf6vOfRt6lLuudZb?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [],
-  "research": [
+  "funding": [
     {
-      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
-      "link": "https://www.qbitai.com/2026/09/498271.html",
+      "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
+      "link": "https://www.qbitai.com/2026/09/499135.html",
       "source": "qbitai",
-      "pub_date": "2026-09-26 09:07",
-      "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。"
+      "pub_date": "2026-09-29 07:10",
+      "summary": "诺因从Demo走向家庭"
     }
   ],
+  "research": [],
   "industry": [
     {
       "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
@@ -86,6 +65,20 @@
     }
   ],
   "other": [
+    {
+      "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
+      "link": "https://www.qbitai.com/2026/09/499239.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-29 10:56",
+      "summary": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景"
+    },
+    {
+      "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+      "link": "https://www.qbitai.com/2026/09/499188.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-29 07:59",
+      "summary": ""
+    },
     {
       "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
       "link": "https://www.qbitai.com/2026/09/498877.html",
@@ -106,20 +99,6 @@
       "source": "qbitai",
       "pub_date": "2026-09-27 13:57",
       "summary": "想让开发者“说句话就能跑量子计算”"
-    },
-    {
-      "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
-      "link": "https://www.qbitai.com/2026/09/498584.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-27 13:40",
-      "summary": "中秋假期文具OpenRouter调用日榜榜首"
-    },
-    {
-      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-      "link": "https://www.qbitai.com/2026/09/497624.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-26 09:01",
-      "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？"
     }
   ]
 }
