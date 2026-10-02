@@ -1,6 +1,13 @@
 {
   "headline": [
     {
+      "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+      "link": "https://www.qbitai.com/2026/10/499663.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-01 15:02",
+      "summary": "价格只有Astra一半"
+    },
+    {
       "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
       "link": "https://www.qbitai.com/2026/09/499654.html",
       "source": "qbitai",
@@ -22,18 +29,11 @@
       "summary": "让GPT把机器人技能当工具调用"
     },
     {
-      "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
-      "link": "https://www.qbitai.com/2026/09/499246.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-29 23:01",
-      "summary": "今年devday牙膏挤爆"
-    },
-    {
-      "title": "AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
-      "link": "https://www.infoq.cn/article/OBQpdcB1xURrJMRlrJZ1?utm_source=rss&utm_medium=article",
+      "title": "刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移",
+      "link": "https://www.infoq.cn/article/vVrSzjhEvkmpevS7wZzU?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-09-30 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/OBQpdcB1xURrJMRlrJZ1?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-10-01 11:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/vVrSzjhEvkmpevS7wZzU?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "product": [],
@@ -56,6 +56,13 @@
     }
   ],
   "other": [
+    {
+      "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+      "link": "https://www.qbitai.com/2026/10/499812.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-01 15:06",
+      "summary": "用ImageNet训练encoder"
+    },
     {
       "title": "直播回顾：工业AI的下一个机会在哪？",
       "link": "https://www.qbitai.com/2026/09/499605.html",
@@ -83,13 +90,6 @@
       "source": "qbitai",
       "pub_date": "2026-09-30 02:53",
       "summary": ""
-    },
-    {
-      "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
-      "link": "https://www.qbitai.com/2026/09/499239.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-29 10:56",
-      "summary": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景"
     }
   ]
 }
