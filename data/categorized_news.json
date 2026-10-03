@@ -1,6 +1,13 @@
 {
   "headline": [
     {
+      "title": "丘成桐新论文致谢了GPT和Claude",
+      "link": "https://www.qbitai.com/2026/10/499991.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-02 07:27",
+      "summary": "44年前被亲自列入问题清单"
+    },
+    {
       "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
       "link": "https://www.qbitai.com/2026/10/499663.html",
       "source": "qbitai",
@@ -27,26 +34,12 @@
       "source": "qbitai",
       "pub_date": "2026-09-30 07:54",
       "summary": "让GPT把机器人技能当工具调用"
-    },
-    {
-      "title": "刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移",
-      "link": "https://www.infoq.cn/article/vVrSzjhEvkmpevS7wZzU?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-01 11:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/vVrSzjhEvkmpevS7wZzU?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "product": [],
   "funding": [],
   "research": [],
   "industry": [
-    {
-      "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
-      "link": "https://www.qbitai.com/2026/09/499280.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-30 04:42",
-      "summary": "机器人上市，风向有变"
-    },
     {
       "title": "从 AI 试点到营收增长：Snowflake 销售与营销团队如何跨越落地鸿沟 ｜ 技术实践",
       "link": "https://www.infoq.cn/article/hw3PpM2ZlCmCArsNo1y7?utm_source=rss&utm_medium=article",
@@ -56,6 +49,20 @@
     }
   ],
   "other": [
+    {
+      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+      "link": "https://www.qbitai.com/2026/10/500098.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-02 07:34",
+      "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择"
+    },
+    {
+      "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+      "link": "https://www.qbitai.com/2026/10/499958.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-02 06:46",
+      "summary": "换区也没用"
+    },
     {
       "title": "何恺明团队新作：看猫片就能学会ARC挑战",
       "link": "https://www.qbitai.com/2026/10/499812.html",
@@ -76,20 +83,6 @@
       "source": "qbitai",
       "pub_date": "2026-09-30 07:58",
       "summary": "给Agent配上手机号，再拉个群"
-    },
-    {
-      "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
-      "link": "https://www.qbitai.com/2026/09/499308.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-30 05:18",
-      "summary": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）"
-    },
-    {
-      "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
-      "link": "https://www.qbitai.com/2026/09/499263.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-30 02:53",
-      "summary": ""
     }
   ]
 }
