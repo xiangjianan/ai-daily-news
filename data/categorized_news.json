@@ -22,18 +22,18 @@
       "summary": "44年前被亲自列入问题清单"
     },
     {
-      "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
-      "link": "https://www.qbitai.com/2026/10/499663.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-01 15:02",
-      "summary": "价格只有Astra一半"
+      "title": "刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移",
+      "link": "https://www.infoq.cn/article/vVrSzjhEvkmpevS7wZzU?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-01 11:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/vVrSzjhEvkmpevS7wZzU?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
-      "link": "https://www.qbitai.com/2026/09/499654.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-30 14:03",
-      "summary": "千禧年难题的突破，10000个Agent最多占了10%的功劳。"
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-10-03 16:30",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job."
     }
   ],
   "product": [],
@@ -49,6 +49,13 @@
   "research": [],
   "industry": [
     {
+      "title": "AI算力硬合作，马斯克还是更相信中国制造",
+      "link": "https://www.qbitai.com/2026/10/501605.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-04 06:12",
+      "summary": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。"
+    },
+    {
       "title": "从 AI 试点到营收增长：Snowflake 销售与营销团队如何跨越落地鸿沟 ｜ 技术实践",
       "link": "https://www.infoq.cn/article/hw3PpM2ZlCmCArsNo1y7?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -57,6 +64,13 @@
     }
   ],
   "other": [
+    {
+      "title": "最火AI岗位FDE：月薪5万，都干这些…",
+      "link": "https://www.qbitai.com/2026/10/501506.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-04 06:05",
+      "summary": "什么是FDE？它会一直存在吗？"
+    },
     {
       "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
       "link": "https://www.qbitai.com/2026/10/501381.html",
@@ -84,13 +98,6 @@
       "source": "qbitai",
       "pub_date": "2026-10-01 15:06",
       "summary": "用ImageNet训练encoder"
-    },
-    {
-      "title": "Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出",
-      "link": "https://www.infoq.cn/article/eRbEA3dMd58RNPqp5D8S?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-02 13:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/eRbEA3dMd58RNPqp5D8S?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
