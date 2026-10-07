@@ -1,6 +1,13 @@
 {
   "headline": [
     {
+      "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+      "link": "https://www.qbitai.com/2026/10/501726.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-06 06:45",
+      "summary": ""
+    },
+    {
       "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
       "link": "https://www.qbitai.com/2026/10/501700.html",
       "source": "qbitai",
@@ -15,13 +22,6 @@
       "summary": "专业3D模型反而更稀缺了"
     },
     {
-      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
-      "link": "https://www.qbitai.com/2026/10/501368.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-03 04:41",
-      "summary": "又咋啦。。。"
-    },
-    {
       "title": "刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移",
       "link": "https://www.infoq.cn/article/vVrSzjhEvkmpevS7wZzU?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -29,23 +29,15 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/vVrSzjhEvkmpevS7wZzU?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-10-05 20:36",
-      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says."
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "link": "https://openai.com/index/jump-trading",
+      "source": "openai_blog",
+      "pub_date": "2026-10-06 12:00",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
     }
   ],
   "product": [],
-  "funding": [
-    {
-      "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
-      "link": "https://www.qbitai.com/2026/10/500148.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-03 02:38",
-      "summary": ""
-    }
-  ],
+  "funding": [],
   "research": [
     {
       "title": "刚刚，Hinton发了首篇RSI论文",
@@ -66,6 +58,20 @@
   ],
   "other": [
     {
+      "title": "刚刚，诺贝尔物理奖一人独揽！",
+      "link": "https://www.qbitai.com/2026/10/501746.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-06 10:44",
+      "summary": "南极洲甚至有一座高地以他名字命名"
+    },
+    {
+      "title": "不er，咋陶哲轩也成AI减速派了？？",
+      "link": "https://www.qbitai.com/2026/10/501736.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-06 07:59",
+      "summary": ""
+    },
+    {
       "title": "刚刚，诺贝尔奖颁给光遗传学！",
       "link": "https://www.qbitai.com/2026/10/501720.html",
       "source": "qbitai",
@@ -85,20 +91,6 @@
       "source": "qbitai",
       "pub_date": "2026-10-03 07:54",
       "summary": "岗位JD甩了篇技术报告"
-    },
-    {
-      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
-      "link": "https://www.qbitai.com/2026/10/500098.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-02 07:34",
-      "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择"
-    },
-    {
-      "title": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
-      "link": "https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-06 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }
