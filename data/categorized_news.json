@@ -1,6 +1,27 @@
 {
   "headline": [
     {
+      "title": "GPT-6今起免费用！拒答变少，话变多了",
+      "link": "https://www.qbitai.com/2026/10/501834.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-08 01:07",
+      "summary": "ChatGPT聊天框长出界面"
+    },
+    {
+      "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+      "link": "https://www.qbitai.com/2026/10/501832.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-08 01:04",
+      "summary": "小模型新守门员"
+    },
+    {
+      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+      "link": "https://www.qbitai.com/2026/10/501749.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-07 01:05",
+      "summary": "三位菲尔兹奖得主：不代表认可"
+    },
+    {
       "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
       "link": "https://www.qbitai.com/2026/10/501726.html",
       "source": "qbitai",
@@ -8,55 +29,47 @@
       "summary": ""
     },
     {
-      "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
-      "link": "https://www.qbitai.com/2026/10/501700.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-05 02:50",
-      "summary": "有改进就体验，没改进就重置，横竖不亏。"
-    },
-    {
-      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
-      "link": "https://www.qbitai.com/2026/10/501451.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-04 00:53",
-      "summary": "专业3D模型反而更稀缺了"
-    },
-    {
-      "title": "刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移",
-      "link": "https://www.infoq.cn/article/vVrSzjhEvkmpevS7wZzU?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-01 11:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/vVrSzjhEvkmpevS7wZzU?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "link": "https://openai.com/index/jump-trading",
-      "source": "openai_blog",
-      "pub_date": "2026-10-06 12:00",
-      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-10-07 18:15",
+      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships wit"
     }
   ],
   "product": [],
   "funding": [],
-  "research": [
-    {
-      "title": "刚刚，Hinton发了首篇RSI论文",
-      "link": "https://www.qbitai.com/2026/10/501705.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-05 04:42",
-      "summary": "AI已经开始真正进入「造下一代AI」的流水线"
-    }
-  ],
+  "research": [],
   "industry": [
     {
-      "title": "AI算力硬合作，马斯克还是更相信中国制造",
-      "link": "https://www.qbitai.com/2026/10/501605.html",
+      "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+      "link": "https://www.qbitai.com/2026/10/501791.html",
       "source": "qbitai",
-      "pub_date": "2026-10-04 06:12",
-      "summary": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。"
+      "pub_date": "2026-10-07 06:39",
+      "summary": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜"
     }
   ],
   "other": [
+    {
+      "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
+      "link": "https://www.qbitai.com/2026/10/501825.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-07 14:10",
+      "summary": ""
+    },
+    {
+      "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+      "link": "https://www.qbitai.com/2026/10/501803.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-07 11:34",
+      "summary": ""
+    },
+    {
+      "title": "晕…这年头还有说人话的AI不",
+      "link": "https://www.qbitai.com/2026/10/501796.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-07 08:41",
+      "summary": ""
+    },
     {
       "title": "刚刚，诺贝尔物理奖一人独揽！",
       "link": "https://www.qbitai.com/2026/10/501746.html",
@@ -70,27 +83,6 @@
       "source": "qbitai",
       "pub_date": "2026-10-06 07:59",
       "summary": ""
-    },
-    {
-      "title": "刚刚，诺贝尔奖颁给光遗传学！",
-      "link": "https://www.qbitai.com/2026/10/501720.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-05 10:37",
-      "summary": "从绿藻里的光开关，到控制神经元"
-    },
-    {
-      "title": "最火AI岗位FDE：月薪5万，都干这些…",
-      "link": "https://www.qbitai.com/2026/10/501506.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-04 06:05",
-      "summary": "什么是FDE？它会一直存在吗？"
-    },
-    {
-      "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
-      "link": "https://www.qbitai.com/2026/10/501381.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-03 07:54",
-      "summary": "岗位JD甩了篇技术报告"
     }
   ]
 }
