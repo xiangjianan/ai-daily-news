@@ -1,25 +1,25 @@
 {
   "headline": [
     {
-      "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
-      "link": "https://www.qbitai.com/2026/10/502089.html",
+      "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+      "link": "https://www.qbitai.com/2026/10/502125.html",
       "source": "qbitai",
-      "pub_date": "2026-10-09 00:35",
-      "summary": "彻底撕破脸了"
+      "pub_date": "2026-10-09 03:52",
+      "summary": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。"
     },
     {
-      "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
-      "link": "https://www.qbitai.com/2026/10/502083.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-09 00:16",
-      "summary": "新的“缝合怪”已经出现，怎么能够停滞不前"
+      "title": "Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
+      "link": "https://www.infoq.cn/article/e0iQfJNgepz7VigRdD61?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-09 17:39",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/e0iQfJNgepz7VigRdD61?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
-      "link": "https://www.qbitai.com/2026/10/501995.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-08 09:28",
-      "summary": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力"
+      "title": "OpenAI 高管亲述：我们是怎么在一周内做出 Jev 竞品的",
+      "link": "https://www.infoq.cn/article/IRqoPz4cNONlNFBolD9V?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-09 17:24",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/IRqoPz4cNONlNFBolD9V?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "OpenAI刚把多Agent做成产品，o1奠基人却说：1万个Agent解出世界级难题，多Agent贡献不到10%",
@@ -38,58 +38,67 @@
   ],
   "product": [
     {
-      "title": "正行创新亮相APRCE 2026，发布全球首个零售物理智能24/7服务解决方案",
-      "link": "https://www.qbitai.com/2026/10/502035.html",
+      "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+      "link": "https://www.qbitai.com/2026/10/502106.html",
       "source": "qbitai",
-      "pub_date": "2026-10-08 12:43",
-      "summary": "打造便利店“人机协作”运营新模式"
-    },
-    {
-      "title": "吉利智充技术正式发布，重塑全球补能新标杆",
-      "link": "https://www.qbitai.com/2026/10/501956.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-08 09:10",
-      "summary": "2027年底实现“县县通”"
+      "pub_date": "2026-10-09 02:37",
+      "summary": "多Agent协同还能自我进化"
     }
   ],
   "funding": [],
-  "research": [],
-  "industry": [],
+  "research": [
+    {
+      "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
+      "link": "https://www.qbitai.com/2026/10/502359.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-09 06:28",
+      "summary": "Google 研究成果首次登上《柳叶刀》主刊"
+    }
+  ],
+  "industry": [
+    {
+      "title": "AI 落地，此刻发生 ｜1024 模力工场 AI 社区日，首批报名开启",
+      "link": "https://www.infoq.cn/article/RicHewwNF5jacSMQNy6O?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-09 16:59",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/RicHewwNF5jacSMQNy6O?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "other": [
     {
-      "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
-      "link": "https://www.qbitai.com/2026/10/502096.html",
+      "title": "TRAE终于把Code和Work合并了",
+      "link": "https://www.qbitai.com/2026/10/502426.html",
       "source": "qbitai",
-      "pub_date": "2026-10-09 02:03",
-      "summary": "让AI反复试错的“练兵场”来了"
+      "pub_date": "2026-10-09 09:19",
+      "summary": "大写的方便"
     },
     {
-      "title": "真香！做这个邪恶老奶版「GTA 6」，我只花了5元！",
-      "link": "https://www.qbitai.com/2026/10/502049.html",
+      "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+      "link": "https://www.qbitai.com/2026/10/502422.html",
       "source": "qbitai",
-      "pub_date": "2026-10-08 13:28",
-      "summary": "Vidu Q4预览版，了解一下~"
+      "pub_date": "2026-10-09 08:53",
+      "summary": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名"
     },
     {
-      "title": "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
-      "link": "https://www.qbitai.com/2026/10/502020.html",
+      "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
+      "link": "https://www.qbitai.com/2026/10/502411.html",
       "source": "qbitai",
-      "pub_date": "2026-10-08 10:23",
-      "summary": "联想YOGA Pro 15 RTX Spark笔记本电脑，于10月8日9:00正式开启全网盲约。"
+      "pub_date": "2026-10-09 08:47",
+      "summary": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间"
     },
     {
-      "title": "浪子回头！Manus重启北京办公室大举招聘",
-      "link": "https://www.qbitai.com/2026/10/502009.html",
+      "title": "字节找到了DeepSeek时强时弱的原因",
+      "link": "https://www.qbitai.com/2026/10/502364.html",
       "source": "qbitai",
-      "pub_date": "2026-10-08 09:30",
-      "summary": "开始和国产Agent抢人，还拿到5亿美元新融资"
+      "pub_date": "2026-10-09 07:11",
+      "summary": "答不答得对，得看Token站位"
     },
     {
-      "title": "打不过就投降，保时捷裁员9000人，回归燃油车主线",
-      "link": "https://www.qbitai.com/2026/10/501930.html",
+      "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
+      "link": "https://www.qbitai.com/2026/10/502330.html",
       "source": "qbitai",
-      "pub_date": "2026-10-08 07:10",
-      "summary": "管理岗砍掉四成，顶级车型涨价20%卖"
+      "pub_date": "2026-10-09 04:15",
+      "summary": "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？"
     }
   ]
 }
