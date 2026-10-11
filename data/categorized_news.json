@@ -8,6 +8,20 @@
       "summary": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。"
     },
     {
+      "title": "OpenAI 只用 15 天，就杀死了估值 100 亿美元的 Jev？",
+      "link": "https://www.infoq.cn/article/qmoRIQ1TceKfKwGlXN0S?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-10 15:11",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qmoRIQ1TceKfKwGlXN0S?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "比 Astra 还贵！GPT-6.1 Sol 极速版上线，社区吐槽：“500 美元套餐都撑不过一天”",
+      "link": "https://www.infoq.cn/article/soBOt9TSckGlJlBS519y?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-10 13:15",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/soBOt9TSckGlJlBS519y?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
       "title": "Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
       "link": "https://www.infoq.cn/article/e0iQfJNgepz7VigRdD61?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -20,20 +34,6 @@
       "source": "infoq",
       "pub_date": "2026-10-09 17:24",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/IRqoPz4cNONlNFBolD9V?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "OpenAI刚把多Agent做成产品，o1奠基人却说：1万个Agent解出世界级难题，多Agent贡献不到10%",
-      "link": "https://www.infoq.cn/article/3MSU3CcJuh0XjHDyjhXj?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-08 14:11",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/3MSU3CcJuh0XjHDyjhXj?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "2万亿美元估值靠什么撑？Anthropic 核心技术负责人：蒸馏会毁掉前沿研发，中美 AI 竞赛不会单边暂停",
-      "link": "https://www.infoq.cn/article/dS754RhjExrwFP6tWD9d?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-08 14:10",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/dS754RhjExrwFP6tWD9d?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "product": [
@@ -55,16 +55,15 @@
       "summary": "Google 研究成果首次登上《柳叶刀》主刊"
     }
   ],
-  "industry": [
-    {
-      "title": "AI 落地，此刻发生 ｜1024 模力工场 AI 社区日，首批报名开启",
-      "link": "https://www.infoq.cn/article/RicHewwNF5jacSMQNy6O?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-09 16:59",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/RicHewwNF5jacSMQNy6O?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "industry": [],
   "other": [
+    {
+      "title": "特斯拉FSD，在欧洲被打回原形",
+      "link": "https://www.qbitai.com/2026/10/502467.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-10 06:59",
+      "summary": "马斯克反而发文道谢？"
+    },
     {
       "title": "TRAE终于把Code和Work合并了",
       "link": "https://www.qbitai.com/2026/10/502426.html",
@@ -92,13 +91,6 @@
       "source": "qbitai",
       "pub_date": "2026-10-09 07:11",
       "summary": "答不答得对，得看Token站位"
-    },
-    {
-      "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
-      "link": "https://www.qbitai.com/2026/10/502330.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-09 04:15",
-      "summary": "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？"
     }
   ]
 }
