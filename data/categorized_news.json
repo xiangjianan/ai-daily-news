@@ -1,11 +1,11 @@
 {
   "headline": [
     {
-      "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
-      "link": "https://www.qbitai.com/2026/10/502125.html",
+      "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
+      "link": "https://www.qbitai.com/2026/10/502550.html",
       "source": "qbitai",
-      "pub_date": "2026-10-09 03:52",
-      "summary": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。"
+      "pub_date": "2026-10-11 05:18",
+      "summary": "初代4o的API快照进入停用倒计时"
     },
     {
       "title": "OpenAI 只用 15 天，就杀死了估值 100 亿美元的 Jev？",
@@ -22,75 +22,83 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/soBOt9TSckGlJlBS519y?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
-      "link": "https://www.infoq.cn/article/e0iQfJNgepz7VigRdD61?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-09 17:39",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/e0iQfJNgepz7VigRdD61?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-10-11 14:00",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break"
     },
     {
-      "title": "OpenAI 高管亲述：我们是怎么在一周内做出 Jev 竞品的",
-      "link": "https://www.infoq.cn/article/IRqoPz4cNONlNFBolD9V?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-09 17:24",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/IRqoPz4cNONlNFBolD9V?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-10-10 00:18",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
     }
   ],
   "product": [
     {
-      "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
-      "link": "https://www.qbitai.com/2026/10/502106.html",
+      "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
+      "link": "https://www.qbitai.com/2026/10/502496.html",
       "source": "qbitai",
-      "pub_date": "2026-10-09 02:37",
-      "summary": "多Agent协同还能自我进化"
+      "pub_date": "2026-10-10 09:07",
+      "summary": "2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会"
     }
   ],
-  "funding": [],
-  "research": [
+  "funding": [
     {
-      "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
-      "link": "https://www.qbitai.com/2026/10/502359.html",
+      "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
+      "link": "https://www.qbitai.com/2026/10/502492.html",
       "source": "qbitai",
-      "pub_date": "2026-10-09 06:28",
-      "summary": "Google 研究成果首次登上《柳叶刀》主刊"
+      "pub_date": "2026-10-10 08:54",
+      "summary": ""
     }
   ],
-  "industry": [],
+  "research": [],
+  "industry": [
+    {
+      "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+      "link": "https://www.qbitai.com/2026/10/502541.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-10 10:30",
+      "summary": "西门子将以更集中、更场景化的方式，展示其工业全栈能力"
+    }
+  ],
   "other": [
+    {
+      "title": "王的猜想，刚刚扩展到四维",
+      "link": "https://www.qbitai.com/2026/10/502584.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-11 05:23",
+      "summary": ""
+    },
+    {
+      "title": "硅谷AI现状：谁有算力谁是爹",
+      "link": "https://www.qbitai.com/2026/10/502585.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-11 05:22",
+      "summary": "马斯克连横A社，硅谷VC开始囤GPU"
+    },
+    {
+      "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
+      "link": "https://www.qbitai.com/2026/10/502544.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-11 03:27",
+      "summary": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？"
+    },
+    {
+      "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
+      "link": "https://www.qbitai.com/2026/10/502484.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-10 08:52",
+      "summary": ""
+    },
     {
       "title": "特斯拉FSD，在欧洲被打回原形",
       "link": "https://www.qbitai.com/2026/10/502467.html",
       "source": "qbitai",
       "pub_date": "2026-10-10 06:59",
       "summary": "马斯克反而发文道谢？"
-    },
-    {
-      "title": "TRAE终于把Code和Work合并了",
-      "link": "https://www.qbitai.com/2026/10/502426.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-09 09:19",
-      "summary": "大写的方便"
-    },
-    {
-      "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
-      "link": "https://www.qbitai.com/2026/10/502422.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-09 08:53",
-      "summary": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名"
-    },
-    {
-      "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
-      "link": "https://www.qbitai.com/2026/10/502411.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-09 08:47",
-      "summary": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间"
-    },
-    {
-      "title": "字节找到了DeepSeek时强时弱的原因",
-      "link": "https://www.qbitai.com/2026/10/502364.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-09 07:11",
-      "summary": "答不答得对，得看Token站位"
     }
   ]
 }
