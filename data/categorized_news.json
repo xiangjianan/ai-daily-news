@@ -8,53 +8,53 @@
       "summary": "初代4o的API快照进入停用倒计时"
     },
     {
-      "title": "OpenAI 只用 15 天，就杀死了估值 100 亿美元的 Jev？",
-      "link": "https://www.infoq.cn/article/qmoRIQ1TceKfKwGlXN0S?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-10 15:11",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qmoRIQ1TceKfKwGlXN0S?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "比 Astra 还贵！GPT-6.1 Sol 极速版上线，社区吐槽：“500 美元套餐都撑不过一天”",
-      "link": "https://www.infoq.cn/article/soBOt9TSckGlJlBS519y?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-10 13:15",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/soBOt9TSckGlJlBS519y?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
       "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
       "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
       "source": "techcrunch_ai",
       "pub_date": "2026-10-11 14:00",
-      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break"
+      "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break."
     },
     {
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-10-10 00:18",
-      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "link": "https://openai.com/index/sophos",
+      "source": "openai_blog",
+      "pub_date": "2026-10-09 07:00",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
+    },
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://openai.com/index/asana-browser-agent",
+      "source": "openai_blog",
+      "pub_date": "2026-10-09 07:00",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
+    },
+    {
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "link": "https://openai.com/index/oracle",
+      "source": "openai_blog",
+      "pub_date": "2026-10-08 16:00",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
     }
   ],
   "product": [
     {
-      "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
-      "link": "https://www.qbitai.com/2026/10/502496.html",
+      "title": "何恺明团队发布多模态Harness框架",
+      "link": "https://www.qbitai.com/2026/10/502628.html",
       "source": "qbitai",
-      "pub_date": "2026-10-10 09:07",
-      "summary": "2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会"
+      "pub_date": "2026-10-11 08:59",
+      "summary": "多模态模型的视觉原生Harness，来了！"
     }
   ],
-  "funding": [
+  "funding": [],
+  "research": [
     {
-      "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
-      "link": "https://www.qbitai.com/2026/10/502492.html",
+      "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+      "link": "https://www.qbitai.com/2026/10/502644.html",
       "source": "qbitai",
-      "pub_date": "2026-10-10 08:54",
-      "summary": ""
+      "pub_date": "2026-10-11 09:04",
+      "summary": "一套生成论文初稿的多智能体工作流"
     }
   ],
-  "research": [],
   "industry": [
     {
       "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
@@ -65,6 +65,27 @@
     }
   ],
   "other": [
+    {
+      "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+      "link": "https://www.qbitai.com/2026/10/502654.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-12 05:48",
+      "summary": "游戏打到21:0，AI甚至不用再调用大模型了"
+    },
+    {
+      "title": "智谱新模型，490 tokens/s！",
+      "link": "https://www.qbitai.com/2026/10/502649.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-12 02:37",
+      "summary": "GLM「速度仙人」来了？"
+    },
+    {
+      "title": "陶哲轩：数学2.0时代已至！",
+      "link": "https://www.qbitai.com/2026/10/502594.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-11 07:52",
+      "summary": ""
+    },
     {
       "title": "王的猜想，刚刚扩展到四维",
       "link": "https://www.qbitai.com/2026/10/502584.html",
@@ -78,27 +99,6 @@
       "source": "qbitai",
       "pub_date": "2026-10-11 05:22",
       "summary": "马斯克连横A社，硅谷VC开始囤GPU"
-    },
-    {
-      "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
-      "link": "https://www.qbitai.com/2026/10/502544.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-11 03:27",
-      "summary": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？"
-    },
-    {
-      "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
-      "link": "https://www.qbitai.com/2026/10/502484.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-10 08:52",
-      "summary": ""
-    },
-    {
-      "title": "特斯拉FSD，在欧洲被打回原形",
-      "link": "https://www.qbitai.com/2026/10/502467.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-10 06:59",
-      "summary": "马斯克反而发文道谢？"
     }
   ]
 }
