@@ -1,104 +1,88 @@
 {
   "headline": [
     {
-      "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
-      "link": "https://www.qbitai.com/2026/10/502550.html",
+      "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
+      "link": "https://www.qbitai.com/2026/10/502920.html",
       "source": "qbitai",
-      "pub_date": "2026-10-11 05:18",
-      "summary": "初代4o的API快照进入停用倒计时"
+      "pub_date": "2026-10-13 06:19",
+      "summary": "拉马克进化的幽灵"
     },
     {
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "title": "Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+      "link": "https://www.infoq.cn/article/pkFg3POvaTwJt9lei8Vj?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-13 11:45",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/pkFg3POvaTwJt9lei8Vj?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+      "link": "https://www.infoq.cn/article/BEJ6IXREBoXspGmXRQHj?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-13 11:40",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/BEJ6IXREBoXspGmXRQHj?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+      "link": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-10-11 14:00",
-      "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break."
+      "pub_date": "2026-10-13 20:59",
+      "summary": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence techn"
     },
     {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "link": "https://openai.com/index/sophos",
-      "source": "openai_blog",
-      "pub_date": "2026-10-09 07:00",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
-    },
-    {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "link": "https://openai.com/index/asana-browser-agent",
-      "source": "openai_blog",
-      "pub_date": "2026-10-09 07:00",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
-    },
-    {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "link": "https://openai.com/index/oracle",
-      "source": "openai_blog",
-      "pub_date": "2026-10-08 16:00",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-10-13 20:36",
+      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case."
     }
   ],
-  "product": [
+  "product": [],
+  "funding": [
     {
-      "title": "何恺明团队发布多模态Harness框架",
-      "link": "https://www.qbitai.com/2026/10/502628.html",
+      "title": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录",
+      "link": "https://www.qbitai.com/2026/10/502767.html",
       "source": "qbitai",
-      "pub_date": "2026-10-11 08:59",
-      "summary": "多模态模型的视觉原生Harness，来了！"
+      "pub_date": "2026-10-13 04:01",
+      "summary": "算力、模型、行业，三层生意一起做"
     }
   ],
-  "funding": [],
-  "research": [
-    {
-      "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
-      "link": "https://www.qbitai.com/2026/10/502644.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-11 09:04",
-      "summary": "一套生成论文初稿的多智能体工作流"
-    }
-  ],
-  "industry": [
-    {
-      "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
-      "link": "https://www.qbitai.com/2026/10/502541.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-10 10:30",
-      "summary": "西门子将以更集中、更场景化的方式，展示其工业全栈能力"
-    }
-  ],
+  "research": [],
+  "industry": [],
   "other": [
     {
-      "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
-      "link": "https://www.qbitai.com/2026/10/502654.html",
+      "title": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存",
+      "link": "https://www.qbitai.com/2026/10/503109.html",
       "source": "qbitai",
-      "pub_date": "2026-10-12 05:48",
-      "summary": "游戏打到21:0，AI甚至不用再调用大模型了"
+      "pub_date": "2026-10-13 20:55",
+      "summary": "面壁开源MiniCPM-V 4.7"
     },
     {
-      "title": "智谱新模型，490 tokens/s！",
-      "link": "https://www.qbitai.com/2026/10/502649.html",
+      "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
+      "link": "https://www.qbitai.com/2026/10/503107.html",
       "source": "qbitai",
-      "pub_date": "2026-10-12 02:37",
-      "summary": "GLM「速度仙人」来了？"
+      "pub_date": "2026-10-13 11:05",
+      "summary": "让VLA从“演示可用”逼近“产线可用”"
     },
     {
-      "title": "陶哲轩：数学2.0时代已至！",
-      "link": "https://www.qbitai.com/2026/10/502594.html",
+      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+      "link": "https://www.qbitai.com/2026/10/503093.html",
       "source": "qbitai",
-      "pub_date": "2026-10-11 07:52",
-      "summary": ""
+      "pub_date": "2026-10-13 09:33",
+      "summary": "Winverse AI"
     },
     {
-      "title": "王的猜想，刚刚扩展到四维",
-      "link": "https://www.qbitai.com/2026/10/502584.html",
+      "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
+      "link": "https://www.qbitai.com/2026/10/502992.html",
       "source": "qbitai",
-      "pub_date": "2026-10-11 05:23",
-      "summary": ""
+      "pub_date": "2026-10-13 07:20",
+      "summary": "宝马保时捷缺席"
     },
     {
-      "title": "硅谷AI现状：谁有算力谁是爹",
-      "link": "https://www.qbitai.com/2026/10/502585.html",
+      "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
+      "link": "https://www.qbitai.com/2026/10/502954.html",
       "source": "qbitai",
-      "pub_date": "2026-10-11 05:22",
-      "summary": "马斯克连横A社，硅谷VC开始囤GPU"
+      "pub_date": "2026-10-13 07:19",
+      "summary": "让材料感知压力，造出超薄高密度电子皮肤"
     }
   ]
 }
