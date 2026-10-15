@@ -1,88 +1,96 @@
 {
   "headline": [
     {
-      "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
-      "link": "https://www.qbitai.com/2026/10/502920.html",
+      "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
+      "link": "https://www.qbitai.com/2026/10/503201.html",
       "source": "qbitai",
-      "pub_date": "2026-10-13 06:19",
-      "summary": "拉马克进化的幽灵"
+      "pub_date": "2026-10-14 06:45",
+      "summary": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布"
     },
     {
-      "title": "Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
-      "link": "https://www.infoq.cn/article/pkFg3POvaTwJt9lei8Vj?utm_source=rss&utm_medium=article",
+      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+      "link": "https://www.qbitai.com/2026/10/503165.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-14 03:32",
+      "summary": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent"
+    },
+    {
+      "title": "从大模型到 Agent 落地，这场大会讲透 AI 全链路",
+      "link": "https://www.infoq.cn/article/PuGS7Qxy4AFOal4wVR22?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-10-13 11:45",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/pkFg3POvaTwJt9lei8Vj?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-10-14 14:52",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/PuGS7Qxy4AFOal4wVR22?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
-      "link": "https://www.infoq.cn/article/BEJ6IXREBoXspGmXRQHj?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-13 11:40",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/BEJ6IXREBoXspGmXRQHj?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "link": "https://openai.com/index/amp-beyond-coding",
+      "source": "openai_blog",
+      "pub_date": "2026-10-14 12:00",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
     },
     {
-      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-      "link": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-10-13 20:59",
-      "summary": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence techn"
-    },
-    {
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-10-13 20:36",
-      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case."
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "link": "https://openai.com/index/block-ai-powered-security",
+      "source": "openai_blog",
+      "pub_date": "2026-10-14 07:00",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
     }
   ],
-  "product": [],
-  "funding": [
+  "product": [
     {
-      "title": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录",
-      "link": "https://www.qbitai.com/2026/10/502767.html",
+      "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
+      "link": "https://www.qbitai.com/2026/10/503244.html",
       "source": "qbitai",
-      "pub_date": "2026-10-13 04:01",
-      "summary": "算力、模型、行业，三层生意一起做"
+      "pub_date": "2026-10-14 08:01",
+      "summary": "这妥妥是个物理版Agent啊！"
     }
   ],
+  "funding": [],
   "research": [],
-  "industry": [],
+  "industry": [
+    {
+      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
+      "link": "https://www.qbitai.com/2026/10/503173.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-14 04:09",
+      "summary": "从“懂空间”到“能干活”"
+    }
+  ],
   "other": [
     {
-      "title": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存",
-      "link": "https://www.qbitai.com/2026/10/503109.html",
+      "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+      "link": "https://www.qbitai.com/2026/10/503294.html",
       "source": "qbitai",
-      "pub_date": "2026-10-13 20:55",
-      "summary": "面壁开源MiniCPM-V 4.7"
+      "pub_date": "2026-10-14 10:41",
+      "summary": "“具身进实景，劳动最光荣”"
     },
     {
-      "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
-      "link": "https://www.qbitai.com/2026/10/503107.html",
+      "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
+      "link": "https://www.qbitai.com/2026/10/503231.html",
       "source": "qbitai",
-      "pub_date": "2026-10-13 11:05",
-      "summary": "让VLA从“演示可用”逼近“产线可用”"
+      "pub_date": "2026-10-14 07:12",
+      "summary": "汽车竞争正在回归汽车本身"
     },
     {
-      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
-      "link": "https://www.qbitai.com/2026/10/503093.html",
+      "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+      "link": "https://www.qbitai.com/2026/10/503211.html",
       "source": "qbitai",
-      "pub_date": "2026-10-13 09:33",
-      "summary": "Winverse AI"
+      "pub_date": "2026-10-14 07:03",
+      "summary": "从创意到成本，AI正在重写综艺的生产逻辑"
     },
     {
-      "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
-      "link": "https://www.qbitai.com/2026/10/502992.html",
+      "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
+      "link": "https://www.qbitai.com/2026/10/503198.html",
       "source": "qbitai",
-      "pub_date": "2026-10-13 07:20",
-      "summary": "宝马保时捷缺席"
+      "pub_date": "2026-10-14 06:24",
+      "summary": "CMOS标准工艺兼容的1TnR技术路线加速研发。"
     },
     {
-      "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
-      "link": "https://www.qbitai.com/2026/10/502954.html",
+      "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
+      "link": "https://www.qbitai.com/2026/10/503172.html",
       "source": "qbitai",
-      "pub_date": "2026-10-13 07:19",
-      "summary": "让材料感知压力，造出超薄高密度电子皮肤"
+      "pub_date": "2026-10-14 04:51",
+      "summary": "给Ego补上缺失的交互信息"
     }
   ]
 }
