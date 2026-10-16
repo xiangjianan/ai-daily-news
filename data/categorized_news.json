@@ -15,11 +15,11 @@
       "summary": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent"
     },
     {
-      "title": "从大模型到 Agent 落地，这场大会讲透 AI 全链路",
-      "link": "https://www.infoq.cn/article/PuGS7Qxy4AFOal4wVR22?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-14 14:52",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/PuGS7Qxy4AFOal4wVR22?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "openai_blog",
+      "pub_date": "2026-10-15 19:00",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
     },
     {
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
@@ -43,9 +43,24 @@
       "source": "qbitai",
       "pub_date": "2026-10-14 08:01",
       "summary": "这妥妥是个物理版Agent啊！"
+    },
+    {
+      "title": "亚马逊云科技推出 CloudWatch Omni：不仅监控系统，还要评估 AI 是否靠谱",
+      "link": "https://www.infoq.cn/article/5GOXqmJaGKbukSIWU4Uf?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-15 13:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/5GOXqmJaGKbukSIWU4Uf?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [],
+  "funding": [
+    {
+      "title": "成立不到半年融资数亿元，98年清华学者、KAN一作创业：让AI学会设计模型",
+      "link": "https://www.infoq.cn/article/QdPWpubQFmegrsH9UZFC?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-15 10:30",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/QdPWpubQFmegrsH9UZFC?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "research": [],
   "industry": [
     {
@@ -57,6 +72,13 @@
     }
   ],
   "other": [
+    {
+      "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+      "link": "https://www.qbitai.com/2026/10/503303.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-15 01:56",
+      "summary": "给企业Agent打了个样"
+    },
     {
       "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
       "link": "https://www.qbitai.com/2026/10/503294.html",
@@ -84,13 +106,6 @@
       "source": "qbitai",
       "pub_date": "2026-10-14 06:24",
       "summary": "CMOS标准工艺兼容的1TnR技术路线加速研发。"
-    },
-    {
-      "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
-      "link": "https://www.qbitai.com/2026/10/503172.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-14 04:51",
-      "summary": "给Ego补上缺失的交互信息"
     }
   ]
 }
