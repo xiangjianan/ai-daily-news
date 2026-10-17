@@ -1,111 +1,110 @@
 {
   "headline": [
     {
-      "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
-      "link": "https://www.qbitai.com/2026/10/503201.html",
+      "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+      "link": "https://www.qbitai.com/2026/10/503640.html",
       "source": "qbitai",
-      "pub_date": "2026-10-14 06:45",
-      "summary": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布"
+      "pub_date": "2026-10-15 09:43",
+      "summary": "Siri AI这次不包括在内"
     },
     {
-      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
-      "link": "https://www.qbitai.com/2026/10/503165.html",
+      "title": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
+      "link": "https://www.qbitai.com/2026/10/503446.html",
       "source": "qbitai",
-      "pub_date": "2026-10-14 03:32",
-      "summary": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent"
+      "pub_date": "2026-10-15 06:35",
+      "summary": ""
     },
     {
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "source": "openai_blog",
-      "pub_date": "2026-10-15 19:00",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
+      "title": "生产级大模型平台工程实战手册",
+      "link": "https://www.infoq.cn/article/xQLd004RGWrzFhwqBOyC?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-16 17:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/xQLd004RGWrzFhwqBOyC?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "link": "https://openai.com/index/amp-beyond-coding",
-      "source": "openai_blog",
-      "pub_date": "2026-10-14 12:00",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-10-16 16:30",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic"
     },
     {
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "link": "https://openai.com/index/block-ai-powered-security",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "source": "openai_blog",
-      "pub_date": "2026-10-14 07:00",
-      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
+      "pub_date": "2026-10-16 00:00",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
     }
   ],
   "product": [
     {
-      "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
-      "link": "https://www.qbitai.com/2026/10/503244.html",
+      "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
+      "link": "https://www.qbitai.com/2026/10/503614.html",
       "source": "qbitai",
-      "pub_date": "2026-10-14 08:01",
-      "summary": "这妥妥是个物理版Agent啊！"
+      "pub_date": "2026-10-15 08:48",
+      "summary": "Agent究竟该如何深入业务毛细血管？"
     },
     {
-      "title": "亚马逊云科技推出 CloudWatch Omni：不仅监控系统，还要评估 AI 是否靠谱",
-      "link": "https://www.infoq.cn/article/5GOXqmJaGKbukSIWU4Uf?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-15 13:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/5GOXqmJaGKbukSIWU4Uf?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
-  "funding": [
+      "title": "苹果AI国内上线，阿里百度浮出水面",
+      "link": "https://www.qbitai.com/2026/10/503497.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-15 06:52",
+      "summary": "苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。"
+    },
     {
-      "title": "成立不到半年融资数亿元，98年清华学者、KAN一作创业：让AI学会设计模型",
-      "link": "https://www.infoq.cn/article/QdPWpubQFmegrsH9UZFC?utm_source=rss&utm_medium=article",
+      "title": "范式智能联合睿思智联推出开源一站式生产级AI部署平台 “模域ModelSphere”",
+      "link": "https://www.infoq.cn/article/VZPlIIdGRg062mgwJe5y?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-10-15 10:30",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/QdPWpubQFmegrsH9UZFC?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-10-16 16:38",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/VZPlIIdGRg062mgwJe5y?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
+  "funding": [],
   "research": [],
   "industry": [
     {
-      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
-      "link": "https://www.qbitai.com/2026/10/503173.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-14 04:09",
-      "summary": "从“懂空间”到“能干活”"
+      "title": "聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+      "link": "https://www.infoq.cn/article/1XtKjZ1OCyrYTCmb4Zkb?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-16 17:45",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/1XtKjZ1OCyrYTCmb4Zkb?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
     {
-      "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
-      "link": "https://www.qbitai.com/2026/10/503303.html",
+      "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
+      "link": "https://www.qbitai.com/2026/10/503645.html",
       "source": "qbitai",
-      "pub_date": "2026-10-15 01:56",
-      "summary": "给企业Agent打了个样"
+      "pub_date": "2026-10-15 10:07",
+      "summary": "京东11.11已于10月12日晚8点全面开启，首日下单用户数实现同比双位数增长。"
     },
     {
-      "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
-      "link": "https://www.qbitai.com/2026/10/503294.html",
+      "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+      "link": "https://www.qbitai.com/2026/10/503611.html",
       "source": "qbitai",
-      "pub_date": "2026-10-14 10:41",
-      "summary": "“具身进实景，劳动最光荣”"
+      "pub_date": "2026-10-15 08:16",
+      "summary": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。"
     },
     {
-      "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
-      "link": "https://www.qbitai.com/2026/10/503231.html",
+      "title": "这个双十一，百灵新模型干起活来不烧心",
+      "link": "https://www.qbitai.com/2026/10/503532.html",
       "source": "qbitai",
-      "pub_date": "2026-10-14 07:12",
-      "summary": "汽车竞争正在回归汽车本身"
+      "pub_date": "2026-10-15 07:35",
+      "summary": "大模型好不好用，百灵拿成品说话"
     },
     {
-      "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
-      "link": "https://www.qbitai.com/2026/10/503211.html",
+      "title": "AI时代，商学院这样培养未来商业领袖",
+      "link": "https://www.qbitai.com/2026/10/503504.html",
       "source": "qbitai",
-      "pub_date": "2026-10-14 07:03",
-      "summary": "从创意到成本，AI正在重写综艺的生产逻辑"
+      "pub_date": "2026-10-15 07:22",
+      "summary": "未来十年共创1000个AI课题"
     },
     {
-      "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
-      "link": "https://www.qbitai.com/2026/10/503198.html",
+      "title": "基元律动宣布开发者入驻超30万，开启双11预售福利",
+      "link": "https://www.qbitai.com/2026/10/503501.html",
       "source": "qbitai",
-      "pub_date": "2026-10-14 06:24",
-      "summary": "CMOS标准工艺兼容的1TnR技术路线加速研发。"
+      "pub_date": "2026-10-15 06:59",
+      "summary": "基元律动（Token Rhythm）宣布已有超过30万名开发者入驻，同期推出双11预售限时福利。"
     }
   ]
 }
