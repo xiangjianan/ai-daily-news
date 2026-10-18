@@ -1,18 +1,11 @@
 {
   "headline": [
     {
-      "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
-      "link": "https://www.qbitai.com/2026/10/503640.html",
+      "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
+      "link": "https://www.qbitai.com/2026/10/503910.html",
       "source": "qbitai",
-      "pub_date": "2026-10-15 09:43",
-      "summary": "Siri AI这次不包括在内"
-    },
-    {
-      "title": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
-      "link": "https://www.qbitai.com/2026/10/503446.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-15 06:35",
-      "summary": ""
+      "pub_date": "2026-10-17 12:06",
+      "summary": "谜底指向时间"
     },
     {
       "title": "生产级大模型平台工程实战手册",
@@ -20,6 +13,13 @@
       "source": "infoq",
       "pub_date": "2026-10-16 17:00",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/xQLd004RGWrzFhwqBOyC?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-10-17 18:48",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform."
     },
     {
       "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
@@ -38,18 +38,18 @@
   ],
   "product": [
     {
-      "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
-      "link": "https://www.qbitai.com/2026/10/503614.html",
+      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+      "link": "https://www.qbitai.com/2026/10/504067.html",
       "source": "qbitai",
-      "pub_date": "2026-10-15 08:48",
-      "summary": "Agent究竟该如何深入业务毛细血管？"
+      "pub_date": "2026-10-17 12:21",
+      "summary": "新版本V4.1-Flash-1017，还开放了自研搜索API"
     },
     {
-      "title": "苹果AI国内上线，阿里百度浮出水面",
-      "link": "https://www.qbitai.com/2026/10/503497.html",
+      "title": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”",
+      "link": "https://www.qbitai.com/2026/10/503829.html",
       "source": "qbitai",
-      "pub_date": "2026-10-15 06:52",
-      "summary": "苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。"
+      "pub_date": "2026-10-16 07:16",
+      "summary": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。"
     },
     {
       "title": "范式智能联合睿思智联推出开源一站式生产级AI部署平台 “模域ModelSphere”",
@@ -72,39 +72,39 @@
   ],
   "other": [
     {
-      "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
-      "link": "https://www.qbitai.com/2026/10/503645.html",
+      "title": "智谱新模型，懂法方面全球第一了",
+      "link": "https://www.qbitai.com/2026/10/503965.html",
       "source": "qbitai",
-      "pub_date": "2026-10-15 10:07",
-      "summary": "京东11.11已于10月12日晚8点全面开启，首日下单用户数实现同比双位数增长。"
+      "pub_date": "2026-10-17 12:13",
+      "summary": "AI的风还是刮到了法律圈"
     },
     {
-      "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
-      "link": "https://www.qbitai.com/2026/10/503611.html",
+      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+      "link": "https://www.qbitai.com/2026/10/503935.html",
       "source": "qbitai",
-      "pub_date": "2026-10-15 08:16",
-      "summary": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。"
+      "pub_date": "2026-10-17 12:10",
+      "summary": "整套系统原生支持MCP"
     },
     {
-      "title": "这个双十一，百灵新模型干起活来不烧心",
-      "link": "https://www.qbitai.com/2026/10/503532.html",
+      "title": "科技企业出海，为啥我推荐你去迪拜？",
+      "link": "https://www.qbitai.com/2026/10/503893.html",
       "source": "qbitai",
-      "pub_date": "2026-10-15 07:35",
-      "summary": "大模型好不好用，百灵拿成品说话"
+      "pub_date": "2026-10-17 09:05",
+      "summary": "通往全球市场的超级跳板"
     },
     {
-      "title": "AI时代，商学院这样培养未来商业领袖",
-      "link": "https://www.qbitai.com/2026/10/503504.html",
+      "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+      "link": "https://www.qbitai.com/2026/10/503880.html",
       "source": "qbitai",
-      "pub_date": "2026-10-15 07:22",
-      "summary": "未来十年共创1000个AI课题"
+      "pub_date": "2026-10-16 12:54",
+      "summary": "从搭载物理建模能力的世界模型切入"
     },
     {
-      "title": "基元律动宣布开发者入驻超30万，开启双11预售福利",
-      "link": "https://www.qbitai.com/2026/10/503501.html",
+      "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
+      "link": "https://www.qbitai.com/2026/10/503865.html",
       "source": "qbitai",
-      "pub_date": "2026-10-15 06:59",
-      "summary": "基元律动（Token Rhythm）宣布已有超过30万名开发者入驻，同期推出双11预售限时福利。"
+      "pub_date": "2026-10-16 08:12",
+      "summary": "VLA解决“能干”，世界模型解决“想清楚再干”"
     }
   ]
 }
