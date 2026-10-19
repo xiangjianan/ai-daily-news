@@ -8,6 +8,13 @@
       "summary": "谜底指向时间"
     },
     {
+      "title": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+      "link": "https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-18 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
       "title": "生产级大模型平台工程实战手册",
       "link": "https://www.infoq.cn/article/xQLd004RGWrzFhwqBOyC?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -27,13 +34,6 @@
       "source": "techcrunch_ai",
       "pub_date": "2026-10-16 16:30",
       "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic"
-    },
-    {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "source": "openai_blog",
-      "pub_date": "2026-10-16 00:00",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
     }
   ],
   "product": [
