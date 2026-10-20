@@ -8,6 +8,13 @@
       "summary": "谜底指向时间"
     },
     {
+      "title": "端侧跑通超千亿大模型！联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售",
+      "link": "https://www.qbitai.com/2026/10/504116.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-16 13:48",
+      "summary": "买AIPC就选联想YOGA。"
+    },
+    {
       "title": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
       "link": "https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -15,25 +22,18 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "生产级大模型平台工程实战手册",
-      "link": "https://www.infoq.cn/article/xQLd004RGWrzFhwqBOyC?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-16 17:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/xQLd004RGWrzFhwqBOyC?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "openai_blog",
+      "pub_date": "2026-10-16 00:00",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
     },
     {
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-10-17 18:48",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform."
-    },
-    {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-10-16 16:30",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic"
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "openai_blog",
+      "pub_date": "2026-10-15 19:00",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
     }
   ],
   "product": [
@@ -45,32 +45,24 @@
       "summary": "新版本V4.1-Flash-1017，还开放了自研搜索API"
     },
     {
-      "title": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”",
-      "link": "https://www.qbitai.com/2026/10/503829.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-16 07:16",
-      "summary": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。"
-    },
-    {
-      "title": "范式智能联合睿思智联推出开源一站式生产级AI部署平台 “模域ModelSphere”",
-      "link": "https://www.infoq.cn/article/VZPlIIdGRg062mgwJe5y?utm_source=rss&utm_medium=article",
+      "title": "Cloudflare 推出面向 AI 代理的 CLI，并逐步停用 Wrangler",
+      "link": "https://www.infoq.cn/article/Ddda0DF68laqfoqa4Lju?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-10-16 16:38",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/VZPlIIdGRg062mgwJe5y?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-10-19 11:27",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Ddda0DF68laqfoqa4Lju?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
   "research": [],
-  "industry": [
-    {
-      "title": "聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
-      "link": "https://www.infoq.cn/article/1XtKjZ1OCyrYTCmb4Zkb?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-16 17:45",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/1XtKjZ1OCyrYTCmb4Zkb?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "industry": [],
   "other": [
+    {
+      "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+      "link": "https://www.qbitai.com/2026/10/504136.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-18 11:49",
+      "summary": "让人人都能自由创造并体验可交互世界"
+    },
     {
       "title": "智谱新模型，懂法方面全球第一了",
       "link": "https://www.qbitai.com/2026/10/503965.html",
@@ -98,13 +90,6 @@
       "source": "qbitai",
       "pub_date": "2026-10-16 12:54",
       "summary": "从搭载物理建模能力的世界模型切入"
-    },
-    {
-      "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
-      "link": "https://www.qbitai.com/2026/10/503865.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-16 08:12",
-      "summary": "VLA解决“能干”，世界模型解决“想清楚再干”"
     }
   ]
 }
