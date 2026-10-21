@@ -1,95 +1,103 @@
 {
   "headline": [
     {
-      "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
-      "link": "https://www.qbitai.com/2026/10/503910.html",
+      "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+      "link": "https://www.qbitai.com/2026/10/504314.html",
       "source": "qbitai",
-      "pub_date": "2026-10-17 12:06",
-      "summary": "谜底指向时间"
+      "pub_date": "2026-10-20 01:09",
+      "summary": "OpenAI只掏出一个6.1 Terra…"
     },
     {
-      "title": "端侧跑通超千亿大模型！联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售",
-      "link": "https://www.qbitai.com/2026/10/504116.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-16 13:48",
-      "summary": "买AIPC就选联想YOGA。"
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-10-20 23:01",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
     },
     {
-      "title": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
-      "link": "https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-18 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-10-20 22:24",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
     },
     {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "source": "openai_blog",
-      "pub_date": "2026-10-16 00:00",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-10-20 20:35",
+      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researcher"
     },
     {
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "source": "openai_blog",
-      "pub_date": "2026-10-15 19:00",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
+      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+      "link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-10-20 20:00",
+      "summary": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more perso"
     }
   ],
-  "product": [
-    {
-      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
-      "link": "https://www.qbitai.com/2026/10/504067.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-17 12:21",
-      "summary": "新版本V4.1-Flash-1017，还开放了自研搜索API"
-    },
-    {
-      "title": "Cloudflare 推出面向 AI 代理的 CLI，并逐步停用 Wrangler",
-      "link": "https://www.infoq.cn/article/Ddda0DF68laqfoqa4Lju?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-19 11:27",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Ddda0DF68laqfoqa4Lju?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "product": [],
   "funding": [],
-  "research": [],
-  "industry": [],
+  "research": [
+    {
+      "title": "AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势",
+      "link": "https://www.infoq.cn/article/4FreCLUUQb4W4AXUhXo5?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-20 14:55",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/4FreCLUUQb4W4AXUhXo5?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮相",
+      "link": "https://www.infoq.cn/article/J1Z3RYgH3Vyd9LFEfmlF?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-20 10:51",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/J1Z3RYgH3Vyd9LFEfmlF?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
+  "industry": [
+    {
+      "title": "赛场交卷 未来已来——首届全球具身智能应用创新挑战赛暨2026中国机器人大赛闭幕",
+      "link": "https://www.qbitai.com/2026/10/504199.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-19 08:12",
+      "summary": "10月18日下午，首届全球具身智能应用创新挑战赛暨2026中国机器人大赛落下帷幕。"
+    }
+  ],
   "other": [
     {
-      "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
-      "link": "https://www.qbitai.com/2026/10/504136.html",
+      "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
+      "link": "https://www.qbitai.com/2026/10/504277.html",
       "source": "qbitai",
-      "pub_date": "2026-10-18 11:49",
-      "summary": "让人人都能自由创造并体验可交互世界"
+      "pub_date": "2026-10-19 14:33",
+      "summary": "同步搭建千比特规模量子算力云平台"
     },
     {
-      "title": "智谱新模型，懂法方面全球第一了",
-      "link": "https://www.qbitai.com/2026/10/503965.html",
+      "title": "通研院孵化的团队，也盯上了RSI",
+      "link": "https://www.qbitai.com/2026/10/504294.html",
       "source": "qbitai",
-      "pub_date": "2026-10-17 12:13",
-      "summary": "AI的风还是刮到了法律圈"
+      "pub_date": "2026-10-19 14:31",
+      "summary": "当AI越来越懂你，如何让智能真正属于你？"
     },
     {
-      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
-      "link": "https://www.qbitai.com/2026/10/503935.html",
+      "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+      "link": "https://www.qbitai.com/2026/10/504266.html",
       "source": "qbitai",
-      "pub_date": "2026-10-17 12:10",
-      "summary": "整套系统原生支持MCP"
+      "pub_date": "2026-10-19 10:27",
+      "summary": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行"
     },
     {
-      "title": "科技企业出海，为啥我推荐你去迪拜？",
-      "link": "https://www.qbitai.com/2026/10/503893.html",
+      "title": "全栈自研！国产高端互连芯片，稳了!",
+      "link": "https://www.qbitai.com/2026/10/504225.html",
       "source": "qbitai",
-      "pub_date": "2026-10-17 09:05",
-      "summary": "通往全球市场的超级跳板"
+      "pub_date": "2026-10-19 10:15",
+      "summary": "六年蛰伏出货80万颗"
     },
     {
-      "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
-      "link": "https://www.qbitai.com/2026/10/503880.html",
+      "title": "AI 开始挑战最复杂的系统：生命",
+      "link": "https://www.qbitai.com/2026/10/504242.html",
       "source": "qbitai",
-      "pub_date": "2026-10-16 12:54",
-      "summary": "从搭载物理建模能力的世界模型切入"
+      "pub_date": "2026-10-19 10:04",
+      "summary": "10 月 17 日，哲源科技发布 WHIRLPO 计算医学平台。"
     }
   ]
 }
