@@ -1,103 +1,110 @@
 {
   "headline": [
     {
-      "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
-      "link": "https://www.qbitai.com/2026/10/504314.html",
+      "title": "代码迁移准确率从 5.4% 飙至 97.9%！OpenAI 挑战 COBOL，几十年的老系统真能交给 AI 了？",
+      "link": "https://www.infoq.cn/article/LZsVYHAH1jyOtLg6Yiwk?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-21 15:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/LZsVYHAH1jyOtLg6Yiwk?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-10-21 17:59",
+      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI."
+    },
+    {
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "link": "https://openai.com/index/att-legal",
+      "source": "openai_blog",
+      "pub_date": "2026-10-21 17:00",
+      "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "link": "https://openai.com/index/openai-models-google-cloud",
+      "source": "openai_blog",
+      "pub_date": "2026-10-21 12:00",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
+    },
+    {
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "source": "openai_blog",
+      "pub_date": "2026-10-21 13:00",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
+    }
+  ],
+  "product": [
+    {
+      "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
+      "link": "https://www.qbitai.com/2026/10/504415.html",
       "source": "qbitai",
-      "pub_date": "2026-10-20 01:09",
-      "summary": "OpenAI只掏出一个6.1 Terra…"
-    },
-    {
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-10-20 23:01",
-      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
-    },
-    {
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-10-20 22:24",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
-    },
-    {
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-10-20 20:35",
-      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researcher"
-    },
-    {
-      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
-      "link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-10-20 20:00",
-      "summary": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more perso"
+      "pub_date": "2026-10-20 04:59",
+      "summary": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样"
     }
   ],
-  "product": [],
   "funding": [],
-  "research": [
-    {
-      "title": "AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势",
-      "link": "https://www.infoq.cn/article/4FreCLUUQb4W4AXUhXo5?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-20 14:55",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/4FreCLUUQb4W4AXUhXo5?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮相",
-      "link": "https://www.infoq.cn/article/J1Z3RYgH3Vyd9LFEfmlF?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-20 10:51",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/J1Z3RYgH3Vyd9LFEfmlF?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "research": [],
   "industry": [
     {
-      "title": "赛场交卷 未来已来——首届全球具身智能应用创新挑战赛暨2026中国机器人大赛闭幕",
-      "link": "https://www.qbitai.com/2026/10/504199.html",
+      "title": "比亚迪成为2026年APEC会议官方合作伙伴",
+      "link": "https://www.qbitai.com/2026/10/504452.html",
       "source": "qbitai",
-      "pub_date": "2026-10-19 08:12",
-      "summary": "10月18日下午，首届全球具身智能应用创新挑战赛暨2026中国机器人大赛落下帷幕。"
+      "pub_date": "2026-10-20 09:57",
+      "summary": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴"
+    },
+    {
+      "title": "从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+      "link": "https://www.infoq.cn/article/Ms3bMt5OcUyYMHwfaXgM?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-21 18:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Ms3bMt5OcUyYMHwfaXgM?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "推动 AI 规模化落地的三大经验：来自公共部门领导者的实践洞察 ｜ 技术趋势",
+      "link": "https://www.infoq.cn/article/GVcxHscrQqv9HXGRowJh?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-21 15:19",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/GVcxHscrQqv9HXGRowJh?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
     {
-      "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
-      "link": "https://www.qbitai.com/2026/10/504277.html",
+      "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
+      "link": "https://www.qbitai.com/2026/10/504608.html",
       "source": "qbitai",
-      "pub_date": "2026-10-19 14:33",
-      "summary": "同步搭建千比特规模量子算力云平台"
+      "pub_date": "2026-10-21 02:37",
+      "summary": "先看真实问题解决力"
     },
     {
-      "title": "通研院孵化的团队，也盯上了RSI",
-      "link": "https://www.qbitai.com/2026/10/504294.html",
+      "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
+      "link": "https://www.qbitai.com/2026/10/504551.html",
       "source": "qbitai",
-      "pub_date": "2026-10-19 14:31",
-      "summary": "当AI越来越懂你，如何让智能真正属于你？"
+      "pub_date": "2026-10-21 01:04",
+      "summary": "电池、电驱、超充一把梭，冬天多跑30公里"
     },
     {
-      "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
-      "link": "https://www.qbitai.com/2026/10/504266.html",
+      "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
+      "link": "https://www.qbitai.com/2026/10/504517.html",
       "source": "qbitai",
-      "pub_date": "2026-10-19 10:27",
-      "summary": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行"
+      "pub_date": "2026-10-20 13:29",
+      "summary": "兔皮底下，竟然是MiniMax！"
     },
     {
-      "title": "全栈自研！国产高端互连芯片，稳了!",
-      "link": "https://www.qbitai.com/2026/10/504225.html",
+      "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
+      "link": "https://www.qbitai.com/2026/10/504456.html",
       "source": "qbitai",
-      "pub_date": "2026-10-19 10:15",
-      "summary": "六年蛰伏出货80万颗"
+      "pub_date": "2026-10-20 12:50",
+      "summary": "把记忆原生焊进Transformer"
     },
     {
-      "title": "AI 开始挑战最复杂的系统：生命",
-      "link": "https://www.qbitai.com/2026/10/504242.html",
+      "title": "技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展",
+      "link": "https://www.qbitai.com/2026/10/504435.html",
       "source": "qbitai",
-      "pub_date": "2026-10-19 10:04",
-      "summary": "10 月 17 日，哲源科技发布 WHIRLPO 计算医学平台。"
+      "pub_date": "2026-10-20 09:13",
+      "summary": "当地时间10月12日，2026巴黎国际车展正式启幕。"
     }
   ]
 }
