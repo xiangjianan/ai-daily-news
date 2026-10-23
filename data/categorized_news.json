@@ -1,59 +1,66 @@
 {
   "headline": [
     {
-      "title": "代码迁移准确率从 5.4% 飙至 97.9%！OpenAI 挑战 COBOL，几十年的老系统真能交给 AI 了？",
-      "link": "https://www.infoq.cn/article/LZsVYHAH1jyOtLg6Yiwk?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-21 15:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/LZsVYHAH1jyOtLg6Yiwk?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "谁在给OpenAI供应具身数据？",
+      "link": "https://www.qbitai.com/2026/10/504800.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-22 07:05",
+      "summary": "挤进全球Physical AI核心供应链"
     },
     {
-      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-      "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-10-21 17:59",
-      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI."
+      "pub_date": "2026-10-22 22:08",
+      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
     },
     {
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "link": "https://openai.com/index/att-legal",
-      "source": "openai_blog",
-      "pub_date": "2026-10-21 17:00",
-      "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-10-22 19:00",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
     },
     {
-      "title": "OpenAI models are coming to Google Cloud",
-      "link": "https://openai.com/index/openai-models-google-cloud",
-      "source": "openai_blog",
-      "pub_date": "2026-10-21 12:00",
-      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
+      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+      "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-10-22 18:38",
+      "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks."
     },
     {
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "source": "openai_blog",
-      "pub_date": "2026-10-21 13:00",
-      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-10-22 16:00",
+      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide."
     }
   ],
   "product": [
     {
-      "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
-      "link": "https://www.qbitai.com/2026/10/504415.html",
+      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "link": "https://www.qbitai.com/2026/10/504832.html",
       "source": "qbitai",
-      "pub_date": "2026-10-20 04:59",
-      "summary": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样"
+      "pub_date": "2026-10-22 07:11",
+      "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent"
     }
   ],
   "funding": [],
   "research": [],
   "industry": [
     {
-      "title": "比亚迪成为2026年APEC会议官方合作伙伴",
-      "link": "https://www.qbitai.com/2026/10/504452.html",
+      "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
+      "link": "https://www.qbitai.com/2026/10/504638.html",
       "source": "qbitai",
-      "pub_date": "2026-10-20 09:57",
-      "summary": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴"
+      "pub_date": "2026-10-21 06:40",
+      "summary": "百万台搭载打底，智驾普及与安全并重"
+    },
+    {
+      "title": "企业有需求，FDE 团队有能力，为什么 AI 项目仍难落地？",
+      "link": "https://www.infoq.cn/article/Ei2spcFKComKqkPv6osN?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-22 16:24",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Ei2spcFKComKqkPv6osN?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
@@ -72,39 +79,39 @@
   ],
   "other": [
     {
-      "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
-      "link": "https://www.qbitai.com/2026/10/504608.html",
+      "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+      "link": "https://www.qbitai.com/2026/10/504841.html",
       "source": "qbitai",
-      "pub_date": "2026-10-21 02:37",
-      "summary": "先看真实问题解决力"
+      "pub_date": "2026-10-22 07:14",
+      "summary": "FSD一年增长70万付费用户"
     },
     {
-      "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
-      "link": "https://www.qbitai.com/2026/10/504551.html",
+      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+      "link": "https://www.qbitai.com/2026/10/504734.html",
       "source": "qbitai",
-      "pub_date": "2026-10-21 01:04",
-      "summary": "电池、电驱、超充一把梭，冬天多跑30公里"
+      "pub_date": "2026-10-21 11:30",
+      "summary": "医疗AI质变时刻"
     },
     {
-      "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
-      "link": "https://www.qbitai.com/2026/10/504517.html",
+      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+      "link": "https://www.qbitai.com/2026/10/504730.html",
       "source": "qbitai",
-      "pub_date": "2026-10-20 13:29",
-      "summary": "兔皮底下，竟然是MiniMax！"
+      "pub_date": "2026-10-21 09:45",
+      "summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播"
     },
     {
-      "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
-      "link": "https://www.qbitai.com/2026/10/504456.html",
+      "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
+      "link": "https://www.qbitai.com/2026/10/504653.html",
       "source": "qbitai",
-      "pub_date": "2026-10-20 12:50",
-      "summary": "把记忆原生焊进Transformer"
+      "pub_date": "2026-10-21 07:15",
+      "summary": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。"
     },
     {
-      "title": "技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展",
-      "link": "https://www.qbitai.com/2026/10/504435.html",
+      "title": "实探宁德时代总部：“去宁化”是喊太大声了",
+      "link": "https://www.qbitai.com/2026/10/504618.html",
       "source": "qbitai",
-      "pub_date": "2026-10-20 09:13",
-      "summary": "当地时间10月12日，2026巴黎国际车展正式启幕。"
+      "pub_date": "2026-10-21 04:35",
+      "summary": "电池开发，分工远比想象复杂"
     }
   ]
 }
