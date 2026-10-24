@@ -8,35 +8,42 @@
       "summary": "挤进全球Physical AI核心供应链"
     },
     {
+      "title": "奥特曼最新 45 分钟访谈：一年不写代码、压力大到不想起床，还嫌 ChatGPT 太谄媚",
+      "link": "https://www.infoq.cn/article/sI3z2UMCrB5PPVDWTsLo?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-23 17:35",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/sI3z2UMCrB5PPVDWTsLo?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "讯飞发布新一代端到端交互模型：语音大模型调用量暴涨20倍，端侧已实现约70%云端能力",
+      "link": "https://www.infoq.cn/article/Md0kdMxGI6flIbZXH1yg?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-23 11:39",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Md0kdMxGI6flIbZXH1yg?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-10-23 23:05",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
+    },
+    {
       "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
       "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
       "source": "techcrunch_ai",
       "pub_date": "2026-10-22 22:08",
       "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
-    },
-    {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-10-22 19:00",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
-    },
-    {
-      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
-      "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-10-22 18:38",
-      "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks."
-    },
-    {
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-10-22 16:00",
-      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide."
     }
   ],
   "product": [
+    {
+      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "link": "https://www.qbitai.com/2026/10/504879.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-22 09:07",
+      "summary": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。"
+    },
     {
       "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
       "link": "https://www.qbitai.com/2026/10/504832.html",
@@ -54,30 +61,16 @@
       "source": "qbitai",
       "pub_date": "2026-10-21 06:40",
       "summary": "百万台搭载打底，智驾普及与安全并重"
-    },
-    {
-      "title": "企业有需求，FDE 团队有能力，为什么 AI 项目仍难落地？",
-      "link": "https://www.infoq.cn/article/Ei2spcFKComKqkPv6osN?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-22 16:24",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Ei2spcFKComKqkPv6osN?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
-      "link": "https://www.infoq.cn/article/Ms3bMt5OcUyYMHwfaXgM?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-21 18:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Ms3bMt5OcUyYMHwfaXgM?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "推动 AI 规模化落地的三大经验：来自公共部门领导者的实践洞察 ｜ 技术趋势",
-      "link": "https://www.infoq.cn/article/GVcxHscrQqv9HXGRowJh?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-21 15:19",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/GVcxHscrQqv9HXGRowJh?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
+    {
+      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+      "link": "https://www.qbitai.com/2026/10/504901.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-23 07:35",
+      "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。"
+    },
     {
       "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
       "link": "https://www.qbitai.com/2026/10/504841.html",
@@ -105,13 +98,6 @@
       "source": "qbitai",
       "pub_date": "2026-10-21 07:15",
       "summary": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。"
-    },
-    {
-      "title": "实探宁德时代总部：“去宁化”是喊太大声了",
-      "link": "https://www.qbitai.com/2026/10/504618.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-21 04:35",
-      "summary": "电池开发，分工远比想象复杂"
     }
   ]
 }
