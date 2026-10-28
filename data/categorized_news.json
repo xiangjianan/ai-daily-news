@@ -1,55 +1,62 @@
 {
   "headline": [
     {
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "link": "https://openai.com/index/greptile-code-review-codex-astra",
-      "source": "openai_blog",
-      "pub_date": "2026-10-26 22:00",
-      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
+      "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+      "link": "https://www.qbitai.com/2026/10/505551.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-26 16:06",
+      "summary": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权"
     },
     {
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "source": "openai_blog",
-      "pub_date": "2026-10-26 13:45",
-      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
+      "title": "OpenAI开始断网训练最强模型：“安全起见”",
+      "link": "https://www.qbitai.com/2026/10/505529.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-26 09:37",
+      "summary": "模型开始利用GPU缓存聊天？"
     },
     {
-      "title": "ChatGPT’s expanding world of work",
-      "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "source": "openai_blog",
-      "pub_date": "2026-10-26 10:00",
-      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-10-27 23:34",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February."
     },
     {
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "link": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "link": "https://openai.com/index/retell-ai",
       "source": "openai_blog",
-      "pub_date": "2026-10-26 07:00",
-      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
+      "pub_date": "2026-10-27 15:00",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
     },
     {
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "link": "https://openai.com/index/openai-cut-incident-investigation",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "link": "https://openai.com/index/oracle-apps-in-chatgpt",
       "source": "openai_blog",
-      "pub_date": "2026-10-26 07:00",
-      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
+      "pub_date": "2026-10-27 07:00",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
     }
   ],
   "product": [
     {
-      "title": "高德发布首个基于开放世界行为的全身基座模型λ0，推动机器人从“局部学习”迈向“全身动作对齐”",
-      "link": "https://www.qbitai.com/2026/10/504905.html",
+      "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+      "link": "https://www.qbitai.com/2026/10/505580.html",
       "source": "qbitai",
-      "pub_date": "2026-10-23 08:40",
-      "summary": "阿里巴巴集团旗下高德正式发布首个基于开放世界行为的全身基座模型λ0"
+      "pub_date": "2026-10-27 03:23",
+      "summary": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。"
     },
     {
-      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
-      "link": "https://www.qbitai.com/2026/10/504879.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-22 09:07",
-      "summary": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。"
+      "title": "Azure Container Apps Express在新的通用沙箱层上正式发布",
+      "link": "https://www.infoq.cn/article/ChONW7EYk5Vuj0VF7AkZ?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-27 17:17",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ChONW7EYk5Vuj0VF7AkZ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "TypeSafe AI发布Jev：一种只返回类型化概率而非文本的决策模型",
+      "link": "https://www.infoq.cn/article/3o7gwgKJt2SbH8AhdpkU?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-27 15:22",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/3o7gwgKJt2SbH8AhdpkU?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "让 AI 从需求一路干到上线，软件开发组织要变了？",
@@ -66,52 +73,60 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [],
+  "funding": [
+    {
+      "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
+      "link": "https://www.qbitai.com/2026/10/505429.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-26 06:50",
+      "summary": "高品质 AI Token 成为行业新风向"
+    }
+  ],
   "research": [],
   "industry": [
     {
-      "title": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相",
-      "link": "https://www.qbitai.com/2026/10/504915.html",
+      "title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
+      "link": "https://www.qbitai.com/2026/10/505436.html",
       "source": "qbitai",
-      "pub_date": "2026-10-23 08:45",
-      "summary": "让AI真正走进真实世界"
+      "pub_date": "2026-10-26 08:04",
+      "summary": "10月21日，2026世界智能网联汽车大会在北京召开"
     }
   ],
   "other": [
     {
-      "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
-      "link": "https://www.qbitai.com/2026/10/505083.html",
+      "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
+      "link": "https://www.qbitai.com/2026/10/505539.html",
       "source": "qbitai",
-      "pub_date": "2026-10-23 09:21",
-      "summary": "10月22日，2026科大讯飞全球1024开发者节在北京国家会议中心开幕"
+      "pub_date": "2026-10-26 09:46",
+      "summary": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。"
     },
     {
-      "title": "企业AI需要两个世界模型",
-      "link": "https://www.qbitai.com/2026/10/505032.html",
+      "title": "A社联创演讲：AI奇点已来",
+      "link": "https://www.qbitai.com/2026/10/505521.html",
       "source": "qbitai",
-      "pub_date": "2026-10-23 09:07",
-      "summary": "特赞想让企业Agent真正懂业务"
+      "pub_date": "2026-10-26 09:35",
+      "summary": "所谓奇点，或许是AI跃过人类的那个点。"
     },
     {
-      "title": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！",
-      "link": "https://www.qbitai.com/2026/10/504931.html",
+      "title": "NeoLab第一个商业模式：转售GPU",
+      "link": "https://www.qbitai.com/2026/10/505478.html",
       "source": "qbitai",
-      "pub_date": "2026-10-23 09:03",
-      "summary": "房间秒变草原，抬手就能下雪"
+      "pub_date": "2026-10-26 09:31",
+      "summary": "从冲刺AGI到转售GPU。"
     },
     {
-      "title": "国产5B生图模型海外突然爆火，4天超百万下载",
-      "link": "https://www.qbitai.com/2026/10/504930.html",
+      "title": "中国近50%的新云生意，竟被这家公司包揽！",
+      "link": "https://www.qbitai.com/2026/10/505454.html",
       "source": "qbitai",
-      "pub_date": "2026-10-23 08:50",
-      "summary": ""
+      "pub_date": "2026-10-26 09:02",
+      "summary": "有点意外，但也不意外"
     },
     {
-      "title": "iRTE2026：声网CEO赵斌提出五级对话能力框架，实时互动迈入对话 AGI 时代",
-      "link": "https://www.qbitai.com/2026/10/504913.html",
+      "title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
+      "link": "https://www.qbitai.com/2026/10/505443.html",
       "source": "qbitai",
-      "pub_date": "2026-10-23 08:45",
-      "summary": "10月23日，iRTE2026实时智能大会在北京举行。"
+      "pub_date": "2026-10-26 08:38",
+      "summary": "人工智能正在从人机“言传身教”走向自学“触类旁通”。"
     }
   ]
 }
