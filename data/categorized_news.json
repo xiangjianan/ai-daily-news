@@ -1,132 +1,95 @@
 {
   "headline": [
     {
-      "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
-      "link": "https://www.qbitai.com/2026/10/505551.html",
+      "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
+      "link": "https://www.qbitai.com/2026/10/505719.html",
       "source": "qbitai",
-      "pub_date": "2026-10-26 16:06",
-      "summary": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权"
+      "pub_date": "2026-10-27 08:27",
+      "summary": "同一天，OpenAI还甩出3项AI科学新发现"
     },
     {
-      "title": "OpenAI开始断网训练最强模型：“安全起见”",
-      "link": "https://www.qbitai.com/2026/10/505529.html",
+      "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
+      "link": "https://www.qbitai.com/2026/10/505694.html",
       "source": "qbitai",
-      "pub_date": "2026-10-26 09:37",
-      "summary": "模型开始利用GPU缓存聊天？"
+      "pub_date": "2026-10-27 08:18",
+      "summary": "还是专业的模型做专业的事情"
     },
     {
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "title": "大客户直接打1折、模型四个月降价80%：大模型价格战没有退路",
+      "link": "https://www.infoq.cn/article/ejtljxPixrIuUsGYi5xa?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-28 18:14",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ejtljxPixrIuUsGYi5xa?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Anthropic 内部系统被 AI Agent 12 小时攻破！会议记录、员工薪酬、内部模型讨论遭访问",
+      "link": "https://www.infoq.cn/article/mFXr0u4z0XftUGUg5Wm7?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-28 17:54",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/mFXr0u4z0XftUGUg5Wm7?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-10-27 23:34",
-      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February."
-    },
-    {
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "link": "https://openai.com/index/retell-ai",
-      "source": "openai_blog",
-      "pub_date": "2026-10-27 15:00",
-      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
-    },
-    {
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "link": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "source": "openai_blog",
-      "pub_date": "2026-10-27 07:00",
-      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
+      "pub_date": "2026-10-28 21:34",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financ"
     }
   ],
-  "product": [
-    {
-      "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
-      "link": "https://www.qbitai.com/2026/10/505580.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-27 03:23",
-      "summary": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。"
-    },
-    {
-      "title": "Azure Container Apps Express在新的通用沙箱层上正式发布",
-      "link": "https://www.infoq.cn/article/ChONW7EYk5Vuj0VF7AkZ?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-27 17:17",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ChONW7EYk5Vuj0VF7AkZ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "TypeSafe AI发布Jev：一种只返回类型化概率而非文本的决策模型",
-      "link": "https://www.infoq.cn/article/3o7gwgKJt2SbH8AhdpkU?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-27 15:22",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/3o7gwgKJt2SbH8AhdpkU?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "让 AI 从需求一路干到上线，软件开发组织要变了？",
-      "link": "https://www.infoq.cn/article/b32Mw2zaPrxyJ6ChePD5?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-26 18:08",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/b32Mw2zaPrxyJ6ChePD5?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "四分之一PR是“AI垃圾”！Linux基金会发布新报告：AI写代码快了52%，开源维护者却更累了",
-      "link": "https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-25 10:30",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
-  "funding": [
-    {
-      "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
-      "link": "https://www.qbitai.com/2026/10/505429.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-26 06:50",
-      "summary": "高品质 AI Token 成为行业新风向"
-    }
-  ],
+  "product": [],
+  "funding": [],
   "research": [],
   "industry": [
     {
-      "title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
-      "link": "https://www.qbitai.com/2026/10/505436.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-26 08:04",
-      "summary": "10月21日，2026世界智能网联汽车大会在北京召开"
+      "title": "活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
+      "link": "https://www.infoq.cn/article/g7TTtqzU1qyQXooXFQGN?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-29 09:55",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/g7TTtqzU1qyQXooXFQGN?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "模型越来越强，落地却处处卡关？14位行业大佬拆解难题｜1024 模力工场 · AI社区日圆满收官",
+      "link": "https://www.infoq.cn/article/cJsKydV5kDNIwZr38UtT?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-28 16:57",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/cJsKydV5kDNIwZr38UtT?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
     {
-      "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
-      "link": "https://www.qbitai.com/2026/10/505539.html",
+      "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+      "link": "https://www.qbitai.com/2026/10/505928.html",
       "source": "qbitai",
-      "pub_date": "2026-10-26 09:46",
-      "summary": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。"
+      "pub_date": "2026-10-28 04:04",
+      "summary": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。"
     },
     {
-      "title": "A社联创演讲：AI奇点已来",
-      "link": "https://www.qbitai.com/2026/10/505521.html",
+      "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
+      "link": "https://www.qbitai.com/2026/10/505865.html",
       "source": "qbitai",
-      "pub_date": "2026-10-26 09:35",
-      "summary": "所谓奇点，或许是AI跃过人类的那个点。"
+      "pub_date": "2026-10-27 12:57",
+      "summary": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。"
     },
     {
-      "title": "NeoLab第一个商业模式：转售GPU",
-      "link": "https://www.qbitai.com/2026/10/505478.html",
+      "title": "印奇把4D雷达也端到端了",
+      "link": "https://www.qbitai.com/2026/10/505852.html",
       "source": "qbitai",
-      "pub_date": "2026-10-26 09:31",
-      "summary": "从冲刺AGI到转售GPU。"
+      "pub_date": "2026-10-27 10:40",
+      "summary": "毫米波雷达，AI算力10TOPS"
     },
     {
-      "title": "中国近50%的新云生意，竟被这家公司包揽！",
-      "link": "https://www.qbitai.com/2026/10/505454.html",
+      "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
+      "link": "https://www.qbitai.com/2026/10/505830.html",
       "source": "qbitai",
-      "pub_date": "2026-10-26 09:02",
-      "summary": "有点意外，但也不意外"
+      "pub_date": "2026-10-27 09:54",
+      "summary": "顶尖智能汽车玩家的终局，不会停在智能汽车"
     },
     {
-      "title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
-      "link": "https://www.qbitai.com/2026/10/505443.html",
+      "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
+      "link": "https://www.qbitai.com/2026/10/505799.html",
       "source": "qbitai",
-      "pub_date": "2026-10-26 08:38",
-      "summary": "人工智能正在从人机“言传身教”走向自学“触类旁通”。"
+      "pub_date": "2026-10-27 08:46",
+      "summary": "无人在环进店实测啃下长尾场景"
     }
   ]
 }
