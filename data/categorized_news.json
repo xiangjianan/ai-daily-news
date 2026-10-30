@@ -1,95 +1,118 @@
 {
   "headline": [
     {
-      "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
-      "link": "https://www.qbitai.com/2026/10/505719.html",
+      "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+      "link": "https://www.qbitai.com/2026/10/506227.html",
       "source": "qbitai",
-      "pub_date": "2026-10-27 08:27",
-      "summary": "同一天，OpenAI还甩出3项AI科学新发现"
+      "pub_date": "2026-10-29 00:03",
+      "summary": "能连肝数日修Bug，免疫提示词注入"
     },
     {
-      "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
-      "link": "https://www.qbitai.com/2026/10/505694.html",
+      "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
+      "link": "https://www.qbitai.com/2026/10/506042.html",
       "source": "qbitai",
-      "pub_date": "2026-10-27 08:18",
-      "summary": "还是专业的模型做专业的事情"
+      "pub_date": "2026-10-28 08:55",
+      "summary": "斯坦福伯克利宗师组团，贝索斯红杉抢着送钱"
     },
     {
-      "title": "大客户直接打1折、模型四个月降价80%：大模型价格战没有退路",
-      "link": "https://www.infoq.cn/article/ejtljxPixrIuUsGYi5xa?utm_source=rss&utm_medium=article",
+      "title": "谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价",
+      "link": "https://www.infoq.cn/article/dXwHCW7kjGX1kjPqtla9?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-10-28 18:14",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ejtljxPixrIuUsGYi5xa?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-10-29 20:13",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/dXwHCW7kjGX1kjPqtla9?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Anthropic 内部系统被 AI Agent 12 小时攻破！会议记录、员工薪酬、内部模型讨论遭访问",
-      "link": "https://www.infoq.cn/article/mFXr0u4z0XftUGUg5Wm7?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-28 17:54",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/mFXr0u4z0XftUGUg5Wm7?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-10-28 21:34",
-      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financ"
+      "pub_date": "2026-10-29 19:56",
+      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business."
+    },
+    {
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "source": "openai_blog",
+      "pub_date": "2026-10-28 13:15",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
     }
   ],
-  "product": [],
-  "funding": [],
+  "product": [
+    {
+      "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+      "link": "https://www.qbitai.com/2026/10/506194.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-28 11:09",
+      "summary": "让基建作为常驻buff"
+    },
+    {
+      "title": "Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+      "link": "https://www.infoq.cn/article/UNli8x0wc8XUNjI5ETya?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-30 09:23",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/UNli8x0wc8XUNjI5ETya?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
+  "funding": [
+    {
+      "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
+      "link": "https://www.qbitai.com/2026/10/506281.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-29 03:27",
+      "summary": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展"
+    }
+  ],
   "research": [],
   "industry": [
+    {
+      "title": "生产级 AI：隐性故障、工程落地与智能体治理",
+      "link": "https://www.infoq.cn/article/tsyyFmCmzphHw4gWy7Fo?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-10-29 15:21",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/tsyyFmCmzphHw4gWy7Fo?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
     {
       "title": "活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
       "link": "https://www.infoq.cn/article/g7TTtqzU1qyQXooXFQGN?utm_source=rss&utm_medium=article",
       "source": "infoq",
       "pub_date": "2026-10-29 09:55",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/g7TTtqzU1qyQXooXFQGN?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "模型越来越强，落地却处处卡关？14位行业大佬拆解难题｜1024 模力工场 · AI社区日圆满收官",
-      "link": "https://www.infoq.cn/article/cJsKydV5kDNIwZr38UtT?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-28 16:57",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/cJsKydV5kDNIwZr38UtT?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
     {
-      "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
-      "link": "https://www.qbitai.com/2026/10/505928.html",
+      "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+      "link": "https://www.qbitai.com/2026/10/506273.html",
       "source": "qbitai",
-      "pub_date": "2026-10-28 04:04",
-      "summary": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。"
+      "pub_date": "2026-10-29 02:51",
+      "summary": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。"
     },
     {
-      "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
-      "link": "https://www.qbitai.com/2026/10/505865.html",
+      "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+      "link": "https://www.qbitai.com/2026/10/505934.html",
       "source": "qbitai",
-      "pub_date": "2026-10-27 12:57",
-      "summary": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。"
+      "pub_date": "2026-10-29 02:18",
+      "summary": "用扩散模型怎么做做Agent？"
     },
     {
-      "title": "印奇把4D雷达也端到端了",
-      "link": "https://www.qbitai.com/2026/10/505852.html",
+      "title": "24万开卖！理想重造i6，李想：目标全球畅销",
+      "link": "https://www.qbitai.com/2026/10/506246.html",
       "source": "qbitai",
-      "pub_date": "2026-10-27 10:40",
-      "summary": "毫米波雷达，AI算力10TOPS"
+      "pub_date": "2026-10-29 00:59",
+      "summary": "理想今年最后一场发布会，自研电池芯片全部上车"
     },
     {
-      "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
-      "link": "https://www.qbitai.com/2026/10/505830.html",
+      "title": "工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+      "link": "https://www.qbitai.com/2026/10/506098.html",
       "source": "qbitai",
-      "pub_date": "2026-10-27 09:54",
-      "summary": "顶尖智能汽车玩家的终局，不会停在智能汽车"
+      "pub_date": "2026-10-28 10:32",
+      "summary": "让基建作为常驻buff"
     },
     {
-      "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
-      "link": "https://www.qbitai.com/2026/10/505799.html",
+      "title": "威卡：用数据集链接具身智能和工程机械",
+      "link": "https://www.qbitai.com/2026/10/506063.html",
       "source": "qbitai",
-      "pub_date": "2026-10-27 08:46",
-      "summary": "无人在环进店实测啃下长尾场景"
+      "pub_date": "2026-10-28 09:01",
+      "summary": "威卡：为工程机械的智能化与少人化，提供一条被验证的路径"
     }
   ]
 }
