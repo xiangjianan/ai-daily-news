@@ -1,18 +1,11 @@
 {
   "headline": [
     {
-      "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
-      "link": "https://www.qbitai.com/2026/10/506227.html",
+      "title": "Claude新模型曝光：新Fable，新Opus…",
+      "link": "https://www.qbitai.com/2026/10/506674.html",
       "source": "qbitai",
-      "pub_date": "2026-10-29 00:03",
-      "summary": "能连肝数日修Bug，免疫提示词注入"
-    },
-    {
-      "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
-      "link": "https://www.qbitai.com/2026/10/506042.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-28 08:55",
-      "summary": "斯坦福伯克利宗师组团，贝索斯红杉抢着送钱"
+      "pub_date": "2026-10-30 05:50",
+      "summary": ""
     },
     {
       "title": "谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价",
@@ -22,11 +15,11 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/dXwHCW7kjGX1kjPqtla9?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-10-29 19:56",
-      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business."
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "link": "https://openai.com/index/credit-saison",
+      "source": "openai_blog",
+      "pub_date": "2026-10-29 00:00",
+      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption."
     },
     {
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
@@ -34,15 +27,29 @@
       "source": "openai_blog",
       "pub_date": "2026-10-28 13:15",
       "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
+    },
+    {
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "link": "https://openai.com/index/retell-ai",
+      "source": "openai_blog",
+      "pub_date": "2026-10-27 15:00",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
     }
   ],
   "product": [
     {
-      "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
-      "link": "https://www.qbitai.com/2026/10/506194.html",
+      "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
+      "link": "https://www.qbitai.com/2026/10/506554.html",
       "source": "qbitai",
-      "pub_date": "2026-10-28 11:09",
-      "summary": "让基建作为常驻buff"
+      "pub_date": "2026-10-29 09:58",
+      "summary": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级"
+    },
+    {
+      "title": "奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧",
+      "link": "https://www.qbitai.com/2026/10/506478.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-29 06:53",
+      "summary": "All in one、任何人都能用"
     },
     {
       "title": "Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
@@ -52,67 +59,59 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/UNli8x0wc8XUNjI5ETya?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [
-    {
-      "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
-      "link": "https://www.qbitai.com/2026/10/506281.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-29 03:27",
-      "summary": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展"
-    }
-  ],
+  "funding": [],
   "research": [],
   "industry": [
     {
-      "title": "生产级 AI：隐性故障、工程落地与智能体治理",
-      "link": "https://www.infoq.cn/article/tsyyFmCmzphHw4gWy7Fo?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-29 15:21",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/tsyyFmCmzphHw4gWy7Fo?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
+      "link": "https://www.qbitai.com/2026/10/506662.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-30 03:48",
+      "summary": "让机器人成为彼此的“老师”"
     },
     {
-      "title": "活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
-      "link": "https://www.infoq.cn/article/g7TTtqzU1qyQXooXFQGN?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-29 09:55",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/g7TTtqzU1qyQXooXFQGN?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "AI安全是AI规模化应用“加速器”",
+      "link": "https://www.qbitai.com/2026/10/506544.html",
+      "source": "qbitai",
+      "pub_date": "2026-10-29 08:50",
+      "summary": "AI安全不是AI发展的“刹车片”，而是AI高质量发展的“加速器”。"
     }
   ],
   "other": [
     {
-      "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
-      "link": "https://www.qbitai.com/2026/10/506273.html",
+      "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+      "link": "https://www.qbitai.com/2026/10/506743.html",
       "source": "qbitai",
-      "pub_date": "2026-10-29 02:51",
-      "summary": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。"
+      "pub_date": "2026-10-30 07:31",
+      "summary": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重"
     },
     {
-      "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
-      "link": "https://www.qbitai.com/2026/10/505934.html",
+      "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
+      "link": "https://www.qbitai.com/2026/10/506686.html",
       "source": "qbitai",
-      "pub_date": "2026-10-29 02:18",
-      "summary": "用扩散模型怎么做做Agent？"
+      "pub_date": "2026-10-30 05:52",
+      "summary": "解析一切"
     },
     {
-      "title": "24万开卖！理想重造i6，李想：目标全球畅销",
-      "link": "https://www.qbitai.com/2026/10/506246.html",
+      "title": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
+      "link": "https://www.qbitai.com/2026/10/506609.html",
       "source": "qbitai",
-      "pub_date": "2026-10-29 00:59",
-      "summary": "理想今年最后一场发布会，自研电池芯片全部上车"
+      "pub_date": "2026-10-30 03:40",
+      "summary": ""
     },
     {
-      "title": "工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
-      "link": "https://www.qbitai.com/2026/10/506098.html",
+      "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
+      "link": "https://www.qbitai.com/2026/10/506569.html",
       "source": "qbitai",
-      "pub_date": "2026-10-28 10:32",
-      "summary": "让基建作为常驻buff"
+      "pub_date": "2026-10-30 00:19",
+      "summary": "Momenta世界模型上车"
     },
     {
-      "title": "威卡：用数据集链接具身智能和工程机械",
-      "link": "https://www.qbitai.com/2026/10/506063.html",
+      "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
+      "link": "https://www.qbitai.com/2026/10/506550.html",
       "source": "qbitai",
-      "pub_date": "2026-10-28 09:01",
-      "summary": "威卡：为工程机械的智能化与少人化，提供一条被验证的路径"
+      "pub_date": "2026-10-29 09:52",
+      "summary": "在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位"
     }
   ]
 }
