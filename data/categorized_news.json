@@ -1,6 +1,13 @@
 {
   "headline": [
     {
+      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+      "link": "https://www.qbitai.com/2026/11/507038.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-01 13:09",
+      "summary": ""
+    },
+    {
       "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
       "link": "https://www.qbitai.com/2026/10/506855.html",
       "source": "qbitai",
@@ -8,96 +15,66 @@
       "summary": "200美元Ultra用户先用"
     },
     {
+      "title": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
+      "link": "https://www.infoq.cn/article/WpTNht7guarWEyejJFV6?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-02 09:16",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/WpTNht7guarWEyejJFV6?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-11-01 21:55",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?"
+    },
+    {
       "title": "OpenAI reportedly lowers funding target for new round",
       "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
       "source": "techcrunch_ai",
       "pub_date": "2026-10-31 16:12",
       "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations."
-    },
-    {
-      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "link": "https://openai.com/index/credit-saison",
-      "source": "openai_blog",
-      "pub_date": "2026-10-29 00:00",
-      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption."
-    },
-    {
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "source": "openai_blog",
-      "pub_date": "2026-10-28 13:15",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
-    },
-    {
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "link": "https://openai.com/index/retell-ai",
-      "source": "openai_blog",
-      "pub_date": "2026-10-27 15:00",
-      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
     }
   ],
-  "product": [
-    {
-      "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
-      "link": "https://www.qbitai.com/2026/10/506771.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-30 08:50",
-      "summary": ""
-    },
-    {
-      "title": "Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
-      "link": "https://www.infoq.cn/article/UNli8x0wc8XUNjI5ETya?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-10-30 09:23",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/UNli8x0wc8XUNjI5ETya?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
-  "funding": [
-    {
-      "title": "好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单",
-      "link": "https://www.qbitai.com/2026/10/506747.html",
-      "source": "qbitai",
-      "pub_date": "2026-10-30 08:12",
-      "summary": "创立 4 年，估值站上 10 亿美元——资本市场定价的不是一部电影，而是一套内容生产基础设施。"
-    }
-  ],
+  "product": [],
+  "funding": [],
   "research": [],
   "industry": [],
   "other": [
     {
-      "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
-      "link": "https://www.qbitai.com/2026/10/506884.html",
+      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+      "link": "https://www.qbitai.com/2026/11/507076.html",
       "source": "qbitai",
-      "pub_date": "2026-10-31 05:17",
-      "summary": "苹果“牛奶倒河里”式操作翻红"
+      "pub_date": "2026-11-01 13:28",
+      "summary": "西湖世界模型研究中心成立"
     },
     {
-      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
-      "link": "https://www.qbitai.com/2026/10/506866.html",
+      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+      "link": "https://www.qbitai.com/2026/11/507031.html",
       "source": "qbitai",
-      "pub_date": "2026-10-31 05:11",
-      "summary": "AI算力利用“九九成”"
+      "pub_date": "2026-11-01 08:02",
+      "summary": "让AI像牛顿一样思考"
     },
     {
-      "title": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
-      "link": "https://www.qbitai.com/2026/10/506819.html",
+      "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+      "link": "https://www.qbitai.com/2026/11/506990.html",
       "source": "qbitai",
-      "pub_date": "2026-10-30 12:58",
-      "summary": "xs，还要给机器人打绩效"
+      "pub_date": "2026-11-01 07:50",
+      "summary": "这事还是想得太简单了"
     },
     {
-      "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
-      "link": "https://www.qbitai.com/2026/10/506785.html",
+      "title": "Jev新成果，再次引爆开源",
+      "link": "https://www.qbitai.com/2026/11/506922.html",
       "source": "qbitai",
-      "pub_date": "2026-10-30 11:05",
-      "summary": "之前还连登昇腾三榜第一"
+      "pub_date": "2026-11-01 04:18",
+      "summary": "再次“性价比屠夫”"
     },
     {
-      "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
-      "link": "https://www.qbitai.com/2026/10/506779.html",
+      "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+      "link": "https://www.qbitai.com/2026/10/506904.html",
       "source": "qbitai",
-      "pub_date": "2026-10-30 10:44",
-      "summary": "10月30日，联想天禧AI 4.5迎来AIPC端正式发布。"
+      "pub_date": "2026-10-31 13:49",
+      "summary": "AI已经自己找到Bug并提交PR"
     }
   ]
 }
