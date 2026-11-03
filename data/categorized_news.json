@@ -1,80 +1,103 @@
 {
   "headline": [
     {
-      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
-      "link": "https://www.qbitai.com/2026/11/507038.html",
+      "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
+      "link": "https://www.qbitai.com/2026/11/507322.html",
       "source": "qbitai",
-      "pub_date": "2026-11-01 13:09",
-      "summary": ""
+      "pub_date": "2026-11-03 01:57",
+      "summary": "指令执行能力也同步提升"
     },
     {
-      "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
-      "link": "https://www.qbitai.com/2026/10/506855.html",
+      "title": "爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程",
+      "link": "https://www.qbitai.com/2026/11/507313.html",
       "source": "qbitai",
-      "pub_date": "2026-10-31 05:05",
-      "summary": "200美元Ultra用户先用"
+      "pub_date": "2026-11-03 01:46",
+      "summary": "近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作"
     },
     {
-      "title": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
-      "link": "https://www.infoq.cn/article/WpTNht7guarWEyejJFV6?utm_source=rss&utm_medium=article",
+      "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
+      "link": "https://www.qbitai.com/2026/11/507225.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-02 07:27",
+      "summary": "新版“机器人三定律”。"
+    },
+    {
+      "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
+      "link": "https://www.qbitai.com/2026/11/507082.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-02 04:28",
+      "summary": "HuggingFace疑似泄露权重已被下5000次"
+    },
+    {
+      "title": "谷歌宁愿少卖云算力，也要先把算力留给 Gemini：皮查伊罕见长访谈，披露 AI 自我改进与算力争夺内幕",
+      "link": "https://www.infoq.cn/article/JmVl0yY2RYIBNpuD0xuu?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-11-02 09:16",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/WpTNht7guarWEyejJFV6?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-11-01 21:55",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?"
-    },
-    {
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-10-31 16:12",
-      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations."
+      "pub_date": "2026-11-03 10:45",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/JmVl0yY2RYIBNpuD0xuu?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "product": [],
   "funding": [],
-  "research": [],
-  "industry": [],
+  "research": [
+    {
+      "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+      "link": "https://www.infoq.cn/article/DliBOqGrOaxaXvqlBjGR?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-03 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/DliBOqGrOaxaXvqlBjGR?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "AI+科研：Agent加速科研，论文写得快了，成果更难评了 ｜ 西湖大学工学院博导 王欢分享",
+      "link": "https://www.infoq.cn/article/MbwRCg4cKC2f3bwv0Cpb?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-02 18:33",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/MbwRCg4cKC2f3bwv0Cpb?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
+  "industry": [
+    {
+      "title": "InfoQ AI 侦察团现场手记：工具之外，企业 AI 落地还要跨过哪些关？",
+      "link": "https://www.infoq.cn/article/ORJZPCwM2XXNcdRYf8de?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-02 17:39",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ORJZPCwM2XXNcdRYf8de?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "other": [
     {
-      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
-      "link": "https://www.qbitai.com/2026/11/507076.html",
+      "title": "B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相",
+      "link": "https://www.qbitai.com/2026/11/507339.html",
       "source": "qbitai",
-      "pub_date": "2026-11-01 13:28",
-      "summary": "西湖世界模型研究中心成立"
+      "pub_date": "2026-11-03 02:02",
+      "summary": "10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。"
     },
     {
-      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
-      "link": "https://www.qbitai.com/2026/11/507031.html",
+      "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
+      "link": "https://www.qbitai.com/2026/11/507277.html",
       "source": "qbitai",
-      "pub_date": "2026-11-01 08:02",
-      "summary": "让AI像牛顿一样思考"
+      "pub_date": "2026-11-02 13:36",
+      "summary": "商汤SenseNova 6.8 Flash"
     },
     {
-      "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
-      "link": "https://www.qbitai.com/2026/11/506990.html",
+      "title": "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信",
+      "link": "https://www.qbitai.com/2026/11/507260.html",
       "source": "qbitai",
-      "pub_date": "2026-11-01 07:50",
-      "summary": "这事还是想得太简单了"
+      "pub_date": "2026-11-02 07:47",
+      "summary": "上海仪电与上海创智学院联合发布“飞轮转・万象生”仪电智算数链生态。"
     },
     {
-      "title": "Jev新成果，再次引爆开源",
-      "link": "https://www.qbitai.com/2026/11/506922.html",
+      "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
+      "link": "https://www.qbitai.com/2026/11/507150.html",
       "source": "qbitai",
-      "pub_date": "2026-11-01 04:18",
-      "summary": "再次“性价比屠夫”"
+      "pub_date": "2026-11-02 06:28",
+      "summary": "模型管线双驱动"
     },
     {
-      "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
-      "link": "https://www.qbitai.com/2026/10/506904.html",
+      "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
+      "link": "https://www.qbitai.com/2026/11/507107.html",
       "source": "qbitai",
-      "pub_date": "2026-10-31 13:49",
-      "summary": "AI已经自己找到Bug并提交PR"
+      "pub_date": "2026-11-02 06:08",
+      "summary": "能指挥Agent干活，还能控制智能家居"
     }
   ]
 }
