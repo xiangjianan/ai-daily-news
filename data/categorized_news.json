@@ -1,103 +1,95 @@
 {
   "headline": [
     {
-      "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
-      "link": "https://www.qbitai.com/2026/11/507322.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-03 01:57",
-      "summary": "指令执行能力也同步提升"
-    },
-    {
-      "title": "爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程",
-      "link": "https://www.qbitai.com/2026/11/507313.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-03 01:46",
-      "summary": "近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作"
-    },
-    {
-      "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
-      "link": "https://www.qbitai.com/2026/11/507225.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-02 07:27",
-      "summary": "新版“机器人三定律”。"
-    },
-    {
-      "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
-      "link": "https://www.qbitai.com/2026/11/507082.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-02 04:28",
-      "summary": "HuggingFace疑似泄露权重已被下5000次"
-    },
-    {
       "title": "谷歌宁愿少卖云算力，也要先把算力留给 Gemini：皮查伊罕见长访谈，披露 AI 自我改进与算力争夺内幕",
       "link": "https://www.infoq.cn/article/JmVl0yY2RYIBNpuD0xuu?utm_source=rss&utm_medium=article",
       "source": "infoq",
       "pub_date": "2026-11-03 10:45",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/JmVl0yY2RYIBNpuD0xuu?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-11-03 22:41",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
+    },
+    {
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "link": "https://openai.com/index/cisco-cyber",
+      "source": "openai_blog",
+      "pub_date": "2026-11-03 08:00",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
+    },
+    {
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "source": "openai_blog",
+      "pub_date": "2026-11-03 00:00",
+      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "link": "https://openai.com/index/scaling-git-at-openai",
+      "source": "openai_blog",
+      "pub_date": "2026-11-02 15:30",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
     }
   ],
   "product": [],
   "funding": [],
   "research": [
     {
+      "title": "AI教AI开车！百度首次披露Apollo World世界模型，让无人驾驶突破“不可能三角”",
+      "link": "https://www.infoq.cn/article/tIt75FRqU2hwy4eWrOIu?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-03 21:26",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/tIt75FRqU2hwy4eWrOIu?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
       "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
       "link": "https://www.infoq.cn/article/DliBOqGrOaxaXvqlBjGR?utm_source=rss&utm_medium=article",
       "source": "infoq",
       "pub_date": "2026-11-03 10:00",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/DliBOqGrOaxaXvqlBjGR?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "AI+科研：Agent加速科研，论文写得快了，成果更难评了 ｜ 西湖大学工学院博导 王欢分享",
-      "link": "https://www.infoq.cn/article/MbwRCg4cKC2f3bwv0Cpb?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-11-02 18:33",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/MbwRCg4cKC2f3bwv0Cpb?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "industry": [
-    {
-      "title": "InfoQ AI 侦察团现场手记：工具之外，企业 AI 落地还要跨过哪些关？",
-      "link": "https://www.infoq.cn/article/ORJZPCwM2XXNcdRYf8de?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-11-02 17:39",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ORJZPCwM2XXNcdRYf8de?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "industry": [],
   "other": [
     {
-      "title": "B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相",
-      "link": "https://www.qbitai.com/2026/11/507339.html",
+      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+      "link": "https://www.qbitai.com/2026/11/507507.html",
       "source": "qbitai",
-      "pub_date": "2026-11-03 02:02",
-      "summary": "10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。"
+      "pub_date": "2026-11-03 13:57",
+      "summary": "AI接管调度运营，仓库越干越聪明"
     },
     {
-      "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
-      "link": "https://www.qbitai.com/2026/11/507277.html",
+      "title": "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
+      "link": "https://www.qbitai.com/2026/11/507473.html",
       "source": "qbitai",
-      "pub_date": "2026-11-02 13:36",
-      "summary": "商汤SenseNova 6.8 Flash"
+      "pub_date": "2026-11-03 12:57",
+      "summary": "两位CTO，关起门来吵架"
     },
     {
-      "title": "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信",
-      "link": "https://www.qbitai.com/2026/11/507260.html",
+      "title": "模型谁都买得到，拉开差距的是AI生产力系统",
+      "link": "https://www.qbitai.com/2026/11/507448.html",
       "source": "qbitai",
-      "pub_date": "2026-11-02 07:47",
-      "summary": "上海仪电与上海创智学院联合发布“飞轮转・万象生”仪电智算数链生态。"
+      "pub_date": "2026-11-03 11:13",
+      "summary": "AI的下一程是生产力系统之争"
     },
     {
-      "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
-      "link": "https://www.qbitai.com/2026/11/507150.html",
+      "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
+      "link": "https://www.qbitai.com/2026/11/507419.html",
       "source": "qbitai",
-      "pub_date": "2026-11-02 06:28",
-      "summary": "模型管线双驱动"
+      "pub_date": "2026-11-03 06:55",
+      "summary": "终于，有了一个可以触摸的起点"
     },
     {
-      "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
-      "link": "https://www.qbitai.com/2026/11/507107.html",
+      "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
+      "link": "https://www.qbitai.com/2026/11/507410.html",
       "source": "qbitai",
-      "pub_date": "2026-11-02 06:08",
-      "summary": "能指挥Agent干活，还能控制智能家居"
+      "pub_date": "2026-11-03 06:29",
+      "summary": "TeleAI智慧看护助手"
     }
   ]
 }
