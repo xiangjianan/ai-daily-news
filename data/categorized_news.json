@@ -1,95 +1,118 @@
 {
   "headline": [
     {
-      "title": "谷歌宁愿少卖云算力，也要先把算力留给 Gemini：皮查伊罕见长访谈，披露 AI 自我改进与算力争夺内幕",
-      "link": "https://www.infoq.cn/article/JmVl0yY2RYIBNpuD0xuu?utm_source=rss&utm_medium=article",
+      "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+      "link": "https://www.qbitai.com/2026/11/507707.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-05 01:59",
+      "summary": "最快6秒出图"
+    },
+    {
+      "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+      "link": "https://www.qbitai.com/2026/11/507697.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-05 01:54",
+      "summary": "被轰成筛子了…"
+    },
+    {
+      "title": "Uber 总裁跳槽 OpenAI！曾掌舵谷歌、Snap 公关，Brockman 亲自发文欢迎",
+      "link": "https://www.infoq.cn/article/mcHCe07TQ08mEZtqcWi1?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-11-03 10:45",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/JmVl0yY2RYIBNpuD0xuu?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-11-04 14:02",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/mcHCe07TQ08mEZtqcWi1?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "title": "大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+      "link": "https://www.infoq.cn/article/bFKTeyCOlydWMYi91H4q?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-04 11:02",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/bFKTeyCOlydWMYi91H4q?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-11-03 22:41",
-      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
-    },
-    {
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "link": "https://openai.com/index/cisco-cyber",
-      "source": "openai_blog",
-      "pub_date": "2026-11-03 08:00",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
-    },
-    {
-      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "source": "openai_blog",
-      "pub_date": "2026-11-03 00:00",
-      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
-    },
-    {
-      "title": "Scaling Git at OpenAI",
-      "link": "https://openai.com/index/scaling-git-at-openai",
-      "source": "openai_blog",
-      "pub_date": "2026-11-02 15:30",
-      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
+      "pub_date": "2026-11-04 21:25",
+      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests."
     }
   ],
-  "product": [],
+  "product": [
+    {
+      "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+      "link": "https://www.qbitai.com/2026/11/507586.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-04 10:08",
+      "summary": "仅激活3B参数，十项基准全线提升！"
+    },
+    {
+      "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
+      "link": "https://www.qbitai.com/2026/11/507567.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-04 08:49",
+      "summary": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。"
+    }
+  ],
   "funding": [],
   "research": [
     {
-      "title": "AI教AI开车！百度首次披露Apollo World世界模型，让无人驾驶突破“不可能三角”",
-      "link": "https://www.infoq.cn/article/tIt75FRqU2hwy4eWrOIu?utm_source=rss&utm_medium=article",
+      "title": "研究发现：AI 生成代码受下游环节瓶颈制约，无法提升整体生产力",
+      "link": "https://www.infoq.cn/article/c3vTLNrRwfCzw8SAmz90?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-11-03 21:26",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/tIt75FRqU2hwy4eWrOIu?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
-      "link": "https://www.infoq.cn/article/DliBOqGrOaxaXvqlBjGR?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-11-03 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/DliBOqGrOaxaXvqlBjGR?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-11-04 16:20",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/c3vTLNrRwfCzw8SAmz90?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "industry": [],
+  "industry": [
+    {
+      "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+      "link": "https://www.qbitai.com/2026/11/507696.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-05 02:01",
+      "summary": "Data + AI 技术实践巡展 · 上海站"
+    },
+    {
+      "title": "AI Coding 增量风险管控：Skill 门禁与 Harness 落地实践｜AICon北京",
+      "link": "https://www.infoq.cn/article/XieGrL5pws7jG1zxKPle?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-05 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/XieGrL5pws7jG1zxKPle?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "other": [
     {
-      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
-      "link": "https://www.qbitai.com/2026/11/507507.html",
+      "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
+      "link": "https://www.qbitai.com/2026/11/507688.html",
       "source": "qbitai",
-      "pub_date": "2026-11-03 13:57",
-      "summary": "AI接管调度运营，仓库越干越聪明"
+      "pub_date": "2026-11-05 01:42",
+      "summary": "11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。"
     },
     {
-      "title": "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
-      "link": "https://www.qbitai.com/2026/11/507473.html",
+      "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
+      "link": "https://www.qbitai.com/2026/11/507675.html",
       "source": "qbitai",
-      "pub_date": "2026-11-03 12:57",
-      "summary": "两位CTO，关起门来吵架"
+      "pub_date": "2026-11-05 00:41",
+      "summary": "薪资+期权不限！实习生也能训核心模型"
     },
     {
-      "title": "模型谁都买得到，拉开差距的是AI生产力系统",
-      "link": "https://www.qbitai.com/2026/11/507448.html",
+      "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
+      "link": "https://www.qbitai.com/2026/11/507647.html",
       "source": "qbitai",
-      "pub_date": "2026-11-03 11:13",
-      "summary": "AI的下一程是生产力系统之争"
+      "pub_date": "2026-11-04 16:13",
+      "summary": "连路人都有自己的想法"
     },
     {
-      "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
-      "link": "https://www.qbitai.com/2026/11/507419.html",
+      "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
+      "link": "https://www.qbitai.com/2026/11/507574.html",
       "source": "qbitai",
-      "pub_date": "2026-11-03 06:55",
-      "summary": "终于，有了一个可以触摸的起点"
+      "pub_date": "2026-11-04 08:59",
+      "summary": "一场别开生面的具身智能科技盛宴"
     },
     {
-      "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
-      "link": "https://www.qbitai.com/2026/11/507410.html",
+      "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+      "link": "https://www.qbitai.com/2026/11/507533.html",
       "source": "qbitai",
-      "pub_date": "2026-11-03 06:29",
-      "summary": "TeleAI智慧看护助手"
+      "pub_date": "2026-11-04 02:49",
+      "summary": "长视频记忆精度飙升，问答时延最高降97%"
     }
   ]
 }
