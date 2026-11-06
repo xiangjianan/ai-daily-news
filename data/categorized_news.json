@@ -15,51 +15,51 @@
       "summary": "被轰成筛子了…"
     },
     {
-      "title": "Uber 总裁跳槽 OpenAI！曾掌舵谷歌、Snap 公关，Brockman 亲自发文欢迎",
-      "link": "https://www.infoq.cn/article/mcHCe07TQ08mEZtqcWi1?utm_source=rss&utm_medium=article",
+      "title": "Claude Code 产品负责人Cut Wu 官宣加入 OpenAI",
+      "link": "https://www.infoq.cn/article/cDERcarozbrsCBNs5sWM?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-11-04 14:02",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/mcHCe07TQ08mEZtqcWi1?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-11-05 16:53",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/cDERcarozbrsCBNs5sWM?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
-      "link": "https://www.infoq.cn/article/bFKTeyCOlydWMYi91H4q?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-11-04 11:02",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/bFKTeyCOlydWMYi91H4q?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-11-04 21:25",
-      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests."
+      "pub_date": "2026-11-05 19:06",
+      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure."
+    },
+    {
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-11-05 18:02",
+      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully ma"
     }
   ],
   "product": [
     {
-      "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
-      "link": "https://www.qbitai.com/2026/11/507586.html",
+      "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+      "link": "https://www.qbitai.com/2026/11/507767.html",
       "source": "qbitai",
-      "pub_date": "2026-11-04 10:08",
-      "summary": "仅激活3B参数，十项基准全线提升！"
+      "pub_date": "2026-11-05 05:25",
+      "summary": "像雇人一样雇机器人"
     },
     {
-      "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
-      "link": "https://www.qbitai.com/2026/11/507567.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-04 08:49",
-      "summary": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。"
+      "title": "谷歌发布 ML Drift：为各类 GPU 加速端侧 AI 推理",
+      "link": "https://www.infoq.cn/article/hHzARIJTeqoqYpjNKEuq?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-05 13:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/hHzARIJTeqoqYpjNKEuq?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
   "research": [
     {
-      "title": "研究发现：AI 生成代码受下游环节瓶颈制约，无法提升整体生产力",
-      "link": "https://www.infoq.cn/article/c3vTLNrRwfCzw8SAmz90?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-11-04 16:20",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/c3vTLNrRwfCzw8SAmz90?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+      "link": "https://www.qbitai.com/2026/11/507787.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-05 07:15",
+      "summary": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base"
     }
   ],
   "industry": [
@@ -80,6 +80,20 @@
   ],
   "other": [
     {
+      "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
+      "link": "https://www.qbitai.com/2026/11/507782.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-05 07:10",
+      "summary": "spaCy作者长文炮轰"
+    },
+    {
+      "title": "",
+      "link": "https://www.qbitai.com/2026/11/507757.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-05 03:58",
+      "summary": "尹希官宣离开OpenAI"
+    },
+    {
       "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
       "link": "https://www.qbitai.com/2026/11/507688.html",
       "source": "qbitai",
@@ -99,20 +113,6 @@
       "source": "qbitai",
       "pub_date": "2026-11-04 16:13",
       "summary": "连路人都有自己的想法"
-    },
-    {
-      "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
-      "link": "https://www.qbitai.com/2026/11/507574.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-04 08:59",
-      "summary": "一场别开生面的具身智能科技盛宴"
-    },
-    {
-      "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
-      "link": "https://www.qbitai.com/2026/11/507533.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-04 02:49",
-      "summary": "长视频记忆精度飙升，问答时延最高降97%"
     }
   ]
 }
