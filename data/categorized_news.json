@@ -1,18 +1,11 @@
 {
   "headline": [
     {
-      "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
-      "link": "https://www.qbitai.com/2026/11/507707.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-05 01:59",
-      "summary": "最快6秒出图"
-    },
-    {
-      "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
-      "link": "https://www.qbitai.com/2026/11/507697.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-05 01:54",
-      "summary": "被轰成筛子了…"
+      "title": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+      "link": "https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-07 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "Claude Code 产品负责人Cut Wu 官宣加入 OpenAI",
@@ -22,27 +15,41 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/cDERcarozbrsCBNs5sWM?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-11-05 19:06",
-      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure."
+      "pub_date": "2026-11-06 22:53",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
     },
     {
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-11-05 18:02",
-      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully ma"
+      "pub_date": "2026-11-06 15:54",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
+    },
+    {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "link": "https://openai.com/index/partnering-with-hacktron",
+      "source": "openai_blog",
+      "pub_date": "2026-11-06 08:00",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
     }
   ],
   "product": [
     {
-      "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
-      "link": "https://www.qbitai.com/2026/11/507767.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-05 05:25",
-      "summary": "像雇人一样雇机器人"
+      "title": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+      "link": "https://www.infoq.cn/article/lGoA1ZSw6ojeh68GVlBl?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-06 17:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/lGoA1ZSw6ojeh68GVlBl?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
+      "link": "https://www.infoq.cn/article/upfROwtEl8R75H24D13J?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-06 15:25",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/upfROwtEl8R75H24D13J?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "谷歌发布 ML Drift：为各类 GPU 加速端侧 AI 推理",
@@ -53,66 +60,43 @@
     }
   ],
   "funding": [],
-  "research": [
-    {
-      "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
-      "link": "https://www.qbitai.com/2026/11/507787.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-05 07:15",
-      "summary": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base"
-    }
-  ],
-  "industry": [
-    {
-      "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
-      "link": "https://www.qbitai.com/2026/11/507696.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-05 02:01",
-      "summary": "Data + AI 技术实践巡展 · 上海站"
-    },
-    {
-      "title": "AI Coding 增量风险管控：Skill 门禁与 Harness 落地实践｜AICon北京",
-      "link": "https://www.infoq.cn/article/XieGrL5pws7jG1zxKPle?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-11-05 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/XieGrL5pws7jG1zxKPle?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "research": [],
+  "industry": [],
   "other": [
     {
-      "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
-      "link": "https://www.qbitai.com/2026/11/507782.html",
+      "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+      "link": "https://www.qbitai.com/2026/11/508155.html",
       "source": "qbitai",
-      "pub_date": "2026-11-05 07:10",
-      "summary": "spaCy作者长文炮轰"
+      "pub_date": "2026-11-06 07:00",
+      "summary": "Q3营收实现数倍增长"
     },
     {
-      "title": "",
-      "link": "https://www.qbitai.com/2026/11/507757.html",
+      "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
+      "link": "https://www.qbitai.com/2026/11/508118.html",
       "source": "qbitai",
-      "pub_date": "2026-11-05 03:58",
-      "summary": "尹希官宣离开OpenAI"
+      "pub_date": "2026-11-06 06:54",
+      "summary": "挑战商业视频的高难度场景"
     },
     {
-      "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
-      "link": "https://www.qbitai.com/2026/11/507688.html",
+      "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
+      "link": "https://www.qbitai.com/2026/11/508143.html",
       "source": "qbitai",
-      "pub_date": "2026-11-05 01:42",
-      "summary": "11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。"
+      "pub_date": "2026-11-06 06:43",
+      "summary": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。"
     },
     {
-      "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
-      "link": "https://www.qbitai.com/2026/11/507675.html",
+      "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
+      "link": "https://www.qbitai.com/2026/11/508107.html",
       "source": "qbitai",
-      "pub_date": "2026-11-05 00:41",
-      "summary": "薪资+期权不限！实习生也能训核心模型"
+      "pub_date": "2026-11-06 05:01",
+      "summary": "一举刷新「AI安全世界杯」CyberGym世界纪录"
     },
     {
-      "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
-      "link": "https://www.qbitai.com/2026/11/507647.html",
+      "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
+      "link": "https://www.qbitai.com/2026/11/507988.html",
       "source": "qbitai",
-      "pub_date": "2026-11-04 16:13",
-      "summary": "连路人都有自己的想法"
+      "pub_date": "2026-11-06 03:36",
+      "summary": "香港金融科技周 x StartmeupHK 2026踏入第11届"
     }
   ]
 }
