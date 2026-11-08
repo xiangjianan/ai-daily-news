@@ -1,6 +1,20 @@
 {
   "headline": [
     {
+      "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+      "link": "https://www.qbitai.com/2026/11/508449.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-07 09:38",
+      "summary": "AI写代码太快，基础设施跟不上了"
+    },
+    {
+      "title": "OpenAI新融资到账110亿美元，不及原计划一半",
+      "link": "https://www.qbitai.com/2026/11/508344.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-07 08:11",
+      "summary": "融资缩水，硅谷投资人也谨慎了"
+    },
+    {
       "title": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
       "link": "https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -20,20 +34,6 @@
       "source": "techcrunch_ai",
       "pub_date": "2026-11-06 22:53",
       "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
-    },
-    {
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-11-06 15:54",
-      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
-    },
-    {
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "link": "https://openai.com/index/partnering-with-hacktron",
-      "source": "openai_blog",
-      "pub_date": "2026-11-06 08:00",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
     }
   ],
   "product": [
@@ -50,13 +50,6 @@
       "source": "infoq",
       "pub_date": "2026-11-06 15:25",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/upfROwtEl8R75H24D13J?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "谷歌发布 ML Drift：为各类 GPU 加速端侧 AI 推理",
-      "link": "https://www.infoq.cn/article/hHzARIJTeqoqYpjNKEuq?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-11-05 13:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/hHzARIJTeqoqYpjNKEuq?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
@@ -64,39 +57,39 @@
   "industry": [],
   "other": [
     {
-      "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
-      "link": "https://www.qbitai.com/2026/11/508155.html",
+      "title": "为了去AI味，人类开始主动写烂文章了……",
+      "link": "https://www.qbitai.com/2026/11/508330.html",
       "source": "qbitai",
-      "pub_date": "2026-11-06 07:00",
-      "summary": "Q3营收实现数倍增长"
+      "pub_date": "2026-11-07 07:59",
+      "summary": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI......."
     },
     {
-      "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
-      "link": "https://www.qbitai.com/2026/11/508118.html",
+      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+      "link": "https://www.qbitai.com/2026/11/508264.html",
       "source": "qbitai",
-      "pub_date": "2026-11-06 06:54",
-      "summary": "挑战商业视频的高难度场景"
+      "pub_date": "2026-11-07 05:01",
+      "summary": "苦单Session久矣，两大Agent玩家不谋而合。"
     },
     {
-      "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
-      "link": "https://www.qbitai.com/2026/11/508143.html",
+      "title": "AGENTS.MD，危险危险危险！！！",
+      "link": "https://www.qbitai.com/2026/11/508244.html",
       "source": "qbitai",
-      "pub_date": "2026-11-06 06:43",
-      "summary": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。"
+      "pub_date": "2026-11-07 03:43",
+      "summary": "全新的电脑病毒"
     },
     {
-      "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
-      "link": "https://www.qbitai.com/2026/11/508107.html",
+      "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
+      "link": "https://www.qbitai.com/2026/11/508236.html",
       "source": "qbitai",
-      "pub_date": "2026-11-06 05:01",
-      "summary": "一举刷新「AI安全世界杯」CyberGym世界纪录"
+      "pub_date": "2026-11-07 03:31",
+      "summary": "中国版cosmos再交卷"
     },
     {
-      "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
-      "link": "https://www.qbitai.com/2026/11/507988.html",
+      "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
+      "link": "https://www.qbitai.com/2026/11/508196.html",
       "source": "qbitai",
-      "pub_date": "2026-11-06 03:36",
-      "summary": "香港金融科技周 x StartmeupHK 2026踏入第11届"
+      "pub_date": "2026-11-07 03:23",
+      "summary": "RSI不可能无限快"
     }
   ]
 }
