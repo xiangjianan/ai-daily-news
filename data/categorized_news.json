@@ -15,18 +15,18 @@
       "summary": "融资缩水，硅谷投资人也谨慎了"
     },
     {
+      "title": "顶尖 AI 实验室正在成为“人才黑洞”！Claude Code 团队工程师离职后首次受访",
+      "link": "https://www.infoq.cn/article/Qs0pJ5M43c56hdozHiR0?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-08 15:03",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Qs0pJ5M43c56hdozHiR0?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
       "title": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
       "link": "https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr?utm_source=rss&utm_medium=article",
       "source": "infoq",
       "pub_date": "2026-11-07 10:00",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Claude Code 产品负责人Cut Wu 官宣加入 OpenAI",
-      "link": "https://www.infoq.cn/article/cDERcarozbrsCBNs5sWM?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-11-05 16:53",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/cDERcarozbrsCBNs5sWM?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
@@ -54,8 +54,30 @@
   ],
   "funding": [],
   "research": [],
-  "industry": [],
+  "industry": [
+    {
+      "title": "终端侧AI：从单点应用走向智能体体验",
+      "link": "https://www.qbitai.com/2026/11/508478.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-08 11:05",
+      "summary": "高通在第九届进博会展出端侧MoE智能体"
+    }
+  ],
   "other": [
+    {
+      "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
+      "link": "https://www.qbitai.com/2026/11/508498.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-09 00:40",
+      "summary": "英伟达暗盘跌2%"
+    },
+    {
+      "title": "资本正在撤离“世界模型”",
+      "link": "https://www.qbitai.com/2026/11/508466.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-08 04:09",
+      "summary": "没有永远的夏天"
+    },
     {
       "title": "为了去AI味，人类开始主动写烂文章了……",
       "link": "https://www.qbitai.com/2026/11/508330.html",
@@ -76,20 +98,6 @@
       "source": "qbitai",
       "pub_date": "2026-11-07 03:43",
       "summary": "全新的电脑病毒"
-    },
-    {
-      "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
-      "link": "https://www.qbitai.com/2026/11/508236.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-07 03:31",
-      "summary": "中国版cosmos再交卷"
-    },
-    {
-      "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
-      "link": "https://www.qbitai.com/2026/11/508196.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-07 03:23",
-      "summary": "RSI不可能无限快"
     }
   ]
 }
