@@ -1,103 +1,103 @@
 {
   "headline": [
     {
-      "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
-      "link": "https://www.qbitai.com/2026/11/508449.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-07 09:38",
-      "summary": "AI写代码太快，基础设施跟不上了"
-    },
-    {
-      "title": "OpenAI新融资到账110亿美元，不及原计划一半",
-      "link": "https://www.qbitai.com/2026/11/508344.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-07 08:11",
-      "summary": "融资缩水，硅谷投资人也谨慎了"
-    },
-    {
-      "title": "顶尖 AI 实验室正在成为“人才黑洞”！Claude Code 团队工程师离职后首次受访",
-      "link": "https://www.infoq.cn/article/Qs0pJ5M43c56hdozHiR0?utm_source=rss&utm_medium=article",
+      "title": "不能把整个安全体系押在大模型上：AI 分诊 CVE，人工审查仍不能少",
+      "link": "https://www.infoq.cn/article/mBvmvcQ8a8ty2Ob1xN64?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-11-08 15:03",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Qs0pJ5M43c56hdozHiR0?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-11-09 16:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/mBvmvcQ8a8ty2Ob1xN64?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
-      "link": "https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr?utm_source=rss&utm_medium=article",
+      "title": "OpenAI、Anthropic、Google 各有接口，开放标准离统一还有多远？",
+      "link": "https://www.infoq.cn/article/5e8Qs11VHRHRyYsB2kFO?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-11-07 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-11-09 14:35",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/5e8Qs11VHRHRyYsB2kFO?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "title": "“印度成OpenAI最大市场”，Altman首次回应“离职潮”：一群聪明人互不信任",
+      "link": "https://www.infoq.cn/article/7AXcQvPCSwfPhtL8iQpo?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-09 14:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/7AXcQvPCSwfPhtL8iQpo?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-11-06 22:53",
-      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
+      "pub_date": "2026-11-09 16:56",
+      "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse."
+    },
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "openai_blog",
+      "pub_date": "2026-11-09 19:00",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
     }
   ],
   "product": [
     {
-      "title": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
-      "link": "https://www.infoq.cn/article/lGoA1ZSw6ojeh68GVlBl?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-11-06 17:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/lGoA1ZSw6ojeh68GVlBl?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+      "link": "https://www.qbitai.com/2026/11/508694.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-09 08:34",
+      "summary": "11月9日，千问办公发布2.0版本"
     },
     {
-      "title": "DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
-      "link": "https://www.infoq.cn/article/upfROwtEl8R75H24D13J?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-11-06 15:25",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/upfROwtEl8R75H24D13J?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
-  "funding": [],
-  "research": [],
-  "industry": [
-    {
-      "title": "终端侧AI：从单点应用走向智能体体验",
-      "link": "https://www.qbitai.com/2026/11/508478.html",
+      "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+      "link": "https://www.qbitai.com/2026/11/508603.html",
       "source": "qbitai",
-      "pub_date": "2026-11-08 11:05",
-      "summary": "高通在第九届进博会展出端侧MoE智能体"
+      "pub_date": "2026-11-09 05:09",
+      "summary": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。"
     }
   ],
+  "funding": [
+    {
+      "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
+      "link": "https://www.qbitai.com/2026/11/508690.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-09 08:26",
+      "summary": "厘清故事与现实的边界，回归投资与产业的底层逻辑。"
+    }
+  ],
+  "research": [],
+  "industry": [],
   "other": [
     {
-      "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
-      "link": "https://www.qbitai.com/2026/11/508498.html",
+      "title": "“AI毁了我的计算机学位”",
+      "link": "https://www.qbitai.com/2026/11/508706.html",
       "source": "qbitai",
-      "pub_date": "2026-11-09 00:40",
-      "summary": "英伟达暗盘跌2%"
+      "pub_date": "2026-11-09 08:57",
+      "summary": "教授也用Claude糊弄…"
     },
     {
-      "title": "资本正在撤离“世界模型”",
-      "link": "https://www.qbitai.com/2026/11/508466.html",
+      "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+      "link": "https://www.qbitai.com/2026/11/507843.html",
       "source": "qbitai",
-      "pub_date": "2026-11-08 04:09",
-      "summary": "没有永远的夏天"
+      "pub_date": "2026-11-09 08:44",
+      "summary": ""
     },
     {
-      "title": "为了去AI味，人类开始主动写烂文章了……",
-      "link": "https://www.qbitai.com/2026/11/508330.html",
+      "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
+      "link": "https://www.qbitai.com/2026/11/508629.html",
       "source": "qbitai",
-      "pub_date": "2026-11-07 07:59",
-      "summary": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI......."
+      "pub_date": "2026-11-09 07:02",
+      "summary": "最早量产的亲自泼冷水"
     },
     {
-      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
-      "link": "https://www.qbitai.com/2026/11/508264.html",
+      "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
+      "link": "https://www.qbitai.com/2026/11/508607.html",
       "source": "qbitai",
-      "pub_date": "2026-11-07 05:01",
-      "summary": "苦单Session久矣，两大Agent玩家不谋而合。"
+      "pub_date": "2026-11-09 05:47",
+      "summary": "Worker不够了主管Agent还能自己招！"
     },
     {
-      "title": "AGENTS.MD，危险危险危险！！！",
-      "link": "https://www.qbitai.com/2026/11/508244.html",
+      "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
+      "link": "https://www.qbitai.com/2026/11/508586.html",
       "source": "qbitai",
-      "pub_date": "2026-11-07 03:43",
-      "summary": "全新的电脑病毒"
+      "pub_date": "2026-11-09 03:47",
+      "summary": "“让人放心，把人放大。”"
     }
   ]
 }
