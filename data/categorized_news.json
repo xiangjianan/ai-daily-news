@@ -1,18 +1,18 @@
 {
   "headline": [
     {
-      "title": "接大模型别再自己配 Key、搭代理了，火山引擎 IGA Pages 一步搞定",
-      "link": "https://www.infoq.cn/article/juu2R26yD8B6ABUEQuWB?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-11-10 18:58",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/juu2R26yD8B6ABUEQuWB?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+      "link": "https://www.qbitai.com/2026/11/509085.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-11 06:18",
+      "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。"
     },
     {
-      "title": "成本仅1/3！Meta 新模型 Muse Ember 硬刚 Claude Haiku 5.5",
-      "link": "https://www.infoq.cn/article/Ou4l4aD7zvUzXWXsWJfY?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-11-10 15:22",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Ou4l4aD7zvUzXWXsWJfY?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-11-11 16:14",
+      "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter."
     },
     {
       "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
@@ -29,14 +29,36 @@
       "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
     },
     {
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-11-10 18:49",
-      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that."
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "openai_blog",
+      "pub_date": "2026-11-11 08:00",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
     }
   ],
-  "product": [],
+  "product": [
+    {
+      "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+      "link": "https://www.qbitai.com/2026/11/509032.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-10 10:35",
+      "summary": ""
+    },
+    {
+      "title": "Datadog 推出面向 SRE 故障排查的专用 AI 模型",
+      "link": "https://www.infoq.cn/article/py4PRbBWJSPm5aV10gHq?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-11 17:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/py4PRbBWJSPm5aV10gHq?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Cloudflare 推出面向 AI 应用程序的 Web Search API",
+      "link": "https://www.infoq.cn/article/SgXuVvzbHr8lKrihTAZW?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-11 11:06",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/SgXuVvzbHr8lKrihTAZW?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "funding": [
     {
       "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
@@ -56,14 +78,35 @@
       "summary": "加速东部城市型智算中心向E-AIDC演进"
     },
     {
-      "title": "给 AI 腾内存？Discord 抛弃Electron，省70%内存还秒开：Windows应用该跟进了",
-      "link": "https://www.infoq.cn/article/MQTTu6dgGxHBZm1wOLPI?utm_source=rss&utm_medium=article",
+      "title": "从 AI 工具到业务落地：兰州安宁 OPC 大会将聚焦 FDE 实践与企业 AI 转型",
+      "link": "https://www.infoq.cn/article/P2UWjVdAmPzOBaxd0v4f?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-11-10 16:04",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/MQTTu6dgGxHBZm1wOLPI?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-11-11 18:36",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/P2UWjVdAmPzOBaxd0v4f?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
+    {
+      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+      "link": "https://www.qbitai.com/2026/11/509146.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-11 06:41",
+      "summary": "价格、门槛全打穿"
+    },
+    {
+      "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
+      "link": "https://www.qbitai.com/2026/11/509088.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-11 06:27",
+      "summary": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。"
+    },
+    {
+      "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
+      "link": "https://www.qbitai.com/2026/11/509052.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-11 03:43",
+      "summary": "L4无人化作业走向规模交付"
+    },
     {
       "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
       "link": "https://www.qbitai.com/2026/11/509017.html",
@@ -77,27 +120,6 @@
       "source": "qbitai",
       "pub_date": "2026-11-10 07:57",
       "summary": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch"
-    },
-    {
-      "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
-      "link": "https://www.qbitai.com/2026/11/508998.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-10 07:56",
-      "summary": "让每一次任务，都成为下一次进步的起点"
-    },
-    {
-      "title": "Token卷到触觉了！机器人终于有了通用手感",
-      "link": "https://www.qbitai.com/2026/11/508919.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-10 07:26",
-      "summary": "蚂蚁灵波开源LingBot-Touch"
-    },
-    {
-      "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
-      "link": "https://www.qbitai.com/2026/11/508912.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-10 07:03",
-      "summary": "作曲、拍片、3D建模一条龙全包圆"
     }
   ]
 }
