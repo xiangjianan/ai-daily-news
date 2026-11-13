@@ -1,32 +1,32 @@
 {
   "headline": [
     {
-      "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
-      "link": "https://www.qbitai.com/2026/11/509085.html",
+      "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+      "link": "https://www.qbitai.com/2026/11/509404.html",
       "source": "qbitai",
-      "pub_date": "2026-11-11 06:18",
-      "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。"
+      "pub_date": "2026-11-12 10:45",
+      "summary": "银河智学首席科学家邓澍军博士发表主题演讲"
     },
     {
-      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-      "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-11-11 16:14",
-      "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter."
+      "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+      "link": "https://www.qbitai.com/2026/11/509381.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-12 10:11",
+      "summary": "全世界都在踩刹车，达里奥一个人踩油门"
     },
     {
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-11-10 21:08",
-      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry."
+      "title": "Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条",
+      "link": "https://www.qbitai.com/2026/11/509291.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-12 07:55",
+      "summary": "只管挖不管埋。"
     },
     {
-      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-      "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-11-10 20:52",
-      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "link": "https://openai.com/business/customer-stories/amplitude",
+      "source": "openai_blog",
+      "pub_date": "2026-11-12 20:00",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
     },
     {
       "title": "ChatGPT Plus for veterans and servicemembers",
@@ -36,47 +36,18 @@
       "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
     }
   ],
-  "product": [
+  "product": [],
+  "funding": [],
+  "research": [
     {
-      "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
-      "link": "https://www.qbitai.com/2026/11/509032.html",
+      "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+      "link": "https://www.qbitai.com/2026/11/509440.html",
       "source": "qbitai",
-      "pub_date": "2026-11-10 10:35",
-      "summary": ""
-    },
-    {
-      "title": "Datadog 推出面向 SRE 故障排查的专用 AI 模型",
-      "link": "https://www.infoq.cn/article/py4PRbBWJSPm5aV10gHq?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-11-11 17:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/py4PRbBWJSPm5aV10gHq?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Cloudflare 推出面向 AI 应用程序的 Web Search API",
-      "link": "https://www.infoq.cn/article/SgXuVvzbHr8lKrihTAZW?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-11-11 11:06",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/SgXuVvzbHr8lKrihTAZW?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-11-12 11:36",
+      "summary": "「CAD拆解」"
     }
   ],
-  "funding": [
-    {
-      "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
-      "link": "https://www.qbitai.com/2026/11/508991.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-10 07:50",
-      "summary": "TensorWorld物原科技在一个月内已拿到过亿美元融资"
-    }
-  ],
-  "research": [],
   "industry": [
-    {
-      "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
-      "link": "https://www.qbitai.com/2026/11/508985.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-10 07:33",
-      "summary": "加速东部城市型智算中心向E-AIDC演进"
-    },
     {
       "title": "从 AI 工具到业务落地：兰州安宁 OPC 大会将聚焦 FDE 实践与企业 AI 转型",
       "link": "https://www.infoq.cn/article/P2UWjVdAmPzOBaxd0v4f?utm_source=rss&utm_medium=article",
@@ -87,39 +58,39 @@
   ],
   "other": [
     {
-      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
-      "link": "https://www.qbitai.com/2026/11/509146.html",
+      "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
+      "link": "https://www.qbitai.com/2026/11/509355.html",
       "source": "qbitai",
-      "pub_date": "2026-11-11 06:41",
-      "summary": "价格、门槛全打穿"
+      "pub_date": "2026-11-12 10:08",
+      "summary": "Grok在让人破绷这件事上，从来不会让人失望。"
     },
     {
-      "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
-      "link": "https://www.qbitai.com/2026/11/509088.html",
+      "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
+      "link": "https://www.qbitai.com/2026/11/509349.html",
       "source": "qbitai",
-      "pub_date": "2026-11-11 06:27",
-      "summary": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。"
+      "pub_date": "2026-11-12 09:34",
+      "summary": "企业 AI 的难题，不只是模型够不够强"
     },
     {
-      "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
-      "link": "https://www.qbitai.com/2026/11/509052.html",
+      "title": "马斯克已准备好聘请黄仁勋",
+      "link": "https://www.qbitai.com/2026/11/509334.html",
       "source": "qbitai",
-      "pub_date": "2026-11-11 03:43",
-      "summary": "L4无人化作业走向规模交付"
+      "pub_date": "2026-11-12 08:16",
+      "summary": "老黄出轨认错、再曝婚外恋"
     },
     {
-      "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
-      "link": "https://www.qbitai.com/2026/11/509017.html",
+      "title": "百曜科技入选全球 The Information 50！",
+      "link": "https://www.qbitai.com/2026/11/509285.html",
       "source": "qbitai",
-      "pub_date": "2026-11-10 08:33",
-      "summary": "近亿元融资刚刚落袋"
+      "pub_date": "2026-11-12 06:13",
+      "summary": "百曜科技入选“2026年全球最具潜力 50 家初创公司”榜单。"
     },
     {
-      "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
-      "link": "https://www.qbitai.com/2026/11/508996.html",
+      "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
+      "link": "https://www.qbitai.com/2026/11/509281.html",
       "source": "qbitai",
-      "pub_date": "2026-11-10 07:57",
-      "summary": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch"
+      "pub_date": "2026-11-12 01:45",
+      "summary": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布"
     }
   ]
 }
