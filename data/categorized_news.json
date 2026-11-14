@@ -1,25 +1,32 @@
 {
   "headline": [
     {
-      "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
-      "link": "https://www.qbitai.com/2026/11/509404.html",
+      "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
+      "link": "https://www.qbitai.com/2026/11/509663.html",
       "source": "qbitai",
-      "pub_date": "2026-11-12 10:45",
-      "summary": "银河智学首席科学家邓澍军博士发表主题演讲"
+      "pub_date": "2026-11-13 07:06",
+      "summary": "数据不出域、本地可部署"
     },
     {
-      "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
-      "link": "https://www.qbitai.com/2026/11/509381.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-12 10:11",
-      "summary": "全世界都在踩刹车，达里奥一个人踩油门"
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-11-13 16:00",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers."
     },
     {
-      "title": "Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条",
-      "link": "https://www.qbitai.com/2026/11/509291.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-12 07:55",
-      "summary": "只管挖不管埋。"
+      "title": "Introducing ChatGPT Wallet",
+      "link": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "openai_blog",
+      "pub_date": "2026-11-13 15:00",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+    },
+    {
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "link": "https://openai.com/business/customer-stories/shield",
+      "source": "openai_blog",
+      "pub_date": "2026-11-13 08:00",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
     },
     {
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
@@ -27,70 +34,85 @@
       "source": "openai_blog",
       "pub_date": "2026-11-12 20:00",
       "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
-    },
-    {
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "source": "openai_blog",
-      "pub_date": "2026-11-11 08:00",
-      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
     }
   ],
-  "product": [],
+  "product": [
+    {
+      "title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
+      "link": "https://www.qbitai.com/2026/11/509716.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-13 07:12",
+      "summary": "比亚迪正在把规模优势转化为技术与品牌价值"
+    },
+    {
+      "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
+      "link": "https://www.qbitai.com/2026/11/509653.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-13 06:54",
+      "summary": "想要什么功能，让Agent自己开发"
+    }
+  ],
   "funding": [],
   "research": [
     {
-      "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
-      "link": "https://www.qbitai.com/2026/11/509440.html",
+      "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+      "link": "https://www.qbitai.com/2026/11/509796.html",
       "source": "qbitai",
-      "pub_date": "2026-11-12 11:36",
-      "summary": "「CAD拆解」"
+      "pub_date": "2026-11-13 07:43",
+      "summary": "250名国内顶尖三甲医院医生联合评测"
+    },
+    {
+      "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+      "link": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-14 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "industry": [
     {
-      "title": "从 AI 工具到业务落地：兰州安宁 OPC 大会将聚焦 FDE 实践与企业 AI 转型",
-      "link": "https://www.infoq.cn/article/P2UWjVdAmPzOBaxd0v4f?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-11-11 18:36",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/P2UWjVdAmPzOBaxd0v4f?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速",
+      "link": "https://www.qbitai.com/2026/11/509710.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-13 07:09",
+      "summary": "2026年11月10日，比亚迪与神州租车首批闪充车及闪充站投放仪式在山东济南隆重举办"
     }
   ],
   "other": [
     {
-      "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
-      "link": "https://www.qbitai.com/2026/11/509355.html",
+      "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
+      "link": "https://www.qbitai.com/2026/11/509995.html",
       "source": "qbitai",
-      "pub_date": "2026-11-12 10:08",
-      "summary": "Grok在让人破绷这件事上，从来不会让人失望。"
+      "pub_date": "2026-11-13 09:02",
+      "summary": "一个时代结束了"
     },
     {
-      "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
-      "link": "https://www.qbitai.com/2026/11/509349.html",
+      "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+      "link": "https://www.qbitai.com/2026/11/509827.html",
       "source": "qbitai",
-      "pub_date": "2026-11-12 09:34",
-      "summary": "企业 AI 的难题，不只是模型够不够强"
+      "pub_date": "2026-11-13 07:51",
+      "summary": "12.9 北京，来MEET2027现场"
     },
     {
-      "title": "马斯克已准备好聘请黄仁勋",
-      "link": "https://www.qbitai.com/2026/11/509334.html",
+      "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
+      "link": "https://www.qbitai.com/2026/11/509730.html",
       "source": "qbitai",
-      "pub_date": "2026-11-12 08:16",
-      "summary": "老黄出轨认错、再曝婚外恋"
+      "pub_date": "2026-11-13 07:17",
+      "summary": "比亚迪第1900万辆新能源汽车在西安工厂正式下线"
     },
     {
-      "title": "百曜科技入选全球 The Information 50！",
-      "link": "https://www.qbitai.com/2026/11/509285.html",
+      "title": "特斯拉和SpaceX最快下月合并",
+      "link": "https://www.qbitai.com/2026/11/509613.html",
       "source": "qbitai",
-      "pub_date": "2026-11-12 06:13",
-      "summary": "百曜科技入选“2026年全球最具潜力 50 家初创公司”榜单。"
+      "pub_date": "2026-11-13 06:43",
+      "summary": "马斯克帝国终极形态。"
     },
     {
-      "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
-      "link": "https://www.qbitai.com/2026/11/509281.html",
+      "title": "中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心",
+      "link": "https://www.qbitai.com/2026/11/509614.html",
       "source": "qbitai",
-      "pub_date": "2026-11-12 01:45",
-      "summary": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布"
+      "pub_date": "2026-11-13 06:29",
+      "summary": "信息少传80%，准确率反而提高"
     }
   ]
 }
