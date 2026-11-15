@@ -1,13 +1,6 @@
 {
   "headline": [
     {
-      "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
-      "link": "https://www.qbitai.com/2026/11/509663.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-13 07:06",
-      "summary": "数据不出域、本地可部署"
-    },
-    {
       "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
       "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
       "source": "techcrunch_ai",
@@ -34,22 +27,22 @@
       "source": "openai_blog",
       "pub_date": "2026-11-12 20:00",
       "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
+    },
+    {
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "openai_blog",
+      "pub_date": "2026-11-11 08:00",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
     }
   ],
   "product": [
     {
-      "title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
-      "link": "https://www.qbitai.com/2026/11/509716.html",
+      "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+      "link": "https://www.qbitai.com/2026/11/510232.html",
       "source": "qbitai",
-      "pub_date": "2026-11-13 07:12",
-      "summary": "比亚迪正在把规模优势转化为技术与品牌价值"
-    },
-    {
-      "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
-      "link": "https://www.qbitai.com/2026/11/509653.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-13 06:54",
-      "summary": "想要什么功能，让Agent自己开发"
+      "pub_date": "2026-11-14 09:58",
+      "summary": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了"
     }
   ],
   "funding": [],
@@ -69,50 +62,42 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "industry": [
-    {
-      "title": "比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速",
-      "link": "https://www.qbitai.com/2026/11/509710.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-13 07:09",
-      "summary": "2026年11月10日，比亚迪与神州租车首批闪充车及闪充站投放仪式在山东济南隆重举办"
-    }
-  ],
+  "industry": [],
   "other": [
     {
-      "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
-      "link": "https://www.qbitai.com/2026/11/509995.html",
+      "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+      "link": "https://www.qbitai.com/2026/11/510297.html",
       "source": "qbitai",
-      "pub_date": "2026-11-13 09:02",
-      "summary": "一个时代结束了"
+      "pub_date": "2026-11-14 10:08",
+      "summary": "马斯克也签名了"
     },
     {
-      "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
-      "link": "https://www.qbitai.com/2026/11/509827.html",
+      "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
+      "link": "https://www.qbitai.com/2026/11/510150.html",
       "source": "qbitai",
-      "pub_date": "2026-11-13 07:51",
-      "summary": "12.9 北京，来MEET2027现场"
+      "pub_date": "2026-11-14 09:48",
+      "summary": "童年的纸飞机，现在终于飞回我手里～"
     },
     {
-      "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
-      "link": "https://www.qbitai.com/2026/11/509730.html",
+      "title": "绿电进Token出！联想重新定义词元工厂",
+      "link": "https://www.qbitai.com/2026/11/510094.html",
       "source": "qbitai",
-      "pub_date": "2026-11-13 07:17",
-      "summary": "比亚迪第1900万辆新能源汽车在西安工厂正式下线"
+      "pub_date": "2026-11-14 09:41",
+      "summary": "年产2000万亿Token，成本狂降70%"
     },
     {
-      "title": "特斯拉和SpaceX最快下月合并",
-      "link": "https://www.qbitai.com/2026/11/509613.html",
+      "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
+      "link": "https://www.qbitai.com/2026/11/510013.html",
       "source": "qbitai",
-      "pub_date": "2026-11-13 06:43",
-      "summary": "马斯克帝国终极形态。"
+      "pub_date": "2026-11-14 02:59",
+      "summary": "狂揽3000万播放量"
     },
     {
-      "title": "中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心",
-      "link": "https://www.qbitai.com/2026/11/509614.html",
+      "title": "突发！DeepSeek开放全家桶API",
+      "link": "https://www.qbitai.com/2026/11/510003.html",
       "source": "qbitai",
-      "pub_date": "2026-11-13 06:29",
-      "summary": "信息少传80%，准确率反而提高"
+      "pub_date": "2026-11-14 02:39",
+      "summary": "官方App功能均可自由组合调用"
     }
   ]
 }
