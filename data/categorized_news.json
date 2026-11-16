@@ -1,13 +1,6 @@
 {
   "headline": [
     {
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-11-13 16:00",
-      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers."
-    },
-    {
       "title": "Introducing ChatGPT Wallet",
       "link": "https://openai.com/index/introducing-chatgpt-wallet",
       "source": "openai_blog",
@@ -34,6 +27,13 @@
       "source": "openai_blog",
       "pub_date": "2026-11-11 08:00",
       "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "link": "https://openai.com/index/introducing-businesses-chatgpt",
+      "source": "openai_blog",
+      "pub_date": "2026-11-10 10:00",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
     }
   ],
   "product": [
