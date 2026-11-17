@@ -1,103 +1,103 @@
 {
   "headline": [
     {
-      "title": "Introducing ChatGPT Wallet",
-      "link": "https://openai.com/index/introducing-chatgpt-wallet",
-      "source": "openai_blog",
-      "pub_date": "2026-11-13 15:00",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+      "title": "DeepSeek又来掀桌子了！官方App全套能力开放API，联网搜索价格不到OpenAI、Claude的8%",
+      "link": "https://www.infoq.cn/article/NWmk4epBL0jPAUtpKSKb?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-16 14:38",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/NWmk4epBL0jPAUtpKSKb?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "link": "https://openai.com/business/customer-stories/shield",
-      "source": "openai_blog",
-      "pub_date": "2026-11-13 08:00",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-11-16 20:07",
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident."
     },
     {
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "link": "https://openai.com/business/customer-stories/amplitude",
-      "source": "openai_blog",
-      "pub_date": "2026-11-12 20:00",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-11-16 17:02",
+      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence."
     },
     {
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "source": "openai_blog",
-      "pub_date": "2026-11-11 08:00",
-      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-11-16 17:00",
+      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning."
     },
     {
-      "title": "Introducing Businesses in ChatGPT",
-      "link": "https://openai.com/index/introducing-businesses-chatgpt",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "link": "https://openai.com/index/science-at-the-frontier",
       "source": "openai_blog",
-      "pub_date": "2026-11-10 10:00",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
+      "pub_date": "2026-11-16 12:00",
+      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
     }
   ],
   "product": [
     {
-      "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
-      "link": "https://www.qbitai.com/2026/11/510232.html",
+      "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+      "link": "https://www.qbitai.com/2026/11/510486.html",
       "source": "qbitai",
-      "pub_date": "2026-11-14 09:58",
-      "summary": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了"
+      "pub_date": "2026-11-16 07:51",
+      "summary": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max"
+    },
+    {
+      "title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
+      "link": "https://www.qbitai.com/2026/11/510436.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-16 07:26",
+      "summary": "余承东重新明确分工"
     }
   ],
   "funding": [],
-  "research": [
+  "research": [],
+  "industry": [
     {
-      "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
-      "link": "https://www.qbitai.com/2026/11/509796.html",
+      "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+      "link": "https://www.qbitai.com/2026/11/510542.html",
       "source": "qbitai",
-      "pub_date": "2026-11-13 07:43",
-      "summary": "250名国内顶尖三甲医院医生联合评测"
-    },
-    {
-      "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
-      "link": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-11-14 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-11-16 10:57",
+      "summary": "具身智能的真正价值是“把人的经验、技能复刻出来”"
     }
   ],
-  "industry": [],
   "other": [
     {
-      "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
-      "link": "https://www.qbitai.com/2026/11/510297.html",
+      "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+      "link": "https://www.qbitai.com/2026/11/510526.html",
       "source": "qbitai",
-      "pub_date": "2026-11-14 10:08",
-      "summary": "马斯克也签名了"
+      "pub_date": "2026-11-16 08:45",
+      "summary": "12月1日，细数AI的未竟之问。"
     },
     {
-      "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
-      "link": "https://www.qbitai.com/2026/11/510150.html",
+      "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
+      "link": "https://www.qbitai.com/2026/11/510496.html",
       "source": "qbitai",
-      "pub_date": "2026-11-14 09:48",
-      "summary": "童年的纸飞机，现在终于飞回我手里～"
+      "pub_date": "2026-11-16 08:02",
+      "summary": "在华为待了快10000天。"
     },
     {
-      "title": "绿电进Token出！联想重新定义词元工厂",
-      "link": "https://www.qbitai.com/2026/11/510094.html",
+      "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
+      "link": "https://www.qbitai.com/2026/11/510493.html",
       "source": "qbitai",
-      "pub_date": "2026-11-14 09:41",
-      "summary": "年产2000万亿Token，成本狂降70%"
+      "pub_date": "2026-11-16 07:58",
+      "summary": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。"
     },
     {
-      "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
-      "link": "https://www.qbitai.com/2026/11/510013.html",
+      "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
+      "link": "https://www.qbitai.com/2026/11/510416.html",
       "source": "qbitai",
-      "pub_date": "2026-11-14 02:59",
-      "summary": "狂揽3000万播放量"
+      "pub_date": "2026-11-16 05:05",
+      "summary": "杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。"
     },
     {
-      "title": "突发！DeepSeek开放全家桶API",
-      "link": "https://www.qbitai.com/2026/11/510003.html",
+      "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
+      "link": "https://www.qbitai.com/2026/11/510404.html",
       "source": "qbitai",
-      "pub_date": "2026-11-14 02:39",
-      "summary": "官方App功能均可自由组合调用"
+      "pub_date": "2026-11-16 03:54",
+      "summary": "50岁，以“华为董事”之名退休，又有几人？"
     }
   ]
 }
