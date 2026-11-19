@@ -1,6 +1,20 @@
 {
   "headline": [
     {
+      "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+      "link": "https://www.qbitai.com/2026/11/510922.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-18 09:41",
+      "summary": "氖人寻味！"
+    },
+    {
+      "title": "GPT-6.2难产！OpenAI怕了",
+      "link": "https://www.qbitai.com/2026/11/510914.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-18 07:53",
+      "summary": "OpenAI也终于活成了2022年谷歌的样子"
+    },
+    {
       "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
       "link": "https://www.qbitai.com/2026/11/510707.html",
       "source": "qbitai",
@@ -8,69 +22,63 @@
       "summary": "Sol逼近旗舰性能"
     },
     {
-      "title": "面向多智能体应用的大模型推理调度与缓存优化｜AICon北京",
-      "link": "https://www.infoq.cn/article/X8xujm6xovp7z2YzWbpM?utm_source=rss&utm_medium=article",
+      "title": "基于昇腾算力的大模型推理加速研究与实践｜AICon北京",
+      "link": "https://www.infoq.cn/article/NbShAFtZqRSsFrsVu6aj?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-11-17 18:53",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/X8xujm6xovp7z2YzWbpM?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-11-18 14:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/NbShAFtZqRSsFrsVu6aj?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "“AI生成的代码必须开源！”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意",
-      "link": "https://www.infoq.cn/article/m5arrx8021zHVI0ybFtI?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-11-17 15:09",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/m5arrx8021zHVI0ybFtI?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-      "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-11-17 17:32",
-      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access."
-    },
-    {
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "source": "openai_blog",
-      "pub_date": "2026-11-17 17:45",
-      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
+      "pub_date": "2026-11-18 19:56",
+      "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says."
     }
   ],
   "product": [
     {
-      "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
-      "link": "https://www.qbitai.com/2026/11/510561.html",
+      "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+      "link": "https://www.qbitai.com/2026/11/510916.html",
       "source": "qbitai",
-      "pub_date": "2026-11-17 02:03",
-      "summary": ""
-    },
-    {
-      "title": "Google Cloud API Gateway 推出面向实时 AI 应用的流式处理",
-      "link": "https://www.infoq.cn/article/X2WRCQI4NorJVEvpgX5B?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-11-17 14:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/X2WRCQI4NorJVEvpgX5B?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-11-18 07:24",
+      "summary": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线"
     }
   ],
-  "funding": [],
+  "funding": [
+    {
+      "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+      "link": "https://www.qbitai.com/2026/11/510821.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-18 04:28",
+      "summary": "具身全栈玩家"
+    }
+  ],
   "research": [],
   "industry": [
     {
-      "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
-      "link": "https://www.qbitai.com/2026/11/510542.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-16 10:57",
-      "summary": "具身智能的真正价值是“把人的经验、技能复刻出来”"
-    },
-    {
-      "title": "Agent演示惊艳，一进生产就不好用：SAP直指企业AI落地的最大幻觉",
-      "link": "https://www.infoq.cn/article/AsfcqUsutpSlPIBE1ok9?utm_source=rss&utm_medium=article",
+      "title": "从 AI 试点到规模化生产：Snowflake 驻场前沿工程师如何助力企业实现 AI 落地 ｜ 技术趋势",
+      "link": "https://www.infoq.cn/article/ZukzUBeu7k74T9UGCkfh?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-11-17 15:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/AsfcqUsutpSlPIBE1ok9?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-11-18 18:44",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ZukzUBeu7k74T9UGCkfh?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
+    {
+      "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+      "link": "https://www.qbitai.com/2026/11/510947.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-19 00:26",
+      "summary": "国产AI工具实现「一个人就是一个剧组」"
+    },
+    {
+      "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+      "link": "https://www.qbitai.com/2026/11/510811.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-18 04:49",
+      "summary": "入职Meta刚满一年出头，竟然直接提桶跑路了！"
+    },
     {
       "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
       "link": "https://www.qbitai.com/2026/11/510737.html",
@@ -91,20 +99,6 @@
       "source": "qbitai",
       "pub_date": "2026-11-17 14:15",
       "summary": "82亿美元股票，46天闪电交割"
-    },
-    {
-      "title": "李沐加盟的Aimotion，是一家什么AI公司？",
-      "link": "https://www.qbitai.com/2026/11/510688.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-17 11:40",
-      "summary": "瞄准「产业级世界模型」"
-    },
-    {
-      "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
-      "link": "https://www.qbitai.com/2026/11/510652.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-17 06:09",
-      "summary": "筛材料、找配方、开发新模型…拿下多项科研任务"
     }
   ]
 }
