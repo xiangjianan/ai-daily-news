@@ -1,6 +1,20 @@
 {
   "headline": [
     {
+      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+      "link": "https://www.qbitai.com/2026/11/511779.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-21 06:35",
+      "summary": "还实现可变形物体操控全球首通"
+    },
+    {
+      "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+      "link": "https://www.qbitai.com/2026/11/511727.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-20 16:07",
+      "summary": ""
+    },
+    {
       "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
       "link": "https://openai.com/business/customer-stories/hebbia",
       "source": "openai_blog",
@@ -20,40 +34,26 @@
       "source": "openai_blog",
       "pub_date": "2026-11-18 08:00",
       "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
-    },
-    {
-      "title": "Advancing chip design with OpenAI models",
-      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "source": "openai_blog",
-      "pub_date": "2026-11-18 00:00",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra."
-    },
-    {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "source": "openai_blog",
-      "pub_date": "2026-11-18 00:00",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
     }
   ],
   "product": [
     {
-      "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
-      "link": "https://www.qbitai.com/2026/11/511258.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-19 08:43",
-      "summary": "「Revaluation 价值，另有答案」"
-    },
-    {
-      "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
-      "link": "https://www.qbitai.com/2026/11/511079.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-19 04:02",
-      "summary": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会"
+      "title": "亚马逊云科技推出 TorchNeuron，可以直接在 AWS Trainium 上运行 PyTorch 模型，无需任何修改",
+      "link": "https://www.infoq.cn/article/XhtWUmaolJECUhPX2jzY?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-22 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/XhtWUmaolJECUhPX2jzY?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
   "research": [
+    {
+      "title": "米哈游发了个VLA论文",
+      "link": "https://www.qbitai.com/2026/11/511740.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-20 16:25",
+      "summary": "8B参数，50小时自主运行"
+    },
     {
       "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
       "link": "https://www.qbitai.com/2026/11/511610.html",
@@ -73,39 +73,39 @@
   ],
   "other": [
     {
+      "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+      "link": "https://www.qbitai.com/2026/11/511570.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-21 06:32",
+      "summary": "专为本地部署而生"
+    },
+    {
+      "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+      "link": "https://www.qbitai.com/2026/11/511757.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-21 06:30",
+      "summary": "还透露了不少训练背后的秘诀"
+    },
+    {
+      "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
+      "link": "https://www.qbitai.com/2026/11/511722.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-20 12:18",
+      "summary": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals"
+    },
+    {
+      "title": "给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂",
+      "link": "https://www.qbitai.com/2026/11/511679.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-20 08:59",
+      "summary": "联合华为昇腾，五年冲刺十万卡"
+    },
+    {
       "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
       "link": "https://www.qbitai.com/2026/11/511603.html",
       "source": "qbitai",
       "pub_date": "2026-11-20 06:16",
       "summary": "11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。"
-    },
-    {
-      "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
-      "link": "https://www.qbitai.com/2026/11/511582.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-20 05:24",
-      "summary": "已开源Agnes Harness"
-    },
-    {
-      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
-      "link": "https://www.qbitai.com/2026/11/511426.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-20 01:07",
-      "summary": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。"
-    },
-    {
-      "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
-      "link": "https://www.qbitai.com/2026/11/511180.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-19 08:18",
-      "summary": "媒体均分登顶历史第一，细节多到爆炸"
-    },
-    {
-      "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
-      "link": "https://www.qbitai.com/2026/11/511179.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-19 08:10",
-      "summary": "商汤科技日日新 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一"
     }
   ]
 }
