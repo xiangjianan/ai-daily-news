@@ -1,13 +1,6 @@
 {
   "headline": [
     {
-      "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
-      "link": "https://www.qbitai.com/2026/11/512195.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-23 11:01",
-      "summary": "零Token成本，断网也能自由Vibe Coding"
-    },
-    {
       "title": "Pinterest 让大模型取代多阶段聚类，但最大的提速来自“少推理”",
       "link": "https://www.infoq.cn/article/vaEUVvWD9AIaFXZhzSMH?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -15,18 +8,25 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/vaEUVvWD9AIaFXZhzSMH?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-11-23 22:05",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
+      "pub_date": "2026-11-24 18:30",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations."
     },
     {
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-11-23 01:25",
-      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "openai_blog",
+      "pub_date": "2026-11-24 13:00",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
+    },
+    {
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "source": "openai_blog",
+      "pub_date": "2026-11-24 00:00",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning."
     },
     {
       "title": "OpenAI and Cisco introduce Shirudo",
@@ -43,20 +43,33 @@
       "source": "qbitai",
       "pub_date": "2026-11-24 03:30",
       "summary": "中国AI数据平台加速崛起"
+    },
+    {
+      "title": "OceanBase发布AI数据平OceanLake！CEO杨冰：我们赌多模态，就像当年赌分布式一样",
+      "link": "https://www.infoq.cn/article/qEXNRNufkiFkiUEU9aae?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-24 20:21",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qEXNRNufkiFkiUEU9aae?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
   "research": [],
-  "industry": [
-    {
-      "title": "企业 AI 发展新趋势：推动 AI Agent 迈向规模化应用的新阶段",
-      "link": "https://www.infoq.cn/video/its3v5OfmRuikL5SeWUu?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-11-23 19:52",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/video/its3v5OfmRuikL5SeWUu?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "industry": [],
   "other": [
+    {
+      "title": "Google Cloud 出海峰会报名开启",
+      "link": "https://www.qbitai.com/2026/11/512370.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-24 06:52",
+      "summary": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行"
+    },
+    {
+      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+      "link": "https://www.qbitai.com/2026/11/512362.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-24 06:35",
+      "summary": "端侧老炮辛米尔，打通物理AI规模化落地之路"
+    },
     {
       "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
       "link": "https://www.qbitai.com/2026/11/512354.html",
@@ -77,20 +90,6 @@
       "source": "qbitai",
       "pub_date": "2026-11-24 06:12",
       "summary": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场"
-    },
-    {
-      "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
-      "link": "https://www.qbitai.com/2026/11/512329.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-24 03:33",
-      "summary": "12.9 北京，来MEET2027现场"
-    },
-    {
-      "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
-      "link": "https://www.qbitai.com/2026/11/512305.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-24 03:21",
-      "summary": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。"
     }
   ]
 }
