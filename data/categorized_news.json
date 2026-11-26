@@ -1,18 +1,32 @@
 {
   "headline": [
     {
-      "title": "Pinterest 让大模型取代多阶段聚类，但最大的提速来自“少推理”",
-      "link": "https://www.infoq.cn/article/vaEUVvWD9AIaFXZhzSMH?utm_source=rss&utm_medium=article",
+      "title": "从语音基座到语音应用：讯飞语音大模型能力全解",
+      "link": "https://www.infoq.cn/minibook/h1BlHGoTKyeLgs0KmAhe?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-11-24 11:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/vaEUVvWD9AIaFXZhzSMH?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-11-26 10:29",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/minibook/h1BlHGoTKyeLgs0KmAhe?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "title": "阿福学会“望闻问切”背后，真实医疗需求正在重塑百灵大模型",
+      "link": "https://www.infoq.cn/article/V7VOeFvEPLrHAN2EFmUa?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-25 18:22",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/V7VOeFvEPLrHAN2EFmUa?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-11-24 18:30",
-      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations."
+      "pub_date": "2026-11-25 20:03",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
+    },
+    {
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-11-25 19:44",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model devel"
     },
     {
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -20,76 +34,70 @@
       "source": "openai_blog",
       "pub_date": "2026-11-24 13:00",
       "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
-    },
-    {
-      "title": "Clay helps sales teams win with Codex and ChatGPT",
-      "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
-      "source": "openai_blog",
-      "pub_date": "2026-11-24 00:00",
-      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning."
-    },
-    {
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "link": "https://openai.com/index/introducing-shirudo",
-      "source": "openai_blog",
-      "pub_date": "2026-11-23 21:20",
-      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
     }
   ],
   "product": [
     {
-      "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
-      "link": "https://www.qbitai.com/2026/11/512330.html",
+      "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+      "link": "https://www.qbitai.com/2026/11/512582.html",
       "source": "qbitai",
-      "pub_date": "2026-11-24 03:30",
-      "summary": "中国AI数据平台加速崛起"
-    },
-    {
-      "title": "OceanBase发布AI数据平OceanLake！CEO杨冰：我们赌多模态，就像当年赌分布式一样",
-      "link": "https://www.infoq.cn/article/qEXNRNufkiFkiUEU9aae?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-11-24 20:21",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qEXNRNufkiFkiUEU9aae?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-11-25 14:21",
+      "summary": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。"
     }
   ],
   "funding": [],
   "research": [],
-  "industry": [],
+  "industry": [
+    {
+      "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
+      "link": "https://www.qbitai.com/2026/11/512683.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-25 14:20",
+      "summary": "贯通具⾝智能研发流程"
+    },
+    {
+      "title": "Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
+      "link": "https://www.infoq.cn/article/j1aQzS6OrB9aDlChCwiQ?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-26 12:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/j1aQzS6OrB9aDlChCwiQ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    }
+  ],
   "other": [
     {
-      "title": "Google Cloud 出海峰会报名开启",
-      "link": "https://www.qbitai.com/2026/11/512370.html",
+      "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+      "link": "https://www.qbitai.com/2026/11/512897.html",
       "source": "qbitai",
-      "pub_date": "2026-11-24 06:52",
-      "summary": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行"
+      "pub_date": "2026-11-26 03:23",
+      "summary": "李斌坦言：不做AI变革可能活不下去"
     },
     {
-      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
-      "link": "https://www.qbitai.com/2026/11/512362.html",
+      "title": "沈向洋刚讲了好多AI非共识啊",
+      "link": "https://www.qbitai.com/2026/11/512840.html",
       "source": "qbitai",
-      "pub_date": "2026-11-24 06:35",
-      "summary": "端侧老炮辛米尔，打通物理AI规模化落地之路"
+      "pub_date": "2026-11-26 03:13",
+      "summary": "“灵巧手是人类最后的尊严”"
     },
     {
-      "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
-      "link": "https://www.qbitai.com/2026/11/512354.html",
+      "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
+      "link": "https://www.qbitai.com/2026/11/512828.html",
       "source": "qbitai",
-      "pub_date": "2026-11-24 06:22",
-      "summary": ""
+      "pub_date": "2026-11-26 02:53",
+      "summary": "叠满海淀最强AI Buff。"
     },
     {
-      "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
-      "link": "https://www.qbitai.com/2026/11/512348.html",
+      "title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
+      "link": "https://www.qbitai.com/2026/11/512819.html",
       "source": "qbitai",
-      "pub_date": "2026-11-24 06:15",
-      "summary": "11月19日，方程豹钛9上市，售价27.99万元起"
+      "pub_date": "2026-11-26 00:40",
+      "summary": "合着全让A➗揽了"
     },
     {
-      "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
-      "link": "https://www.qbitai.com/2026/11/512343.html",
+      "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
+      "link": "https://www.qbitai.com/2026/11/512748.html",
       "source": "qbitai",
-      "pub_date": "2026-11-24 06:12",
-      "summary": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场"
+      "pub_date": "2026-11-25 16:34",
+      "summary": "商汤SenseNova U1.6"
     }
   ]
 }
