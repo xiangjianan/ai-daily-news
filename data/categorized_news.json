@@ -1,18 +1,18 @@
 {
   "headline": [
     {
+      "title": "破发不算最疼，Claude Code核心班底被OpenAI疯狂收割才是：Anthropic的编程王座悬了？",
+      "link": "https://www.infoq.cn/article/z9IwzAY8hP15oDa2VKi6?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-26 15:35",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/z9IwzAY8hP15oDa2VKi6?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
       "title": "从语音基座到语音应用：讯飞语音大模型能力全解",
       "link": "https://www.infoq.cn/minibook/h1BlHGoTKyeLgs0KmAhe?utm_source=rss&utm_medium=article",
       "source": "infoq",
       "pub_date": "2026-11-26 10:29",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/minibook/h1BlHGoTKyeLgs0KmAhe?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "阿福学会“望闻问切”背后，真实医疗需求正在重塑百灵大模型",
-      "link": "https://www.infoq.cn/article/V7VOeFvEPLrHAN2EFmUa?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-11-25 18:22",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/V7VOeFvEPLrHAN2EFmUa?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
       "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
@@ -38,23 +38,23 @@
   ],
   "product": [
     {
-      "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
-      "link": "https://www.qbitai.com/2026/11/512582.html",
+      "title": "乾崑共创者计划发布：加入乾崑生态，共创出行未来！",
+      "link": "https://www.qbitai.com/2026/11/513087.html",
       "source": "qbitai",
-      "pub_date": "2026-11-25 14:21",
-      "summary": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。"
+      "pub_date": "2026-11-27 02:19",
+      "summary": "11月26日，“乾崑生态 共赴热爱”华为乾崑生态大会在广州南沙体育馆举行。"
+    },
+    {
+      "title": "Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+      "link": "https://www.infoq.cn/article/xA3g2i0VtTZIOVePMedY?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-26 14:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/xA3g2i0VtTZIOVePMedY?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
   "research": [],
   "industry": [
-    {
-      "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
-      "link": "https://www.qbitai.com/2026/11/512683.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-25 14:20",
-      "summary": "贯通具⾝智能研发流程"
-    },
     {
       "title": "Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
       "link": "https://www.infoq.cn/article/j1aQzS6OrB9aDlChCwiQ?utm_source=rss&utm_medium=article",
@@ -65,39 +65,39 @@
   ],
   "other": [
     {
-      "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
-      "link": "https://www.qbitai.com/2026/11/512897.html",
+      "title": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
+      "link": "https://www.qbitai.com/2026/11/513091.html",
       "source": "qbitai",
-      "pub_date": "2026-11-26 03:23",
-      "summary": "李斌坦言：不做AI变革可能活不下去"
+      "pub_date": "2026-11-27 02:56",
+      "summary": "倒计时两周，报名从速！"
     },
     {
-      "title": "沈向洋刚讲了好多AI非共识啊",
-      "link": "https://www.qbitai.com/2026/11/512840.html",
+      "title": "陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”",
+      "link": "https://www.qbitai.com/2026/11/513075.html",
       "source": "qbitai",
-      "pub_date": "2026-11-26 03:13",
-      "summary": "“灵巧手是人类最后的尊严”"
+      "pub_date": "2026-11-27 02:03",
+      "summary": "担心课题被AI抢先，该怎么办？"
     },
     {
-      "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
-      "link": "https://www.qbitai.com/2026/11/512828.html",
+      "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+      "link": "https://www.qbitai.com/2026/11/513053.html",
       "source": "qbitai",
-      "pub_date": "2026-11-26 02:53",
-      "summary": "叠满海淀最强AI Buff。"
+      "pub_date": "2026-11-27 01:16",
+      "summary": "Quickwit查询总耗时降31%，最高降87%"
     },
     {
-      "title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
-      "link": "https://www.qbitai.com/2026/11/512819.html",
+      "title": "381个AI直播冲刺证明P=NP！把GitHub干崩了",
+      "link": "https://www.qbitai.com/2026/11/513021.html",
       "source": "qbitai",
-      "pub_date": "2026-11-26 00:40",
-      "summary": "合着全让A➗揽了"
+      "pub_date": "2026-11-26 13:56",
+      "summary": "已跑了超过一万次会话，在Lean4里验证通过了2400多条引理"
     },
     {
-      "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
-      "link": "https://www.qbitai.com/2026/11/512748.html",
+      "title": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
+      "link": "https://www.qbitai.com/2026/11/512981.html",
       "source": "qbitai",
-      "pub_date": "2026-11-25 16:34",
-      "summary": "商汤SenseNova U1.6"
+      "pub_date": "2026-11-26 12:39",
+      "summary": "还得是科班尖子生"
     }
   ]
 }
