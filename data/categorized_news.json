@@ -1,6 +1,27 @@
 {
   "headline": [
     {
+      "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+      "link": "https://www.qbitai.com/2026/11/513125.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-27 03:33",
+      "summary": ""
+    },
+    {
+      "title": "股价破发、用户抱怨、创始人套现，Anthropic CEO 深夜回应：我从没想过让 AI 统治人类",
+      "link": "https://www.infoq.cn/article/FDR8k5bNu9eWklHh9NmI?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-27 19:56",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/FDR8k5bNu9eWklHh9NmI?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "瞄准“走偏”与“健忘”两道难题：蚂蚁灵波发布两大模型，补齐机器人空间导航能力",
+      "link": "https://www.infoq.cn/article/zRubhYcrBMTrOvzjlPQN?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-11-27 16:15",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/zRubhYcrBMTrOvzjlPQN?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
       "title": "破发不算最疼，Claude Code核心班底被OpenAI疯狂收割才是：Anthropic的编程王座悬了？",
       "link": "https://www.infoq.cn/article/z9IwzAY8hP15oDa2VKi6?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -8,96 +29,96 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/z9IwzAY8hP15oDa2VKi6?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "从语音基座到语音应用：讯飞语音大模型能力全解",
-      "link": "https://www.infoq.cn/minibook/h1BlHGoTKyeLgs0KmAhe?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-11-26 10:29",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/minibook/h1BlHGoTKyeLgs0KmAhe?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
       "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
       "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
       "source": "techcrunch_ai",
       "pub_date": "2026-11-25 20:03",
       "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
-    },
-    {
-      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-      "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-11-25 19:44",
-      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model devel"
-    },
-    {
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "source": "openai_blog",
-      "pub_date": "2026-11-24 13:00",
-      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
     }
   ],
   "product": [
     {
-      "title": "乾崑共创者计划发布：加入乾崑生态，共创出行未来！",
-      "link": "https://www.qbitai.com/2026/11/513087.html",
+      "title": "DeepSeek APP突然更新账单，网友：要收费了？",
+      "link": "https://www.qbitai.com/2026/11/513305.html",
       "source": "qbitai",
-      "pub_date": "2026-11-27 02:19",
-      "summary": "11月26日，“乾崑生态 共赴热爱”华为乾崑生态大会在广州南沙体育馆举行。"
+      "pub_date": "2026-11-27 07:29",
+      "summary": "网页App双端亮出聊天账单"
     },
     {
-      "title": "Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
-      "link": "https://www.infoq.cn/article/xA3g2i0VtTZIOVePMedY?utm_source=rss&utm_medium=article",
+      "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+      "link": "https://www.qbitai.com/2026/11/513211.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-27 04:05",
+      "summary": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0"
+    },
+    {
+      "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
+      "link": "https://www.qbitai.com/2026/11/513155.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-27 03:45",
+      "summary": "3D生成的竞争重点正在从“能看”转向“能用”"
+    },
+    {
+      "title": "十年：谷歌更新 SRE 著作，拥抱 AI 时代",
+      "link": "https://www.infoq.cn/article/vD2gdB9ER7QgjD0W5wds?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-11-26 14:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/xA3g2i0VtTZIOVePMedY?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-11-28 11:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/vD2gdB9ER7QgjD0W5wds?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
   "research": [],
   "industry": [
     {
-      "title": "Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
-      "link": "https://www.infoq.cn/article/j1aQzS6OrB9aDlChCwiQ?utm_source=rss&utm_medium=article",
+      "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+      "link": "https://www.qbitai.com/2026/11/513194.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-27 04:05",
+      "summary": "企业需要有用的 AI"
+    },
+    {
+      "title": "华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
+      "link": "https://www.infoq.cn/article/SfAOlgtjHYikEQUKrRVT?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-11-26 12:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/j1aQzS6OrB9aDlChCwiQ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-11-28 10:00",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/SfAOlgtjHYikEQUKrRVT?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "other": [
     {
-      "title": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
-      "link": "https://www.qbitai.com/2026/11/513091.html",
+      "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+      "link": "https://www.qbitai.com/2026/11/513352.html",
       "source": "qbitai",
-      "pub_date": "2026-11-27 02:56",
-      "summary": "倒计时两周，报名从速！"
+      "pub_date": "2026-11-27 14:07",
+      "summary": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。"
     },
     {
-      "title": "陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”",
-      "link": "https://www.qbitai.com/2026/11/513075.html",
+      "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
+      "link": "https://www.qbitai.com/2026/11/513346.html",
       "source": "qbitai",
-      "pub_date": "2026-11-27 02:03",
-      "summary": "担心课题被AI抢先，该怎么办？"
+      "pub_date": "2026-11-27 11:18",
+      "summary": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证"
+    },
+    {
+      "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
+      "link": "https://www.qbitai.com/2026/11/513320.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-27 07:39",
+      "summary": "淡泊名利，实至名归🎉"
+    },
+    {
+      "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+      "link": "https://www.qbitai.com/2026/11/513227.html",
+      "source": "qbitai",
+      "pub_date": "2026-11-27 07:01",
+      "summary": "地图能随时修，记忆能跨任务用"
     },
     {
       "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
-      "link": "https://www.qbitai.com/2026/11/513053.html",
+      "link": "https://www.qbitai.com/2026/11/513163.html",
       "source": "qbitai",
-      "pub_date": "2026-11-27 01:16",
+      "pub_date": "2026-11-27 03:53",
       "summary": "Quickwit查询总耗时降31%，最高降87%"
-    },
-    {
-      "title": "381个AI直播冲刺证明P=NP！把GitHub干崩了",
-      "link": "https://www.qbitai.com/2026/11/513021.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-26 13:56",
-      "summary": "已跑了超过一万次会话，在Lean4里验证通过了2400多条引理"
-    },
-    {
-      "title": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
-      "link": "https://www.qbitai.com/2026/11/512981.html",
-      "source": "qbitai",
-      "pub_date": "2026-11-26 12:39",
-      "summary": "还得是科班尖子生"
     }
   ]
 }
